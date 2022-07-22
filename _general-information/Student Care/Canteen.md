@@ -11,3 +11,5 @@ third_nav_title: Student Care
 ![](/images/5zz.png)
 
 ![](/images/canteen03.jpg)
+
+### 2022  Canteen  Menu
