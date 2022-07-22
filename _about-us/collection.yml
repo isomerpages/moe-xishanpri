@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Advisory Committee (SAC).md
       - folder-page.md
       - Staff/Form Teachers.md
       - Staff/Non Form Teachers.md
