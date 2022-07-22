@@ -23,3 +23,6 @@ description: ""
 | Primary 4 	|  [026_P4 Semester 1 Assessment Schedule.pdf](/files/026_P4%20Semester%201%20Assessment%20Schedule.pdf) 	|
 | Primary 5 	|  [027_P5 Semester 1 Assessment Schedule.pdf](/files/027_P5%20Semester%201%20Assessment%20Schedule.pdf) 	|
 | Primary 6 	|  [028_P6 Semester 1 Assessment Schedule.pdf](/files/028_P6%20Semester%201%20Assessment%20Schedule.pdf) 	|
+
+### 2022 Semester 2 Assessment Schedule
+
