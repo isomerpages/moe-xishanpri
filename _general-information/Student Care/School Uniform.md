@@ -20,3 +20,5 @@ Other modes of purchase:
 Please take note that the retail outlet will be closed on Sec One reporting day. The exact date will be announced by the media at a later date. For details, please refer to our terms and conditions in the website.
 
 ### Sale of School  Uniform & Name Tags
+
+![](/images/unnamed%201.jpg)
