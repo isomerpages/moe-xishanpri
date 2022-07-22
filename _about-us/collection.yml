@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - folder-page.md
-      - example-subfolder/Non Form Teachers.md
-      - example-subfolder/.keep
-      - example-subfolder/Non Teaching Staff.md
+      - Staff/Non Form Teachers.md
+      - Staff/.keep
+      - Staff/Non Teaching Staff.md
