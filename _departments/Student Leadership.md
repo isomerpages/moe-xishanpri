@@ -14,3 +14,5 @@ description: ""
 **Motto:** To Lead Is To Serve
 
 ### LLP Student Leadership Framework
+
+![](/images/L1.png)
