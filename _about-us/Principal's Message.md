@@ -7,6 +7,8 @@ description: ""
 
 Dear Xishanites,
 
+<img src="/images/2020%20Mrs%20Anne%20Quek.jpg" style="width:183px;height:240px;margin-left:15px;" align = "right">
+
 This year is a very significant year. This year we celebrate our school’s 85th anniversary! The theme is
 
 **_The Journey of Mindful Transformation_**
