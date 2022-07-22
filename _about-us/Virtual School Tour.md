@@ -5,4 +5,4 @@ description: ""
 ---
 # **Virtual School Tour**
 
-insert 360 map
+(insert 360 map)
