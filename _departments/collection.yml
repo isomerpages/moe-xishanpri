@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - Student Management.md
       - Infocomm Technology.md
