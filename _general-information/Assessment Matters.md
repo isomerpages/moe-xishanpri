@@ -17,3 +17,12 @@ description: ""
 | Primary 6 	|  [028_P6 Semester 1 Assessment Schedule.pdf](/files/028_P6%20Semester%201%20Assessment%20Schedule.pdf) 	|
 
 ### 2022 Semester 2 Assessment Schedule
+
+|  	|  	|
+|---	|---	|
+| Primary 1 	| 107_P1 Semester 2 Assessment Schedule.pdf  	|
+| Primary 2 	| 108_P2 Semester 2 Assessment Schedule.pdf  	|
+| Primary 3 	| 109_P3 Semester 2 Assessment Schedule.pdf  	|
+| Primary 4 	| 110_P4 Semester 2 Assessment Schedule.pdf  	|
+| Primary 5 	| 111_P5 Semester 2 Assessment Schedule.pdf  	|
+| Primary 6 	| 101_P6 Semester 2 Assessment Schedule and Supplementary Classes.pdf  	|
