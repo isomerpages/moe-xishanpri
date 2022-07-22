@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - folder-page.md
-      - Staff/School Advisory Committee (SAC).md
       - Staff/Form Teachers.md
       - Staff/Non Form Teachers.md
       - Staff/.keep
