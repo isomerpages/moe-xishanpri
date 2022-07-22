@@ -46,3 +46,11 @@ third_nav_title: Student Care
 | Stir Fry Bee Hoon (Non- Halal + Vegetarian)<br>Set A (1 Vegetable with Fruit) - $1.30<br>Set B (2 Vegetable with Fruit) - $1.60<br>Set C (3 Vegetable with Fruit) - $1.90<br><br>Or<br><br>Set A (1 Meat 1 Vegetable with Fruit) - $1.30<br>Set B (1 Meat 2 Vegetable with Fruit) - $1.60<br>Set C (2 Meat 1 Vegetable with Fruit) - $1.90<br>Set D (2 Meat 2 Vegetable with Fruit) - $2.20 	|
 | Stir Fry Kway Teow (Non- Halal)<br>Set A (1 Meat 1 Vegetable with Fruit) - $1.30<br>Set B (1 Meat 2 Vegetable with Fruit) - $1.60<br>Set C (2 Meat 1 Vegetable with Fruit) - $1.90<br>Set D (2 Meat 2 Vegetable with Fruit) - $2.20 	|
 | Stir Fry Noodles (Non- Halal + Vegetarian)<br>Set A (1 Vegetable with Fruit) - $1.30<br>Set B (2 Vegetable with Fruit) - $1.60<br>Set C (3 Vegetable with Fruit) - $1.90<br><br>Or<br><br>Set A (1 Meat 1 Vegetable with Fruit) - $1.30<br>Set B (1 Meat 2 Vegetable with Fruit) - $1.60<br>Set C (2 Meat 1 Vegetable with Fruit) - $1.90<br>Set D (2 Meat 2 Vegetable with Fruit) - $2.20 	|
+
+| Stall 6 	|
+|---	|
+| Japanese Curry Rice (Non- Halal)<br>Set A (1 Meat 1 Vegetable with Fruit) - $1.30<br>Set B (1 Meat 2 Vegetable with Fruit) - $1.60<br>Set C (2 Meat 1 Vegetable with Fruit) - $1.90<br>Set D (2 Meat 2 Vegetable with Fruit) - $2.20 	|
+| Scallion Noodles (Non- Halal)<br>Set A (1 Meat 1 Vegetable with Fruit) - $1.30<br>Set B (1 Meat 2 Vegetable with Fruit) - $1.60<br>Set C (2 Meat 1 Vegetable with Fruit) - $1.90<br>Set D (2 Meat 2 Vegetable with Fruit) - $2.20 	|
+| Japanese Fried Rice (Non- Halal)<br>Set A (1 Meat 1 Vegetable with Fruit) - $1.30<br>Set B (1 Meat 2 Vegetable with Fruit) - $1.60<br>Set C (2 Meat 1 Vegetable with Fruit) - $1.90<br>Set D (2 Meat 2 Vegetable with Fruit) - $2.20 	|
+| Mapo Tofu Rice (Non- Halal)<br>Set A (1 Meat 1 Vegetable with Fruit) - $1.30<br>Set B (1 Meat 2 Vegetable with Fruit) - $1.60<br>Set C (2 Meat 1 Vegetable with Fruit) - $1.90<br>Set D (2 Meat 2 Vegetable with Fruit) - $2.20 	|
+| Tomato Egg Stir-Fry with Rice (Non- Halal)<br>Set A (1 Meat 1 Vegetable with Fruit) - $1.30<br>Set B (1 Meat 2 Vegetable with Fruit) - $1.60<br>Set C (2 Meat 1 Vegetable with Fruit) - $1.90<br>Set D (2 Meat 2 Vegetable with Fruit) - $2.20 	|
