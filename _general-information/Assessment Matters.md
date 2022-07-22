@@ -24,5 +24,5 @@ description: ""
 | Primary 2 	| [108_P2 Semester 2 Assessment Schedule.pdf](/files/108_P2%20Semester%202%20Assessment%20Schedule.pdf)  	|
 | Primary 3 	| [109_P3 Semester 2 Assessment Schedule.pdf](/files/109_P3%20Semester%202%20Assessment%20Schedule.pdf)  	|
 | Primary 4 	| [110_P4 Semester 2 Assessment Schedule.pdf](/files/110_P4%20Semester%202%20Assessment%20Schedule.pdf)  	|
-| Primary 5 	| 111_P5 Semester 2 Assessment Schedule.pdf  	|
-| Primary 6 	| 101_P6 Semester 2 Assessment Schedule and Supplementary Classes.pdf  	|
+| Primary 5 	| [111_P5 Semester 2 Assessment Schedule.pdf](/files/111_P5%20Semester%202%20Assessment%20Schedule.pdf)  	|
+| Primary 6 	| [101_P6 Semester 2 Assessment Schedule and Supplementary Classes.pdf](/files/101_P6%20Semester%202%20Assessment%20Schedule%20and%20Supplementary%20Classes.pdf)  	|
