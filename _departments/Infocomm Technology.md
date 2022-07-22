@@ -22,3 +22,5 @@ Every Xishanite,  A Proficient and Confident Digital Learner, A Self - directed
 *   To engage pupils in active learning using the affordances of ICT
 *   To develop pupils to be confident, competent and responsible users of ICT
 *   To develop teachers’ competencies in designing for active learning with technology
+
+### Department Members
