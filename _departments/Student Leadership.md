@@ -30,3 +30,5 @@ In Xishan Primary School, our Learning for Life Programme (LLP) develops confide
 4.  Be **M**indful – Develop strong awareness and demonstrate empathy when serving others
 
 5.  **Give** – Contribute meaningfully by serving their peers, the school or the community
+
+![](/images/L2.png)
