@@ -2,4 +2,5 @@ collections:
   general-information:
     output: true
     order:
+      - School Letters and Information.md
       - Appreciation and Feedback.md
