@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Student Care/School Uniform.md
       - Student Care/.keep
       - School Letters and Information.md
       - Appreciation and Feedback.md
