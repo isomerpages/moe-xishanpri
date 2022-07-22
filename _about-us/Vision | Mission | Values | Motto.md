@@ -26,3 +26,6 @@ The school also promotes school values through student leaders. By creating oppo
 
 <img src="/images/VALUES%203.jpg" 
      style="width:50%">
+		 
+		 
+In Xishan, our **Motto: Love, Care and Share**, forms the pillar of creating an inviting environment for Xishanites to explore and to take advantage of a plethora of opportunities created for them. These opportunities are integral to the student centric, values driven education in Xishan. With the philosophy of ‘Every child can and wants to learn’, the school commits to the **School Mission: Creating Opportunities Where Passions are Ignited, Potential Discovered and Dreams Realised**. We aim to inspire our Xishanites to discover their interests and talents and create meaningful learning experiences to develop them holistically. We hope to empower Xishanites to be leaders, equipped with essential life-skills to navigate towards achieving their dreams.
