@@ -19,3 +19,17 @@ description: ""
 | 9 	| Mdm Su Nyuk Yeng (Alice) 	| Operation Support Officer 	|  	|
 | 10 	|   Mdm Tee Siew Cheng   	| Operation Support Officer 	|  	|
 | 11 	| Mdm Ang Sue Tin 	| Operation Support Officer 	|  	|
+
+# **Support Staff**
+
+| No 	| Name 	| Designation 	|
+|---	|---	|---	|
+| 1 	| Mr Bryan Ho Jun Wei 	| Desktop Engineer 	|
+| 2 	| Ms Francisca Ngui Soo Sim 	| Dental Therapist 	|
+| 3 	| Mdm Salmah bte Mohamed Said 	| Lab Technician 	|
+| 4 	| Mr Hazahar Bin Ariffin 	| Laboratory Assistant 	|
+| 5 	| Mr Ang Poh Tiong 	| Horticulturalist 	|
+| 6 	| Mdm Cheong Siew Mei 	| Prepress Technician 	|
+| 7 	| Ms Shoo Sui Ken Vivan 	| Librarian 	|
+| 8 	| Mr Chandra Manogaran 	| Security Officer 	|
+| 9 	| Mr Chin Koon Teck 	| Security Officer 	|
