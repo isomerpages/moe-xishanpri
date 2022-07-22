@@ -19,7 +19,7 @@ third_nav_title: Example Subfolder
 | 9 	| Mdm Hazlinda Bte Mohammed Lahir 	| FAJT 	| [:hazlinda_mohammed_lahir@moe.edu.sg](mailto:hazlinda_mohammed_lahir@moe.edu.sg) 	|
 | 10 	| Ms Huang Suhui 	| FAJT 	| [huang_suhui@moe.edu.sg](mailto:huang_suhui@moe.edu.sg) 	|
 | 11 	| Mdm Lim Jing Yi 	| FAJT 	| [lim_jing_yi@moe.edu.sg](mailto:lim_jing_yi@moe.edu.sg) 	|
-| 12 	| Ms Chia Pei Ying Hazel 	| FAJT 	| chia_pei_ying_hazel@moe.edu.sg 	|
-| 13 	| Mdm Shariffa Zubaidah Begum Chishty 	| FAJT 	| shariffa_zubaidah_begum_chishty@moe.edu.sg 	|
-| 14 	| Mdm Soh Kai Wei Candice 	| FAJT 	| soh_kai_wei_candice@moe.edu.sg 	|
-| 15 	| Mr Gwee Cher Siang Leslie 	| FAJT 	| gwee_cher_siang_leslie@moe.edu.sg 	|
+| 12 	| Ms Chia Pei Ying Hazel 	| FAJT 	| [chia_pei_ying_hazel@moe.edu.sg](mailto:chia_pei_ying_hazel@moe.edu.sg) 	|
+| 13 	| Mdm Shariffa Zubaidah Begum Chishty 	| FAJT 	| [shariffa_zubaidah_begum_chishty@moe.edu.sg](mailto:shariffa_zubaidah_begum_chishty@moe.edu.sg) 	|
+| 14 	| Mdm Soh Kai Wei Candice 	| FAJT 	| [soh_kai_wei_candice@moe.edu.sg](mailto:soh_kai_wei_candice@moe.edu.sg) 	|
+| 15 	| Mr Gwee Cher Siang Leslie 	| FAJT 	| [gwee_cher_siang_leslie@moe.edu.sg](mailto:gwee_cher_siang_leslie@moe.edu.sg) 	|
