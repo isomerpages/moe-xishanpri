@@ -20,9 +20,9 @@ description: ""
 
 |  	|  	|
 |---	|---	|
-| Primary 1 	| 107_P1 Semester 2 Assessment Schedule.pdf  	|
-| Primary 2 	| 108_P2 Semester 2 Assessment Schedule.pdf  	|
-| Primary 3 	| 109_P3 Semester 2 Assessment Schedule.pdf  	|
-| Primary 4 	| 110_P4 Semester 2 Assessment Schedule.pdf  	|
+| Primary 1 	| [107_P1 Semester 2 Assessment Schedule.pdf](/files/107_P1%20Semester%202%20Assessment%20Schedule.pdf)  	|
+| Primary 2 	| [108_P2 Semester 2 Assessment Schedule.pdf](/files/108_P2%20Semester%202%20Assessment%20Schedule.pdf)  	|
+| Primary 3 	| [109_P3 Semester 2 Assessment Schedule.pdf](/files/109_P3%20Semester%202%20Assessment%20Schedule.pdf)  	|
+| Primary 4 	| [110_P4 Semester 2 Assessment Schedule.pdf](/files/110_P4%20Semester%202%20Assessment%20Schedule.pdf)  	|
 | Primary 5 	| 111_P5 Semester 2 Assessment Schedule.pdf  	|
 | Primary 6 	| 101_P6 Semester 2 Assessment Schedule and Supplementary Classes.pdf  	|
