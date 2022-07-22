@@ -10,6 +10,5 @@ third_nav_title: Student Care
 
 Tel: 62572437
 
-Opening Hours (For Parents):
-
+Opening Hours (For Parents):    
 Monday to Friday: After school dismissal to 4.00pm
