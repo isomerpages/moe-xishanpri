@@ -14,3 +14,9 @@ description: ""
 ![](/images/PSG%20June%20Update%20(3).jpg)
 
 ### Xishan Parents Supporting our Programmes
+
+![](/images/PSG%20June%20Update%20(5).jpg)
+
+![](/images/PSG%20June%20Update%20(6).jpg)
+
+![](/images/PSG%20June%20Update%20(7).jpg)
