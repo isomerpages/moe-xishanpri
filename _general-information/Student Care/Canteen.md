@@ -39,3 +39,10 @@ third_nav_title: Student Care
 | Fluffy Pancake with Corn and Fruit (Halal)<br>$1.30 	|
 | Fluffy Pancake with Mash Potato and Fruit (Halal)<br>$1.30 	|
 | Baked Chicken Pot Pie with Mixed Vegetable and Fruit (Halal)<br>$1.60 	|
+
+| Stall 5 	|
+|---	|
+| Stir Fry Rice (Non- Halal)<br>Set A (1 Meat 1 Vegetable with Fruit) - $1.30<br>Set B (1 Meat 2 Vegetable with Fruit) - $1.60<br>Set C (2 Meat 1 Vegetable with Fruit) - $1.90<br>Set D (2 Meat 2 Vegetable with Fruit) - $2.20 	|
+| Stir Fry Bee Hoon (Non- Halal + Vegetarian)<br>Set A (1 Vegetable with Fruit) - $1.30<br>Set B (2 Vegetable with Fruit) - $1.60<br>Set C (3 Vegetable with Fruit) - $1.90<br>Or<br>Set A (1 Meat 1 Vegetable with Fruit) - $1.30<br>Set B (1 Meat 2 Vegetable with Fruit) - $1.60<br>Set C (2 Meat 1 Vegetable with Fruit) - $1.90<br>Set D (2 Meat 2 Vegetable with Fruit) - $2.20 	|
+| Stir Fry Kway Teow (Non- Halal)<br>Set A (1 Meat 1 Vegetable with Fruit) - $1.30<br>Set B (1 Meat 2 Vegetable with Fruit) - $1.60<br>Set C (2 Meat 1 Vegetable with Fruit) - $1.90<br>Set D (2 Meat 2 Vegetable with Fruit) - $2.20 	|
+| Stir Fry Noodles (Non- Halal + Vegetarian)<br>Set A (1 Vegetable with Fruit) - $1.30<br>Set B (2 Vegetable with Fruit) - $1.60<br>Set C (3 Vegetable with Fruit) - $1.90<br>Or<br>Set A (1 Meat 1 Vegetable with Fruit) - $1.30<br>Set B (1 Meat 2 Vegetable with Fruit) - $1.60<br>Set C (2 Meat 1 Vegetable with Fruit) - $1.90<br>Set D (2 Meat 2 Vegetable with Fruit) - $2.20 	|
