@@ -4,7 +4,6 @@ permalink: /about-us/staff/non-form-teachers
 description: ""
 third_nav_title: Staff
 ---
-
 # **Non-Form Teachers**
 
 | No 	| Name 	| Designation 	| Email Address 	|
@@ -24,3 +23,11 @@ third_nav_title: Staff
 | 13 	| Mdm Shariffa Zubaidah Begum Chishty 	| FAJT 	| [shariffa_zubaidah_begum_chishty@moe.edu.sg](mailto:shariffa_zubaidah_begum_chishty@moe.edu.sg) 	|
 | 14 	| Mdm Soh Kai Wei Candice 	| FAJT 	| [soh_kai_wei_candice@moe.edu.sg](mailto:soh_kai_wei_candice@moe.edu.sg) 	|
 | 15 	| Mr Gwee Cher Siang Leslie 	| FAJT 	| [gwee_cher_siang_leslie@moe.edu.sg](mailto:gwee_cher_siang_leslie@moe.edu.sg) 	|
+
+# **School Counsellors**
+
+| No 	| Name 	| Email Address 	|
+|---	|---	|---	|
+| 1 	| Mr Zheng Xingui Jack 	| [zheng_xing_gui_jack@moe.edu.sg](mailto:zheng_xing_gui_jack@moe.edu.sg) 	|
+| 2 	| Ms Ong Hong Ching Sandie 	| [ong_hong_ching@moe.edu.sg](mailto:ong_hong_ching@moe.edu.sg) 	|
+| 3 	| Ms Phyllis Teo Min Ki (Trainee) 	| [phyllis_teo_min_ki@moe.edu.sg](mailto:phyllis_teo_min_ki@moe.edu.sg) 	|
