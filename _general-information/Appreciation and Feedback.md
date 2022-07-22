@@ -11,4 +11,4 @@ Showing your appreciation, gratitude or even saying thank you is really easy and
 
 Do click [here](https://form.gov.sg/#!/5cb583a674c6f40017f7eb59) to complete the information and submit it to the school.
 
-For feedback please email directly to [xishan\_ps@moe.edu.sg](mailto:xishan_ps@moe.edu.sg).
+For feedback please email directly to [xishan_ps@moe.edu.sg](mailto:xishan_ps@moe.edu.sg).
