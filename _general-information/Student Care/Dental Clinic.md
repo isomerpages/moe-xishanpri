@@ -9,3 +9,5 @@ third_nav_title: Student Care
 | Dental Services 	|  	|
 | ---	| ---	|
 | Telephone 	| 8674 5068 	|
+
+For emergencies such as dental trauma, facial/gum swelling or toothaches, please contact:
