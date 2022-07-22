@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - School Rules and Regulations.md
       - Assessment Matters.md
       - Homework Policy.md
       - Student Care/Student Care.md
