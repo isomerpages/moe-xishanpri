@@ -34,3 +34,6 @@ In 1986, Xishan Primary School started to offer Chinese, Malay and Tamil as seco
 Since the founding of the school, the community spirit of giving and emphasis on the importance of education have remained strong and distinctive. From its inception in 1937, the school has been led by a total of 12 principals, working hand in hand with its dedicated staff to continually do the best for each cohort of students.
 
 In 2017, the school completed its PERI upgrading, which saw the addition of a new indoor sports hall. The school also commemorated its 80th anniversary that year. Moving forward, the school will endeavour to cherish, celebrate and continue with the same community spirit of giving that has propelled the school towards excellence.
+
+
+![](/images/History%2002.jpg)
