@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Student Management/.keep
       - Student Leadership.md
       - Student Management.md
       - Infocomm Technology.md
