@@ -104,3 +104,5 @@ Interested students have many opportunities to showcase their knowledge and skil
 Our Xishanites achieved 1 Silver and 1 Bronze in SPSO, and 1 Merit Award in SCSA.
 
 Other than showcasing their Science knowledge and skills, our Xishanites also demonstrated their love for their environment and attained an Encouragement Award in the Green Wave Environmental Care Competition, winning $200 cash and a trophy for the school. In their submission titled ‘Enhanced Living with Sustainable Plant Transpiration System’, they designed an environmentally-friendly and self-sustaining green tank system that re-uses rainwater and water obtained from transpiration of plants to irrigate other plants in urban farming while creating rooftop gardens.
+
+![](/images/15.png)
