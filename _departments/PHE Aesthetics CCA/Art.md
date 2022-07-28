@@ -16,3 +16,4 @@ Art discussion is an essential part of art lesson. It enriches and deepens stude
 
 (video to be uploaded on yt)
 
+Students are also exposed to a range of media. In the picture below, on the left, students were exploring making forms using papers. On the right are works created with various media.
