@@ -26,16 +26,10 @@ The syllabus provides diversity and breadth for schools to plan and implement a 
 *   Swimming (by the end of Primary 6)
 *   Outdoor Education
 
-  
+### Key Programmes
 
-Key Programmes
---------------
-
-Rise to Shine
--------------
+### Rise to Shine
 
 Rise to Shine encourages all our students to arrive in school early to join their friends in unstructured play. The students will learn to interact independently and creatively with the equipment provided by the Teachers.
-
-  
 
 The School Field, Parade Square as well as the School Hall are available for our students during Rise to Shine.
