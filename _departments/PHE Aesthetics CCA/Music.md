@@ -27,3 +27,11 @@ Watch the videos below to have a glimpse of students’ music learning experienc
 ### Experiences beyond the classroom
 
 Art and Music Week (AMW) is a week of celebration of Art and Music. Various activities are carried out to celebrate students’ learning in Art and Music. For music, there are assembly talks, activities and performances to engage the students. Watch the video below to see our music teachers in action during an assembly talk.
+
+(video to be uploaded on yt)
+
+### Feed Your Imagination 
+
+Feed Your Imagination (F.Y.I) offers students a series of music, dance and drama performances by established local arts groups. It aims to educate by imparting knowledge about the arts, provoking thought and encouraging audience participation. A tour around Esplanade is included too.
+
+![](/images/61.png)
