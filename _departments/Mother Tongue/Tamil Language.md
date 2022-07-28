@@ -15,3 +15,6 @@ third_nav_title: Mother Tongue
 மாணவர்களின் பேசுதல், வாசித்தல், கேட்டல், எழுதுதல் போன்ற திறன்களை வெவ்வேறு படிநிலைகளில் சோதித்து அவர்களுக்கு வழிகாட்ட இத்திட்டம் பயனளிக்கும்.
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#efefef;border-color:#033c2e;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">கற்றல் பயணங்கள்</td></tr></thead></table>
+
+* **இந்திய மரபுடைமை நிலையம் (Indian Heritage Centre)**
+* **பொங்கல் விழா (Pongal Heritage Experience)**
