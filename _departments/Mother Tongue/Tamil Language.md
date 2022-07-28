@@ -19,3 +19,4 @@ third_nav_title: Mother Tongue
 * **இந்திய மரபுடைமை நிலையம் (Indian Heritage Centre)**
 * **பொங்கல் விழா (Pongal Heritage Experience)**
 * **தமிழ்மொழி வாரம் (MT Fortnight Activities)**
+* **போட்டிகள்**
