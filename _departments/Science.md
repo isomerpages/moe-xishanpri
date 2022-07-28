@@ -83,3 +83,24 @@ Students in E2K Programme learn Science by going through the same process that s
 Science Ignite Programme is another exciting Stretch Programme that sparks students’ curiosity to discover topics beyond the PSLE, e.g. Chemistry and Earth Science. It deepens their interest, creativity, analytical thinking skills as well as the spirit of learning through discovery and challenge in Science. Students in Science Ignite Programme will acquire content knowledge and skills necessary to take part in Singapore Primary Science Olympiad (SPSO). 
 
 We are proud that two of our Xishanites emerged as medallists in 2021 Singapore Primary Science Olympiad (1 Silver, 1 Bronze).
+
+![](/images/12.png)
+
+![](/images/13.png)
+
+![](/images/Capture4.png)
+
+**_6\. Science Competitions_**
+
+Interested students have many opportunities to showcase their knowledge and skills in various competitions such as:
+
+* Singapore Primary Science Olympiad (SPSO)
+* Raffles Science Olympiad (RSO)
+* West Zone Junior Science Whiz Challenge (JSWC)
+* Elementz Science Project Competition
+* Sony Creative Science Award (SCSA)
+* Green Wave Environmental Care Competition
+
+Our Xishanites achieved 1 Silver and 1 Bronze in SPSO, and 1 Merit Award in SCSA.
+
+Other than showcasing their Science knowledge and skills, our Xishanites also demonstrated their love for their environment and attained an Encouragement Award in the Green Wave Environmental Care Competition, winning $200 cash and a trophy for the school. In their submission titled ‘Enhanced Living with Sustainable Plant Transpiration System’, they designed an environmentally-friendly and self-sustaining green tank system that re-uses rainwater and water obtained from transpiration of plants to irrigate other plants in urban farming while creating rooftop gardens.
