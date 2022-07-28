@@ -10,4 +10,4 @@ third_nav_title: Mother Tongue
 
 **தமிழ்மொழி பாடதிட்டங்கள் மற்றும் நடவடிக்கைகள்**
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#c0c0c0;border-color:#033c2e;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">‘PERI’ மதிப்பீட்டுத் திட்டம்</td></tr></thead></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#c0c0c0;border-color:#033c2e;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">‘PERI’ மதிப்பீட்டுத் திட்டம்</td></tr></thead></table>
