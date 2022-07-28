@@ -32,3 +32,11 @@ Maths teachers create opportunities for pupils to work in a collaborative and se
 ![](/images/MathImage5.jpg)
 
 <center> Pupils working on a plan for their dream bedroom using their knowledge of budgeting and skills of managing data using excel spreadsheet.</center>
+
+![](/images/MathImage6.jpg)
+
+<center> Pupils explore online resources independently. </center>
+
+![](/images/MathImage7.jpg)
+
+<center> They share their plans on MC Online social learning wall to extend learning beyond their own team. </center>
