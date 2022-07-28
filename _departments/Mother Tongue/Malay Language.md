@@ -12,8 +12,11 @@ third_nav_title: Mother Tongue
 
 **Misi:** Melahirkan pelajar yang aktif dan cekap berkomunikasi dalam Bahasa Melayu serta mencintai Budaya Melayu
 
-
 _Burung kedidi terbang berdua, Hinggap sebentar di pucuk rumbia;_    
 _Junjunglah tinggi bahasa ibunda, Majulah bahasa, majulah bangsa!_
 
 ![](/images/MalayImage4.gif)
+
+### Program Teras
+
+#### Membaca
