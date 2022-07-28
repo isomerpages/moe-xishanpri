@@ -28,3 +28,7 @@ A variety of learning experiences are integrated into the Mathematics curriculum
 ### Technological explorations
 
 Maths teachers create opportunities for pupils to work in a collaborative and self-directed environment through the use of technology and social media. Leveraging on the variety of online platforms, pupils are engaged in applying their mathematical skills to solve real world problems.
+
+![](/images/MathImage5.jpg)
+
+<center> Pupils working on a plan for their dream bedroom using their knowledge of budgeting and skills of managing data using excel spreadsheet.</center>
