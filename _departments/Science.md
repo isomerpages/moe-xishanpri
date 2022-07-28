@@ -34,3 +34,11 @@ The school garden is a rich learning ground designed to bring out students’ na
 ![](/images/Capture2.png)
 
 ![](/images/ScienceImg2.jpg)
+
+**_3\. Enriched Learning @ Our School Aquaponics System_**
+
+The school outdoor aquaponics system, consisting of 3 vegetables grow beds and 2 tilapia fish culture tanks, arouses students’ curiosity and deepens their conceptual understanding of the different types of sustainable farming systems and their benefits to Singapore. 
+
+Through first-hand observations, students get a deeper understanding of the symbiotic relationship between the tilapia fish and vegetables, in which the tilapia fish’s excreta provide nutrients to the plants, while the plants naturally clean up the water for the fish. Students get to appreciate the role of bacteria as decomposers that break down excreta of tilapia fish to provide nutrients for the plants. 
+
+Students also get to experience the process of growing their own vegetables from sowing and germinating seeds, transplanting seedlings and lastly, harvesting their own produce from the aquaponics system.
