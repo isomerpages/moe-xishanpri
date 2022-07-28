@@ -63,4 +63,6 @@ _“最令我满足的是看到小孩子的表情，很真，完全投入故事�
 
 ![](/images/ChineseDept9July%20-%20%206.jpg)
 
+![](/images/ChineseDept9July%20-%20%207.jpg)
+
 ![](/images/CL%20Department%20Achievement%20(5).jpg)
