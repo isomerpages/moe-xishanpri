@@ -53,3 +53,15 @@ Primary 3: Virtual Learning Journey to Singapore Botanic Gardens
 Primary 4: Science Workshop (Heat & Temperature)   
 Primary 5: Science Workshop (Wind Turbine)  
 Primary 6: Physical Learning Journey to Sungei Buloh Wetland Reserve
+
+![](/images/ScienceImg3.jpeg)
+
+![](/images/6xx.png)
+
+![](/images/7xx.png)
+
+**_5\. Igniting Joy of Learning through Toy Making_**  
+
+The annual Creative Toy Design and Making Competition for Primary 3-6 students provides opportunities for them to apply the scientific concepts that they have learned into the creation of a toy, while igniting their joy of learning Science. Through the process of toy design and creation, students also develop critical and inventive thinking skills.
+
+Selected toys are sent for the Sony Creative Science Award (SCSA) Competition which is jointly organised by the Science Centre Singapore and the Sony Group of Companies in Singapore, with the support of the Ministry of Education. In 2021, we are proud that one of our Xishanites attained the Merit Award in the national competition.
