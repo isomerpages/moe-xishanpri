@@ -27,6 +27,12 @@ Cub scouts commemorating Founder’s Day today (22 February) during the morning 
 
 **FRANK COOPER SANDS AWARDS 2017 - GOLD**
 
+**NATIONAL CUB SCOUT MIND QUIZ - BRONZE AWARD**
+
+![](/images/National%20Cub%20Scout%20Mind%20Quiz%20–%20Bronze%20Award.jpeg)
+
+<center> Vo Hai Thien An (5 Self-Discipline), Lim Jun Hao (5 Resilience), Suasi Kyle Elderick (5 Integrity), Chin Ip, Ong Gia Lac and Hamza Asadullah (4 Resilience) </center>
+
 
 **FRANK COOPER SANDS AWARDS 2018 - UNIT EXCELLENCE**
 ![](/images/Frank%20Cooper%20Sands%20Gold%20Award%202018.jpeg)
