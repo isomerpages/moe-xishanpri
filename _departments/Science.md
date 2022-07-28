@@ -44,3 +44,12 @@ Through first-hand observations, students get a deeper understanding of the symb
 Students also get to experience the process of growing their own vegetables from sowing and germinating seeds, transplanting seedlings and lastly, harvesting their own produce from the aquaponics system.
 
 ![](/images/Capture3.png)
+
+**_4\. Learning Journeys & Workshops_** 
+
+Learning Journeys and workshops are specially organized for all Primary 3 to 6 students to complement the Science curriculum and allow students to reinforce their learning through exploration in a natural setting beyond the school. Students as active learners are given the opportunities to discover and experience the natural environment at first hand. Learning is enriched as they make new discoveries in their quest for new knowledge.  
+
+Primary 3: Virtual Learning Journey to Singapore Botanic Gardens   
+Primary 4: Science Workshop (Heat & Temperature)   
+Primary 5: Science Workshop (Wind Turbine)  
+Primary 6: Physical Learning Journey to Sungei Buloh Wetland Reserve
