@@ -20,3 +20,7 @@ _Junjunglah tinggi bahasa ibunda, Majulah bahasa, majulah bangsa!_
 ### Program Teras
 
 #### Membaca
+
+![](/images/MalayImage5.jpg)
+
+![](/images/Jadikan%20buku%20teman%20setia.jpg)
