@@ -16,3 +16,7 @@ third_nav_title: Uniformed Groups
 | Mr Anand 	| [anand_kumar_manivanan@moe.edu.sg](mailto:anand_kumar_manivanan@moe.edu.sg) 	|
 | Ms Magdalene Khoo 	| [magdalene_khoo_lyn_wen@moe.edu.sg](mailto:magdalene_khoo_lyn_wen@moe.edu.sg) 	|
 | Mr Ahmad Farkhan 	| [ahmad_farkhan_mohd_nasir@moe.edu.sg](mailto:ahmad_farkhan_mohd_nasir@moe.edu.sg) 	|
+
+### CCA schedule for 2022
+
+![](/images/RCsem2.jpg)
