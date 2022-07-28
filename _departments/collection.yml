@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science.md
       - PHE Aesthetics CCA/PHE.md
       - PHE Aesthetics CCA/Art.md
       - PHE Aesthetics CCA/Music.md
