@@ -33,3 +33,13 @@ During the pandemic, AMW started to go online! Check out one of the online galle
 Museum-based learning (MBL) is one of the platforms to provide engaging and meaningful ways for students to encounter learning art content. Going to the museum also provides an authentic context for the learning of local art. In addition, the experience will develop in students the competencies and dispositions of an Audience.
 
 ![](/images/Capture7.png)
+
+### Express Yourself Art Competition
+
+Xishan’s Express Yourself Art Competition allows students to showcase their creativity beyond art lessons. Below shows some entries submitted by our lower primary students.
+
+![](/images/Capture8.png)
+
+Students are also given other opportunities to showcase their talent in Art.
+
+![](/images/Capture9.png)
