@@ -26,3 +26,7 @@ In Science teaching and learning, activities are specially planned to integrate 
 
 ![](/images/Capture1.png)
 ![](/images/ScienceImg1.jpg)
+
+**_2\. Enriched Learning @ Our School Garden_**
+
+The school garden is a rich learning ground designed to bring out students’ natural curiosity and to encourage them to actively explore, engage with and experience the natural environment. Interesting programmes and engaging activities are designed to enhance students’ capacities for creativity and intellectual development in learning beyond the classroom.
