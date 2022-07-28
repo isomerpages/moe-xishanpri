@@ -17,3 +17,11 @@ Art discussion is an essential part of art lesson. It enriches and deepens stude
 (video to be uploaded on yt)
 
 Students are also exposed to a range of media. In the picture below, on the left, students were exploring making forms using papers. On the right are works created with various media.
+
+![](/images/Capture6.png)
+
+### Experiences beyond the classroom
+
+Art and Music Week (AMW) is a week of celebration of Art and Music. Various activities are carried out to celebrate students’ learning in the Art and Music. For Art, there are assembly talks, activities and exhibition to engage the students. 
+
+During the pandemic, AMW started to go online! Check out one of the online galleries.
