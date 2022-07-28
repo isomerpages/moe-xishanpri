@@ -24,3 +24,5 @@ _Junjunglah tinggi bahasa ibunda, Majulah bahasa, majulah bangsa!_
 ![](/images/MalayImage5.jpg)
 
 ![](/images/Jadikan%20buku%20teman%20setia.jpg)
+
+#### Penggunaan Informasi, Komunikasi dan Teknologi
