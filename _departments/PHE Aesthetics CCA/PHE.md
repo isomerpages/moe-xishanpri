@@ -51,3 +51,18 @@ In Xishan Primary School, we offer the following SEPs:
 *   Primary 4 - Bowling  
 *   Primary 5 - Golf  
 *   Primary 6 – Indoor Skydiving
+
+![](/images/PE02.jpg)
+
+### Camp G.R.I.T. – Growing Resilient & Independent Together
+
+Camp G.R.I.T. is without a doubt the highlight of any P5 student in Xishan Primary School. This 3D2N camp is usually conducted at MOE Outdoor Adventure Learning Centres and facilitated by MOE Outdoor Adventure Educators and Teachers.
+
+During the camp, the students will get a chance to grow, be resilient and independent while experiencing the following activities:
+
+*   Communal living
+*   Day trek
+*   Night walk
+*   Low/High elements
+*   Outdoor cooking
+*   Campfire
