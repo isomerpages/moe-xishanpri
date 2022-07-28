@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Student Management/Student Leaders Newsletter.md
       - Student Management/.keep
       - Student Management/Student Well being.md
       - Student Management/Student Leadership.md
