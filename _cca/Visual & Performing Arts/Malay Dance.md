@@ -16,3 +16,18 @@ third_nav_title: Visual & Performing Arts
 | Ms Natasha Lin Kleinman 	| [natasha_lin_kleinman@moe.edu.sg](mailto:natasha_lin_kleinman@moe.edu.sg) 	|
 | Ms Pey Huey Shan 	| [pey_huey_shan@moe.edu.sg](mailto:pey_huey_shan@moe.edu.sg) 	|
 | Mr Ahmad Farkhan 	| [ahmad_farkhan_mohd_nasir@moe.edu.sg](mailto:ahmad_farkhan_mohd_nasir@moe.edu.sg) 	|
+
+
+### CCA schedule for 2022
+
+![](/images/MDsem2a.jpg)
+
+### CCA schedule for SYF 2022
+
+![](/images/MDsyfsem2.jpg)
+
+![](/images/MDsem2b.jpg)
+
+### Malay Dance - SYF Accomplishment
+
+![](/images/MalayDance1.jpeg)
