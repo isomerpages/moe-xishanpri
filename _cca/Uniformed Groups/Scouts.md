@@ -27,6 +27,8 @@ Cub scouts commemorating Founder’s Day today (22 February) during the morning 
 
 **FRANK COOPER SANDS AWARDS 2017 - GOLD**
 
+![](/images/Scouts.jpg)
+
 **NATIONAL CUB SCOUT MIND QUIZ - BRONZE AWARD**
 
 ![](/images/National%20Cub%20Scout%20Mind%20Quiz%20–%20Bronze%20Award.jpeg)
