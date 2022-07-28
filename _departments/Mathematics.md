@@ -16,3 +16,7 @@ The Mathematics Curriculum in Xishan Primary School is **centred on Problem Sol
 ### Learning Experiences
 
 A variety of learning experiences are integrated into the Mathematics curriculum to make learning fun, meaningful and relevant and to inculcate positive attitudes. Care and attention are given to the design of the learning activities to build confidence in and develop appreciation for Mathematics. In the process, student-centred environment is created to provide an explicit link from visible thinking to abstract thinking.
+
+![](/images/MathImage2.jpg)
+
+Pupils working out addition sums using inter-locking cubes and ten-frame.
