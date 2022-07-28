@@ -23,3 +23,6 @@ The Science curriculum encourages students to learn Science through understandin
 _**1\. Igniting Curiosity through Science Inquiry**_
 
 In Science teaching and learning, activities are specially planned to integrate skills and processes which arouse students’ curiosity and encourage them to seek new knowledge and inquire about things around them. With the focus on conceptual understanding and skills development, students are encouraged to ask questions to deepen their learning as they quest for new knowledge and embark on their journey of continuous learning.
+
+![](/images/Capture1.png)
+![](/images/ScienceImg1.jpg)
