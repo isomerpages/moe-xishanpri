@@ -35,3 +35,7 @@ Art and Music Week (AMW) is a week of celebration of Art and Music. Various acti
 Feed Your Imagination (F.Y.I) offers students a series of music, dance and drama performances by established local arts groups. It aims to educate by imparting knowledge about the arts, provoking thought and encouraging audience participation. A tour around Esplanade is included too.
 
 ![](/images/61.png)
+
+Xishan Got Talent is a yearly event which welcomes students to showcase their performing talent.
+
+![](/images/Capture5.png)
