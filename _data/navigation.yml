@@ -8,5 +8,7 @@ links:
     collection: partnerships
   - title: Departments
     collection: departments
+  - title: CCA
+    collection: cca
   - title: Contact Us
     url: /contact-us/
