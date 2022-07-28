@@ -25,6 +25,18 @@ third_nav_title: Uniformed Groups
 
 Cub scouts commemorating Founder’s Day today (22 February) during the morning assembly with Ms Soh Hui Min in command, Mrs Quek our Principal delivering the speech and Mr Chan leading the Adiji cheers.
 
+![](/images/Scouts%20Founder's%20Day%201.jpeg)
+
+![](/images/Scouts%20Founder's%20Day%202.jpeg)
+
+![](/images/Scouts%20Founder's%20Day%203.jpeg)
+
+![](/images/Scouts%20Founder's%20Day%204.jpeg)
+
+![](/images/Scouts%20Founder's%20Day%205.jpeg)
+
+![](/images/Scouts%20Founder's%20Day%206.jpeg)
+
 **FRANK COOPER SANDS AWARDS 2017 - GOLD**
 
 ![](/images/Scouts.jpg)
