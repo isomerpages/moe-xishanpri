@@ -18,3 +18,5 @@ third_nav_title: Uniformed Groups
 | Mr Ahmad Farkhan 	| [ahmad_farkhan_mohd_nasir@moe.edu.sg](mailto:ahmad_farkhan_mohd_nasir@moe.edu.sg) 	|
 
 ### CCA schedule for 2022
+
+![](/images/scoutssem2.jpg)
