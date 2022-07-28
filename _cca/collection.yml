@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual & Performing Arts/.keep
       - Uniformed Groups/Red Cross.md
       - Uniformed Groups/Scouts.md
       - Uniformed Groups/.keep
