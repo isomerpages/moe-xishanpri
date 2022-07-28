@@ -66,3 +66,12 @@ During the camp, the students will get a chance to grow, be resilient and indepe
 *   Low/High elements
 *   Outdoor cooking
 *   Campfire
+
+![](/images/PE06.jpg)
+
+### Graduation Run
+Graduation Run was inaugurated by our Principal Mrs Quek in 2019.
+
+The run serves as a significant milestone for our graduating students. Through the run, the school hopes to help our students learn that life is neither about how fast you go or whether you have had a good start, nor about comparing with others who are ahead or behind you. It is really about how meaningful and purposeful the journey will be.
+
+The run takes place within the school compound. As the students take a jog down memory lane whilst jogging with their buddies, they are filled with gratitude when they reflect upon their journey of learning in Xishan Primary School.
