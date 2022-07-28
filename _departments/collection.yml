@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PHE Aesthetics CCA/Art.md
       - PHE Aesthetics CCA/Music.md
       - PHE Aesthetics CCA/.keep
       - Character & Citizenship Education.md
