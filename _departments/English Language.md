@@ -45,3 +45,5 @@ Upper Primary STELLAR Programme:
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#000">Book Buzz and Books-To-Go</span><br>• Book recommendations to create some suspense and inspire predictions<br>• NLB books brought to school to encourage borrowing and reading</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/11EL_Department.png" alt="11EL_Department.png" width="333" height="661"></td></tr></thead></table>
 
+#### LITERACY SUPPORT AND ENRICHMENT PROGRAMMES
+
