@@ -65,3 +65,21 @@ Primary 6: Physical Learning Journey to Sungei Buloh Wetland Reserve
 The annual Creative Toy Design and Making Competition for Primary 3-6 students provides opportunities for them to apply the scientific concepts that they have learned into the creation of a toy, while igniting their joy of learning Science. Through the process of toy design and creation, students also develop critical and inventive thinking skills.
 
 Selected toys are sent for the Sony Creative Science Award (SCSA) Competition which is jointly organised by the Science Centre Singapore and the Sony Group of Companies in Singapore, with the support of the Ministry of Education. In 2021, we are proud that one of our Xishanites attained the Merit Award in the national competition.
+
+![](/images/8xx.png)
+
+![](/images/10.png)
+
+![](/images/11.png)
+
+**_6\. Stretch Programmes for Passionate Learners_**  
+
+There are several Stretch Programmes for Primary 4 to 5 students who are passionate in Science, with the aptitude and positive attitude to learn about exciting topics beyond the syllabus.  
+
+The E2K Science Enrichment Programme is adapted from Israel’s E2K Programme, developed by the Israel Centre for Excellence through Education (ICEE). Our own E2K Science Teachers use the E2K pedagogy to develop scientific inquiry process skills in our high-progress students, and further nurture their 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills. 
+
+Students in E2K Programme learn Science by going through the same process that scientists use to generate Science knowledge. Just as scientists make mistakes in the real world, students are allowed to make mistakes, and teachers help students to learn from the mistakes. Through collaborative learning and guidance provided by the teacher, students practise scientific thinking and reasoning and develop confidence and independence in carrying out scientific inquiry as well as scientific habits, attitudes and dispositions.
+
+Science Ignite Programme is another exciting Stretch Programme that sparks students’ curiosity to discover topics beyond the PSLE, e.g. Chemistry and Earth Science. It deepens their interest, creativity, analytical thinking skills as well as the spirit of learning through discovery and challenge in Science. Students in Science Ignite Programme will acquire content knowledge and skills necessary to take part in Singapore Primary Science Olympiad (SPSO). 
+
+We are proud that two of our Xishanites emerged as medallists in 2021 Singapore Primary Science Olympiad (1 Silver, 1 Bronze).
