@@ -30,3 +30,8 @@ Lower Primary STELLAR Programme:
 
 Upper Primary STELLAR Programme:
 ![](/images/08EL_Department.png)
+
+<br>
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Supported reading, Collaborative learning</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/09EL_Department.png" alt="09EL_Department.png" width="720" height="294">#Developing positive learning dispositions in group activities and nurturing a love for language-learning through authentic application experiences</td></tr></tbody></table>
+
