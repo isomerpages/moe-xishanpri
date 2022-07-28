@@ -20,3 +20,7 @@ third_nav_title: Uniformed Groups
 ### CCA schedule for 2022
 
 ![](/images/scoutssem2.jpg)
+
+### Scouts Founder’s Day
+
+Cub scouts commemorating Founder’s Day today (22 February) during the morning assembly with Ms Soh Hui Min in command, Mrs Quek our Principal delivering the speech and Mr Chan leading the Adiji cheers.
