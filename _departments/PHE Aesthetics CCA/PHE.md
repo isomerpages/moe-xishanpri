@@ -33,3 +33,21 @@ The syllabus provides diversity and breadth for schools to plan and implement a 
 Rise to Shine encourages all our students to arrive in school early to join their friends in unstructured play. The students will learn to interact independently and creatively with the equipment provided by the Teachers.
 
 The School Field, Parade Square as well as the School Hall are available for our students during Rise to Shine.
+
+![](/images/PE01.jpg)
+
+Sports Education Program (SEP)
+------------------------------
+
+The Sports Education Programme (SEP) is a collaborative partnership between Sport Singapore (SportSG) and the Ministry of Education (MOE).
+
+The SEP aims to advocate the importance of sports education, encourage sports participation in schools and increase sporting opportunities for the young.
+
+In Xishan Primary School, we offer the following SEPs:
+
+*   Primary 1 - Modern Dance  
+*   Primary 2 - Tae Kwon Do  
+*   Primary 3 - Cycling   
+*   Primary 4 - Bowling  
+*   Primary 5 - Golf  
+*   Primary 6 – Indoor Skydiving
