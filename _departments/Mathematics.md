@@ -19,4 +19,12 @@ A variety of learning experiences are integrated into the Mathematics curriculum
 
 ![](/images/MathImage2.jpg)
 
-Pupils working out addition sums using inter-locking cubes and ten-frame.
+<center>Pupils working out addition sums using inter-locking cubes and ten-frame.</center>
+
+![](/images/MathImage4.jpg)
+
+<center>Pupils building up addition facts using 6-sided and 10-sided die.</center>
+
+### Technological explorations
+
+Maths teachers create opportunities for pupils to work in a collaborative and self-directed environment through the use of technology and social media. Leveraging on the variety of online platforms, pupils are engaged in applying their mathematical skills to solve real world problems.
