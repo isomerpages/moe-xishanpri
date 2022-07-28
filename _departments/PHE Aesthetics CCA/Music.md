@@ -19,3 +19,11 @@ In learning music, students will be exposed to a range of classroom music instru
 Xishan's music programmes allow students to express themselves musically. There are opportunities for students to create and perform music during music lessons.  There are also performing platforms beyond music lessons. Through performing, students develop musical communication. Students collaborate and develop interpersonal skills while working in an ensemble.  
 
 Watch the videos below to have a glimpse of students’ music learning experience.
+
+(video to be uploaded on yt)
+
+(video to be uploaded on yt)
+
+### Experiences beyond the classroom
+
+Art and Music Week (AMW) is a week of celebration of Art and Music. Various activities are carried out to celebrate students’ learning in Art and Music. For music, there are assembly talks, activities and performances to engage the students. Watch the video below to see our music teachers in action during an assembly talk.
