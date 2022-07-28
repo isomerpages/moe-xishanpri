@@ -25,3 +25,11 @@ Students are also exposed to a range of media. In the picture below, on the left
 Art and Music Week (AMW) is a week of celebration of Art and Music. Various activities are carried out to celebrate students’ learning in the Art and Music. For Art, there are assembly talks, activities and exhibition to engage the students. 
 
 During the pandemic, AMW started to go online! Check out one of the online galleries.
+
+### Museum-based learning (MBL)
+
+(insert google slides)
+
+Museum-based learning (MBL) is one of the platforms to provide engaging and meaningful ways for students to encounter learning art content. Going to the museum also provides an authentic context for the learning of local art. In addition, the experience will develop in students the competencies and dispositions of an Audience.
+
+![](/images/Capture7.png)
