@@ -14,3 +14,5 @@ You may consider applying for your child a secondary school through DSA-Sec if y
 
 DSA Support @ Xishan:   
 [30 July Briefing for P5 Parents.pdf](/files/30%20July%20Briefing%20for%20P5%20Parents.pdf)
+
+Supporting Students and Parents in Making School Choices briefing based on the new PSLE Scoring System:
