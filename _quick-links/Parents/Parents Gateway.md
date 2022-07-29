@@ -20,3 +20,7 @@ The free app will bring several benefits, including:
 *   Reducing usage of paper and decreasing environmental impact (hard-copies will no longer be provided)
 
 We **strongly encourage** all parents to **download and use the PG App** as it will bring significant benefits for parents, teachers and the school.
+
+Frequently Asked Questions About Parent Gateway
+
+### Step-by-Step Guide - Setting up the PG Mobile App
