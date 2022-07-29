@@ -8,9 +8,9 @@ links:
     collection: partnerships
   - title: Departments
     collection: departments
+  - title: Programmes & Events
+    collection: programmes-and-events
   - title: CCA
     collection: cca
-  - title: Contact Us
-    url: /contact-us/
   - title: Quick Links
     collection: quick-links
