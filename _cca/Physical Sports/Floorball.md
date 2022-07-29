@@ -60,3 +60,12 @@ During the December holiday last year, the floorballers had a chance to visit Au
 ![](/images/Floorball2.jpg)
 
 ![](/images/Floorball3.jpg)
+
+### Achievements
+
+| Session 	| 2007 	| 2008 	| 2009 	| 2010 	| 2011 	| 2012 	| 2013 	| 2014 	| 2015 	| 2016 	| 2017 	| 2018 	| 2019 	|
+|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
+| Sr boys 	| 2nd 	| 1st 	| 4th 	| 1st 	| 1st 	| 3rd 	| 1st 	| 1st 	| 2nd 	| 2nd 	| - 	| - 	| 1st 	|
+| Sr girls 	| 4th 	| 1st 	| 1st 	| 1st 	| 3rd 	| 1st 	| 3rd 	| - 	| 3rd 	| 3rd 	| - 	| - 	| 1st 	|
+| Jr boys 	| - 	| 3rd 	| 3rd 	| 1st 	| 3rd 	| 2nd 	| 3rd 	| 1st 	|  	| - 	| - 	| 1st 	| - 	|
+| Jr girls 	| 1st 	| 3rd 	| 1st 	| 2nd 	| 2nd 	| 2nd 	| - 	| 3rd 	|  	| - 	| - 	| 1st 	| - 	|
