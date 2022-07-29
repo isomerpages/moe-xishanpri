@@ -2,5 +2,6 @@ collections:
   quick-links:
     output: true
     order:
+      - Parents/Parents Kit.md
       - Parents/Consent for Photography and Videos.md
       - Parents/.keep
