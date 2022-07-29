@@ -16,12 +16,12 @@ description: ""
 #### Administration
 | No. 	| Site 	|
 |---	|---	|
-| 1 	| SC Mobile 	|
-| 2 	| HRP Portal 	|
-| 3 	| School Cockpit Plus 	|
-| 4 	| Pac@Gov 	|
-| 5 	| MOE Intranet 	|
-| 6 	| MIMS Portal 	|
+| 1 	| [SC Mobile](https://scmobile.moe.edu.sg/login) 	|
+| 2 	| [HRP Portal](https://www.hrp.gov.sg/hrp/#/) 	|
+| 3 	| [School Cockpit Plus](https://schoolcockpit.moe.gov.sg/) 	|
+| 4 	| [Pac@Gov](https://www.hrp.gov.sg/hrp/#/)	|
+| 5 	| [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)	|
+| 6 	| [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso) 	|
 
 #### Well-Being
 | No. 	| Site 	|
