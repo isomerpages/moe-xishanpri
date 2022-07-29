@@ -16,3 +16,7 @@ third_nav_title: Clubs
 | Ms Nur Azarina Khamis 	| [nur_azarina_khamis@moe.edu.sg](mailto:nur_azarina_khamis@moe.edu.sg) 	|
 | Mdm Kristine Loh Chin Chin 	| [kristine_loh_chin_chin@moe.edu.sg](mailto:kristine_loh_chin_chin@moe.edu.sg) 	|
 | Mr Gary Song 	| [gary_song@moe.edu.sg](mailto:gary_song@moe.edu.sg) 	|
+
+### CCA schedule for 2022
+
+![](/images/ICT%20sem2.jpg)
