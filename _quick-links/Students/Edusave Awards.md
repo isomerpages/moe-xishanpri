@@ -30,3 +30,10 @@ The Edusave Character Award (ECHA) for our students is opened for nominations fo
 
 **Selection Process Timeline**
 
+| Process 	| Action 	| Time Frame 	|
+|---	|---	|---	|
+| Nomination 	| Nomination opens to all students.<br>Deadline for submission of<br>Nomination Form: 31 August by 5pm 	| 1 July – 31 July 	|
+| Selection 	| Screening of nominees’ eligibility 	| 1 August – 30 September 	|
+| Interview 	| Interview to shortlist potential awardees 	| 1 October – 31 October 	|
+| Shortlisting 	| Shortlisting and endorsement of awardees 	| Late October 	|
+| Submission of Awardee List to MOE 	| Confirmation of awardees 	| By Middle of November 	|
