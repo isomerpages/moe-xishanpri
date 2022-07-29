@@ -16,3 +16,7 @@ third_nav_title: Visual & Performing Arts
 | Mdm Gong Ya Qin 	| [gong_yaqin@moe.edu.sg](mailto:gong_yaqin@moe.edu.sg) 	|
 | Miss Tery Lou 	| [lou_si_yu@moe.edu.sg](mailto:lou_si_yu@moe.edu.sg) 	|
 | Natalie Lam 	| [lam_lai_fong_natalie@moe.edu.sg](mailto:lam_lai_fong_natalie@moe.edu.sg) 	|
+
+### CCA schedule for 2022 (Seniors)
+
+![](/images/CDsem%202%20senior.jpg)
