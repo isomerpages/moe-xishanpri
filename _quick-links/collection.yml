@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Students/.keep
-      - Students.md
       - Teachers.md
       - Parents/Parents Gateway.md
       - Parents/P5 Briefing 2021.md
