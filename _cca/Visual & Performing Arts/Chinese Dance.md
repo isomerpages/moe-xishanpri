@@ -12,9 +12,9 @@ third_nav_title: Visual & Performing Arts
 
 | Name of teacher 	| Email address 	|
 | ---	| ---	|
-| Ms Zhao Lei 	| zhao_lei_a@moe.edu.sg 	|
-| Mdm Gong Ya Qin 	| gong_yaqin@moe.edu.sg 	|
-| Miss Tery Lou 	| lou_si_yu@moe.edu.sg 	|
-| Natalie Lam 	| lam_lai_fong_natalie@moe.edu.sg 	|
-| Mdm Saedah 	| saedah_mohamed_hussien@moe.edu.sg 	|
-| Mr Ahmad Farkhan 	| ahmad_farkhan_mohd_nasir@moe.edu.sg 	|
+| Ms Zhao Lei 	| [zhao_lei_a@moe.edu.sg](mailto:zhao_lei_a@moe.edu.sg) 	|
+| Mdm Gong Ya Qin 	| [gong_yaqin@moe.edu.sg](mailto:gong_yaqin@moe.edu.sg) 	|
+| Miss Tery Lou 	| [lou_si_yu@moe.edu.sg](mailto:lou_si_yu@moe.edu.sg) 	|
+| Natalie Lam 	| [lam_lai_fong_natalie@moe.edu.sg](mailto:lam_lai_fong_natalie@moe.edu.sg) 	|
+| Mdm Saedah 	| [lam_lai_fong_natalie@moe.edu.sg](mailto:saedah_mohamed_hussien@moe.edu.sg) 	|
+| Mr Ahmad Farkhan 	| [ahmad_farkhan_mohd_nasir@moe.edu.sg](mailto:ahmad_farkhan_mohd_nasir@moe.edu.sg) 	|
