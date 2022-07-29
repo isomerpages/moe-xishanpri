@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/Floorball.md
       - Physical Sports/Hockey.md
       - Physical Sports/Basketball.md
       - Physical Sports/Volleyball.md
