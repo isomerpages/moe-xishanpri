@@ -24,3 +24,7 @@ third_nav_title: Visual & Performing Arts
 | Mdm Angela 	| [umapathy_kanitha_angela_sibayan@moe.edu.sg](mailto:umapathy_kanitha_angela_sibayan@moe.edu.sg) 	|
 | Mdm Saedah 	| [saedah_mohamed_hussien@moe.edu.sg](mailto:saedah_mohamed_hussien@moe.edu.sg) 	|
 | Mr Ahmad Farkhan 	| [ahmad_farkhan_mohd_nasir@moe.edu.sg](mailto:ahmad_farkhan_mohd_nasir@moe.edu.sg) 	|
+
+### CCA schedule for 2022
+
+![](/images/IDsem2.jpg)
