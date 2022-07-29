@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Students/Edusave Awards.md
       - Students/Booklist.md
       - Students/Students.md
       - Students/.keep
