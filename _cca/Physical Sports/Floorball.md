@@ -46,3 +46,11 @@ PSSC Floorball 2019 National Senior Girls Div Champions
 | 9 	| Anggun Binte Junari 	| 6 Respect 	|
 | 10 	| Suasi Erin Kate Artugue 	| 6 Respect 	|
 | 11 	| Nurdyana Aliah Binte Mohammad Bakhtiar 	| 6 Love 	|
+
+Floor ball is a fast-paced sport that requires composure, speed, agility, excellent dribbling skills and teamwork. An exhilarating sport to watch, due to the lightness of feet of its players, it has grown in popularity in Singapore. In Xishan Primary, the CCA has made rapid progress since its inception in 2007.
+
+"Respect ALL, Fear NONE" has been the guiding philosophy in our approach to instill value and retain the competitiveness in our floorballers. Students are taught the importance of sportsmanship and the self-belief of giving their best in every game.
+
+### Overseas Cultural Immersion and Training trip
+
+During the December holiday last year, the floorballers had a chance to visit Australia, Melbourne for a cultural immersion and training trip. They pit their skills against the local students and join them in their club training. Strong bonds were forged and they had a great time experiencing the Aussie hospitality.
