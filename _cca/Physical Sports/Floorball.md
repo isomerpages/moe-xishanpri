@@ -80,3 +80,9 @@ SPSSC Floorball 2018 National Junior Girls Div Champions
 
 ![](/images/Floorball7.jpg)
 Xishan Primary School Junior Floorball Team (Boys & Girls)
+
+| Name of the teacher 	| Email address 	|
+|---	|---	|
+| Ms Fazilah Osman 	| fazilah_osman@moe.edu.sg 	|
+| Ms Sutha Therumalai 	| Sutha_therumalai@moe.edu.sg 	|
+| Mr Muhammad Sabir Abdul Gulam 	| muhammad_sabir_abdul_gulam@moe.edu.sg 	|
