@@ -14,3 +14,9 @@ third_nav_title: Visual & Performing Arts
 | Mdm Liu Zengjiao 	| [liu_zheng_jiao@moe.edu.sg](mailto:liu_zheng_jiao@moe.edu.sg) 	|
 | Ms Koh Han Yan 	| [koh_han_yan@moe.edu.sg](mailto:koh_han_yan@moe.edu.sg) 	|
 | Mr Muhammad Bakti Ridhwan Mohd 	| [muhammad_bakti_ridhwan_mohd@moe.edu.sg](mailto:muhammad_bakti_ridhwan_mohd@moe.edu.sg) 	|
+
+### CCA schedule for 2022 
+
+### CCA schedule for 2022 (SYF Cello)
+
+![](/images/SEcellosem2.jpg)
