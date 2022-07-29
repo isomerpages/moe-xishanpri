@@ -17,6 +17,12 @@ third_nav_title: Visual & Performing Arts
 
 ### CCA schedule for 2022 
 
+![](/images/SEsem2.jpg)
+
 ### CCA schedule for 2022 (SYF Cello)
 
 ![](/images/SEcellosem2.jpg)
+
+### CCA schedule for 2022 (SYF)
+
+![](/images/SEsyfsem2.jpg)
