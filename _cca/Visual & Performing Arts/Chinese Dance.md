@@ -20,3 +20,5 @@ third_nav_title: Visual & Performing Arts
 ### CCA schedule for 2022 (Seniors)
 
 ![](/images/CDsem%202%20senior.jpg)
+
+### CCA schedule for 2022 (Juniors)
