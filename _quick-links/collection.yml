@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Parents/Changes to the PSLE scoring and S1 posting.md
       - Parents/Parents Kit.md
       - Parents/Consent for Photography and Videos.md
       - Parents/.keep
