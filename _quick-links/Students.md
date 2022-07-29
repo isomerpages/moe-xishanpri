@@ -22,12 +22,12 @@ description: ""
 | 4 	| [Assessment Matters](https://xishanpri.moe.edu.sg/general-information/assessment-matters)	|
 | 5 	| [School Library](https://schoolibrary.moe.edu.sg/xishanpri/)	|
 
-#### Administration
+#### Learning Portals
 | No. 	| Site 	|
 |---	|---	|
-| 1 	| [SC Mobile](https://scmobile.moe.edu.sg/login) 	|
-| 2 	| [HRP Portal](https://www.hrp.gov.sg/hrp/#/) 	|
-| 3 	| [School Cockpit Plus](https://schoolcockpit.moe.gov.sg/) 	|
-| 4 	| [Pac@Gov](https://www.hrp.gov.sg/hrp/#/)	|
-| 5 	| [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)	|
-| 6 	| [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso) 	|
+| 1 	| [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login) 	|
+| 2 	| [My Skills Future](https://www.myskillsfuture.sg/content/student/en/primary.html) 	|
+| 3 	| [Etutor Online](https://www.ezhishi.net/Contents/) 	|
+| 4 	| [Pazhahutamil](https://www.pazhahutamil.com/login/)	|
+| 5 	| [DQ World](https://www.dqworld.net/lang:en_GB/#!/landing)	|
+| 6 	| [Koobits](https://www.koobits.com/) 	|
