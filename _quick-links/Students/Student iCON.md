@@ -36,3 +36,7 @@ You can log in Student iCON via the QR code in the poster below or these link :
 If you have forgotten your password, you can approach your Form Teachers or the General Office staff to reset your password.
 
 You can also seek assistance directly through [https://for.edu.sg/xpshelpdesk](https://for.edu.sg/xpshelpdesk).
+
+![](/images/Slide8%20(1).jpg)
+
+![](/images/Slide9.jpg)
