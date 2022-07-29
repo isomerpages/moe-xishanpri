@@ -22,3 +22,9 @@ third_nav_title: Visual & Performing Arts
 ![](/images/CDsem%202%20senior.jpg)
 
 ### CCA schedule for 2022 (Juniors)
+
+![](/images/CDsem2.jpg)
+
+### XPS Chinese Dance @ Kampung Admiratly HDB Community Week
+
+Xishanites proudly presented our Chinese Dance while celebrating Life In the Heartlands during the HDB Community Week
