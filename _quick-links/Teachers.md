@@ -33,7 +33,7 @@ description: ""
 #### Exam Duty and Result Matters
 | No. 	| Site 	|
 |---	|---	|
-| 1 	| iExams 2.0 	|
+| 1 	| [iExams 2.0](https://iexams.seab.gov.sg/) 	|
 
 #### Professional Learning and Development
 
