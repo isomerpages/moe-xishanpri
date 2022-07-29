@@ -69,3 +69,5 @@ During the December holiday last year, the floorballers had a chance to visit Au
 | Sr girls 	| 4th 	| 1st 	| 1st 	| 1st 	| 3rd 	| 1st 	| 3rd 	| - 	| 3rd 	| 3rd 	| - 	| - 	| 1st 	|
 | Jr boys 	| - 	| 3rd 	| 3rd 	| 1st 	| 3rd 	| 2nd 	| 3rd 	| 1st 	|  	| - 	| - 	| 1st 	| - 	|
 | Jr girls 	| 1st 	| 3rd 	| 1st 	| 2nd 	| 2nd 	| 2nd 	| - 	| 3rd 	|  	| - 	| - 	| 1st 	| - 	|
+
+Since 2007, the school has been participating in the National Primary Schools Floorball Championship. Our achievements are the result of commitment from both teachers and pupils. With unwavering support from parents and dedicated coaches, we will keep the floor ball culture strong in Xishan for years to come.
