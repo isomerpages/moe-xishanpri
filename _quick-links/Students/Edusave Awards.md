@@ -20,21 +20,13 @@ The Edusave Character Award (ECHA) for our students is opened for nominations fo
 
 
 **Eligibility Criteria**
-
-  
-
 *   Student must be a Singapore Citizen.
 *   The nominee must have demonstrated good character and values on a consistent basis.
 
-  
 
 **Selection Criteria**
-
-  
-
 *   Students who have demonstrated School Values of Self-Discipline, Integrity, Respect and Resilience.
 *   Students who have demonstrated a high level of Civic Responsibility by showing concerns about issues related to their community or issues faced by others. They could have initiated some kind deeds or played an active role to address these issues and demonstrate commitment to making a positive impact.
 
-  
-
 **Selection Process Timeline**
+
