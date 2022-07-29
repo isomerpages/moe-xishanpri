@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs/.keep
       - Visual & Performing Arts/Guzheng Ensemble.md
       - Visual & Performing Arts/String Ensemble.md
       - Visual & Performing Arts/Chinese Dance.md
