@@ -15,3 +15,7 @@ third_nav_title: Physical Sports
 | Tan Yin Peng 	| [tan_yin_peng@moe.edu.sg](mailto:tan_yin_peng@moe.edu.sg) 	|
 | Ng Tai Mui Jamie 	| [ng_tai_mui@moe.edu.sg](mailto:ng_tai_mui@moe.edu.sg) 	|
 | Siti Sarah Bte Sokran 	| [siti_sarah_sokran@moe.edu.sg](mailto:siti_sarah_sokran@moe.edu.sg) 	|
+
+### CCA schedule for 2022
+
+![](/images/VBsem2.jpg)
