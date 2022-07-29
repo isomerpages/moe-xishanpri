@@ -54,3 +54,9 @@ Floor ball is a fast-paced sport that requires composure, speed, agility, excell
 ### Overseas Cultural Immersion and Training trip
 
 During the December holiday last year, the floorballers had a chance to visit Australia, Melbourne for a cultural immersion and training trip. They pit their skills against the local students and join them in their club training. Strong bonds were forged and they had a great time experiencing the Aussie hospitality.
+
+![](/images/Floorball1.jpg)
+
+![](/images/Floorball2.jpg)
+
+![](/images/Floorball3.jpg)
