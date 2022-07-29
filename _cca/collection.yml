@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/.keep
       - Clubs/Environmental Club.md
       - Clubs/ICT Club (Media Production).md
       - Clubs/English Drama.md
