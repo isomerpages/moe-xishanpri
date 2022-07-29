@@ -14,3 +14,8 @@ third_nav_title: Clubs
 | Mr Joseph Loke 	| [loke_peng_kuan@moe.edu.sg](mailto:loke_peng_kuan@moe.edu.sg) 	|
 | Mdm Adeline Yan 	| [yan_peiyun@moe.edu.sg](mailto:yan_peiyun@moe.edu.sg) 	|
 | Ms Chew Liang Liang 	| [khoo-chew_liang_liang@moe.edu.sg](mailto:khoo-chew_liang_liang@moe.edu.sg) 	|
+
+
+### CCA schedule for 2022
+
+![](/images/SDsem2.jpg)
