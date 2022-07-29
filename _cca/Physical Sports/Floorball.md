@@ -76,3 +76,7 @@ Since 2007, the school has been participating in the National Primary Schools Fl
 SPSSC Floorball 2018 National Junior Boys Div Champion
 
 ![](/images/Floorball6.jpg)
+SPSSC Floorball 2018 National Junior Girls Div Champions
+
+![](/images/Floorball7.jpg)
+Xishan Primary School Junior Floorball Team (Boys & Girls)
