@@ -31,3 +31,10 @@ description: ""
 | 4 	| [Pazhahutamil](https://www.pazhahutamil.com/login/)	|
 | 5 	| [DQ World](https://www.dqworld.net/lang:en_GB/#!/landing)	|
 | 6 	| [Koobits](https://www.koobits.com/) 	|
+
+#### Learning Portals User Guide
+
+| No. 	| Site 	|
+|---	|---	|
+| 1 	| [Guide on Navigation SLS](https://xishanpri.moe.edu.sg/qql/slot/u540/Revamp%202018/Quick%20Links/Students/b.%20Student%20E-Poster%20for%20Navigation%20on%20SLS.pdf) 	|
+| 2 	| [E-Learning Days](https://xishanpri.moe.edu.sg/useful-links/students/guide-on-navigating-sls) 	|
