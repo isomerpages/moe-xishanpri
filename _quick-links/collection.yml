@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Students/.keep
       - Students.md
       - Teachers.md
       - Parents/Parents Gateway.md
