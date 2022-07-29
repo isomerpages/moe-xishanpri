@@ -9,9 +9,9 @@ description: ""
 
 | No. 	| Site 	|
 |---	|---	|
-| 1 	| CES Mailbox (via VPN) 	|
-| 2 	| iCON 2.0 	|
-| 3 	| Parents Gateway 	|
+| 1 	| [CES Mailbox (via VPN)](https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fschools.gov.sg%2fowa)) 	|
+| 2 	| [iCON 2.0](https://icon.moe.edu.sg/) 	|
+| 3 	| [Parents Gateway](https://pg.moe.edu.sg/) 	|
 
 #### Administration
 | No. 	| Site 	|
