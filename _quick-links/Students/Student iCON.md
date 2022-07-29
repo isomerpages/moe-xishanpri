@@ -14,6 +14,5 @@ To further support and enhance learning, Xishanites will now have an additional 
 
 You can log in Student iCON via the QR code in the poster below or these link :
 
-1) [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)
-
+1) [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)    
 2) [https://for.edu.sg/studenticon](https://for.edu.sg/studenticon)
