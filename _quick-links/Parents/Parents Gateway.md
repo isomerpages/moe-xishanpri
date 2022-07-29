@@ -30,3 +30,7 @@ Frequently Asked Questions About Parent Gateway
 ![](/images/PG2.jpg)
 
 ![](/images/PG3.jpg)
+
+![](/images/PG4.jpg)
+
+![](/images/PG5.jpg)
