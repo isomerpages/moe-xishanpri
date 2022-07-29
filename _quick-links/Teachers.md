@@ -43,3 +43,10 @@ description: ""
 | 2 	| [SLS Info for Teachers](https://intranet.moe.gov.sg/etd/Pages/sls.aspx) 	|
 | 3 	| [HR Online](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx) 	|
 | 4 	| [Schoolbag](https://www.moe.gov.sg/schoolfinder) 	|
+
+#### Teaching and Learning Portals
+
+| No. 	| Site 	|
+|---	|---	|
+| 1 	| [SLS](https://vle.learning.moe.edu.sg/login) 	|
+| 2 	| [Other T&L Portals](https://xishanpri.moe.edu.sg/quick-links/students/learning-portals) 	|
