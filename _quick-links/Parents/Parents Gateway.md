@@ -24,3 +24,9 @@ We **strongly encourage** all parents to **download and use the PG App** as 
 Frequently Asked Questions About Parent Gateway
 
 ### Step-by-Step Guide - Setting up the PG Mobile App
+
+![](/images/PG1.jpg)
+
+![](/images/PG2.jpg)
+
+![](/images/PG3.jpg)
