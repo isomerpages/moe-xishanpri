@@ -16,3 +16,7 @@ third_nav_title: Clubs
 | Mdm Nur Rashidah Bte Abdullah 	| [nur_rashidah_abdullah@moe.edu.sg](mailto:nur_rashidah_abdullah@moe.edu.sg) 	|
 | Mdm Kristine Loh Chin Chin 	| [kristine_loh_chin_chin@moe.edu.sg](mailto:kristine_loh_chin_chin@moe.edu.sg) 	|
 | Mr Gary Song 	| [gary_song@moe.edu.sg](mailto:gary_song@moe.edu.sg) 	|
+
+### CCA schedule for 2022
+
+![](/images/EDsem2.jpg)
