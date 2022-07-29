@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Visual & Performing Arts/Example Title.md
+      - Visual & Performing Arts/Indian Dance.md
       - Visual & Performing Arts/Malay Dance.md
       - Visual & Performing Arts/.keep
       - Uniformed Groups/Red Cross.md
