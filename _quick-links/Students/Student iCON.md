@@ -25,3 +25,8 @@ You can log in Student iCON via the QR code in the poster below or these link :
 
 ### Logging In To Your Email Account
 
+![](/images/Slide3%20(1).jpg)
+
+![](/images/Slide4(1).jpg)
+
+![](/images/Slide5%20(1).jpg)
