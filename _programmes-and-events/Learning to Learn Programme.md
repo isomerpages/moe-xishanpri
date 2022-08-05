@@ -18,3 +18,5 @@ To facilitate effective learning, the school endeavours to imbue in our students
 ![](/images/Learning%20to%20Learn%20Photo%201.jpg)
 
 ### Xishanites Learning to Learn
+
+![](/images/Learning%20to%20Learn%20Programme%20img1.png)
