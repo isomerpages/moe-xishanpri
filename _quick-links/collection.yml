@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - 2022 Semester 2/.keep
       - Students/SLS Guide.md
       - Students/SLS Self Help Tips.md
       - Students/Login Troubleshooting.md
