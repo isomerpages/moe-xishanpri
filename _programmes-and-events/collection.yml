@@ -2,6 +2,7 @@ collections:
   programmes-and-events:
     output: true
     order:
+      - Applied Learning Programme (ALP).md
       - MOE Sexuality Education in Schools.md
       - Programmes for Active Learning (PAL).md
       - Learning to Learn Programme.md
