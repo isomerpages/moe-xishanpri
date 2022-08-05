@@ -2,6 +2,7 @@ collections:
   gallery:
     output: true
     order:
+      - Primary 1 Orientation Day.md
       - 2019 Semester 1/.keep
       - 2019 Semester 2/Parents Engagement Sessions.md
       - 2019 Semester 2/Chinese New Year.md
