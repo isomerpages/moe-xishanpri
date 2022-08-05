@@ -61,3 +61,9 @@ These leadership trainings and platforms provide students with more opportunitie
 UNDERSTANDING HOW I FEEL HELPS ME MANAGE MY ACTIONS AND EMOTIONS.
 
 ![](/images/DSC_1336.jpg)
+
+**GOAL-SETTING**
+
+SETTING GOALS MOTIVATES ME TO WORK TOWARDS MY DREAMS.
+
+![](/images/DSC_1365.jpg)
