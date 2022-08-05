@@ -20,10 +20,20 @@ In Xishan Primary School, our Learning for Life Programme (LLP) develops confide
 
 Every Xishanite is a leader who will:
 
-  
-
 1.    **C**onnect – Build positive relationships and develop a sense of purpose to lead and serve others   
 2.    Be **A**ctive – Be agents of change imbued with the belief that they can make a difference    
 3.    Keep **L**earning – Acquire mental skills to strengthen their leadership competencies   
 4.    Be **M**indful – Develop strong awareness and demonstrate empathy when serving others   
 5.    **Give** – Contribute meaningfully by serving their peers, the school or the community
+
+![](/images/LLP_1.png)
+
+**Leadership Development Programme**
+
+Leadership development in Xishan is segmented into three tiers namely – Personal Leadership, Class Leadership and School-Level & Peer Leadership. The tiered structure aims to help students develop their leadership skills progressively and realise their optimal leadership potential. Anchored on Robert K Greenleaf’s **Servant Leadership** philosophy, we create ample opportunities for students to lead by serving.
+
+**Tier 1 – Personal Leadership**
+
+  
+
+**4 + 5 Cs Mental Skills Framework**
