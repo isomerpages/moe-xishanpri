@@ -12,3 +12,5 @@ description: ""
 **Mission:** To Nurture Xishanites to Become Confident Learners, Effective Collaborators and Servant Leaders
 
 **Motto:** To Lead Is To Serve
+
+![](/images/LLP.png)
