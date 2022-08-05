@@ -14,3 +14,7 @@ The future is what we do in the present. The Xishan education experience not onl
 To facilitate effective learning, the school endeavours to imbue in our students the passion to learn. To do this, the school firmly believes that it is hence key to help students develop a language of learning. The Learning to Learn programme aspires to equip our learners with a common language for learning anchored on a set of key learning principles. These core principles are fundamental to students subsequently devising learning strategies that will eventually serve them so as to become not only effective learners but also lifelong learners as well.
 
 ### Our Core Learning Principles
+
+![](/images/Learning%20to%20Learn%20Photo%201.jpg)
+
+### Xishanites Learning to Learn
