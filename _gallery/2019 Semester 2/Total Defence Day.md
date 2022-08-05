@@ -11,3 +11,13 @@ Xishan Primary commemorates Total Defence Day! The students of Xishan Primary Sc
 The students learnt about how they too can play a part in Total Defence by pledging to maintain positive hygiene practices in school and at home. They also learnt about the sacrifices made by front-liners in the different ministries in Singapore’s current fight against COVID-19. In response, the students designed cards with personal thoughts to show their appreciation for these unsung heroes.
 
 Together we keep Singapore strong!
+
+![](/images/Total%20Defence%20Day%20(1).jpg)
+
+![](/images/Total%20Defence%20Day%20(0).jpg)
+
+![](/images/Total%20Defence%20Day%20(11).jpg)
+
+![](/images/Total%20Defence%20Day%20(12).jpg)
+
+![](/images/Total%20Defence%20Day%20(13).jpg)
