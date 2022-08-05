@@ -2,6 +2,7 @@ collections:
   programmes-and-events:
     output: true
     order:
+      - Xishanites' Achievements/2021.md
       - Xishanites' Achievements/2020.md
       - Xishanites' Achievements/2019.md
       - Xishanites' Achievements/.keep
