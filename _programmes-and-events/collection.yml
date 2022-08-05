@@ -2,6 +2,8 @@ collections:
   programmes-and-events:
     output: true
     order:
+      - Cyber Wellness@Xishan/Helping Children with Appropriate Online
+        Expression.md
       - Cyber Wellness@Xishan/Cyber Workout Song.md
       - Cyber Wellness@Xishan/.keep
       - Xishanites' Achievements/2022.md
