@@ -2,6 +2,7 @@ collections:
   programmes-and-events:
     output: true
     order:
+      - Cyber Wellness@Xishan/Helping Children Manage Cyber Bullying.md
       - Cyber Wellness@Xishan/Helping Children Manage Excessive Internet Use.md
       - Cyber Wellness@Xishan/Helping Children to Stay Safe Online.md
       - Cyber Wellness@Xishan/Helping Children with Appropriate Online
