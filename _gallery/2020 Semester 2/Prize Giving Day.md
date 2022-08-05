@@ -15,3 +15,5 @@ third_nav_title: 2020 Semester 2
 ![](/images/DSC_8952.jpg)
 
 ![](/images/DSC_9004.jpg)
+
+(uploaded 5 out of 220 images)
