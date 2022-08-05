@@ -47,3 +47,5 @@ Students who consistently demonstrate strong leadership competencies (5Cs) and e
 **Tier 3 – School-Level & Peer Leadership**
 
 In tier 3, we plan and create opportunities for **Prefects, CCA leaders and Peer Support Leaders to serve their peers, the school and community.** These student leaders undergo a rigorous selection process and are affirmed for their commitment to serving the school with these leadership appointments. Student leaders who display initiative and confidence in their communication are chosen to take on the role of **student ambassadors** to participate in student-initiated projects to serve the school and in community outreaches. The Peer Support Leaders receive training to help them understand their role to offer appropriate support to their peers in need. This leadership platform enables students to play a more active role in looking out for their peers, increasing their sense of ownership in creating a more inclusive learning environment for everyone.
+
+![](/images/Tier%203.png)
