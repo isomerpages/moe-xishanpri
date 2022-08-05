@@ -2,6 +2,7 @@ collections:
   programmes-and-events:
     output: true
     order:
+      - Programmes for Active Learning (PAL).md
       - Learning to Learn Programme.md
       - Cyber Wellness@Xishan/Safer Internet Day.md
       - Cyber Wellness@Xishan/Helping Children Manage Cyber Bullying.md
