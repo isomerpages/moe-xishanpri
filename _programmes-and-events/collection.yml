@@ -2,6 +2,7 @@ collections:
   programmes-and-events:
     output: true
     order:
+      - Learning to Learn Programme.md
       - Cyber Wellness@Xishan/Safer Internet Day.md
       - Cyber Wellness@Xishan/Helping Children Manage Cyber Bullying.md
       - Cyber Wellness@Xishan/Helping Children Manage Excessive Internet Use.md
