@@ -34,6 +34,16 @@ Leadership development in Xishan is segmented into three tiers namely – Person
 
 **Tier 1 – Personal Leadership**
 
-  
-
 **4 + 5 Cs Mental Skills Framework**
+
+![](/images/Tier%201.jpg)
+
+All Xishanites undergo personal leadership modules where they are taught mental skills strategies to strengthen their personal effectiveness. These lessons equip students with the knowledge and skills to develop as self-leaders with the desire and confidence to take ownership of their learning. The mental skills – awareness, goal-setting, imagery and self-talk serve as key strategies to guide students in strengthening their leadership competencies (5Cs). The personal leadership curriculum anchors students in our school values to develop their socio-emotional skills. All in all, personal leadership lays the foundation for students to undertake greater leadership responsibilities in Tier 2 and 3. 
+
+**Tier 2 – Class Leadership**
+
+Students who consistently demonstrate strong leadership competencies (5Cs) and exemplary behaviour are selected by their teachers as **Class Monitors**. Their training involves them in role-playing scenarios where they brainstorm ways to manage challenging situations that arise in class. To cater to students’ interest, teachers call upon students to volunteer as **Subject Reps, Environment Ambassadors, ICT Leaders and VIA Champions** to serve in the areas they are passionate about. These class leaders are engaged in role specific trainings provided by their teachers. Class leadership roles are rotated every semester to **provide leadership opportunities for every Xishanite to serve**.
+
+**Tier 3 – School-Level & Peer Leadership**
+
+In tier 3, we plan and create opportunities for **Prefects, CCA leaders and Peer Support Leaders to serve their peers, the school and community.** These student leaders undergo a rigorous selection process and are affirmed for their commitment to serving the school with these leadership appointments. Student leaders who display initiative and confidence in their communication are chosen to take on the role of **student ambassadors** to participate in student-initiated projects to serve the school and in community outreaches. The Peer Support Leaders receive training to help them understand their role to offer appropriate support to their peers in need. This leadership platform enables students to play a more active role in looking out for their peers, increasing their sense of ownership in creating a more inclusive learning environment for everyone.
