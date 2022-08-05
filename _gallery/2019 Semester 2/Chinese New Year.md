@@ -8,3 +8,8 @@ third_nav_title: 2019 Semester 2
 
 May your heart be filled with happiness, love and contentment as you celebrate the new beginning. Gong Xi Fa Cai!
 
+![](/images/CNY%202020%20(1).jpg)
+![](/images/CNY%202020%20(10).jpg)
+![](/images/CNY%202020%20(11).jpg)
+![](/images/CNY%202020%20(12).jpg)
+![](/images/CNY%202020%20(13).jpg)
