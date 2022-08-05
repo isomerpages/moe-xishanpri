@@ -12,9 +12,9 @@ The students learnt about how they too can play a part in Total Defence by pledg
 
 Together we keep Singapore strong!
 
-![](/images/Total%20Defence%20Day%20(1).jpg)
-
 ![](/images/Total%20Defence%20Day%20(0).jpg)
+
+![](/images/Total%20Defence%20Day%20(1).jpg)
 
 ![](/images/Total%20Defence%20Day%20(11).jpg)
 
