@@ -2,5 +2,6 @@ collections:
   gallery:
     output: true
     order:
+      - 2022 Semester 2/E Open House.md
       - 2022 Semester 2/Racial Harmony Day.md
       - 2022 Semester 2/.keep
