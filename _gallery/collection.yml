@@ -2,11 +2,10 @@ collections:
   gallery:
     output: true
     order:
-      - 2020 Semester 2/Racial Harmony Day.md
-      - 2020 Semester 2/Teachers Day.md
-      - 2020 Semester 2/Prize Giving Day.md
-      - 2020 Semester 2/.keep
-      - Primary 1 Orientation Day.md
+      - Gallery.md
+      - 2022 Semester 2/.keep
+      - 2022 Semester 2/E Open House.md
+      - 2022 Semester 2/Racial Harmony Day.md
       - 2020 Semester 1/.keep
       - 2020 Semester 1/Parents Engagement Sessions.md
       - 2020 Semester 1/Chinese New Year.md
@@ -14,7 +13,8 @@ collections:
       - 2020 Semester 1/Parent Child Teacher Conference.md
       - 2020 Semester 1/International Friendship Day.md
       - 2020 Semester 1/Primary 1 Registration.md
-      - Gallery.md
-      - 2022 Semester 2/E Open House.md
-      - 2022 Semester 2/Racial Harmony Day.md
-      - 2022 Semester 2/.keep
+      - 2020 Semester 2/.keep
+      - 2020 Semester 2/Racial Harmony Day.md
+      - 2020 Semester 2/Teachers Day.md
+      - 2020 Semester 2/Prize Giving Day.md
+      - Primary 1 Orientation Day.md
