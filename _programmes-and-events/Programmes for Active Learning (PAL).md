@@ -6,3 +6,5 @@ description: ""
 # **Programmes for Active Learning (PAL)**
 
 ### Objectives of PAL
+
+1) To provide students with broad exposure and experiences to the 4 PAL domains
