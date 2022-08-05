@@ -2,6 +2,7 @@ collections:
   programmes-and-events:
     output: true
     order:
+      - MOE Sexuality Education in Schools.md
       - Programmes for Active Learning (PAL).md
       - Learning to Learn Programme.md
       - Cyber Wellness@Xishan/Safer Internet Day.md
