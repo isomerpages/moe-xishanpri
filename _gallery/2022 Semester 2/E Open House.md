@@ -11,3 +11,5 @@ We will be pivoting to an E-Open House on 19 July, 5 – 6pm! In view of the pot
 For those who have indicated your interest earlier, we will be reaching out to you via email to inform you of the change. Those who wish to sign up may scan the QR code to indicate your interest! Limited slots only!
 
 **Click on this link [Key Programmes](https://sites.google.com/xps.edu.sg/2020openhouse/key-programmes) to find out more about how learning takes place in school!**
+
+![](/images/WhatsApp%20Image%202022-06-23.jpeg)
