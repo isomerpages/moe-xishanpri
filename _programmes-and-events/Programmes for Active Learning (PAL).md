@@ -21,3 +21,5 @@ description: ""
 ### Tinkering Programme
 
 To promote creativity and an interactive environment to nurture young minds, we started infusing robotics lessons into our PAL programme. During the last 2 weeks of every term, our lower primary students will go through 2 sessions of robotics lesson. All these sessions are led by our PAL teachers who have gone through the necessary trainings.
+
+![](/images/14.png)
