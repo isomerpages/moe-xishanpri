@@ -24,4 +24,4 @@ In view of the COVID-19 situation, there will **not be any in-person registrati
 
 *   P1 Registration Website: [https://beta.moe.gov.sg/primary/p1-registration/](https://beta.moe.gov.sg/primary/p1-registration/)
 
-*   Registration of SingPass: [https://www.singpass.gov.sg/singpass/register/instructions](https://www.singpass.gov.sg/singpass/register/instructions)
+*   Registration of SingPass: [https://www.singpass.gov.sg/singpass/register/instructions](https://www.singpass.gov.sg/singpass/register/instructions)
