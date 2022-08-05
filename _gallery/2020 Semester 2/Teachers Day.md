@@ -18,3 +18,5 @@ Xishanites celebrate Teachers’ Day with gusto today. The challenging situation
 (uploaded 3 out of 8)
 
 (video to be uploaded on yt)
+
+Our students shared their heartfelt wishes and gratitude for their teachers for all their hard work and dedication towards guiding them to be the best that they can be.
