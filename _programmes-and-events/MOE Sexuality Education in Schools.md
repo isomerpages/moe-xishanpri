@@ -25,20 +25,15 @@ description: ""
 
 You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
 
-  
-
-OVERVIEW OF XISHAN PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2022
---------------------------------------------------------------------------
+### OVERVIEW OF XISHAN PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2022
 
 4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 
-  
-
 5.  The subjects that incorporate topics on sexuality include:
 
-1.  Science
-2.  Form Teacher Guidance Period (FTGP)
-3.  Character and Citizenship Education (CCE)
+	a.  Science    
+	b.  Form Teacher Guidance Period (FTGP)   
+	c.  Character and Citizenship Education (CCE)
 
 GROWING YEARS (GY) PROGRAMME: "CURIOUS MINDS (2ND EDITION" (PRIMARY 5 & 6) TEACHING & LEARNING RESOURCE PACKAGE
 ---------------------------------------------------------------------------------------------------------------
