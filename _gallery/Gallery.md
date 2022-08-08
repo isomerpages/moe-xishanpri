@@ -83,8 +83,8 @@ description: ""
 
 | No. 	| Site 	|
 |---	|---	|
-| 1 	| CCA Open House 	|
-| 2 	| Parents Engagement Sessions 	|
-| 3 	| Chinese New Year 	|
-| 4 	| Total Defence Day 	|
-| 5 	| Parent-Child-Teacher Conference 	|
+| 1 	| [CCA Open House](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-1/cca-open-house) 	|
+| 2 	| [Parents Engagement Sessions](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-1/parents-engagement-sessions) 	|
+| 3 	| [Chinese New Year](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-1/chinese-new-year) 	|
+| 4 	| [Total Defence Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-Semester-1/total-defence-day) 	|
+| 5 	| [Parent-Child-Teacher Conference](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-Semester-1/parent-child-teacher-conference) 	|
