@@ -32,3 +32,7 @@ third_nav_title: Visual & Performing Arts
 Our Indian Dancers took part in the Singapore Youth Festival Arts Presentation 2022 at Gateway Theatre. Our Primary 3 to 6 dancers exhibited confidence and resilience as they worked together as a team to put up their best performance.  
 
 A heartfelt gratitude to all parents, teachers and the Indian Dance instructor for supporting our girls to showcase their talents.
+
+![](/images/indiandancesyf3.jpg)
+
+![](/images/indiandancesyf4.jpg)
