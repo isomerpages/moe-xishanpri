@@ -17,3 +17,5 @@ The annual CCA Fair was held on Tuesday, 8 January 2019. The P3 and P4 students 
 ![](/images/CCA_FAIR%20(12).jpeg)
 
 ![](/images/CCA_FAIR%20(13).jpeg)
+
+(uploaded 5 out of 20 images)
