@@ -57,12 +57,12 @@ description: ""
 
 | No. 	| Site 	|
 |---	|---	|
-| 1 	| Parents Engagement Sessions 	|
-| 2 	| Chinese New Year 	|
-| 3 	| Total Defence Day 	|
-| 4 	| Parent-Child-Teacher Conference 	|
-| 5 	| International Friendship Day 	|
-| 6 	| Primary 1 Registration 	|
+| 1 	| [Parents Engagement Sessions](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-1/parents-engagement-sessions) 	|
+| 2 	| [Chinese New Year](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-1/chinese-new-year) 	|
+| 3 	| [Total Defence Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-1/total-defence-day) 	|
+| 4 	| [Parent-Child-Teacher Conference](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/parent-child-teacher-conference) 	|
+| 5 	| [International Friendship Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-1/international-friendship-day) 	|
+| 6 	| [Primary 1 Registration](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-1/primary-1-registration) 	|
 
 **2019 Semester 2**
 
