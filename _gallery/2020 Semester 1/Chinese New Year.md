@@ -4,7 +4,6 @@ permalink: /quick-links/gallery/2020-semester-1/chinese-new-year
 description: ""
 third_nav_title: 2020 Semester 1
 ---
-
 # **Chinese New Year**
 
 May your heart be filled with happiness, love and contentment as you celebrate the new beginning. Gong Xi Fa Cai!
@@ -14,3 +13,5 @@ May your heart be filled with happiness, love and contentment as you celebrate t
 ![](/images/CNY%202020%20(11).jpg)
 ![](/images/CNY%202020%20(12).jpg)
 ![](/images/CNY%202020%20(13).jpg)
+
+(uploaded 5 out of 44 images)
