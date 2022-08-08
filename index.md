@@ -16,7 +16,7 @@ sections:
           description: ""
           url: /resources-on-the-new-psle-Scoring-and-Secondary-1-Posting-Systems
         - title: Updates on Group Personal Accident Insurance for Students
-          description: Important highlight B is equally important
+          description: ""
           url: /Updates-on-Group-Personal-Accident-gpa-Insurance-for-Students
         - title: Page A
           description: Page A is important too
