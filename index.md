@@ -12,9 +12,9 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: Resources on new psle Scoring & Secondary 1 Posting Systems
+          description: ""
+          url: /resources-on-the-new-psle-Scoring-and-Secondary-1-Posting-Systems
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
