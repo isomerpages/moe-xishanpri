@@ -23,3 +23,9 @@ Today, we commemorated Racial Harmony Day. The students had enriching conversati
 ![](/images/7%20(3).jpg)
 
 ![](/images/8%20(4).jpg)
+
+A week was dedicated with a series of exciting and meaningful activities for the RHD, with this year's theme, being 'Common Spaces, Connected Communities’.
+
+One of the highlights this year, is our very own Xishan Friendship Pillar. All our Primary 1 to Primary 6 students went on to fold origami to bring forth their wishes for a united and harmonious Xishan. Their wishes to make friends regardless of races and to share common spaces within Xishan were represented in the folding of origami hearts and cranes. Granted, the heart and the crane symbolise love and peace, that we hope to that our Xishanites will hold dear to as they grow up. May Let this pillar of friendship stay as a symbol of racial harmony in Xishan.
+
+Racial Harmony Video : [Link](https://www.facebook.com/xishanps/videos/2705523769747462/)
