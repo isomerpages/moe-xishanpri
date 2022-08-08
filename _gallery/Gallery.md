@@ -20,3 +20,14 @@ description: ""
 |---	|---	|
 | 1 	| E-Open House 	|
 | 2 	| Racial Harmony Day 	|
+
+
+**2021 Semester 1**
+
+| No. 	| Site 	|
+|---	|---	|
+| 1 	| P5 & P6 Parents Engagement Sessions 	|
+| 2 	| P3 & P4 Parents Engagement Sessions 	|
+| 3 	| Chinese New Year 	|
+| 4 	| Total Defence Day 	|
+| 5 	| P1 & P2 Parents Engagement Sessions 	|
