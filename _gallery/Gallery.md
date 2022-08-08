@@ -27,7 +27,7 @@ description: ""
 |---	|---	|
 | 1 	| [Racial Harmony Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-2/racial-harmony-day) 	|
 | 2 	| [Xishan E-Open House](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-2/xishan-e-open-house) 	|
-| 3 	| [National Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-2/national-day) 	|
+| 3 	| [National Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-2/national-day) - images not loading on original website		|
 | 4 	| [Student Leader Investiture](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-2/student-leader-investiture) 	|
 | 5 	| [Teachers’ Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-2/teachers-day) 	|
 | 6 	| [Children's Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-2/childrens-day) 	|
