@@ -14,4 +14,4 @@ The song was introduced for the first time in Xishan primary School during our C
 
 The video has been uploaded in the school website for parents/guardians to try it out with their child/ward. Together, lets help our child manage their screen time.
 
-(song to uploaded on yt)
+(song to be uploaded on yt)
