@@ -18,9 +18,9 @@ sections:
         - title: Updates on Group Personal Accident Insurance for Students
           description: ""
           url: /Updates-on-Group-Personal-Accident-gpa-Insurance-for-Students
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Student Learning Space
+          description: ""
+          url: https://vle.learning.moe.edu.sg/login
   - infobar:
       title: Resources on the new PSLE Scoring and S1 posting system
       button: click here
