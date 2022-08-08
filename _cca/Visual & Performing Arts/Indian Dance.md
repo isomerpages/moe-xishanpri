@@ -36,3 +36,7 @@ A heartfelt gratitude to all parents, teachers and the Indian Dance instructor f
 ![](/images/indiandancesyf3.jpg)
 
 ![](/images/indiandancesyf4.jpg)
+
+### Achieved Distinction at SYF in 2018
+
+![](/images/WhatsApp%20Image%202021-01-20.jpeg)
