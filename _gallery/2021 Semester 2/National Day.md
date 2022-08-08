@@ -28,3 +28,7 @@ Throwback to Xishan Village’s Dance of the Nation during the school’s Nation
 Celebrating Singapore’s 56th Birthday amidst the challenging times, the happy and proud smiles of our Xishanites still shine through. Xishanites also expressed their gratitude and appreciation to our frontline medical heroes. Singapore may be a little red dot, but with everyone supporting and appreciating one another, our roar can certainly be heard far and wide.
 
 (images not loading)
+
+Xishan salutes all our Olympians representing Singapore in Tokyo. To all our Olympic heroes, thank you for all your sacrifices, sweat and tears to fly our Singapore Flag high at the Tokyo Olympics and Paralympics, and to allow our Singapore Spirit to shine bright, 5,000 km away in Tokyo.
+
+(images not loading)
