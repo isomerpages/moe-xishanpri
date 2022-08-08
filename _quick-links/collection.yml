@@ -2,6 +2,8 @@ collections:
   quick-links:
     output: true
     order:
+      - Students/.keep
+      - Students/Students.md
       - Students/SLS Guide.md
       - Students/SLS Self Help Tips.md
       - Students/Login Troubleshooting.md
@@ -9,8 +11,6 @@ collections:
       - Students/Learning Portals.md
       - Students/Edusave Awards.md
       - Students/Booklist.md
-      - Students/Students.md
-      - Students/.keep
       - Teachers.md
       - Parents/Parents.md
       - Parents/Parents Gateway.md
