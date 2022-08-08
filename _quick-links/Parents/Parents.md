@@ -24,5 +24,5 @@ third_nav_title: Parents
 | 2 	| [MOE School Information](https://sis.moe.gov.sg/SchoolDetails.aspx?schoolCode=1227) 	|
 | 3 	| [Changes to the PSLE scoring & S1 posting](/quick-links/parents/changes-to-the-psle-scoring-and-s1-posting) 	|
 | 4 	| [Pac@Gov](https://www.hrp.gov.sg/hrp/#/)	|
-| 5 	| [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)	|
-| 6 	| [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso) 	|
+| 5 	| [MOE Parent Kit](https://www.moe.gov.sg/parentkit#3)	|
+| 6 	| [Consent for Photography and Videos](https://xishanpri.moe.edu.sg/quick-links/parents/consent-for-photography-and-videos) 	|
