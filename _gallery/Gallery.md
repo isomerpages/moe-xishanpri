@@ -38,11 +38,11 @@ description: ""
 
 | No. 	| Site 	|
 |---	|---	|
-| 1 	| P5 & P6 Parents Engagement Sessions 	|
-| 2 	| P3 & P4 Parents Engagement Sessions 	|
-| 3 	| Chinese New Year 	|
-| 4 	| Total Defence Day 	|
-| 5 	| P1 & P2 Parents Engagement Sessions 	|
+| 1 	| [P5 & P6 Parents Engagement Sessions](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-1/p5-n-p6-parents-engagement-sessions) 	|
+| 2 	| [P3 & P4 Parents Engagement Sessions](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-1/p3-n-p4-parents-engagement-sessions) 	|
+| 3 	| [Chinese New Year](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-1/2021-chinese-new-year) 	|
+| 4 	| [Total Defence Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-1/total-defence-day) 	|
+| 5 	| [P1 & P2 Parents Engagement Sessions](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-1/p1-n-p2-parents-engagement-sessions) 	|
 
 **2020 Semeter 2**
 
