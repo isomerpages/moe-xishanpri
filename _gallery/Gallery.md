@@ -69,12 +69,6 @@ description: ""
 | No. 	| Site 	|
 |---	|---	|
 | 1 	| [Xishan Open House](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/xishan-open-house)
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
- 	|
 | 2 	| [Racial Harmony Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/racial-harmony-day) 	|
 | 3 	| [National Education Show](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/national-education-show) 	|
 | 4 	| [Teachers' Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/teachers-day) 	|
