@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Site Map.md
       - Principal's Message.md
       - School History.md
       - The Xishan Story.md
