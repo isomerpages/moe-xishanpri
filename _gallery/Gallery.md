@@ -76,8 +76,8 @@ description: ""
 | 6 	| Deepavali 	|
 | 7 	| Prize Giving Day 	|
 | 8 	| Prize Giving Day 	|
-| 9 	| Parent-Child-Teacher Conference 	|
-| 10 	| Primary 1 Orientation Day 	|
+| 9 	| [Parent-Child-Teacher Conference](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/parent-child-teacher-conference) 	|
+| 10 	| [Primary 1 Orientation Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/primary-1-orientation-day) 	|
 
 **2019 Semester 1**
 
