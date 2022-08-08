@@ -68,13 +68,19 @@ description: ""
 
 | No. 	| Site 	|
 |---	|---	|
-| 1 	| Xishan Open House 	|
-| 2 	| Racial Harmony Day 	|
-| 3 	| National Education Show 	|
-| 4 	| Teachers' Day 	|
-| 5 	| Children's Day 	|
-| 6 	| Deepavali 	|
-| 7   |  Primary 6 Graduation Day   |
+| 1 	| [Xishan Open House](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/xishan-open-house)
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+ 	|
+| 2 	| [Racial Harmony Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/racial-harmony-day) 	|
+| 3 	| [National Education Show](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/national-education-show) 	|
+| 4 	| [Teachers' Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/teachers-day) 	|
+| 5 	| [Children's Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/childrens-day) 	|
+| 6 	| [Deepavali](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/deepavali) 	|
+| 7   |  [Primary 6 Graduation Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/primary-6-graduation-day)   |
 | 8 	| [Prize Giving Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/prize-giving-day) 	|
 | 9 	| [Parent-Child-Teacher Conference](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/parent-child-teacher-conference) 	|
 | 10 	| [Primary 1 Orientation Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/primary-1-orientation-day) 	|
