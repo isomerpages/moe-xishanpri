@@ -6,12 +6,6 @@ third_nav_title: Visual & Performing Arts
 ---
 # **Indian Dance**
 
-![](/images/WhatsApp%20Image%202021-01-20.jpeg)
-**Achieved Distinction at SYF in 2018**
-
-![](/images/WhatsApp%20Image%202021-01-20-1.jpeg)
-**Prize Giving Day 2020**
-
 ### Teachers-in-charge:
 
 | Name of teacher 	| Email address 	|
