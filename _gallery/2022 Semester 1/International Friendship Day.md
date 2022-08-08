@@ -20,3 +20,6 @@ In the spirit of our 85th anniversary celebrations, national flowers of each cou
 We conclude the CCE-IFD lessons for all Xishanites. We hope our Xishanites continue to learn more about ASEAN countries and most importantly, to continue to forge close friendships with fellow Xishanites. The kind notes that they have written for one another and the flower origami they have learnt to fold serve as a reminder that we will always continue to love, care and share with one another.
 
 Special thanks to our PSG members who have enthusiastically come forward to be part of the IFD commemoration this year. We are so glad you are back to interact with our Xishanites again! Thanks for helping us to put the folded flowers into beautiful bouquets!
+
+![](/images/IFD-2.jpg)
+
