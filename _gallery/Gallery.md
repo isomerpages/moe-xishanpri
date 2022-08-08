@@ -45,3 +45,20 @@ description: ""
 | 5 	| P1 & P2 Parents Engagement Sessions 	|
 
 **2020 Semeter 2**
+
+| No. 	| Site 	|
+|---	|---	|
+| 1 	| Xishan Open House 	|
+| 2 	| Racial Harmony Day 	|
+| 3 	| Teachers' Day 	|
+| 4 	| Prize Giving Day 2020 	|
+| 5 	| Teachers’ Day 	|
+| 6 	| Children's Day 	|
+| 7 	| Deepavali 	|
+| 8 	| Prize Giving Day 	|
+
+**2020 Semester 1**
+
+**2019 Semester 2**
+
+**2019 Semester 1**
