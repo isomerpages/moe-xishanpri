@@ -4,15 +4,22 @@ permalink: /about-us/staff/school-executive-committee-exco
 description: ""
 third_nav_title: Staff
 ---
+<img src="/images/Quek-Sim%20Kim%20Liang%20Anne.jpg" 
+     style="width:25%">
+
+Principal    
+Mrs Anne Quek   
+[xishan_ps@moe.edu.sg](mailto:xishan_ps@moe.edu.sg)
+
 ### Year Heads
 
 
 | No 	| Name 	| Designation 	| Email Address 	|
 |---	|---	|---	|---	|
-| 1 	| Ms Mandy Lau Tyng Tyng 	| Lower Primary Year Head 	| lau_tyng_tyng_mandy@moe.edu.sg 	|
-| 2 	| Ms Wong Mei Li 	| Middle Primary Year Head 	| wong_mei_li@moe.edu.sg 	|
-| 3 	| Mdm Leong Pui Fun Janice 	| Upper Primary Year Head 	| leong_pui_fun@moe.edu.sg 	|
-| 4 	| Ms Amanda Wee Sze Yi 	| Assistant Upper Primary Year Head 	| amanda_wee_sze_yi@moe.edu.sg 	|
+| 1 	| Ms Mandy Lau Tyng Tyng 	| Lower Primary Year Head 	| [lau_tyng_tyng_mandy@moe.edu.sg](mailto:lau_tyng_tyng_mandy@moe.edu.sg) 	|
+| 2 	| Ms Wong Mei Li 	| Middle Primary Year Head 	| [wong_mei_li@moe.edu.sg](mailto:wong_mei_li@moe.edu.sg) 	|
+| 3 	| Mdm Leong Pui Fun Janice 	| Upper Primary Year Head 	| [leong_pui_fun@moe.edu.sg](mailto:leong_pui_fun@moe.edu.sg) 	|
+| 4 	| Ms Amanda Wee Sze Yi 	| Assistant Upper Primary Year Head 	| [amanda_wee_sze_yi@moe.edu.sg](mailto:amanda_wee_sze_yi@moe.edu.sg) 	|
 
 ### Heads of Departments
 
