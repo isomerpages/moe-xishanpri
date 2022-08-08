@@ -29,3 +29,38 @@ Celebrating Achievements, Leaps and Milestones’ resonates among Xishanities as
 ![](/images/7%20(2).jpg)
 
 ![](/images/8%20(3).jpg)
+
+Celebrating Students' successes
+-------------------------------
+
+It has been a fruitful learning experience for Xishanites this year as we celebrate our students’ successes in the various departments by presenting the following awards:
+
+1) The Good Progress Award for Chinese Language
+
+2) National Text Recitation Competition (Team: Silver and Bronze, Individual: Bronze)
+
+3) Chinese Penmanship Competition (First, Second and Consolation prizes)
+
+4) Library Book Loan Competition (Top borrower from P1 to P6)
+
+5) Singapore Youth Festival Youth Station ( Certificate of Participation)
+
+6) Singapore Youth Festival Art Exhibition ( Certificate of Participation & Certificate of Recognition)
+
+7) Draw My Stamp Story Art Competition (Bronze)
+
+8) Malay Creative Writing Competition ( Gold with Honours, Gold, Silver & Bronze )
+
+9) Pei Hwa Virtual Hackathon 2021 (Best in Design)
+
+10) Our Schools, Our Stories – Photo and Video Contest 2021 (Certificate of Participation)
+
+11) National Mathematical Olympiad of Singapore (Honourable Mention)
+
+12) Singapore Primary Science Olympiad by NUS School of Math and Science (Silver and Bronze)
+
+13) Sony Creative Science Award 2021 (Whizkid Category)
+
+14) Xishan Character Award
+
+Kudos to the prize and award winners!
