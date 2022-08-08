@@ -30,3 +30,7 @@ third_nav_title: Visual & Performing Arts
 ### Singapore Youth Festival Art Presentation 2022
 
 After months of hard work put in by the students, teachers and instructor, our String Ensemble participated in their 1st SYF at SOTA! The team did very well and we are very proud of them!
+
+![](/images/SESYF2.jpg)
+
+![](/images/SESYF1.jpg)
