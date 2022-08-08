@@ -12,18 +12,26 @@ To Xishanites, this is a good time to express our gratitude to the people around
 
 We wish everyone a prosperous year ahead!
 
-![](/images/CNY_1.jpg)
+<img src="/images/CNY_1.jpg" 
+     style="width:50%">
+		 
+<img src="/images/CNY_2.jpg" 
+     style="width:50%">
+		 
+<img src="/images/CNY_3.jpg" 
+     style="width:50%">
 
-![](/images/CNY_2.jpg)
+<img src="/images/CNY_4.jpg" 
+     style="width:50%">
 
-![](/images/CNY_3.jpg)
+<img src="/images/CNY_5.jpg" 
+     style="width:50%">
 
-![](/images/CNY_4.jpg)
+<img src="/images/CNY_6.jpg" 
+     style="width:50%">
 
-![](/images/CNY_5.jpg)
+<img src="/images/CNY_7.jpg" 
+     style="width:50%">
 
-![](/images/CNY_6.jpg)
-
-![](/images/CNY_7.jpg)
-
-![](/images/CNY_8.jpg)
+<img src="/images/CNY_8.jpg" 
+     style="width:50%">
