@@ -8,10 +8,10 @@ third_nav_title: Staff
 
 | No 	| Name 	| Designation 	| Email Address 	|
 |---	|---	|---	|---	|
-| 1 	| Ms Kristine Loh Chin Chin 	| English Language 	| kristine_loh_chin_chin@moe.edu.sg 	|
-| 2 	| Ms Alison Wu Peishan 	| Mathematics 	| alison_wu@moe.edu.sg 	|
-| 3 	| Mdm Siti Sarah Sokran 	| Character & Citizenship Education & Partnership 	| siti_sarah_sokran@moe.edu.sg 	|
-| 4 	| Ms Ivy Heng Xin Yi 	| Information & Communication Technologies 	| heng_xin_yi@moe.edu.sg 	|
+| 1 	| Ms Kristine Loh Chin Chin 	| English Language 	| [kristine_loh_chin_chin@moe.edu.sg](mailto:kristine_loh_chin_chin@moe.edu.sg) 	|
+| 2 	| Ms Alison Wu Peishan 	| Mathematics 	| [alison_wu@moe.edu.sg](mailto:alison_wu@moe.edu.sg) 	|
+| 3 	| Mdm Siti Sarah Sokran 	| Character & Citizenship Education & Partnership 	| [siti_sarah_sokran@moe.edu.sg](mailto:siti_sarah_sokran@moe.edu.sg) 	|
+| 4 	| Ms Ivy Heng Xin Yi 	| Information & Communication Technologies 	| [heng_xin_yi@moe.edu.sg](mailto:heng_xin_yi@moe.edu.sg) 	|
 
 
 ### Subject Heads
