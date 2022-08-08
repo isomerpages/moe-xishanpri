@@ -11,3 +11,9 @@ Our Primary 5 students at National Education Show (National Day Parade Preview) 
 ![](/images/National%20Education%20Show%20(1).jpg)
 
 ![](/images/National%20Education%20Show%20(10).jpg)
+
+![](/images/National%20Education%20Show%20(11).jpg)
+
+![](/images/National%20Education%20Show%20(12).jpg)
+
+![](/images/National%20Education%20Show%20(13).jpg)
