@@ -10,3 +10,7 @@ We had our first Parents Engagement Session on 22 January 2021. The objective of
 
 ### PSLE Scoring & Sec 1 Posting Briefing Details
 
+[Changes to PSLE Scoring & S1 Posting from 2021.pdf](/files/Changes%20to%20PSLE%20Scoring%20&%20S1%20Posting%20from%202021.pdf)  
+
+[P6 Parents Engagement Year Head Slides.pdf](/files/P6%20Parents%20Engagement%20Year%20Head%20Slides.pdf)  
+[P5 Parents Engagement Year Head Slides.pdf](/files/P5%20Parents%20Engagement%20Year%20Head%20Slides.pdf)
