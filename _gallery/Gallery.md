@@ -66,4 +66,17 @@ description: ""
 
 **2019 Semester 2**
 
+| No. 	| Site 	|
+|---	|---	|
+| 1 	| Xishan Open House 	|
+| 2 	| Racial Harmony Day 	|
+| 3 	| National Education Show 	|
+| 4 	| Teachers' Day 	|
+| 5 	| Children's Day 	|
+| 6 	| Deepavali 	|
+| 7 	| Prize Giving Day 	|
+| 8 	| Prize Giving Day 	|
+| 9 	| Parent-Child-Teacher Conference 	|
+| 10 	| Primary 1 Orientation Day 	|
+
 **2019 Semester 1**
