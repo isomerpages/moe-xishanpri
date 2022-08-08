@@ -52,10 +52,6 @@ description: ""
 | 2 	| Racial Harmony Day 	|
 | 3 	| Teachers' Day 	|
 | 4 	| Prize Giving Day 2020 	|
-| 5 	| Teachers’ Day 	|
-| 6 	| Children's Day 	|
-| 7 	| Deepavali 	|
-| 8 	| Prize Giving Day 	|
 
 **2020 Semester 1**
 
