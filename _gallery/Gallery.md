@@ -55,6 +55,15 @@ description: ""
 
 **2020 Semester 1**
 
+| No. 	| Site 	|
+|---	|---	|
+| 1 	| Parents Engagement Sessions 	|
+| 2 	| Chinese New Year 	|
+| 3 	| Total Defence Day 	|
+| 4 	| Parent-Child-Teacher Conference 	|
+| 5 	| International Friendship Day 	|
+| 6 	| Primary 1 Registration 	|
+
 **2019 Semester 2**
 
 **2019 Semester 1**
