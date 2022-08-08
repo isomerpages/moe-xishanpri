@@ -21,6 +21,18 @@ description: ""
 | 1 	| E-Open House 	|
 | 2 	| Racial Harmony Day 	|
 
+**2021 Semester 2**
+
+| No. 	| Site 	|
+|---	|---	|
+| 1 	| Racial Harmony Day 	|
+| 2 	| Xishan E-Open House 	|
+| 3 	| National Day 	|
+| 4 	| Student Leader Investiture 	|
+| 5 	| Teachers’ Day 	|
+| 6 	| Children's Day 	|
+| 7 	| Deepavali 	|
+| 8 	| Prize Giving Day 	|
 
 **2021 Semester 1**
 
@@ -31,3 +43,5 @@ description: ""
 | 3 	| Chinese New Year 	|
 | 4 	| Total Defence Day 	|
 | 5 	| P1 & P2 Parents Engagement Sessions 	|
+
+**2020 Semeter 2**
