@@ -20,9 +20,9 @@ third_nav_title: Parents
 
 | No. 	| Site 	|
 |---	|---	|
-| 1 	| [SC Mobile](https://scmobile.moe.edu.sg/login) 	|
-| 2 	| [HRP Portal](https://www.hrp.gov.sg/hrp/#/) 	|
-| 3 	| [School Cockpit Plus](https://schoolcockpit.moe.gov.sg/) 	|
+| 1 	| [Schoolbag](https://www.schoolbag.edu.sg/) 	|
+| 2 	| [MOE School Information](https://sis.moe.gov.sg/SchoolDetails.aspx?schoolCode=1227) 	|
+| 3 	| [Changes to the PSLE scoring & S1 posting](/quick-links/parents/changes-to-the-psle-scoring-and-s1-posting) 	|
 | 4 	| [Pac@Gov](https://www.hrp.gov.sg/hrp/#/)	|
 | 5 	| [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)	|
 | 6 	| [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso) 	|
