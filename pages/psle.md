@@ -15,4 +15,4 @@ The new PSLE scoring and Secondary 1 Posting systems will take effect this year.
 *   Two videos which address commonly asked questions on the new PSLE Scoring and Secondary 1 Posting Systems, and
 *   The MOE PSLE microsite that contains information on the changes to the PSLE Scoring and Secondary 1 Posting Systems.
 
-For more information, click [here](https://www.moe.gov.sg/microsites/psle-fsbb)
+For more information, click [here](https://www.moe.gov.sg/microsites/psle-fsbb).
