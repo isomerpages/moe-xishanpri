@@ -80,3 +80,11 @@ description: ""
 | 10 	| Primary 1 Orientation Day 	|
 
 **2019 Semester 1**
+
+| No. 	| Site 	|
+|---	|---	|
+| 1 	| CCA Open House 	|
+| 2 	| Parents Engagement Sessions 	|
+| 3 	| Chinese New Year 	|
+| 4 	| Total Defence Day 	|
+| 5 	| Parent-Child-Teacher Conference 	|
