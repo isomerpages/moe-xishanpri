@@ -22,9 +22,7 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Resources on the new PSLE Scoring and S1 posting system
+      button: click here
       url: /faq/
 ---
