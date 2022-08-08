@@ -13,7 +13,7 @@ links:
   - title: CCA
     collection: cca
   - title: Quick Links
-    url: https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery
+    url: /quick-links/gallery
     sublinks:
       - title: Gallery
         url: /quick-links/gallery
