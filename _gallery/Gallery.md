@@ -9,7 +9,7 @@ description: ""
 
 | No. 	| Site 	|
 |---	|---	|
-| 1 	| E-Open House 	|
+| 1 	| [E-Open House](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2022-semester-2/e-open-house) 	|
 | 2 	| [Racial Harmony Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2022-semester-2/racial-harmony-day) 	|
 
 **2022 Semester 1**
