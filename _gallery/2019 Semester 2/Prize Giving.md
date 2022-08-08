@@ -25,3 +25,9 @@ third_nav_title: 2019 Semester 2
 ![](/images/Prize%20Giving%202018%20Photos%20(10).jpg)
 
 [2018 Prize-Giving.pdf](/files/2018%20Prize-Giving.pdf)
+
+### Xishan Primary School's Prize Giving 2017
+
+Dear Parents,
+
+Please click on [this link](https://photos.google.com/share/AF1QipOlKz2jl1L9eR9bUF4hkXlOrLkbcs3Mp0M0sxCMscbh18wZLz9cNp1jyW-C9h7iFA?key=bDdDSEo2d1RiZHZuUkFVS1ZQb0FqT3E1M0ZKSmNB) to view the photos.
