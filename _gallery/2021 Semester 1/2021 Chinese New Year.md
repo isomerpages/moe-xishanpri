@@ -17,3 +17,13 @@ To celebrate Chinese New Year, Xishanites wore red or Chinese ethnic attire. Thi
 ![](/images/34.jpg)
 
 ![](/images/35.jpg)
+
+![](/images/36.jpg)
+
+![](/images/37.jpg)
+
+![](/images/38.jpg)
+
+![](/images/39.jpg)
+
+![](/images/40.jpg)
