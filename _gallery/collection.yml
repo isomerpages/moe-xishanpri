@@ -2,6 +2,7 @@ collections:
   gallery:
     output: true
     order:
+      - 2021 Semester 1/Total Defence Day.md
       - 2021 Semester 1/P1 & P2 Parents Engagement Sessions.md
       - 2021 Semester 1/.keep
       - Gallery.md
