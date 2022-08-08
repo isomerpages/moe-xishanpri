@@ -13,11 +13,13 @@ links:
   - title: CCA
     collection: cca
   - title: Quick Links
-    collection: quick-links
-  - title: gallery
-    collection: gallery
-  - title: Quick Links
     url: https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery
     sublinks:
       - title: Gallery
         url: https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery
+      - title: Students
+        url: https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/Students/sls-guide
+      - title: Teachers
+        url: https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/teachers
+      - title: Parents
+        url: https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/parents/parents-gateway
