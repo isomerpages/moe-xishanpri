@@ -3,8 +3,7 @@ title: Vision | Mission | Values | Motto
 permalink: /about-us/vision-mission-values-motto
 description: ""
 ---
-Vision | Mission | Values | Motto
-=================================
+# **Vision | Mission | Values | Motto**
 
 ![](/images/mission1.jpg)
 
