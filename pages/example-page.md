@@ -2,3 +2,12 @@
 title: Example Page
 permalink: /example-page/
 ---
+# **Updates on Group Personal Accident (GPA) Insurance for Students**
+
+Dear Parents/Guardians,
+
+The School has extended the group personal accident policy for your child/ward with NTUC Income Insurance Co-operative Limited effective from 1 January 2021 to 31 December 2023.
+
+Please refer to the attachment for more details on the insurance coverage and claims procedures. You are encourage to submit your claim online via the Income GPA portal: [https://studentgpa.incomegroupins.com.sg](https://studentgpa.incomegroupins.com.sg/)
+
+Please do not hesitate to contact the school general office should t
