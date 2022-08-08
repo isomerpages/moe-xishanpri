@@ -69,22 +69,22 @@ description: ""
 | No. 	| Site 	|
 |---	|---	|
 | 1 	| [Xishan Open House](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/xishan-open-house)
-| 2 	| [Racial Harmony Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/racial-harmony-day) 	|
-| 3 	| [National Education Show](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/national-education-show) 	|
-| 4 	| [Teachers' Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/teachers-day) 	|
-| 5 	| [Children's Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/childrens-day) 	|
+| 2 	| [Racial Harmony Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/racial-harmony-day) - 5 out of 20 images uploaded	|
+| 3 	| [National Education Show](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/national-education-show) - 5 out of 53 images uploaded 	|
+| 4 	| [Teachers' Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/teachers-day) - 5 out of 13 images	|
+| 5 	| [Children's Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/childrens-day) - 5 out of 42 images uploaded	|
 | 6 	| [Deepavali](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/deepavali) 	|
-| 7   |  [Primary 6 Graduation Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/primary-6-graduation-day)   |
-| 8 	| [Prize Giving Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/prize-giving-day) 	|
+| 7   |  [Primary 6 Graduation Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/primary-6-graduation-day) - 5 out of 52 images uploaded  |
+| 8 	| [Prize Giving Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/prize-giving-day)  - 6 out of 379 images uploaded	|
 | 9 	| [Parent-Child-Teacher Conference](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/parent-child-teacher-conference) 	|
-| 10 	| [Primary 1 Orientation Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/primary-1-orientation-day) 	|
+| 10 	| [Primary 1 Orientation Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/primary-1-orientation-day) - 5 out of 46 images uploaded	|
 
 **2019 Semester 1**
 
 | No. 	| Site 	|
 |---	|---	|
-| 1 	| [CCA Open House](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-1/cca-open-house) 	|
-| 2 	| [Parents Engagement Sessions](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-1/parents-engagement-sessions) 	|
-| 3 	| [Chinese New Year](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-1/chinese-new-year) 	|
-| 4 	| [Total Defence Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-Semester-1/total-defence-day) 	|
+| 1 	| [CCA Open House](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-1/cca-open-house) - 5 out of 20 images uploaded 	|
+| 2 	| [Parents Engagement Sessions](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-1/parents-engagement-sessions)	|
+| 3 	| [Chinese New Year](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-1/chinese-new-year) - 5 out of 36 images uploaded	|
+| 4 	| [Total Defence Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-Semester-1/total-defence-day) - images exceed 5MB	|
 | 5 	| [Parent-Child-Teacher Conference](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-Semester-1/parent-child-teacher-conference) 	|
