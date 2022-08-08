@@ -23,3 +23,5 @@ third_nav_title: 2019 Semester 2
 ![](/images/Prize%20Giving%202018%20Photos%20(102).jpg)
 
 ![](/images/Prize%20Giving%202018%20Photos%20(10).jpg)
+
+[2018 Prize-Giving.pdf](/files/2018%20Prize-Giving.pdf)
