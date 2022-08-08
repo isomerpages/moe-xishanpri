@@ -15,3 +15,8 @@ description: ""
 | 4 	| The Mindful Blooms 	|
 
 **2022 Semester 1**
+
+| No. 	| Site 	|
+|---	|---	|
+| 1 	| E-Open House 	|
+| 2 	| Racial Harmony Day 	|
