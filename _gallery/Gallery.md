@@ -50,7 +50,7 @@ description: ""
 |---	|---	|
 | 1 	| [Xishan Open House](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-2/xishan-open-house) 	|
 | 2 	| [Racial Harmony Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-2/racial-harmony-day) - content cannot be view on original website	|
-| 3 	| [Teachers' Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-2/teachers-day) 	|
+| 3 	| [Teachers' Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-2/teachers-day) - 3 out of 8 images uploaded; videos need to be uploaded on YT x2	|
 | 4 	| [Prize Giving Day 2020](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-2/prize-giving-day-2020) - 5 out of 220 iimages uploaded 	|
 
 **2020 Semester 1**
@@ -58,8 +58,8 @@ description: ""
 | No. 	| Site 	|
 |---	|---	|
 | 1 	| [Parents Engagement Sessions](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-1/parents-engagement-sessions) 	|
-| 2 	| [Chinese New Year](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-1/chinese-new-year) 	|
-| 3 	| [Total Defence Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-1/total-defence-day) - 3 out of 8 images uploaded; videos need to be uploaded on YT x2	|
+| 2 	| [Chinese New Year](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-1/chinese-new-year) - 5 out of 44 images uploaded	|
+| 3 	| [Total Defence Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-1/total-defence-day) - 5 out of 18 images uploaded	|
 | 4 	| [Parent-Child-Teacher Conference](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2019-semester-2/parent-child-teacher-conference) 	|
 | 5 	| [International Friendship Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-1/international-friendship-day) 	|
 | 6 	| [Primary 1 Registration](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-1/primary-1-registration) 	|
