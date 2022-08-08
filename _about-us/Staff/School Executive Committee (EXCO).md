@@ -4,6 +4,20 @@ permalink: /about-us/staff/school-executive-committee-exco
 description: ""
 third_nav_title: Staff
 ---
+### Subject Heads
+
+| No 	| Name 	| Designation 	| Email Address 	|
+|---	|---	|---	|---	|
+| 1 	| Mr Ahmad Farkhan 	| Malay Language 	| [ahmad_farkhan_mohd_nasir@moe.edu.sg](mailto:ahmad_farkhan_mohd_nasir@moe.edu.sg) 	|
+| 2 	| Ms Shaline Tan Yen Ling 	| Literacy 	| [shaline_tan_yen_ling@moe.edu.sg](mailto:shaline_tan_yen_ling@moe.edu.sg) 	|
+| 3 	| Ms Jolene Cheng Pei Fern 	| Aesthetics 	| [cheng_pei_fern_jolene@moe.edu.sg](cheng_pei_fern_jolene@moe.edu.sg) 	|
+| 4 	| Ms Jamie Ng Tai Mui 	| Social Studies & National Education 	| [ng_tai_mui@moe.edu.sg](mailto:ng_tai_mui@moe.edu.sg) 	|
+| 5 	| Ms Yvonne Lin Cuiwen 	| Student Leadership 	| [lin_cuiwen_yvonne@moe.edu.sg](mailto:lin_cuiwen_yvonne@moe.edu.sg) 	|
+| 6 	| Ms P V Kanmani 	| Student Well-Being 	| [p_v_kanmani@moe.edu.sg](mailto:p_v_kanmani@moe.edu.sg) 	|
+| 7 	| Mr Chiu Xin Yan 	| Discipline 	| [chiu_xin_yan@moe.edu.sg](mailto:chiu_xin_yan@moe.edu.sg) 	|
+| 8 	| Ms Seow Qi En 	| Special Project (Environmental Education) 	| [seow_qi_en@moe.edu.sg](mailto:seow_qi_en@moe.edu.sg) 	|
+
+
 ### Administration and Operations
 
 | No 	| Name 	| Designation 	| Email Address 	|
