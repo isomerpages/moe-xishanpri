@@ -30,9 +30,9 @@ description: ""
 | 3 	| [National Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-2/national-day) - images not loading on original website		|
 | 4 	| [Student Leader Investiture](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-2/student-leader-investiture) 	|
 | 5 	| [Teachers’ Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-2/teachers-day) 	|
-| 6 	| [Children's Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-2/childrens-day) 	|
-| 7 	| [Deepavali](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-2/deepavali) 	|
-| 8 	| [Prize Giving Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-2/prize-giving-day) 	|
+| 6 	| [Children's Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-2/childrens-day) - images not loading on original website		|
+| 7 	| [Deepavali](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-2/deepavali) - images not loading on original website	 	|
+| 8 	| [Prize Giving Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2021-semester-2/prize-giving-day) - 5 out of 10 pictures uploaded; YT video needs to be unlisted 	|
 
 **2021 Semester 1**
 
