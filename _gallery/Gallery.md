@@ -16,10 +16,10 @@ description: ""
 
 | No. 	| Site 	|
 |---	|---	|
-| 1 	| Chinese New Year 	|
-| 2 	| Total Defence Day 	|
-| 3 	| International Friendship Day 	|
-| 4 	| The Mindful Blooms 	|
+| 1 	| [Chinese New Year](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2022-semester-1/chinese-new-year) 	|
+| 2 	| [Total Defence Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2022-semester-1/total-defence-day) 	|
+| 3 	| [International Friendship Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2022-semester-1/international-friendship-day) 	|
+| 4 	| [The Mindful Blooms](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2022-semester-1/the-mindful-blooms) 	|
 
 **2021 Semester 2**
 
