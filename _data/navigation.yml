@@ -16,3 +16,8 @@ links:
     collection: quick-links
   - title: gallery
     collection: gallery
+  - title: Quick Links
+    url: https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery
+    sublinks:
+      - title: Gallery
+        url: https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery
