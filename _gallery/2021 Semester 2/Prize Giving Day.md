@@ -64,3 +64,13 @@ It has been a fruitful learning experience for Xishanites this year as we celebr
 14) Xishan Character Award
 
 Kudos to the prize and award winners!
+
+![](/images/a(1).jpg)
+
+![](/images/b(1).jpg)
+
+![](/images/c(1).jpg)
+
+![](/images/d%20(1).jpg)
+
+![](/images/e%20(1).jpg)
