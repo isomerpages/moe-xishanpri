@@ -13,3 +13,5 @@ description: ""
 | 2 	| Total Defence Day 	|
 | 3 	| International Friendship Day 	|
 | 4 	| The Mindful Blooms 	|
+
+**2022 Semester 1**
