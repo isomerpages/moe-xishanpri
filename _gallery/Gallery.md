@@ -51,7 +51,7 @@ description: ""
 | 1 	| [Xishan Open House](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-2/xishan-open-house) 	|
 | 2 	| [Racial Harmony Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-2/racial-harmony-day) - content cannot be view on original website	|
 | 3 	| [Teachers' Day](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-2/teachers-day) 	|
-| 4 	| [Prize Giving Day 2020](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-2/prize-giving-day-2020) 	|
+| 4 	| [Prize Giving Day 2020](https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/gallery/2020-semester-2/prize-giving-day-2020) - 5 out of 220 iimages uploaded 	|
 
 **2020 Semester 1**
 
