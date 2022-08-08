@@ -27,3 +27,15 @@ To celebrate Chinese New Year, Xishanites wore red or Chinese ethnic attire. Thi
 ![](/images/39.jpg)
 
 ![](/images/40.jpg)
+
+For this Chinese New Year, our Parent Support Group encouraged our students to participate in festive family activities. They prepared snacks and made crafts together with their family. This not only strengthens their family bond, but also allows them to learn useful life skills and appreciate the true meaning of Lunar New Year. Parents are our important partners in developing our students holistically.
+
+(video to be uploaded onto yt)
+
+(video to be uploaded onto yt)
+
+(video to be uploaded onto yt)
+
+(video to be uploaded onto yt)
+
+(video to be uploaded onto yt)
