@@ -32,3 +32,5 @@ a. Children working on making paper spinner, showing their appreciation to their
 
 **3\. Quiz and Charade**    
 a. Children guessing their teachers in different occupations and actions through a fun and engaging Kahoot game and charades!
+
+(images not loading)
