@@ -26,3 +26,5 @@ Throwback to Xishan Village’s Dance of the Nation during the school’s Nation
 [Link](https://www.facebook.com/xishanps/videos/421041099318978/)
 
 Celebrating Singapore’s 56th Birthday amidst the challenging times, the happy and proud smiles of our Xishanites still shine through. Xishanites also expressed their gratitude and appreciation to our frontline medical heroes. Singapore may be a little red dot, but with everyone supporting and appreciating one another, our roar can certainly be heard far and wide.
+
+(images not loading)
