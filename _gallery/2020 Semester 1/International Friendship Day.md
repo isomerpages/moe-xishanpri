@@ -4,7 +4,6 @@ permalink: /quick-links/gallery/2020-semester-1/international-friendship-day
 description: ""
 third_nav_title: 2020 Semester 1
 ---
-
 # **International Friendship Day**
 
 What else did Xishanites learn about Covid-19 besides it being highly contagious and that it affects their lives to a great extent?
@@ -19,10 +18,14 @@ To name a few, they learnt about how a significant group of Malaysian employees 
 
 Through these lessons, students’ lenses were widened and they saw the other side of this Covid-19 pandemic coin. The importance of nurturing and maintaining great camaraderie with our neighbours and learning can happen anywhere, even in the comfort of their homes.
 
-![](/images/IFD%20(0).jpeg)
+<img src="/images/IFD%20(0).jpeg" 
+     style="width:50%">
 
-![](/images/IFD%20(1).jpeg)
+<img src="/images/IFD%20(1).jpeg" 
+     style="width:50%">
 
-![](/images/IFD%20(2).jpeg)
+<img src="/images/IFD%20(2).jpeg" 
+     style="width:50%">
 
-![](/images/IFD%20(3).jpeg)
+<img src="/images/IFD%20(3).jpeg" 
+     style="width:50%">
