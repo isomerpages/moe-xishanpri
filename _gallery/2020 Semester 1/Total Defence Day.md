@@ -4,7 +4,6 @@ permalink: /quick-links/gallery/2020-semester-1/total-defence-day
 description: ""
 third_nav_title: 2020 Semester 1
 ---
-
 # **Total Defence Day**
 
 Xishan Primary commemorates Total Defence Day! The students of Xishan Primary School rallied together to perform the Wipe-Down routine during their recess. This routine is simply getting students to clean the table surface after their meals in the school canteen. Through this initiative, our Principal Mrs Quek hopes to develop in every student a strong sense of civic-mindedness and social responsibility to build a gracious and hygienic environment for all.
@@ -22,3 +21,5 @@ Together we keep Singapore strong!
 ![](/images/Total%20Defence%20Day%20(12).jpg)
 
 ![](/images/Total%20Defence%20Day%20(13).jpg)
+
+(uploaded 5 out of 18 images)
