@@ -17,3 +17,5 @@ third_nav_title: 2019 Semester 2
 ![](/images/051PG.jpg)
 
 ![](/images/098PG.jpg)
+
+### Xishan Primary School's Prize Giving 2018
