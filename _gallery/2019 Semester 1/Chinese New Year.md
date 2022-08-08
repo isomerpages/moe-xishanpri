@@ -11,3 +11,14 @@ Ushering the Chinese New Year with fun activities and exciting performances.
 Gong Xi Fa Cai!
 
 Wishing all Xishanites a very happy & prosperous Chinese New Year!
+
+![](/images/2019CNY%20(0).jpg)
+
+![](/images/2019CNY%20(1).jpg)
+
+![](/images/2019CNY%20(10).jpg)
+
+![](/images/2019CNY%20(11).jpg)
+
+![](/images/2019CNY%20(12).jpg)
+
