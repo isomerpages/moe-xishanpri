@@ -7,9 +7,20 @@ third_nav_title: Staff
 <img src="/images/Quek-Sim%20Kim%20Liang%20Anne.jpg" 
      style="width:25%">
 
+![](/images/Latha%20Sinasamy.jpg)
+
 Principal    
 Mrs Anne Quek   
 [xishan_ps@moe.edu.sg](mailto:xishan_ps@moe.edu.sg)
+
+
+
+| ![](/images/Quek-Sim%20Kim%20Liang%20Anne.jpg) | ![](/images/Latha%20Sinasamy.jpg) | Column 3 |
+| -------- | -------- | -------- |
+| Principal: Mrs Anne Quek 
+Email: [xishan_ps@moe.edu.sg](mailto:xishan_ps@moe.edu.sg)     | Text     | Text     |
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="6"><img src="/images/Quek-Sim%20Kim%20Liang%20Anne.jpg" style="width:50%" alt="Quek-Sim Kim Liang Anne.jpg" width="229" height="304"><br><br><span style="font-weight:400;color:#000">Principal</span><br><span style="font-weight:400;color:#000">Mrs Anne Quek</span><br><a href="mailto:xishan_ps@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#033C2E">xishan_ps@moe.edu.sg</span></a></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="3"><img src="/images/Latha%20Sinasamy.jpg" alt="Latha Sinasamy.jpg" width="169" height="244"><br><br><span style="font-weight:400;color:#000">Vice Principal</span><br><span style="font-weight:400;color:#000">Ms Latha Sinasamy</span><br><a href="mailto:xishan_ps@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#033C2E">xishan_ps@moe.edu.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="3"><img src="https://xishanpri.moe.edu.sg/qql/slot/u540/2022/About%20Us/Staff/EXCO/Mdm%20Sophia%20Lee.jpeg" alt="Mdm Sophia Lee.jpeg" width="167" height="244"><br><br><span style="font-weight:400;color:#000">Vice Principal (</span>Admin<span style="font-weight:400;color:#000">)</span><br><span style="font-weight:400;color:#000">Mdm Sophia Lee Wee Ling</span><br><a href="mailto:xishan_ps@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#033C2E">xishan_ps@moe.edu.sg</span></a></td></tr></tbody></table>
 
 ### Year Heads
 
