@@ -9,17 +9,17 @@ description: ""
 
 | No. 	| Site 	|
 |---	|---	|
-| 1 	| Chinese New Year 	|
-| 2 	| Total Defence Day 	|
-| 3 	| International Friendship Day 	|
-| 4 	| The Mindful Blooms 	|
+| 1 	| E-Open House 	|
+| 2 	| Racial Harmony Day 	|
 
 **2022 Semester 1**
 
 | No. 	| Site 	|
 |---	|---	|
-| 1 	| E-Open House 	|
-| 2 	| Racial Harmony Day 	|
+| 1 	| Chinese New Year 	|
+| 2 	| Total Defence Day 	|
+| 3 	| International Friendship Day 	|
+| 4 	| The Mindful Blooms 	|
 
 **2021 Semester 2**
 
