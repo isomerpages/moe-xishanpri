@@ -4,7 +4,7 @@ permalink: /about-us/staff/form-teachers/
 description: ""
 third_nav_title: Staff
 ---
-<h1><b>Form Teachers</h1></b>
+<h1><b>Form Teachers</b></h1>
 
 <h3>Primary 1 Form Teachers</h3>
 
