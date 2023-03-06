@@ -18,6 +18,9 @@ sections:
         - title: Useful Links
           description: ""
           url: https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/Students/sls-guide
+        - title: Announcements
+          description: ""
+          url: ""
   - infobar:
       title: Resources on the new PSLE Scoring and S1 posting system
       button: click here
