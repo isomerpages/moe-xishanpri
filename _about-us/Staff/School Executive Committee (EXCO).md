@@ -10,12 +10,20 @@ third_nav_title: Staff
 ## Management Team
 
 ### School Leaders
+##  
 
-| No 	| Name 	| Designation 	| Email Address 	|
-|---	|---	|---	|---	|
-| 1 	| Mrs Anne Quek 	| Principal	|[xishan\_ps@moe.edu.sg](mailto:xishan\_ps@moe.edu.sg) 	|
-| 2 	| Ms Latha Sinasamy	|  Vice Principal 	| [xishan\_ps@moe.edu.sg](mailto:xishan\_ps@moe.edu.sg) 	|
-| 3 	| Mdm Sophia Lee Wee Ling 	|  	Vice Principal (Admin)| [xishan\_ps@moe.edu.sg](mailto:lxishan\_ps@moe.edu.sg) 	|
+
+|   |    |    |      |
+|---	|---|---	| ---|
+![](/images/mrs%20anne%20quek%20(2).jpg)                                                                       [xishan\_ps@moe.edu.sg](mailto:xishan_ps@moe.edu.sg)	
+
+|   |    |    |      |
+|---	|---|---	| ---|
+ ![](/images/ms%20latha%20sinasamy%20(2).jpeg)	  [xishan\_ps@moe.edu.sg](mailto:xishan\_ps@moe.edu.sg) 	
+
+|   |    |    |      |
+|---	|---|---	| ---|
+![](/images/mdm%20sophia%20lee.jpg) 	 [xishan\_ps@moe.edu.sg](mailto:lxishan\_ps@moe.edu.sg) 	
 
 
 ### Year Heads
