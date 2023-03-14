@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - Updates on Group Personal Accident (GPA) Insurance for Students.md
       - Resources on the new PSLE Scoring and Secondary 1 Posting Systems.md
