@@ -1,9 +1,8 @@
 ---
 title: Resources on the new PSLE Scoring and Secondary 1 Posting Systems
-permalink: /resources-on-the-new-psle-Scoring-and-Secondary-1-Posting-Systems
+permalink: /resources-on-the-new-psle-Scoring-and-Secondary-1-Posting-Systems/
 description: ""
 ---
-
 # **Resources on the new PSLE Scoring and Secondary 1 Posting Systems**
 
 Dear Parents / Guardians,
