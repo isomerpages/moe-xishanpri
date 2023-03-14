@@ -20,5 +20,5 @@ sections:
           url: https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/Students/sls-guide
         - title: Announcements
           description: ""
-          url: /resources-on-the-new-psle-Scoring-and-Secondary-1-Posting-Systems/
+          url: /announcements/resources-on-the-new-psle-Scoring-and-Secondary-1-Posting-Systems/
 ---
