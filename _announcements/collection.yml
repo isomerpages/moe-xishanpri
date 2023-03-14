@@ -1,5 +1,5 @@
 collections:
-  announcement:
+  announcements:
     output: true
     order:
       - Resources on the new PSLE Scoring and Secondary 1 Posting Systems.md
