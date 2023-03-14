@@ -20,13 +20,5 @@ sections:
           url: https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/Students/sls-guide
         - title: Announcements
           description: ""
-          url: ""
-  - infobar:
-      title: Resources on the new PSLE Scoring and S1 posting system
-      button: click here
-      url: /resources-on-the-new-psle-Scoring-and-Secondary-1-Posting-Systems
-  - infobar:
-      title: Updates on Group Personal Accident Insurance for Students
-      button: Click here
-      url: /Updates-on-Group-Personal-Accident-gpa-Insurance-for-Students
+          url: /resources-on-the-new-psle-Scoring-and-Secondary-1-Posting-Systems
 ---
