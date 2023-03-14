@@ -3,8 +3,6 @@ title: Resources on the new PSLE Scoring and Secondary 1 Posting Systems
 permalink: /resources-on-the-new-psle-Scoring-and-Secondary-1-Posting-Systems/
 description: ""
 ---
-# **Resources on the new PSLE Scoring and Secondary 1 Posting Systems**
-
 Dear Parents / Guardians,
 
 We thank you for attending our Parents Engagement Session. In the session, we have shared with you the new PSLE Scoring and Secondary 1 Posting Systems.
