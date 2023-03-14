@@ -13,16 +13,16 @@ third_nav_title: Staff
 ##  
 
 
-|   |    |    |      |
-|---	|---|---	| ---|
+|   |    |    |      |    |   |
+|---	|---|---	| ---| ---| ---|
 ![](/images/mrs%20anne%20quek%20(2).jpg)                                                                       [xishan\_ps@moe.edu.sg](mailto:xishan_ps@moe.edu.sg)	
 
-|   |    |    |      |
-|---	|---|---	| ---|
+|   |    |    |      |     |    |
+|---	|---|---	| ---| ---|---|
  ![](/images/ms%20latha%20sinasamy%20(2).jpeg)	  [xishan\_ps@moe.edu.sg](mailto:xishan\_ps@moe.edu.sg) 	
 
-|   |    |    |      |
-|---	|---|---	| ---|
+|   |    |    |      |     |    |
+|---	|---|---	| ---| ---|---|
 ![](/images/mdm%20sophia%20lee.jpg) 	 [xishan\_ps@moe.edu.sg](mailto:lxishan\_ps@moe.edu.sg) 	
 
 
