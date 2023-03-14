@@ -12,16 +12,10 @@ links:
     collection: programmes-and-events
   - title: CCA
     collection: cca
-  - title: Quick Links
+  - title: Gallery
     url: /quick-links/gallery
     sublinks:
-      - title: Gallery
-        url: /quick-links/gallery
-      - title: Students
-        url: /quick-links/students
-      - title: Teachers
-        url: /quick-links/teachers
-      - title: Parents
-        url: /quick-links/Parents
+      - title: School Events
+        url: /quick-links/schoolevents
   - title: E-Newsletter
     collection: e-newsletter
