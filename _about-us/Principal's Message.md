@@ -23,7 +23,7 @@ We are also very proud of the production of our stories through our corporate vi
 
 Let us forge ahead with love, faith and hope. Let us **_love_** deeply and generously, let us keep our faith and **_confidence_** that **_We Can_** in all situations, let us **_inspire_** hope in ourselves and in each other. Let us reach for the sky together!
 
-
+![](/images/Pmessagepic.jpg)
 
 Anne Quek    
 Principal    
