@@ -2,7 +2,6 @@ collections:
   gallery:
     output: true
     order:
-      - Chinese New Year.md
       - Gallery.md
       - 2023 Semester 1.md
       - 2022 Semester 2/.keep
