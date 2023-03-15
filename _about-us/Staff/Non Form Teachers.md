@@ -1,33 +1,342 @@
 ---
 title: Non Form Teachers
-permalink: /about-us/staff/non-form-teachers
+permalink: /about-us/staff/non-form-teachers/
 description: ""
 third_nav_title: Staff
 ---
 # **Non-Form Teachers**
+        
+<table style="width:552.75pt;background:white;border-collapse:collapse;border:none;
+ mso-border-alt:solid #EAEAEA .75pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in" width="0" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:27.0pt;border-top:solid #EAEAEA 1.0pt;border-left:
+  solid #EAEAEA 1.0pt;border-bottom:none;border-right:none;mso-border-top-alt:
+  solid #EAEAEA .75pt;mso-border-left-alt:solid #EAEAEA .75pt;background:#FFE0E2;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">No</span></b><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"></span></p></td><td style="width:119.25pt;border:none;border-top:solid #EAEAEA 1.0pt;
+  mso-border-top-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Name</span></b><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"></span></p></td><td style="width:120.75pt;border:none;border-top:solid #EAEAEA 1.0pt;
+  mso-border-top-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Designation</span></b><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA"></span></p></td><td style="width:284.25pt;border-top:solid #EAEAEA 1.0pt;
+  border-left:none;border-bottom:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-top-alt:solid #EAEAEA .75pt;mso-border-right-alt:solid #EAEAEA .75pt;
+  background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Email Address</span></b><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">1</span></p></td><td style="width:125.25pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mrs Venu</span></p></td><td style="width:127.5pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Teacher</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:kamalam_govindasamy@moe.edu.sg"><span style="color:#033C2E">kamalam_govindasamy@moe.edu.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">2</span></p></td><td style="width:125.25pt;border:none;background:#FFE0E2;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mdm Gong Ya Qin</span></p></td><td style="width:127.5pt;border:none;background:#FFE0E2;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Teacher</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><u><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:gong_ya_qin@moe.edu.sg"><span style="color:#033C2E">gong_ya_qin@moe.edu.sg</span></a></span></u><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">3</span></p></td><td style="width:125.25pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mr Wilson Ting</span></p></td><td style="width:127.5pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Allied Educator<br>(Learning and Behavioural Support)</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:ting_tiong_hin@moe.edu.sg"><span style="color:#033C2E">ting_tiong_hin@moe.edu.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">4</span></p></td><td style="width:125.25pt;border:none;background:#FFE0E2;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Ms Nur 'Adilah Binte Mohammad Sulaimun</span></p></td><td style="width:127.5pt;border:none;background:#FFE0E2;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Allied Educator<br>(Learning &amp; Behavioural Support)</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:nur_adilah_mohamad_sulai@moe.edu.sg"><span style="color:#033C2E">nur_adilah_mohamad_sulai@moe.edu.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">5</span></p></td><td style="width:125.25pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mr Fadzil Bin Ismail</span></p></td><td style="width:127.5pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Trainee Allied Educator<br>(Learning &amp; Behavioural Support)</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal" class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="mailto:fadzil_ismail@moe.edu.sg"><span style="color:#033C2E">fadzil_ismail@moe.edu.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">6</span></p></td><td style="width:125.25pt;border:none;background:#FFE0E2;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Ms Chan Lai Sim Patricia</span></p></td><td style="width:127.5pt;border:none;background:#FFE0E2;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">CAJT</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:chan_lai_sim_patricia@moe.edu.sg"><span style="color:#033C2E">chan_lai_sim_patricia@moe.edu.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">7</span></p></td><td style="width:125.25pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Ms Chia Pei Ying Hazel</span></p></td><td style="width:127.5pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">FAJT</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:chia_pei_ying_hazel@moe.edu.sg"><span style="color:#033C2E">chia_pei_ying_hazel@moe.edu.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">8</span></p></td><td style="width:125.25pt;border:none;background:#FFE0E2;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mdm Fatimah Bte Isnin</span></p></td><td style="width:127.5pt;border:none;background:#FFE0E2;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">FAJT</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:fatimah_isnin@moe.edu.sg"><span style="color:#033C2E">fatimah_isnin@moe.edu.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">9</span></p></td><td style="width:125.25pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mdm Habiba Sharif Bte Goes Sahul Hameed</span></p></td><td style="width:127.5pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">FAJT</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:rose_ng_jia_ling@moe.edu.sg"><span style="color:#033C2E">habiba_sharif_sahul_hameed@moe.edu.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">10</span></p></td><td style="width:125.25pt;border:none;background:#FFE0E2;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mr Harish Gopinadhan Pillai</span></p></td><td style="width:127.5pt;border:none;background:#FFE0E2;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">FAJT</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:harish_gopinadhan_pillai@moe.edu.sg"><span style="color:#033C2E">harish_gopinadhan_pillai@moe.edu.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:11"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">11</span></p></td><td style="width:125.25pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mdm Hazlinda Bte Mohammed Lahir</span></p></td><td style="width:127.5pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">FAJT</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:rose_ng_jia_ling@moe.edu.sg"><span style="color:#033C2E">hazlinda_mohammed_lahir@moe.edu.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:12"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">12</span></p></td><td style="width:125.25pt;border:none;background:#FFE0E2;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Ms Huang Suhui</span></p></td><td style="width:127.5pt;border:none;background:#FFE0E2;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">FAJT</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:huang_suhui@moe.edu.sg"><span style="color:#033C2E">huang_suhui@moe.edu.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:13"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">13</span></p></td><td style="width:125.25pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mdm Lim Jing Yi</span></p></td><td style="width:127.5pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">FAJT</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:rose_ng_jia_ling@moe.edu.sg"><span style="color:#033C2E">lim_jing_yi@moe.edu.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:14"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">14</span></p></td><td style="width:125.25pt;border:none;background:#FFE0E2;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mr Shariffa Zubaidah Begum Chishty</span></p></td><td style="width:127.5pt;border:none;background:#FFE0E2;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">FAJT</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:shariffa_zubaidah_begum_chishty@moe.edu.sg"><span style="color:#033C2E">shariffa_zubaidah_begum_chishty@moe.edu.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:15"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">15</span></p></td><td style="width:125.25pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mr Quek Joon Meng</span></p></td><td style="width:127.5pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">FAJT</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:quek_joon_meng@moe.edu.sg"><span style="color:#033C2E">quek_joon_meng@moe.edu.sg</span></a>&nbsp;&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:16"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">16</span></p></td><td style="width:125.25pt;border:none;background:#FFE0E2;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Ms Diyanah Zahirah Binte Amiral</span></p></td><td style="width:127.5pt;border:none;background:#FFE0E2;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">FAJT</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:diyanah_zahirah_amiral@moe.gov.sg"><span style="color:#033C2E">diyanah_zahirah_amiral@moe.gov.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:17"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">17</span></p></td><td style="width:125.25pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mr Lim Hoei Kee</span></p></td><td style="width:127.5pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">FAJT</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:lim_hoei_kee@moe.edu.sg"><span style="color:#033C2E">lim_hoei_kee@moe.edu.sg</span></a>&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:18"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">18</span></p></td><td style="width:125.25pt;border:none;background:#FFE0E2;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mdm V Devi</span></p></td><td style="width:127.5pt;border:none;background:#FFE0E2;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">FAJT</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:v_devi@moe.gov.sg"><span style="color:#033C2E">v_devi@moe.gov.sg</span></a>&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:19"><td style="width:20.25pt;border:none;border-left:solid #EAEAEA 1.0pt;
+  mso-border-left-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">19</span></p></td><td style="width:125.25pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mr Loh Shao Wei</span></p></td><td style="width:127.5pt;border:none;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">SRE(G)</span></p></td><td style="width:282.0pt;border:none;border-right:solid #EAEAEA 1.0pt;
+  mso-border-right-alt:solid #EAEAEA .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:loh_shao_wei_a@moe.edu.sg"><span style="color:#033C2E">loh_shao_wei_a@moe.edu.sg</span></a>&nbsp;&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:20;mso-yfti-lastrow:yes"><td style="width:20.25pt;border-top:none;border-left:solid #EAEAEA 1.0pt;
+  border-bottom:solid #EAEAEA 1.0pt;border-right:none;mso-border-left-alt:solid #EAEAEA .75pt;
+  mso-border-bottom-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="36"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">20</span></p></td><td style="width:125.25pt;border:none;border-bottom:solid #EAEAEA 1.0pt;
+  mso-border-bottom-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="158"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mr Yong Yiah Lee</span></p></td><td style="width:127.5pt;border:none;border-bottom:solid #EAEAEA 1.0pt;
+  mso-border-bottom-alt:solid #EAEAEA .75pt;background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="161"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">SRE(G)</span></p></td><td style="width:282.0pt;border-top:none;border-left:none;
+  border-bottom:solid #EAEAEA 1.0pt;border-right:solid #EAEAEA 1.0pt;
+  mso-border-bottom-alt:solid #EAEAEA .75pt;mso-border-right-alt:solid #EAEAEA .75pt;
+  background:#FFE0E2;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="382"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA"><a href="mailto:yong_yiah_lee@moe.edu.sg"><span style="color:#033C2E">yong_yiah_lee@moe.edu.sg</span></a></span></p></td></tr></tbody></table>
 
-| No 	| Name 	| Designation 	| Email Address 	|
-|---	|---	|---	|---	|
-| 1 	| Mrs Venu 	| Teacher 	| [kamalam_govindasamy@moe.edu.sg](mailto:kamalam_govindasamy@moe.edu.sg) 	|
-| 2 	| Mr Paul Jeremiah 	| Roving Student Welfare Officer 	| [paul_jeremiah@moe.edu.sg](mailto:paul_jeremiah@moe.edu.sg) 	|
-| 3 	| Mr Wilson Ting 	| Allied Educator<br>(Learning and Behavioural Support) 	| [ting_tiong_hin@moe.edu.sg](mailto:ting_tiong_hin@moe.edu.sg) 	|
-| 4 	| Ms Nur 'Adilah Binte Mohammad Sulaimun 	| Allied Educator<br>(Learning & Behavioural Support) 	| [nur_adilah_mohamad_sulai@moe.edu.sg](mailto:nur_adilah_mohamad_sulai@moe.edu.sg) 	|
-| 5 	| Ms Rose Ng Jia Ling 	| Allied Educator<br>(Teaching and Learning) 	| [rose_ng_jia_ling@moe.edu.sg](mailto:rose_ng_jia_ling@moe.edu.sg) 	|
-| 6 	| Mdm Chan Lai Sim Patricia 	| CAJT 	| [chan_lai_sim_patricia@moe.edu.sg](mailto:chan_lai_sim_patricia@moe.edu.sg) 	|
-| 7 	| Mdm Habiba Sharif Bte Goes Sahul Hameed 	| FAJT 	| [habiba_sharif_sahul_hameed@moe.edu.sg](mailto:habiba_sharif_sahul_hameed@moe.edu.sg) 	|
-| 8 	| Mr Harish Gopinadhan Pillai 	| FAJT 	| [harish_gopinadhan_pillai@moe.edu.sg](mailto:harish_gopinadhan_pillai@moe.edu.sg) 	|
-| 9 	| Mdm Hazlinda Bte Mohammed Lahir 	| FAJT 	| [:hazlinda_mohammed_lahir@moe.edu.sg](mailto:hazlinda_mohammed_lahir@moe.edu.sg) 	|
-| 10 	| Ms Huang Suhui 	| FAJT 	| [huang_suhui@moe.edu.sg](mailto:huang_suhui@moe.edu.sg) 	|
-| 11 	| Mdm Lim Jing Yi 	| FAJT 	| [lim_jing_yi@moe.edu.sg](mailto:lim_jing_yi@moe.edu.sg) 	|
-| 12 	| Ms Chia Pei Ying Hazel 	| FAJT 	| [chia_pei_ying_hazel@moe.edu.sg](mailto:chia_pei_ying_hazel@moe.edu.sg) 	|
-| 13 	| Mdm Shariffa Zubaidah Begum Chishty 	| FAJT 	| [shariffa_zubaidah_begum_chishty@moe.edu.sg](mailto:shariffa_zubaidah_begum_chishty@moe.edu.sg) 	|
-| 14 	| Mdm Soh Kai Wei Candice 	| FAJT 	| [soh_kai_wei_candice@moe.edu.sg](mailto:soh_kai_wei_candice@moe.edu.sg) 	|
-| 15 	| Mr Gwee Cher Siang Leslie 	| FAJT 	| [gwee_cher_siang_leslie@moe.edu.sg](mailto:gwee_cher_siang_leslie@moe.edu.sg) 	|
 
-# **School Counsellors**
 
-| No 	| Name 	| Email Address 	|
-|---	|---	|---	|
-| 1 	| Mr Zheng Xingui Jack 	| [zheng_xing_gui_jack@moe.edu.sg](mailto:zheng_xing_gui_jack@moe.edu.sg) 	|
-| 2 	| Ms Ong Hong Ching Sandie 	| [ong_hong_ching@moe.edu.sg](mailto:ong_hong_ching@moe.edu.sg) 	|
-| 3 	| Ms Phyllis Teo Min Ki (Trainee) 	| [phyllis_teo_min_ki@moe.edu.sg](mailto:phyllis_teo_min_ki@moe.edu.sg) 	|
