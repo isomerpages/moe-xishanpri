@@ -161,7 +161,3 @@ third_nav_title: Staff
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt" valign="top" width="345"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-bidi-language:TA"><a href="mailto:chan_zhaoli@moe.edu.sg"><span style="color:#033C2E">chan_zhaoli@moe.edu.sg</span></a></span></p></td></tr></tbody></table>
-        
-
-
-  
