@@ -1,8 +1,7 @@
 ---
 title: Virtual School Tour
-permalink: /about-us/virtual-school-tour
+permalink: /about-us/virtual-school-tour/
 description: ""
 ---
-# **Virtual School Tour**
+#### [Virtual School Tour](https://4d.silvrcraft.com/xpstour/)
 
-(insert 360 map)
