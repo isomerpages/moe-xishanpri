@@ -30,9 +30,4 @@ Primary 6 	| [2023 CCE SOW P6 T1.pdf](/files/2023%20CCE%20SOW%20P6%20T1.pdf)
 | Primary 3 	| 
 | Primary 4 	| [2023 CCE SOW P4 T2.pdf](/files/2023%20CCE%20SOW%20P4%20T2.pdf)
 | Primary 5 	| 	
-| Primary 6  | 
-
-
-
-
-
+| Primary 6  |
