@@ -79,9 +79,65 @@ SPSSC Floorball 2018 National Junior Boys Div Champion
 SPSSC Floorball 2018 National Junior Girls Div Champions
 
 ![](/images/Floorball7.jpg)
-Xishan Primary School Junior Floorball Team (Boys & Girls)
+Xishan Primary School Junior Floorball Team (Boys &amp; Girls)
 
 ### Teachers-in-charge:
-
+      
+<table style="width:506.15pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" width="0" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.6pt"><td style="width:224.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.6pt" valign="top" width="300"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Name of the teacher</span></b><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA"></span></p></td><td style="width:281.4pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.6pt" valign="top" width="375"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Email address</span></b><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:1;height:20.2pt"><td style="width:224.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:20.2pt" valign="top" width="300"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mr Muhammad Sabir Abdul Gulam</span></p></td><td style="width:281.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:20.2pt" valign="top" width="375"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">muhammad_sabir_abdul_gulam@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:12.6pt"><td style="width:224.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.6pt" valign="top" width="300"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Ms Fazilah Osman</span></p></td><td style="width:281.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.6pt" valign="top" width="375"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">fazilah_osman@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:3;height:15.7pt"><td style="width:224.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:15.7pt" valign="top" width="300"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mr Ng Swee Yang Francis</span></p></td><td style="width:281.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.7pt" valign="top" width="375"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">ng_swee_yang_francis@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:12.15pt"><td style="width:224.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="300"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">Mr Chiu Xin Yan</span></p></td><td style="width:281.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.15pt" valign="top" width="375"><p style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:black;mso-bidi-language:TA">chiu_xin_yan@moe.edu.sg</span></p></td></tr></tbody></table>
          
-#### **2023 Term 1 Floorball Training Schedule (P3 and P4)**
