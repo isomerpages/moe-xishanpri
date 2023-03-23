@@ -11,7 +11,6 @@ third_nav_title: Staff
 
 ### School Leaders
 ##  
-<img style="width:45%" src="/images/chicken.jpg"> 
 
 |   |    |    |      |    |   |
 |---	|---|---	| ---| ---| ---|
