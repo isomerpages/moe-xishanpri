@@ -1,6 +1,6 @@
 ---
 title: Floorball
-permalink: /cca/Physical-Sports/floorball
+permalink: /cca/Physical-Sports/floorball/
 description: ""
 third_nav_title: Physical Sports
 ---
@@ -83,12 +83,5 @@ Xishan Primary School Junior Floorball Team (Boys & Girls)
 
 ### Teachers-in-charge:
 
-| Name of the teacher 	| Email address 	|
-|---	|---	|
-| Ms Fazilah Osman 	| fazilah_osman@moe.edu.sg 	|
-| Ms Sutha Therumalai 	| Sutha_therumalai@moe.edu.sg 	|
-| Mr Muhammad Sabir Abdul Gulam 	| muhammad_sabir_abdul_gulam@moe.edu.sg 	|
-
-### CCA schedule for 2022
-
-![](/images/fbsem2.jpg)
+         
+#### **2023 Term 1 Floorball Training Schedule (P3 and P4)**
