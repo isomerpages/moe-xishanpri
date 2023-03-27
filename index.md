@@ -18,7 +18,4 @@ sections:
         - title: Useful Links
           description: ""
           url: https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/Students/sls-guide
-        - title: Student Learning Space
-          description: ""
-          url: https://vle.learning.moe.edu.sg/login
 ---
