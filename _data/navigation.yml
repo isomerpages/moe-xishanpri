@@ -14,8 +14,6 @@ links:
     collection: cca
   - title: Gallery
     url: /quick-links/gallery
-    sublinks:
-      - title: School Events
-        url: /quick-links/schoolevents
+    sublinks: []
   - title: E-Newsletter
     collection: e-newsletter
