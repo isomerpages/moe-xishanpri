@@ -12,18 +12,18 @@ third_nav_title: Staff
 ### School Leaders
 ##  
 
+
 |   |    |    |      |    |   |
 |---	|---|---	| ---| ---| ---|
-![](/images/mrs%20anne%20quek%20(2).jpg)        Mrs Anne Quek                                                              [xishan\_ps@moe.edu.sg](mailto:xishan_ps@moe.edu.sg)	
+<img style="width:80%" src="/images//mrs%20anne%20quek%20(2).jpg">  Mrs Anne Quek                                                           [xishan\_ps@moe.edu.sg](mailto:xishan_ps@moe.edu.sg)	
 
 |   |    |    |      |     |    |
 |---	|---|---	| ---| ---|---|
- ![](/images/ms%20latha%20sinasamy%20(2).jpeg)	Ms Latha Sinasamy  [xishan\_ps@moe.edu.sg](mailto:xishan\_ps@moe.edu.sg) 	
+ <img style="width:80%" src="/images/ms%20latha%20sinasamy%20(2).jpeg">    Ms Latha Sinasamy  [xishan\_ps@moe.edu.sg](mailto:xishan\_ps@moe.edu.sg) 	
 
 |   |    |    |      |     |    |
 |---	|---|---	| ---| ---|---| 
-![](/images/mdm%20sophia%20lee.jpg)Mdm Sophia Lee [xishan\_ps@moe.edu.sg](mailto:lxishan\_ps@moe.edu.sg) 	
-
+<img style="width:80%" src="/images/mdm%20sophia%20lee.jpg"> Mdm Sophia Lee [xishan\_ps@moe.edu.sg](mailto:lxishan\_ps@moe.edu.sg) 	
 
 ### Year Heads
 
@@ -33,7 +33,9 @@ third_nav_title: Staff
 | 1 	| Ms Mandy Lau Tyng Tyng 	| Lower Primary Year Head 	| [lau_tyng_tyng_mandy@moe.edu.sg](mailto:lau_tyng_tyng_mandy@moe.edu.sg) 	|
 | 2 	| Ms Wong Mei Li 	| Middle Primary Year Head 	| [wong_mei_li@moe.edu.sg](mailto:wong_mei_li@moe.edu.sg) 	|
 | 3 	| Mdm Leong Pui Fun Janice 	| Upper Primary Year Head 	| [leong_pui_fun@moe.edu.sg](mailto:leong_pui_fun@moe.edu.sg) 	|
-| 4 	| Ms Amanda Wee Sze Yi 	| Assistant Upper Primary Year Head 	| [amanda_wee_sze_yi@moe.edu.sg](mailto:amanda_wee_sze_yi@moe.edu.sg) 	|
+| 4 	| Ms Sutha D/O Therumalai	| Assistant Lower Primary Year Head (Internal) 	| [sutha\_therumalai@moe.edu.sg](mailto:sutha_therumalai@moe.edu.sg)	|
+| 5 	| Ms Amanda Wee Sze Yi 	| Assistant Middle Primary Year Head 	| [amanda_wee_sze_yi@moe.edu.sg](mailto:amanda_wee_sze_yi@moe.edu.sg) 	|
+| 6	| Ms Tan Li Ting 	| Assistant Upper Primary Year Head (Internal)	| [tan_li_ting_a@moe.edu.sg](mailto:tan_li_ting_a@moe.edu.sg) |
 
 ### Heads of Departments
 
