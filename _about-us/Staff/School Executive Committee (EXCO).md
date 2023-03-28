@@ -49,8 +49,8 @@ third_nav_title: Staff
 | 6 	| Ms H'ng Hwee Shi Joey	| Educational Support (Covering)	| [hng_hwee_shi@moe.edu.sg](mailto:hng_hwee_shi@moe.edu.sg) 	|
 | 7 	| Ms Saedah Mohamed Hussien 	| Character & Citizenship Education 	| [saedah_mohamed_hussien@moe.edu.sg](mailto:saedah_mohamed_hussien@moe.edu.sg) 	|
 | 8 	| Mr James Fu Binyong 	| Physical & Health Education and CCA 	| [fu_bin_yong_james@moe.edu.sg](mailto:fu_bin_yong_james@moe.edu.sg) 	|
-| 9 	| Ms Nur Azarina Khamis 	| Information & Communication Technologies &
-Science (Covering)	| [nur_azarina_khamis@moe.edu.sg](mailto:nur_azarina_khamis@moe.edu.sg) 	|
+| 9 	| Ms Nur Azarina Khamis 	| Information & Communication Technologies  & Science (Covering)	| [nur_azarina_khamis@moe.edu.sg](mailto:fnur_azarina_khamis@moe.edu.sg) 	|
+
 
 
 ### Level Heads
