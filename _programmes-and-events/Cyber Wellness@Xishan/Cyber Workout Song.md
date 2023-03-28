@@ -1,6 +1,6 @@
 ---
 title: Cyber Workout Song
-permalink: /programmes-n-events/cyber-wellness-at-xishan/cyber-workout-song
+permalink: /programmes-n-events/cyber-wellness-at-xishan/cyber-workout-song/
 description: ""
 third_nav_title: Cyber Wellness@Xishan
 ---
@@ -14,4 +14,3 @@ The song was introduced for the first time in Xishan primary School during our C
 
 The video has been uploaded in the school website for parents/guardians to try it out with their child/ward. Together, lets help our child manage their screen time.
 
-(song to be uploaded on yt)
