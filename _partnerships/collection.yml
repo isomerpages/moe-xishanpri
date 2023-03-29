@@ -1,0 +1,8 @@
+collections:
+  partnerships:
+    output: true
+    order:
+      - Parents Support Group.md
+      - Parent Volunteer.md
+      - Alumni.md
+      - Community Partners.md

@@ -1,32 +1,21 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Xishan Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Xishan Primary School
+      background: /images/xsps(1).gif
+      button: Contact Us
+      url: /contact-us/
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: /announcements/resources-on-the-new-psle-Scoring-and-Secondary-1-Posting-Systems/
+        - title: Useful Links
+          description: ""
+          url: https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/students
 ---
-
