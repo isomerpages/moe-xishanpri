@@ -3,7 +3,7 @@ title: Character &amp; Citizenship Education
 permalink: /departments/character-education/
 description: ""
 ---
-Character &amp; Citizenship Education
+Character &amp;Citizenship Education
 =================================
 ![](/images/cce%202023%20Slide1.jpg)
 
