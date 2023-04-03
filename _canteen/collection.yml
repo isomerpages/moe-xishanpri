@@ -1,0 +1,4 @@
+collections:
+  canteen:
+    output: true
+    order: []
