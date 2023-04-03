@@ -2,8 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Character Education/Environmental Education.md
-      - Character Education/.keep
       - English Language.md
       - Mathematics.md
       - Mother Tongue/.keep
@@ -15,6 +13,8 @@ collections:
       - PHE Aesthetics CCA/PHE.md
       - PHE Aesthetics CCA/Art.md
       - PHE Aesthetics CCA/Music.md
+      - Character Education/.keep
+      - Character Education/Environmental Education.md
       - Student Management/.keep
       - Student Management/Student Well being.md
       - Student Management/Student Leadership.md
