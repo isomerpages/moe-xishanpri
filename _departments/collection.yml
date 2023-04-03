@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Character & Citizenship Education.md
       - CCE/Environmental Education.md
       - CCE/.keep
       - English Language.md
