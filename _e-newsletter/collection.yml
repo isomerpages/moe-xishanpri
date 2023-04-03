@@ -1,5 +1,0 @@
-collections:
-  e-newsletter:
-    output: true
-    order:
-      - 85th Anniversary E Newsletter 2022.md
