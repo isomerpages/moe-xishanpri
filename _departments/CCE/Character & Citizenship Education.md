@@ -29,4 +29,11 @@ third_nav_title: CCE
 |Primary 6|[2023 CCE SOW P6 T1.pdf](https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u540/cce/2023%20CCE%20SOW%20P6%20T1.pdf)
 
 
-
+| Level | Term 2 | 
+| -------- | -------- | 
+| Primary 1    | [2023 CCE SOW P1 T2.pdf](https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1414/2023%20CCE%20SOW%20P1%20T2.pdf)   |   
+| Primary 2  |  [2023 CCE SOW P2 T2.pdf](https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1414/2023%20CCE%20SOW%20P2%20T2.pdf)  | 
+|Primary 3|[2023 CCE SOW P3 T2.pdf](https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1414/2023%20CCE%20SOW%20P3%20T2.pdf)|
+|Primary 4|[2023 CCE SOW P4 T2.pdf](https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1414/2023%20CCE%20SOW%20P4%20T2.pdf)|
+|Primary 5|[2023 CCE SOW P5 T2.pdf](https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1414/2023%20CCE%20SOW%20P5%20T2.pdf)|
+|Primary 6|[2023 CCE SOW P6 T2.pdf](https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1414/2023%20CCE%20SOW%20P6%20T2.pdf)|
