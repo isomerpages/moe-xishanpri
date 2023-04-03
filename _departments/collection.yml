@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Environmental Education.md
       - CCE/.keep
       - English Language.md
       - Mathematics.md
