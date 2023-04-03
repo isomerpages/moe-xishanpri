@@ -2,8 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Environmental Education/Character & Citizenship Education.md
-      - Environmental Education/.keep
       - English Language.md
       - Mathematics.md
       - Mother Tongue/.keep
