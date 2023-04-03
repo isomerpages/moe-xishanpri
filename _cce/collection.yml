@@ -1,5 +1,4 @@
 collections:
   cce:
     output: true
-    order:
-      - Environmental Education/.keep
+    order: []
