@@ -19,7 +19,7 @@ third_nav_title: CCE
 
 2023 Lesson Units in CCE
 ------------------------
-| Levels | Term 1 | 
+| Level | Term 1 | 
 | -------- | -------- |  
 |  Primary 1    |    [2023 CCE SOW P1 T1.pdf](https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u540/cce/2023%20CCE%20SOW%20P1%20T1.pdf)   | 
 | Primary 2    |   [2023 CCE SOW P2 T1.pdf](https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u540/cce/2023%20CCE%20SOW%20P2%20T1.pdf) | 
@@ -28,4 +28,5 @@ third_nav_title: CCE
 |Primary 5|[2023 CCE SOW P5 T1.pdf](https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u540/cce/2023%20CCE%20SOW%20P5%20T1.pdf)
 |Primary 6|[2023 CCE SOW P6 T1.pdf](https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u540/cce/2023%20CCE%20SOW%20P6%20T1.pdf)
 
-      
+
+
