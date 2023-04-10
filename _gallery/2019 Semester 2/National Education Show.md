@@ -1,6 +1,6 @@
 ---
 title: National Education Show
-permalink: /quick-links/gallery/2019-semester-2/national-education-show
+permalink: /quick-links/gallery/2019-semester-2/national-education-show/
 description: ""
 third_nav_title: 2019 Semester 2
 ---
@@ -18,4 +18,3 @@ Our Primary 5 students at National Education Show (National Day Parade Preview) 
 
 ![](/images/National%20Education%20Show%20(13).jpg)
 
-(uploaded 5 out of 53 images)
