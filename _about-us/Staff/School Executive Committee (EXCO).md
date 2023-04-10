@@ -6,11 +6,9 @@ third_nav_title: Staff
 ---
 # **School Executive Committee (EXCO)**
 
-
 ## Management Team
 
 ### School Leaders
-##  
 
 
 |   |    |    |      |    |   |
@@ -22,8 +20,8 @@ third_nav_title: Staff
 <p style="display:inline-block;"><a href="mailto:xishan_ps@moe.edu.sg">xishan_ps@moe.edu.sg</a></p>
 </div>
 
-|   |    |    |      |     |    |
-|---|---|---|---|---|---|
+|     |     |     |       |      |     |
+|-----|-----|-----|-------|------|-----|
 
 <div style="text-align:center;">
 <img style="width:50%" src="/images/ms%20latha%20sinasamy%20(2).jpeg">
@@ -32,8 +30,8 @@ third_nav_title: Staff
 </div>
 
 
-|   |    |    |      |     |    |
-|---|---|---|---| ---|---| 
+|     |     |     |       |     |     |
+|-----|-----|-----|-------|-----|-----|
 
 <div style="text-align:center;">
 <img style="width:50%" src="/images/mdm%20sophia%20lee.jpg">
