@@ -11,8 +11,7 @@ third_nav_title: Staff
 ### School Leaders
 
 
-|   |    |    |      |    |   |
-|---|---|---|---|---|---|
+<div style="border-top: 1px solid black;"></div>
 
 <div style="text-align:center;">
 <img style="width:40%" src="/images//mrs%20anne%20quek%20(2).jpg">
@@ -20,8 +19,8 @@ third_nav_title: Staff
 <p style="display:inline-block;"><a href="mailto:xishan_ps@moe.edu.sg">xishan_ps@moe.edu.sg</a></p>
 </div>
 
-|     |     |     |       |      |     |
-|-----|-----|-----|-------|------|-----|
+<div style="border-top: 1px solid black;"></div>
+
 
 <div style="text-align:center;">
 <img style="width:40%" src="/images/ms%20latha%20sinasamy%20(2).jpeg">
@@ -29,15 +28,17 @@ third_nav_title: Staff
 <p style="display:inline-block;"><a href="mailto:xishan_ps@moe.edu.sg">xishan_ps@moe.edu.sg</a></p>
 </div>
 
+<div style="border-top: 1px solid black;"></div>
 
-|     |     |     |       |     |     |
-|-----|-----|-----|-------|-----|-----|
 
 <div style="text-align:center;">
 <img style="width:40%" src="/images/mdm%20sophia%20lee.jpg">
 <p style="display:inline-block;">Mdm Sophia Lee</p>
 <p style="display:inline-block;"><a href="mailto:lxishan_ps@moe.edu.sg">xishan_ps@moe.edu.sg</a></p>
 </div>
+
+<div style="border-top: 1px solid black;"></div>
+
 
 
 ### Year Heads
