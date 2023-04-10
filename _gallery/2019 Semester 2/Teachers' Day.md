@@ -1,6 +1,6 @@
 ---
 title: Teachers' Day
-permalink: /quick-links/gallery/2019-semester-2/teachers-day
+permalink: /quick-links/gallery/2019-semester-2/teachers-day/
 description: ""
 third_nav_title: 2019 Semester 2
 ---
@@ -23,4 +23,3 @@ Wishing all teachers a very Happy Teachers' Day!
 
 ![](/images/TD1%20(2).jpg)
 
-(uploaded 5 out of 13 images)
