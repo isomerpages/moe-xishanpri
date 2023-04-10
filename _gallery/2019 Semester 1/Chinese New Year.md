@@ -1,6 +1,6 @@
 ---
 title: Chinese New Year
-permalink: /quick-links/gallery/2019-semester-1/chinese-new-year
+permalink: /quick-links/gallery/2019-semester-1/chinese-new-year/
 description: ""
 third_nav_title: 2019 Semester 1
 ---
@@ -22,4 +22,3 @@ Wishing all Xishanites a very happy & prosperous Chinese New Year!
 
 ![](/images/2019CNY%20(12).jpg)
 
-(uploaded 5 out of 36 images)
