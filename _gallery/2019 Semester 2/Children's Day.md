@@ -1,6 +1,6 @@
 ---
 title: Children's Day
-permalink: /quick-links/gallery/2019-semester-2/childrens-day
+permalink: /quick-links/gallery/2019-semester-2/childrens-day/
 description: ""
 third_nav_title: 2019 Semester 2
 ---
@@ -14,4 +14,3 @@ A brand new way of celebrating Children’s Day Celebration in Xishan, integrati
 ![](/images/IMG_7008.jpg)
 ![](/images/IMG_7010.jpg)
 
-(uploadded 5 out of 42 images)
