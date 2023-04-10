@@ -14,7 +14,7 @@ third_nav_title: Staff
 <div style="border-top: 1px solid black;"></div>
 
 <div style="text-align:center;">
-<img style="width:40%" src="/images//mrs%20anne%20quek%20(2).jpg">
+<img style="width:40%" src="/images/mrs%20anne%20quek%20(2).jpg">
 <p style="display:inline-block;">Mrs Anne Quek</p>
 <p style="display:inline-block;"><a href="mailto:xishan_ps@moe.edu.sg">xishan_ps@moe.edu.sg</a></p>
 </div>
