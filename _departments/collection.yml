@@ -4,16 +4,18 @@ collections:
     order:
       - English Language.md
       - Mathematics.md
+      - Mother Tongue/.keep
       - Mother Tongue/Chinese Language.md
       - Mother Tongue/Malay Language.md
       - Mother Tongue/Tamil Language.md
-      - Mother Tongue/.keep
       - Science.md
+      - PHE Aesthetics CCA/.keep
       - PHE Aesthetics CCA/PHE.md
       - PHE Aesthetics CCA/Art.md
       - PHE Aesthetics CCA/Music.md
-      - PHE Aesthetics CCA/.keep
-      - Character & Citizenship Education.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Environmental Education.md
       - Student Management/.keep
       - Student Management/Student Well being.md
       - Student Management/Student Leadership.md

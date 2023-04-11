@@ -1,6 +1,6 @@
 ---
 title: Racial Harmony Day
-permalink: /quick-links/gallery/2019-semester-2/racial-harmony-day
+permalink: /quick-links/gallery/2019-semester-2/racial-harmony-day/
 description: ""
 third_nav_title: 2019 Semester 2
 ---
@@ -16,4 +16,3 @@ third_nav_title: 2019 Semester 2
 
 ![](/images/RacialHarmony2019%20(13).jpg)
 
-(uploaded 5 out of 20 images)
