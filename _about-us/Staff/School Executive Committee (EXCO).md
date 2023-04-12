@@ -61,7 +61,7 @@ third_nav_title: Staff
 | 2 	| Mr Gary Song 	| English Language 	| [gary_song@moe.edu.sg](mailto:gary_song@moe.edu.sg) 	|
 | 3 	| Ms Chia Jing Yi Iva 	| Mathematics 	| [chia_jing_yi_a@moe.edu.sg](mailto:chia_jing_yi_a@moe.edu.sg) 	|
 | 4 	| Mdm Tan Chiu Lin 	| Mother Tongue Languages 	| [tan_chiu_lin@moe.edu.sg](mailto:tan_chiu_lin@moe.edu.sg) 	|
-| 5 	| Ms Mavis Lim Ai Lian 	| Pupils Management	| [lim\_ai\_lian@moe.edu.sg](mailto:lim_ai_lian@moe.edu.sg)|
+| 5 	| Ms Mavis Lim Ai Lian 	| Student Management	| [lim\_ai\_lian@moe.edu.sg](mailto:lim_ai_lian@moe.edu.sg)|
 | 6 	| Ms H'ng Hwee Shi Joey	| Educational Support (Covering)	| [hng_hwee_shi@moe.edu.sg](mailto:hng_hwee_shi@moe.edu.sg) 	|
 | 7 	| Ms Saedah Mohamed Hussien 	| Character &amp; Citizenship Education 	| [saedah_mohamed_hussien@moe.edu.sg](mailto:saedah_mohamed_hussien@moe.edu.sg) 	|
 | 8 	| Mr James Fu Binyong 	| Physical &amp; Health Education and CCA 	| [fu_bin_yong_james@moe.edu.sg](mailto:fu_bin_yong_james@moe.edu.sg) 	|
