@@ -3,7 +3,7 @@ title: Assessment Matters
 permalink: /general-information/assessment-matters/
 description: ""
 ---
-# **Assessment Matters**
+**Assessment Matters**
 
 ### 2023 Semester 1 Assessment Schedule
 
