@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/resources-on-the-new-psle-Scoring-and-Secondary-1-Posting-Systems/
+          url: /Updates-on-Group-Personal-Accident-gpa-Insurance-for-Students/
         - title: Useful Links
           description: ""
           url: https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/students

@@ -464,59 +464,117 @@ third_nav_title: Staff
   color:black;mso-bidi-language:TA"><a href="mailto:yong_yiah_lee@moe.edu.sg"><span style="color:#033C2E">yong_yiah_lee@moe.edu.sg</span></a></span></p></td></tr></tbody></table>
 
 ### School 	Counsellor
-            
-<table style="width:485.75pt;border-collapse:collapse;border:none;mso-border-alt:
- solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" width="0" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:44.75pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="60"><p style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:13.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:TA">No</span></b><span style="font-size:13.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:TA"></span></p></td><td style="width:207.0pt;border:solid windowtext 1.0pt;
+        
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" align="left" width="0" style="width:559.6pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-table-lspace:9.0pt;margin-left:
+ 7.5pt;mso-table-rspace:9.0pt;margin-right:7.5pt;mso-table-anchor-vertical:
+ page;mso-table-anchor-horizontal:margin;mso-table-left:center;mso-table-top:
+ 78.4pt;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:11.3pt"><td width="38" valign="top" style="width:28.15pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:78.4pt;mso-height-rule:exactly"><b><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">No</span></b><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA"></span></p></td><td width="232" valign="top" style="width:174.1pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:13.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:TA">Name</span></b><span style="font-size:13.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:TA"></span></p></td><td style="width:3.25in;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:78.4pt;mso-height-rule:exactly"><b><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Name</span></b><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA"></span></p></td><td width="192" valign="top" style="width:143.95pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:13.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:TA">Email Address</span></b><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:44.75pt;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:78.4pt;mso-height-rule:exactly"><b><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Designation</span></b></p></td><td width="285" valign="top" style="width:213.4pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:78.4pt;mso-height-rule:exactly"><b><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Email Address</span></b><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:1;height:11.3pt"><td width="38" valign="top" style="width:28.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="60"><p style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:TA">1</span></p></td><td style="width:207.0pt;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:11.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:78.4pt;mso-height-rule:exactly"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">1</span></p></td><td width="232" valign="top" style="width:174.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:TA">Mr Zheng Xingui Jack</span></p></td><td style="width:3.25in;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:78.4pt;mso-height-rule:exactly"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Mr Zheng Xingui Jack</span></p></td><td width="192" valign="top" style="width:143.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:78.4pt;mso-height-rule:exactly"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif">School Counsellor</span></p></td><td width="285" valign="top" style="width:213.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:78.4pt;mso-height-rule:exactly"><a href="mailto:lou_eye_nee@moe.edu.sg"><span style="font-size:13.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:TA"><a href="mailto:lou_eye_nee@moe.edu.sg"><span style="color:#033C2E">zheng_xing_gui_jack@moe.edu.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:44.75pt;border:solid windowtext 1.0pt;
+  color:#033C2E;mso-bidi-language:TA">zheng_xing_gui_jack@moe.edu.sg</span></a><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:2;height:11.3pt"><td width="38" valign="top" style="width:28.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="60"><p style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:TA">2</span></p></td><td style="width:207.0pt;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:11.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:78.4pt;mso-height-rule:exactly"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">2</span></p></td><td width="232" valign="top" style="width:174.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="276"><p style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:TA">Ms Ong Hong Ching Sandie</span></p></td><td style="width:3.25in;border-top:none;border-left:
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:78.4pt;mso-height-rule:exactly"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">Ms Ong Hong Ching Sandie</span></p></td><td width="192" valign="top" style="width:143.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="312"><p style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:78.4pt;mso-height-rule:exactly"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif">School Counsellor</span></p></td><td width="285" valign="top" style="width:213.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:78.4pt;mso-height-rule:exactly"><a href="mailto:lou_eye_nee@moe.edu.sg"><span style="font-size:13.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:TA"><a href="mailto:lou_eye_nee@moe.edu.sg"><span style="color:#033C2E">ong_hong_ching@moe.edu.sg</span></a></span></p></td></tr></tbody></table> 
+  color:#033C2E;mso-bidi-language:TA">ong_hong_ching@moe.edu.sg</span></a><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA"></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:11.3pt"><td width="38" valign="top" style="width:28.15pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:11.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:78.4pt;mso-height-rule:exactly"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA">3</span></p></td><td width="232" valign="top" style="width:174.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:78.4pt;mso-height-rule:exactly"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif">Mr Paul Jeremiah</span></p></td><td width="192" valign="top" style="width:143.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:78.4pt;mso-height-rule:exactly"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif">N2 Roving Student Welfare Officer</span></p></td><td width="285" valign="top" style="width:213.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-left:center;mso-element-top:78.4pt;mso-height-rule:exactly"><u><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#033C2E;mso-bidi-language:TA"><a href="mailto:paul_jeremiah@moe.edu.sg">paul_jeremiah@moe.edu.sg</a></span></u><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-bidi-language:TA"></span></p></td></tr></tbody></table>
