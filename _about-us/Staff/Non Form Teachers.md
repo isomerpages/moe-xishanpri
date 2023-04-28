@@ -463,7 +463,7 @@ third_nav_title: Staff
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:black;mso-bidi-language:TA"><a href="mailto:yong_yiah_lee@moe.edu.sg"><span style="color:#033C2E">yong_yiah_lee@moe.edu.sg</span></a></span></p></td></tr></tbody></table>
 
-### School 	Counsellor
+### School 	Counsellors
         
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" align="left" width="0" style="width:559.6pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-table-lspace:9.0pt;margin-left:
