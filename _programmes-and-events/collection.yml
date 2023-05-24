@@ -2,8 +2,11 @@ collections:
   programmes-and-events:
     output: true
     order:
+      - Applied Learning Programme/.keep
+      - Applied Learning Programme/Applied Learning Programme (ALP).md
+      - Applied Learning Programme/Reading and NLB activities.md
+      - Applied Learning Programme/Curated Performances.md
       - Learning for Life Programme (LLP).md
-      - Applied Learning Programme (ALP).md
       - MOE Sexuality Education in Schools.md
       - Programmes for Active Learning (PAL).md
       - Learning to Learn Programme.md

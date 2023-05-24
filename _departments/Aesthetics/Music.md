@@ -1,8 +1,8 @@
 ---
 title: Music
-permalink: /departments/phe-aesthetics-cca/music
+permalink: /departments/phe-aesthetics-cca/music/
 description: ""
-third_nav_title: PHE Aesthetics CCA
+third_nav_title: Aesthetics
 ---
 # **Music**
 

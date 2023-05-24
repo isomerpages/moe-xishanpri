@@ -1,8 +1,8 @@
 ---
-title: PHE
-permalink: /departments/phe-aesthetics-cca/phe
+title: Physical Education
+permalink: /departments/phe/physicaleducation/
 description: ""
-third_nav_title: PHE Aesthetics CCA
+third_nav_title: PHE
 ---
 # **PHE**
 

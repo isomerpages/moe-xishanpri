@@ -2,6 +2,8 @@ collections:
   cca:
     output: true
     order:
+      - VIA/Bingo Home Card.md
+      - VIA/.keep
       - Physical Sports/Badminton.md
       - Physical Sports/Floorball.md
       - Physical Sports/Hockey.md

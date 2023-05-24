@@ -1,8 +1,8 @@
 ---
 title: Art
-permalink: /departments/phe-aesthetics-cca/art
+permalink: /departments/phe-aesthetics-cca/art/
 description: ""
-third_nav_title: PHE Aesthetics CCA
+third_nav_title: Aesthetics
 ---
 # **Art**
 
