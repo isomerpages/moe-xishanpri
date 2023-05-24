@@ -7,5 +7,4 @@ third_nav_title: PHE
 ###         School’s Out, Fun’s In!
 
       
-Looking for fun activities to do with your child? where to stay active through ActiveSG’s School Holiday Programme.
-
+Looking for fun activities to do with your child? [Find out]()where to stay active through ActiveSG’s School Holiday Programme.
