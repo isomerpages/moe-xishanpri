@@ -1,5 +1,0 @@
-collections:
-  e-bulletin:
-    output: true
-    order:
-      - Bulletin.md
