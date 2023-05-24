@@ -4,18 +4,16 @@ permalink: /departments/cce/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/cce2023slide5.JPG)
-**Character & Citizenship Education**
-=====================================
-![](/images/cce%202023%20Slide1.jpg)
+## **Character &amp; Citizenship Education**
 
-![](/images/cce%202023%20Slide2.jpg)
+<img src="/images/slide1cce.JPG" style="width:100%">     
 
-![](/images/cce2023slide3.JPG)
+<img src="/images/slide2cce.JPG" style="width:100 %">     
 
-![](/images/cce2023slide4.JPG)
+<img src="/images/cce2023slide3.JPG" style="width:100 %">    
 
-![](/images/CCE%20Slide1.jpeg)
+<img src="/images//CCE%20Slide1.jpeg" style="width:100 %">    
+
 
 2023 Lesson Units in CCE
 ------------------------
@@ -36,5 +34,4 @@ third_nav_title: CCE
 |Primary 3|[2023 CCE SOW P3 T2.pdf](https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1414/2023%20CCE%20SOW%20P3%20T2.pdf)|
 |Primary 4|[2023 CCE SOW P4 T2.pdf](https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1414/2023%20CCE%20SOW%20P4%20T2.pdf)|
 |Primary 5|[2023 CCE SOW P5 T2.pdf](https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1414/2023%20CCE%20SOW%20P5%20T2.pdf)|
-|Primary 6|[2023 CCE SOW P6 T2.pdf](https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1414/2023%20CCE%20SOW%20P6%20T2.pdf)| 
-
+|Primary 6|[2023 CCE SOW P6 T2.pdf](https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1414/2023%20CCE%20SOW%20P6%20T2.pdf)|
