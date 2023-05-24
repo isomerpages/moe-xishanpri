@@ -2,6 +2,7 @@ collections:
   programmes-and-events:
     output: true
     order:
+      - ALP/.keep
       - Learning for Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
       - MOE Sexuality Education in Schools.md
