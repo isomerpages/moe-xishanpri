@@ -1,4 +1,5 @@
 collections:
   e-bulletin:
     output: true
-    order: []
+    order:
+      - Bulletin.md
