@@ -2,8 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Discipline/Joint Mid Year School Holidays Advisory.md
-      - Discipline/.keep
       - English Language.md
       - Mathematics.md
       - Mother Tongue/.keep
@@ -17,8 +15,8 @@ collections:
       - Aesthetics/.keep
       - Aesthetics/Art.md
       - Aesthetics/Music.md
-      - CCE/Bingo Home Card (VIA).md
       - CCE/.keep
+      - CCE/Bingo Home Card (VIA).md
       - CCE/Character & Citizenship Education.md
       - CCE/Environmental Education.md
       - CCE/Parenting Tips.md
@@ -26,4 +24,6 @@ collections:
       - Student Management/Student Well being.md
       - Student Management/Student Leadership.md
       - Student Management/Student Leaders Newsletter.md
+      - Discipline/.keep
+      - Discipline/Joint Mid Year School Holidays Advisory.md
       - Infocomm Technology.md
