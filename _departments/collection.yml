@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PHE/Curated Sports Activities.md
       - PHE/Physical Education.md
       - PHE/.keep
       - English Language.md
