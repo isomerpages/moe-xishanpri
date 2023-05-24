@@ -2,6 +2,7 @@ collections:
   programmes-and-events:
     output: true
     order:
+      - Applied Learning Programme/Reading and NLB activities.md
       - Applied Learning Programme/Applied Learning Programme (ALP).md
       - Applied Learning Programme/.keep
       - Learning for Life Programme (LLP).md
