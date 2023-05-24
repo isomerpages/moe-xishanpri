@@ -2,9 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - PHE/Curated Sports Activities.md
-      - PHE/Physical Education.md
-      - PHE/.keep
       - English Language.md
       - Mathematics.md
       - Mother Tongue/.keep
@@ -12,6 +9,9 @@ collections:
       - Mother Tongue/Malay Language.md
       - Mother Tongue/Tamil Language.md
       - Science.md
+      - PHE/.keep
+      - PHE/Curated Sports Activities.md
+      - PHE/Physical Education.md
       - Aesthetics/.keep
       - Aesthetics/Art.md
       - Aesthetics/Music.md
