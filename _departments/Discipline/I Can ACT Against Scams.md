@@ -11,5 +11,9 @@ third_nav_title: Discipline
 **Learn more about ACT with us.**
 
 ![](/images/attachment%205%20-%20act%20and%20scamshield%20infographic%20for%20moe%20(special%20broadcast)_page-0001.jpg)
-![](/images/attachment%205%20-%20act%20and%20scamshield%20infographic%20for%20moe%20(special%20broadcast)_page-0002.jpg)![](/images/attachment%205%20-%20act%20and%20scamshield%20infographic%20for%20moe%20(special%20broadcast)_page-0003.jpg)
+
+![](/images/attachment%205%20-%20act%20and%20scamshield%20infographic%20for%20moe%20(special%20broadcast)_page-0002.jpg)
+
+![](/images/attachment%205%20-%20act%20and%20scamshield%20infographic%20for%20moe%20(special%20broadcast)_page-0003.jpg)
+
 ![](/images/attachment%205%20-%20act%20and%20scamshield%20infographic%20for%20moe%20(special%20broadcast)_page-0004.jpg)
