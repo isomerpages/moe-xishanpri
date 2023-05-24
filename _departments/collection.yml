@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - PHE/Example Title.md
+      - PHE/Physical Education.md
       - PHE/.keep
       - English Language.md
       - Mathematics.md
