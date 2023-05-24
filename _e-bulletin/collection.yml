@@ -1,0 +1,4 @@
+collections:
+  e-bulletin:
+    output: true
+    order: []
