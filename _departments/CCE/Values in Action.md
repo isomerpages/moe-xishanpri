@@ -4,7 +4,7 @@ permalink: /departments/cce/valuesinaction/
 description: ""
 third_nav_title: CCE
 ---
-### Bingo Home Card
+![](/images/cce2023slide5.JPG)### Bingo Home Card
 
 ##### Make time to do what matters  this June holidays.
        
