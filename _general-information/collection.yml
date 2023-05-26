@@ -2,8 +2,8 @@ collections:
   general-information:
     output: true
     order:
-      - Discipline/.keep
       - School Rules and Regulations.md
+      - Discipline/.keep
       - Assessment Matters.md
       - Homework Policy.md
       - Student Services/.keep
