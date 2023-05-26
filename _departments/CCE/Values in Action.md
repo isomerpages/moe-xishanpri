@@ -4,9 +4,11 @@ permalink: /departments/cce/valuesinaction/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/cce2023slide5.JPG)### Bingo Home Card
+<img src="/images/cce2023slide5.JPG" style="width:100%">    
 
-##### Make time to do what matters  this June holidays.
+### Bingo Home Card
+
+##### Make time to do what matters&nbsp; this June holidays.
        
 We can make this holiday period an enjoyable and meaningful time for our children.
 
