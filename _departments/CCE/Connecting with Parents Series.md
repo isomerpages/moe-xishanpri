@@ -1,6 +1,6 @@
 ---
-title: Parenting Tips
-permalink: /departments/cce/parentingtips/
+title: Connecting with Parents Series
+permalink: /departments/cce/parenting/
 description: ""
 third_nav_title: CCE
 ---

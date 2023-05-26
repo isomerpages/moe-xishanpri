@@ -3,6 +3,10 @@ collections:
     output: true
     order:
       - School Rules and Regulations.md
+      - Discipline/.keep
+      - Discipline/Joint Mid Year School Holidays Advisory.md
+      - Discipline/I Can ACT Against Scams.md
+      - Discipline/Harmful effects of vaping.md
       - Assessment Matters.md
       - Homework Policy.md
       - Student Services/.keep
