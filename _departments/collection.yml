@@ -2,11 +2,11 @@ collections:
   departments:
     output: true
     order:
-      - Malay Language.md
-      - Chinese Language/Chinese Language.md
-      - Chinese Language/.keep
       - English Language.md
       - Mathematics.md
+      - Chinese Language/.keep
+      - Chinese Language/Chinese Language.md
+      - Malay Language.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese Language.md
       - Mother Tongue/Malay Language.md
