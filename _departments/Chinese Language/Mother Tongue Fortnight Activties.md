@@ -14,6 +14,10 @@ third_nav_title: Chinese Language
 
 腰鼓是古老的民族艺术，它源于生活，又很好地表现生活。腰鼓舞的最大特点是鼓点与舞蹈动作的和谐配合和紧密结合。 学生们踩着清脆的鼓点，体验华族乐器的独特风格。
 
+![](/images/mtfornight20231.jpg)
+
+![](/images/mtfornight20232.jpg)
+
         
 ##### **茶艺**
 
