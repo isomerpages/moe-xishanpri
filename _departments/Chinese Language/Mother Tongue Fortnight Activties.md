@@ -23,6 +23,11 @@ third_nav_title: Chinese Language
 
 !)在我校高才课程计划下，四年级高华学生详细地讲解茶文化，并示范泡茶的重要步骤。我们提供精致的茶具，让学生亲自泡茶、品茶。这项活动成功地引起了学生对茶道的兴趣，也丰富了他们的文化知识。
 
+![](/images/mtfornight20233.jpg)
+
+![](/images/mtfornight20234.jpg)
+
+![](/images/mtfornight20235.jpg)
        
 ##### **脸谱**
 
