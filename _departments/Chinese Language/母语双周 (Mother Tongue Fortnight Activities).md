@@ -4,6 +4,8 @@ permalink: /departments/chinese-language/mothertonguefortnightactivties/
 description: ""
 third_nav_title: Chinese Language
 ---
+##### 母语双周
+
 西山小学华文部遵循教育部的方针指引，通过实施“乐学善用”教学理念，努力让华语成为学生的生活用语。除了重视学生听、说、读、写四种技能的全面发展外，更强调学生“口语互动技能”和“书面互动技能”的发展和提高。
 
 我们针对学生在华文学习上的不同起点因材施教。除了本部门的华文阅读活动外，学校还运用电脑科技，通过网上平台，为学生提供网上作业、上网听故事等多元手段，努力让每一个学生都能自主地投入到华文的学习中。
