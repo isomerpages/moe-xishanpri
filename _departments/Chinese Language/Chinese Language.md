@@ -1,12 +1,13 @@
 ---
 title: Chinese Language
-permalink: /departments/mother-tongue/chinese-language
+permalink: /departments/chinese-language/
 description: ""
-third_nav_title: Mother Tongue
+third_nav_title: Chinese Language
 ---
 # **Chinese Language**
 
-![](/images/ChineseImage1.jpg)
+<img src="/images/ChineseImage1.jpg" style="width:100%">     
+
 
 西山小学华文部遵循教育部的方针指引，通过实施“乐学善用”教学理念，努力让华语成为学生的生活用语。除了重视学生听、说、读、写四种技能的全面发展外，更强调学生“口语互动技能”和“书面互动技能”的发展和提高。
 

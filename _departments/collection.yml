@@ -4,10 +4,12 @@ collections:
     order:
       - English Language.md
       - Mathematics.md
-      - Mother Tongue/.keep
-      - Mother Tongue/Chinese Language.md
-      - Mother Tongue/Malay Language.md
-      - Mother Tongue/Tamil Language.md
+      - Chinese Language/.keep
+      - Chinese Language/Chinese Language.md
+      - Chinese Language/母语双周 (Mother Tongue Fortnight Activities).md
+      - Chinese Language/应用学习计划 (Applied Learning Programme).md
+      - Malay Language.md
+      - Tamil Language.md
       - Science.md
       - PHE/.keep
       - PHE/Physical Education.md
