@@ -7,4 +7,5 @@ description: ""
 We would like to cordially invite you to join us at our Open House this year! Look forward to the address by Principal, experiential learning, CCA booths and also school tour led by our student leaders!     
 
 **Scan the QR code to register!**
-
+ 
+![](/images/b676f2e9-37da-498b-b4fe-fd091d5977361.jpeg)
