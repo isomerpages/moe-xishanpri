@@ -54,3 +54,13 @@ It calls upon Singaporeans to look forward confidently and move onward together 
 National Day marks our separation from Malaysia in 1965, and our emergence as an independent country in a community of nations.
 
 The school-based commemoration brings to students a sense of the historical importance and solemnity of National Day. There will be an observance ceremony and a celebrations segment that reflects the National Day theme.
+         
+#### National Education (NE) and Social Studies Programmes
+
+###### 1. Primary 5 NE Show
+
+Our Primary 5 students get to attend the NE Show, which is a preview of the National Day Parade, to appreciate the significance of National Day.
+
+###### 2. NE Integration Programme for IS and SPR
+
+This programme provides opportunities for our international students (IS)  and Singapore Permanent Resident students (SPR) to deepen their understanding about the rich and diverse cultures of Singapore and build an enduring emotional connection with Singapore.
