@@ -59,7 +59,7 @@ Term 3 21 July
 
 * appreciate the different cultures that make up Singapore.
 
-
+2022 RHD - Encouraging students to appreciate and respect other races through activities.
 
 ####      National Day Commemoration in School  
 
