@@ -64,3 +64,11 @@ Our Primary 5 students get to attend the NE Show, which is a preview of the Nati
 ###### 2. NE Integration Programme for IS and SPR
 
 This programme provides opportunities for our international students (IS)  and Singapore Permanent Resident students (SPR) to deepen their understanding about the rich and diverse cultures of Singapore and build an enduring emotional connection with Singapore.
+
+###### 3.    Learning at Xishan Heritage Gallery and Heritage Cove
+          
+Xishan Primary unveiled its extended Heritage Gallery (The Heritage Cove) on Thursday, 28 July 2022. The launch reception was officiated by our SAC Chairperson, Mrs Agnes Sim and members of the SAC.
+
+The original Heritage Gallery was constructed in 2017 to commemorate the school’s 80th anniversary. It provides an overview of the school history, Singapore’s development over the years and the neighbourhood around the school. The heritage gallery was extended and refurbished to showcase the school’s and nation’s transformation over the years. The extension of the gallery allows us to convert the external area into a space for teaching and learning Social Studies and National Education.
+
+Students get to learn about the national symbols by completing the pencil rubbing activities and matching the images to the information about these symbols on the floor visuals. The large Singapore map allows students to practise their map reading skills as they identify the location of the significant places they have read about during Social Studies lessons and visited during their FbL. The newly designed feature wall “Our Journey, Our Hopes” presents the hopes and wishes that Xishanites have penned for their school and nation as well as showcase our journey and our hopes as a school and a nation.
