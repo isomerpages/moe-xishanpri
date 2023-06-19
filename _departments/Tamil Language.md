@@ -55,7 +55,7 @@ description: ""
 
 ![](/images/tl12202345.jpg)
 
-![](/images/tl20237.png)
+![](/images/tl182023%20(2).jpg)
 
 ![](/images/tl20238.jpg)
 
