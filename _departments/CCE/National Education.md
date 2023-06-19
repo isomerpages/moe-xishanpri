@@ -47,7 +47,8 @@ Term 3 21 July
 
 Term 3 Last school day before 9 August
 
-**The theme for 2023 is “Onward As One”.  **
+The theme for 2023 is “Onward As One”.  
+
 It calls upon Singaporeans to look forward confidently and move onward together in building our shared future as one united people.
 
 National Day marks our separation from Malaysia in 1965, and our emergence as an independent country in a community of nations.
