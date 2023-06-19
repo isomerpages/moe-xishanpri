@@ -100,7 +100,9 @@ This programme provides opportunities for our international students (IS) &nbsp;
 
 ![](/images/deepening%20puppet1.jpg)
 
+![](/images/ddeepening%20puppet3.jpg)
 
+![](/images/ddeepening%20puppet2.jpg)
 
 ###### 3. Learning at Xishan Heritage Gallery and Heritage Cove
           
@@ -109,6 +111,8 @@ Xishan Primary unveiled its extended Heritage Gallery (The Heritage Cove) on Thu
 The original Heritage Gallery was constructed in 2017 to commemorate the school’s 80th anniversary. It provides an overview of the school history, Singapore’s development over the years and the neighbourhood around the school. The heritage gallery was extended and refurbished to showcase the school’s and nation’s transformation over the years. The extension of the gallery allows us to convert the external area into a space for teaching and learning Social Studies and National Education.
 
 Students get to learn about the national symbols by completing the pencil rubbing activities and matching the images to the information about these symbols on the floor visuals. The large Singapore map allows students to practise their map reading skills as they identify the location of the significant places they have read about during Social Studies lessons and visited during their FbL. The newly designed feature wall “Our Journey, Our Hopes” presents the hopes and wishes that Xishanites have penned for their school and nation as well as showcase our journey and our hopes as a school and a nation.
+
+
 
 ###### 4. Social Studies Field-based Learning (FbL)
 
