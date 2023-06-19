@@ -59,6 +59,8 @@ Term 3 21 July
 
 * appreciate the different cultures that make up Singapore.
 
+
+
 ####      National Day Commemoration in School  
 
 Term 3 Last school day before 9 August
