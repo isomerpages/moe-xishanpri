@@ -88,10 +88,17 @@ The school-based commemoration brings to students a sense of the historical impo
 ###### 1. Primary 5 NE Show
 
 Our Primary 5 students get to attend the NE Show, which is a preview of the National Day Parade, to appreciate the significance of National Day.
+         
+###### 2022 NE Show
+![](/images/2022%20ne%20show.jpg)
 
 ###### 2. NE Integration Programme for IS and SPR
 
 This programme provides opportunities for our international students (IS) &nbsp;and Singapore Permanent Resident students (SPR) to deepen their understanding about the rich and diverse cultures of Singapore and build an enduring emotional connection with Singapore.
+
+![](/images/deepening%20puppet1.jpg)
+
+
 
 ###### 3.&nbsp;&nbsp;&nbsp; Learning at Xishan Heritage Gallery and Heritage Cove
           
