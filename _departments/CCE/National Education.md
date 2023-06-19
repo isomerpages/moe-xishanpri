@@ -70,7 +70,7 @@ Term 3 21 July
 
 ####      National Day Commemoration in School  
 
-Term 3 Last school day before 9 August
+Term 3  Last school day before 9 August
 
 ###### The theme for 2023 is “Onward As One”.  
 
@@ -79,6 +79,8 @@ It calls upon Singaporeans to look forward confidently and move onward together 
 National Day marks our separation from Malaysia in 1965, and our emergence as an independent country in a community of nations.
 
 The school-based commemoration brings to students a sense of the historical importance and solemnity of National Day. There will be an observance ceremony and a celebrations segment that reflects the National Day theme.
+
+###### 2022 National Day Commemoration in School
          
 #### National Education (NE) and Social Studies Programmes
 
