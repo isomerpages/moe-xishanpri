@@ -37,9 +37,9 @@ Term 3 21 July
 ###### 
 21 July marks the anniversary of the 1964 race riots. On this day, students reflect on and celebrate Singapore as a harmonious society built on a rich diversity of cultures and the collaborative effort of all to promote social cohesion. RHD is a good opportunity for students in primary school to:
 
-* ·make friends with people of other races and religions,     
+* ·make friends with people of other races and religions,&nbsp;&nbsp;&nbsp;&nbsp; 
 
-*  learn that in Singapore, people are treated equally regardless of their race and religion, and
+* &nbsp;learn that in Singapore, people are treated equally regardless of their race and religion, and
 
 * appreciate the different cultures that make up Singapore.
 
@@ -63,9 +63,9 @@ Our Primary 5 students get to attend the NE Show, which is a preview of the Nati
 
 ###### 2. NE Integration Programme for IS and SPR
 
-This programme provides opportunities for our international students (IS)  and Singapore Permanent Resident students (SPR) to deepen their understanding about the rich and diverse cultures of Singapore and build an enduring emotional connection with Singapore.
+This programme provides opportunities for our international students (IS) &nbsp;and Singapore Permanent Resident students (SPR) to deepen their understanding about the rich and diverse cultures of Singapore and build an enduring emotional connection with Singapore.
 
-###### 3.    Learning at Xishan Heritage Gallery and Heritage Cove
+###### 3.&nbsp;&nbsp;&nbsp; Learning at Xishan Heritage Gallery and Heritage Cove
           
 Xishan Primary unveiled its extended Heritage Gallery (The Heritage Cove) on Thursday, 28 July 2022. The launch reception was officiated by our SAC Chairperson, Mrs Agnes Sim and members of the SAC.
 
@@ -78,3 +78,43 @@ Students get to learn about the national symbols by completing the pencil rubbin
 Social Studies FbL experiences are planned for Xishanites as listed in the table below. Not only do they provide the opportunity for students to know more about Singapore, they engage them in inquiry-based learning, motivate and sustain their interest in the subject matter as students learn to explore the surroundings, construct new knowledge and make connections to the topic being studied.
 
 P4 to P6 cohort learning journeys are part of the key Student Development Experiences under the CCE Curriculum.
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="width:311.85pt;border-collapse:collapse;mso-yfti-tbllook:1056;
+ mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.05pt"><td width="89" valign="top" style="width:67.1pt;border-top:solid #3D231A 1.0pt;
+  border-left:none;border-bottom:solid #3D231A 1.0pt;border-right:none;
+  background:#C19E8F;padding:9.6pt 19.2pt 9.6pt 19.2pt;height:1.05pt"><p class="MsoNormal"><span lang="EN-SG" style="font-size:12.0pt;line-height:107%;
+  font-family:&quot;Arial&quot;,sans-serif">Level</span></p></td><td width="326" valign="top" style="width:244.75pt;border-top:solid #3D231A 1.0pt;
+  border-left:none;border-bottom:solid #3D231A 1.0pt;border-right:none;
+  background:#C19E8F;padding:9.6pt 19.2pt 9.6pt 19.2pt;height:1.05pt"><p class="MsoNormal"><span lang="EN-SG" style="font-size:12.0pt;line-height:107%;
+  font-family:&quot;Arial&quot;,sans-serif">Field-Based Learning</span></p></td></tr><tr style="mso-yfti-irow:1;height:.7pt"><td width="89" valign="top" style="width:67.1pt;border:none;border-bottom:solid #3D231A 1.0pt;
+  mso-border-top-alt:solid #3D231A 1.0pt;padding:.05in .1in .05in .1in;
+  height:.7pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif">P1</span></p></td><td width="326" valign="top" style="width:244.75pt;border:none;border-bottom:
+  solid #3D231A 1.0pt;mso-border-top-alt:solid #3D231A 1.0pt;padding:9.6pt 19.2pt 9.6pt 19.2pt;
+  height:.7pt"><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
+  &quot;Arial&quot;,sans-serif;mso-ansi-language:EN-US">Xishan Mindful Bloom</span><span lang="EN-SG" style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:2;height:1.05pt"><td width="89" valign="top" style="width:67.1pt;border:none;border-bottom:solid #3D231A 1.0pt;
+  mso-border-top-alt:solid #3D231A 1.0pt;background:#F2F0EF;padding:.05in .1in .05in .1in;
+  height:1.05pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif">P2</span></p></td><td width="326" valign="top" style="width:244.75pt;border:none;border-bottom:
+  solid #3D231A 1.0pt;mso-border-top-alt:solid #3D231A 1.0pt;background:#F2F0EF;
+  padding:9.6pt 19.2pt 9.6pt 19.2pt;height:1.05pt"><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
+  &quot;Arial&quot;,sans-serif;mso-ansi-language:EN-US">National Orchid Garden</span><span lang="EN-SG" style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:3;height:1.05pt"><td width="89" valign="top" style="width:67.1pt;border:none;border-bottom:solid #3D231A 1.0pt;
+  mso-border-top-alt:solid #3D231A 1.0pt;padding:.05in .1in .05in .1in;
+  height:1.05pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif">P3</span></p></td><td width="326" valign="top" style="width:244.75pt;border:none;border-bottom:
+  solid #3D231A 1.0pt;mso-border-top-alt:solid #3D231A 1.0pt;padding:9.6pt 19.2pt 9.6pt 19.2pt;
+  height:1.05pt"><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
+  &quot;Arial&quot;,sans-serif;mso-ansi-language:EN-US">Sustainable Singapore Gallery</span><span lang="EN-SG" style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:4;height:22.45pt"><td width="89" valign="top" style="width:67.1pt;border:none;border-bottom:solid #3D231A 1.0pt;
+  mso-border-top-alt:solid #3D231A 1.0pt;background:#F2F0EF;padding:.05in .1in .05in .1in;
+  height:22.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif">P4</span></p></td><td width="326" valign="top" style="width:244.75pt;border:none;border-bottom:
+  solid #3D231A 1.0pt;mso-border-top-alt:solid #3D231A 1.0pt;background:#F2F0EF;
+  padding:9.6pt 19.2pt 9.6pt 19.2pt;height:22.45pt"><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
+  &quot;Arial&quot;,sans-serif;mso-ansi-language:EN-US">Geylang Serai Heritage Gallery</span><span lang="EN-SG" style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
+  &quot;Arial&quot;,sans-serif;mso-ansi-language:EN-US">Kreta Ayer Heritage Gallery</span><span lang="EN-SG" style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:5;height:1.05pt"><td width="89" valign="top" style="width:67.1pt;border:none;border-bottom:solid #3D231A 1.0pt;
+  mso-border-top-alt:solid #3D231A 1.0pt;padding:.05in .1in .05in .1in;
+  height:1.05pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif">P5</span></p></td><td width="326" valign="top" style="width:244.75pt;border:none;border-bottom:
+  solid #3D231A 1.0pt;mso-border-top-alt:solid #3D231A 1.0pt;padding:9.6pt 19.2pt 9.6pt 19.2pt;
+  height:1.05pt"><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
+  &quot;Arial&quot;,sans-serif;mso-ansi-language:EN-US">Indian Heritage Centre</span><span lang="EN-SG" style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:1.05pt"><td width="89" valign="top" style="width:67.1pt;border:none;border-bottom:solid #3D231A 1.0pt;
+  mso-border-top-alt:solid #3D231A 1.0pt;background:#F2F0EF;padding:.05in .1in .05in .1in;
+  height:1.05pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-SG" style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif">P6</span></p></td><td width="326" valign="top" style="width:244.75pt;border:none;border-bottom:
+  solid #3D231A 1.0pt;mso-border-top-alt:solid #3D231A 1.0pt;background:#F2F0EF;
+  padding:9.6pt 19.2pt 9.6pt 19.2pt;height:1.05pt"><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
+  &quot;Arial&quot;,sans-serif;mso-ansi-language:EN-US">Asian Civilisations Museum (ACM)</span><span lang="EN-SG" style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>
