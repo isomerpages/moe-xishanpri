@@ -74,3 +74,7 @@ The original Heritage Gallery was constructed in 2017 to commemorate the school�
 Students get to learn about the national symbols by completing the pencil rubbing activities and matching the images to the information about these symbols on the floor visuals. The large Singapore map allows students to practise their map reading skills as they identify the location of the significant places they have read about during Social Studies lessons and visited during their FbL. The newly designed feature wall “Our Journey, Our Hopes” presents the hopes and wishes that Xishanites have penned for their school and nation as well as showcase our journey and our hopes as a school and a nation.
 
 ###### 4. Social Studies Field-based Learning (FbL)
+
+Social Studies FbL experiences are planned for Xishanites as listed in the table below. Not only do they provide the opportunity for students to know more about Singapore, they engage them in inquiry-based learning, motivate and sustain their interest in the subject matter as students learn to explore the surroundings, construct new knowledge and make connections to the topic being studied.
+
+P4 to P6 cohort learning journeys are part of the key Student Development Experiences under the CCE Curriculum.
