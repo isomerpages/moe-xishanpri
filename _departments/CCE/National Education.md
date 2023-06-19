@@ -62,6 +62,7 @@ Term 3 21 July
 ###### 2022 RHD - Encouraging students to appreciate and respect other races through activities.
 
 
+
 ####      National Day Commemoration in School  
 
 Term 3 Last school day before 9 August
