@@ -29,3 +29,16 @@ It is a day dedicated to the understanding of Singapore's relations with neighbo
 * nurture in our students the spirit of friendship and collaboration among different peoples in ASEAN and beyond and
 
 * keep an open mindset and express an appreciation of the contributions of foreigners living, working and studying in Singapore.
+
+#### Racial Harmony Day       
+Term 3 21 July
+
+**The theme for 2022 to 2024 is Singapore: Our Multicultural Mosaic.**
+
+21 July marks the anniversary of the 1964 race riots. On this day, students reflect on and celebrate Singapore as a harmonious society built on a rich diversity of cultures and the collaborative effort of all to promote social cohesion. RHD is a good opportunity for students in primary school to:
+
+* ·make friends with people of other races and religions,     
+
+*  learn that in Singapore, people are treated equally regardless of their race and religion, and
+
+* appreciate the different cultures that make up Singapore.
