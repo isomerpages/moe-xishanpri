@@ -116,7 +116,7 @@ Students get to learn about the national symbols by completing the pencil rubbin
 
 ![](/images/xishan%20heritage1.png)
 
-
+![](/images/xishan%20heritage2.jpg)
 
 ![](/images/xishan%20heritage3.jpg)
 
