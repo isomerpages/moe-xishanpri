@@ -10,7 +10,7 @@ third_nav_title: CCE
 #### Total Defence Day (TDD)  
 Term 1      15 February
 
- **The theme for 2023 is “Together We Keep Singapore Strong”.**
+###### The theme for 2023 is “Together We Keep Singapore Strong”.
          
 15 February marks the fall of Singapore to the Japanese in 1942. In commemorating TDD, our students reflect on the importance of Total Defence as Singapore's best all-round response to threats and challenges that confront Singapore (e.g. terrorism, pandemics, cyber-attacks, influence campaigns or economic crises). Students also reflect on the continuing relevance of the six pillars of Total Defence - Military Defence, Civil Defence, Economic Defence, Social Defence, Digital Defence and Psychological Defence - as well as the core message of every Singaporean standing together, each playing our part to protect Singapore and our shared way of life.
 
@@ -20,7 +20,7 @@ TDD is a good opportunity for students in primary school to know the aspects of 
 Term 2
 3rd Friday
 
-**The theme for 2022 to 2024 is “Singapore in Asia”.**
+###### The theme for 2022 to 2024 is “Singapore in Asia”.
 
 It is a day dedicated to the understanding of Singapore's relations with neighbouring countries and beyond. IFD is a good opportunity for students in primary school to:
 
@@ -33,8 +33,8 @@ It is a day dedicated to the understanding of Singapore's relations with neighbo
 #### Racial Harmony Day       
 Term 3 21 July
 
-**The theme for 2022 to 2024 is Singapore: Our Multicultural Mosaic.**
-
+###### The theme for 2022 to 2024 is Singapore: Our Multicultural Mosaic.
+###### 
 21 July marks the anniversary of the 1964 race riots. On this day, students reflect on and celebrate Singapore as a harmonious society built on a rich diversity of cultures and the collaborative effort of all to promote social cohesion. RHD is a good opportunity for students in primary school to:
 
 * ·make friends with people of other races and religions,     
@@ -47,7 +47,7 @@ Term 3 21 July
 
 Term 3 Last school day before 9 August
 
-The theme for 2023 is “Onward As One”.  
+###### The theme for 2023 is “Onward As One”.  
 
 It calls upon Singaporeans to look forward confidently and move onward together in building our shared future as one united people.
 
