@@ -15,6 +15,11 @@ Term 1      15 February
 15 February marks the fall of Singapore to the Japanese in 1942. In commemorating TDD, our students reflect on the importance of Total Defence as Singapore's best all-round response to threats and challenges that confront Singapore (e.g. terrorism, pandemics, cyber-attacks, influence campaigns or economic crises). Students also reflect on the continuing relevance of the six pillars of Total Defence - Military Defence, Civil Defence, Economic Defence, Social Defence, Digital Defence and Psychological Defence - as well as the core message of every Singaporean standing together, each playing our part to protect Singapore and our shared way of life.
 
 TDD is a good opportunity for students in primary school to know the aspects of Total Defence and how they can play a part in each aspect.
+         
+######  2023 TDD Activities
+![](/images/2023%20tdd%20activities1.jpg)
+
+![](/images/2023%20tdd%20activities2.jpg)
 
 #### International Friendship Day (IFD)  
 Term 2
