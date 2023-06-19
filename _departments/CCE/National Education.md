@@ -16,7 +16,7 @@ Term 1      15 February
 
 TDD is a good opportunity for students in primary school to know the aspects of Total Defence and how they can play a part in each aspect.
          
-######  2023 TDD Activities
+###### 2023 TDD Activities
 ![](/images/2023%20tdd%20activities1.jpg)
 
 ![](/images/2023%20tdd%20activities2.jpg)
@@ -35,7 +35,7 @@ It is a day dedicated to the understanding of Singapore's relations with neighbo
 
 * keep an open mindset and express an appreciation of the contributions of foreigners living, working and studying in Singapore.
 
-##### 2023 IFD Activities
+###### 2023 IFD Activities
 ![](/images/2023%20ifd%20activities1.jpg)
 
 ![](/images/2023%20ifd%20activities2.jpg)
@@ -59,7 +59,8 @@ Term 3 21 July
 
 * appreciate the different cultures that make up Singapore.
 
-2022 RHD - Encouraging students to appreciate and respect other races through activities.
+###### 2022 RHD - Encouraging students to appreciate and respect other races through activities.
+
 
 ####      National Day Commemoration in School  
 
