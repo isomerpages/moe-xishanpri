@@ -35,6 +35,14 @@ It is a day dedicated to the understanding of Singapore's relations with neighbo
 
 * keep an open mindset and express an appreciation of the contributions of foreigners living, working and studying in Singapore.
 
+![](/images/2023%20ifd%20activities1.jpg)
+
+![](/images/2023%20ifd%20activities2.jpg)
+
+![](/images/2023%20ifd%20activities3.jpg)
+
+![](/images/2023%20ifd%20activities4.jpg)
+
 #### Racial Harmony Day       
 Term 3 21 July
 
