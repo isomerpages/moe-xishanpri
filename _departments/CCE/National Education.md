@@ -81,6 +81,7 @@ National Day marks our separation from Malaysia in 1965, and our emergence as an
 The school-based commemoration brings to students a sense of the historical importance and solemnity of National Day. There will be an observance ceremony and a celebrations segment that reflects the National Day theme.
 
 ###### 2022 National Day Commemoration in School
+![](/images/2022%20national%20day%20commemoration%20in%20school1.jpg)
          
 #### National Education (NE) and Social Studies Programmes
 
