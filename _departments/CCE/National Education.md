@@ -59,13 +59,14 @@ Term 3 21 July
 * appreciate the different cultures that make up Singapore.
 
 ###### 2022 RHD - Encouraging students to appreciate and respect other races through activities.
-![](/images/rhd-21.jpg)
 
-![](/images/rhd%20-%20%2023.jpg)
+<img src="/images/rhd-21.jpg" style="width:70%"> 
 
-![](/images/rhd-22.jpg)
+<img src="/images/rhd%20-%20%2023.jpg" style="width:70%"> 
 
-![](/images/rhd-26.jpg)
+<img src="/images/rhd-22.jpg" style="width:70%"> 
+
+<img src="/images/rhd-26.jpg" style="width:70%"> 
 
 ####      National Day Commemoration in School  
 
@@ -80,7 +81,8 @@ National Day marks our separation from Malaysia in 1965, and our emergence as an
 The school-based commemoration brings to students a sense of the historical importance and solemnity of National Day. There will be an observance ceremony and a celebrations segment that reflects the National Day theme.
 
 ###### 2022 National Day Commemoration in School
-![](/images/2022%20national%20day%20commemoration%20in%20school1.jpg)
+
+<img src="/images/2022%20national%20day%20commemoration%20in%20school1.jpg" style="width:70%"> 
          
 #### National Education (NE) and Social Studies Programmes
 
@@ -89,7 +91,8 @@ The school-based commemoration brings to students a sense of the historical impo
 Our Primary 5 students get to attend the NE Show, which is a preview of the National Day Parade, to appreciate the significance of National Day.
          
 ###### 2022 NE Show
-![](/images/2022%20ne%20show.jpg)
+
+<img src="/images/2022%20ne%20show.jpg" style="width:70%"> 
 
 ###### 2. NE Integration Programme for IS and SPR
 
@@ -97,11 +100,11 @@ This programme provides opportunities for our international students (IS) &nbsp;
         
 ###### Deepening understanding of the diverse cultures in Singapore through hands-on activities e.g. Chinese paper cutting, painting of Indian oil lamp and creating Malay Wayang Kulit puppet
 
-![](/images/deepening%20puppet1.jpg)
+<img src="/images/deepening%20puppet1.jpg" style="width:70%"> 
 
-![](/images/ddeepening%20puppet3.jpg)
+<img src="/images/ddeepening%20puppet3.jpg" style="width:70%"> 
 
-![](/images/ddeepening%20puppet2.jpg)
+<img src="/images/ddeepening%20puppet2.jpg" style="width:70%"> 
 
 ###### 3. Learning at Xishan Heritage Gallery and Heritage Cove
           
