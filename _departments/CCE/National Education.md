@@ -19,9 +19,7 @@ TDD is a good opportunity for students in primary school to know the aspects of 
 ###### 2023 TDD Activities
 <img src="/images/2023%20tdd%20activities1.jpg" style="width:75%"> 
 
-
 <img src="/images/2023%20tdd%20activities2.jpg" style="width:75%">  
-
 
 
 #### International Friendship Day (IFD)  
@@ -39,7 +37,11 @@ It is a day dedicated to the understanding of Singapore's relations with neighbo
 * keep an open mindset and express an appreciation of the contributions of foreigners living, working and studying in Singapore.
 
 ###### 2023 IFD Activities
+<img src="/images/2023%20ifd%20activities1.jpg" style="width:75%">  
+
 ![](/images/2023%20ifd%20activities1.jpg)
+
+<img src="/images/2023%20ifd%20activities2.jpg" style="width:75%"> 
 
 ![](/images/2023%20ifd%20activities2.jpg)
 
