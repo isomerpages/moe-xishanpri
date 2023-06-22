@@ -12,8 +12,6 @@ third_nav_title: CCE
 
 <img src="/images/cce2023slide3.JPG" style="width:100 %">    
 
-<img src="/images//CCE%20Slide1.jpeg" style="width:100 %">    
-
 
 2023 Lesson Units in CCE
 ------------------------
