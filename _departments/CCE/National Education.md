@@ -17,9 +17,14 @@ Term 1      15 February
 TDD is a good opportunity for students in primary school to know the aspects of Total Defence and how they can play a part in each aspect.
          
 ###### 2023 TDD Activities
-![](/images/2023%20tdd%20activities1.jpg)
+<img src="/images/2023%20tdd%20activities1.jpg" style="width:75%"> 
 
-![](/images/2023%20tdd%20activities2.jpg)
+
+<img src="/images/chicken.jpg" style="width:45%">    
+
+<img src="/images/2023%20tdd%20activities2.jpg" style="width:75%">  
+
+
 
 #### International Friendship Day (IFD)  
 Term 2
