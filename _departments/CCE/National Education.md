@@ -114,14 +114,13 @@ The original Heritage Gallery was constructed in 2017 to commemorate the school�
 
 Students get to learn about the national symbols by completing the pencil rubbing activities and matching the images to the information about these symbols on the floor visuals. The large Singapore map allows students to practise their map reading skills as they identify the location of the significant places they have read about during Social Studies lessons and visited during their FbL. The newly designed feature wall “Our Journey, Our Hopes” presents the hopes and wishes that Xishanites have penned for their school and nation as well as showcase our journey and our hopes as a school and a nation.
 
-![](/images/xishan%20heritage.jpg)
+<img src="/images/xishan%20heritage.jpg" style="width:70%"> 
 
-![](/images/xishan%20heritage1.png)
+<img src="/images/xishan%20heritage1.png" style="width:70%"> 
 
-![](/images/xishan%20heritage2.jpg)
+<img src="/images/xishan%20heritage2.jpg" style="width:70%"> 
 
-![](/images/xishan%20heritage3.jpg)
-
+<img src="/images/xishan%20heritage3.jpg" style="width:70%"> 
 
 ###### 4. Social Studies Field-based Learning (FbL)
 
