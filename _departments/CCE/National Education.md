@@ -17,9 +17,9 @@ Term 1      15 February
 TDD is a good opportunity for students in primary school to know the aspects of Total Defence and how they can play a part in each aspect.
          
 ###### 2023 TDD Activities
-<img src="/images/2023%20tdd%20activities1.jpg" style="width:75%"> 
+<img src="/images/2023%20tdd%20activities1.jpg" style="width:70%"> 
 
-<img src="/images/2023%20tdd%20activities2.jpg" style="width:75%">  
+<img src="/images/2023%20tdd%20activities2.jpg" style="width:70%">  
 
 
 #### International Friendship Day (IFD)  
@@ -37,19 +37,13 @@ It is a day dedicated to the understanding of Singapore's relations with neighbo
 * keep an open mindset and express an appreciation of the contributions of foreigners living, working and studying in Singapore.
 
 ###### 2023 IFD Activities
-<img src="/images/2023%20ifd%20activities1.jpg" style="width:75%">  
+<img src="/images/2023%20ifd%20activities1.jpg" style="width:70%">  
 
-![](/images/2023%20ifd%20activities1.jpg)
+<img src="/images/2023%20ifd%20activities2.jpg" style="width:70%"> 
 
-<img src="/images/2023%20ifd%20activities2.jpg" style="width:75%"> 
+<img src="/images/2023%20ifd%20activities3.jpg" style="width:70%"> 
 
-![](/images/2023%20ifd%20activities2.jpg)
-
-![](/images/2023%20ifd%20activities3.jpg)
-
-![](/images/2023%20ifd%20activities4.jpg)
-
-
+<img src="/images/2023%20ifd%20activities4.jpg" style="width:70%"> 
 
 #### Racial Harmony Day       
 Term 3 21 July
