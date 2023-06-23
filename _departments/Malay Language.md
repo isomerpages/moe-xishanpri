@@ -40,5 +40,7 @@ Membangunkan komunikator yang yakin melalui kewartawanan dan penyiaran media
  
  **Penggunaan Informasi, Komunikasi dan Teknologi**
  
-         
+<img src="/images/malay%20department%20202310.jpg" style="width:75%">    
+<img src="/images/malay%20department%20202311jpg.jpg" style="width:75%">    
+      
 Memanfaatkan kemampuan ICT&nbsp; untuk meningkatkan kecekapan dan kemahiran komunikasi dan kolaborasi
