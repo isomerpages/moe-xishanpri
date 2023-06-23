@@ -29,8 +29,14 @@ Menanam perasaan menggemari buku. Mewujudkan budaya membaca di sekolah.
 
 ####  Program Aplikasi Pembelajaran (ALP)
 
+<img src="/images/malay%20department%2020234.jpg" style="width:75%">    
+<img src="/images/malay%20department%2020235.jpg" style="width:75%">    
+<img src="/images/malay%20department%2020236.jpg" style="width:75%">    
+<img src="/images/malay%20department%2020237.jpg" style="width:75%">    
+<img src="/images/malay%20department%2020238.jpg" style="width:75%">    
+<img src="/images/malay%20department%2020239.jpg" style="width:75%">    
 
- Membangunkan komunikator yang yakin melalui kewartawanan dan penyiaran media
+Membangunkan komunikator yang yakin melalui kewartawanan dan penyiaran media
  
  **Penggunaan Informasi, Komunikasi dan Teknologi**
  
