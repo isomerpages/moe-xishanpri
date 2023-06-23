@@ -28,7 +28,6 @@ Memupuk minat membaca dalam kalangan murid.
 Menanam perasaan menggemari buku. Mewujudkan budaya membaca di sekolah.
 
 ####  Program Aplikasi Pembelajaran (ALP)
-
 <img src="/images/malay%20department%2020234.jpg" style="width:75%">    
 <img src="/images/malay%20department%2020235.jpg" style="width:75%">    
 <img src="/images/malay%20department%2020236.jpg" style="width:75%">    
