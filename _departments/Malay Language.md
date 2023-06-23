@@ -43,3 +43,11 @@ Membangunkan komunikator yang yakin melalui kewartawanan dan penyiaran media
 <img src="/images/malay%20department%20202311jpg.jpg" style="width:75%">    
       
 Memanfaatkan kemampuan ICT&nbsp; untuk meningkatkan kecekapan dan kemahiran komunikasi dan kolaborasi
+
+####    Lain-lain Program
+Program Dwi Minggu Bahasa Ibunda Sambutan Hari Raya Aidilfitri Pendedahan Teater Kembara Ilmu Jejak Budaya dan Warisan Peraduan dan Pertandingan
+
+Berinteraksi dalam suasana bahasa yang autentik
+Menyemarakkan keseronokan dalam pembelajaran
+<img src="/images/malay%20department%20202312.jpg" style="width:75%">    <img src="/images/malay%20department%20202313.jpg" style="width:75%">    <img src="/images/malay%20department%20202314.jpg" style="width:75%">     <img src="/images/malay%20department%20202315.jpg" style="width:75%">     <img src="/images/malay%20department%20202316.jpg" style="width:75%">    <img src="/images/malay%20department%20202317.jpg" style="width:75%">    <img src="/images/malay%20department%20202318.jpg" style="width:75%">    <img src="/images/malay%20department%20202319.jpg" style="width:75%">     <img src="/images/malay%20department%20202320.jpg" style="width:75%">     <img src="/images/malay%20department%20202321.jpg" style="width:75%">    <img src="/images/malay%20department%20202322.jpg" style="width:75%">    <img src="/images/malay%20department%20202323.jpg" style="width:75%">   <img src="/images/malay%20department%20202324.jpg" style="width:75%">   <img src="/images/malay%20department%20202325.jpg" style="width:75%">    <img src="/images/malay%20department%20202326.jpg" style="width:75%">                          
+     
