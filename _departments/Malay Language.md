@@ -15,14 +15,14 @@ _Hinggap sebentar di pucuk rumbia;_
 _Junjunglah tinggi bahasa ibunda,_
 _Majulah bahasa, majulah bangsa!_
 
-
+![](/images/malay%20department%2020231.jpg)
 
 ### Program Teras
 
 #### Program Mari Membaca 
-
-      
-
+ <img src="/images/malay%20department%2020232.jpg" style="width:75%">    
+ 
+<img src="/images/malay%20department%2020233.jpg" style="width:75%">    
 Memupuk minat membaca dalam kalangan murid.
 Menanam perasaan menggemari buku. Mewujudkan budaya membaca di sekolah.
 
