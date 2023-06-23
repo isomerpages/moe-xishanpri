@@ -29,4 +29,10 @@ Menanam perasaan menggemari buku. Mewujudkan budaya membaca di sekolah.
 
 ####  Program Aplikasi Pembelajaran (ALP)
 
+
  Membangunkan komunikator yang yakin melalui kewartawanan dan penyiaran media
+ 
+ **Penggunaan Informasi, Komunikasi dan Teknologi**
+ 
+         
+Memanfaatkan kemampuan ICT&nbsp; untuk meningkatkan kecekapan dan kemahiran komunikasi dan kolaborasi
