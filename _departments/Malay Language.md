@@ -23,6 +23,7 @@ _Majulah bahasa, majulah bangsa!_
  <img src="/images/malay%20department%2020232.jpg" style="width:75%">    
  
 <img src="/images/malay%20department%2020233.jpg" style="width:75%">    
+
 Memupuk minat membaca dalam kalangan murid.
 Menanam perasaan menggemari buku. Mewujudkan budaya membaca di sekolah.
 
