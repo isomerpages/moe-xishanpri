@@ -17,9 +17,9 @@ Term 1      15 February
 TDD is a good opportunity for students in primary school to know the aspects of Total Defence and how they can play a part in each aspect.
          
 ###### 2023 TDD Activities
-<img src="/images/2023%20tdd%20activities1.jpg" style="width:70%"> 
+<img src="/images/2023%20tdd%20activities1.jpg" style="width:55%"> 
 
-<img src="/images/2023%20tdd%20activities2.jpg" style="width:70%">  
+<img src="/images/2023%20tdd%20activities2.jpg" style="width:55%">  
 
 
 #### International Friendship Day (IFD)  
@@ -37,13 +37,13 @@ It is a day dedicated to the understanding of Singapore's relations with neighbo
 * keep an open mindset and express an appreciation of the contributions of foreigners living, working and studying in Singapore.
 
 ###### 2023 IFD Activities
-<img src="/images/2023%20ifd%20activities1.jpg" style="width:70%">  
+<img src="/images/2023%20ifd%20activities1.jpg" style="width:55%">  
 
-<img src="/images/2023%20ifd%20activities2.jpg" style="width:70%"> 
+<img src="/images/2023%20ifd%20activities2.jpg" style="width:55%"> 
 
-<img src="/images/2023%20ifd%20activities3.jpg" style="width:70%"> 
+<img src="/images/2023%20ifd%20activities3.jpg" style="width:55%"> 
 
-<img src="/images/2023%20ifd%20activities4.jpg" style="width:70%"> 
+<img src="/images/2023%20ifd%20activities4.jpg" style="width:55%"> 
 
 #### Racial Harmony Day       
 Term 3 21 July
@@ -60,13 +60,13 @@ Term 3 21 July
 
 ###### 2022 RHD - Encouraging students to appreciate and respect other races through activities.
 
-<img src="/images/rhd-21.jpg" style="width:70%"> 
+<img src="/images/rhd-21.jpg" style="width:55%"> 
 
-<img src="/images/rhd%20-%20%2023.jpg" style="width:70%"> 
+<img src="/images/rhd%20-%20%2023.jpg" style="width:55%"> 
 
-<img src="/images/rhd-22.jpg" style="width:70%"> 
+<img src="/images/rhd-22.jpg" style="width:55%"> 
 
-<img src="/images/rhd-26.jpg" style="width:70%"> 
+<img src="/images/rhd-26.jpg" style="width:55%"> 
 
 ####      National Day Commemoration in School  
 
@@ -82,7 +82,7 @@ The school-based commemoration brings to students a sense of the historical impo
 
 ###### 2022 National Day Commemoration in School
 
-<img src="/images/2022%20national%20day%20commemoration%20in%20school1.jpg" style="width:70%"> 
+<img src="/images/2022%20national%20day%20commemoration%20in%20school1.jpg" style="width:55%"> 
          
 #### National Education (NE) and Social Studies Programmes
 
@@ -92,7 +92,7 @@ Our Primary 5 students get to attend the NE Show, which is a preview of the Nati
          
 ###### 2022 NE Show
 
-<img src="/images/2022%20ne%20show.jpg" style="width:70%"> 
+<img src="/images/2022%20ne%20show.jpg" style="width:55%"> 
 
 ###### 2. NE Integration Programme for IS and SPR
 
@@ -100,11 +100,11 @@ This programme provides opportunities for our international students (IS) &nbsp;
         
 ###### Deepening understanding of the diverse cultures in Singapore through hands-on activities e.g. Chinese paper cutting, painting of Indian oil lamp and creating Malay Wayang Kulit puppet
 
-<img src="/images/deepening%20puppet1.jpg" style="width:70%"> 
+<img src="/images/deepening%20puppet1.jpg" style="width:55%"> 
 
-<img src="/images/ddeepening%20puppet3.jpg" style="width:70%"> 
+<img src="/images/ddeepening%20puppet3.jpg" style="width:55%"> 
 
-<img src="/images/ddeepening%20puppet2.jpg" style="width:70%"> 
+<img src="/images/ddeepening%20puppet2.jpg" style="width:55%"> 
 
 ###### 3. Learning at Xishan Heritage Gallery and Heritage Cove
           
@@ -114,13 +114,13 @@ The original Heritage Gallery was constructed in 2017 to commemorate the school�
 
 Students get to learn about the national symbols by completing the pencil rubbing activities and matching the images to the information about these symbols on the floor visuals. The large Singapore map allows students to practise their map reading skills as they identify the location of the significant places they have read about during Social Studies lessons and visited during their FbL. The newly designed feature wall “Our Journey, Our Hopes” presents the hopes and wishes that Xishanites have penned for their school and nation as well as showcase our journey and our hopes as a school and a nation.
 
-<img src="/images/xishan%20heritage.jpg" style="width:70%"> 
+<img src="/images/xishan%20heritage.jpg" style="width:55%"> 
 
-<img src="/images/xishan%20heritage1.png" style="width:70%"> 
+<img src="/images/xishan%20heritage1.png" style="width:55%"> 
 
-<img src="/images/xishan%20heritage2.jpg" style="width:70%"> 
+<img src="/images/xishan%20heritage2.jpg" style="width:55%"> 
 
-<img src="/images/xishan%20heritage3.jpg" style="width:70%"> 
+<img src="/images/xishan%20heritage3.jpg" style="width:55%"> 
 
 ###### 4. Social Studies Field-based Learning (FbL)
 
