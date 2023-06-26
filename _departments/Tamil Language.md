@@ -45,18 +45,19 @@ description: ""
         
 நம் மாணவர்கள் பலதரப்பட்ட போட்டிகளில் பங்குபெற ஊக்குவிக்கப்படுகின்றனர். அவர்கள் பள்ளிக்கூடத்தில்,&nbsp;சமூக மன்றங்களில் மற்றும் தேசிய அளவிலான ஏற்பாடு செய்யப்படும் தமிழ் போட்டிகளில் பங்குபெறுவதால் தங்கள் தன்னம்பிக்கையை வளர்த்துக்கொள்வதோடு தமிழ் மொழி மீதான பற்றையும் மொழி வளத்தையும் வளர்த்துக்கொள்கின்றனர்.
 
-![](/images/tl202310.jpg)
+<img src="/images/tl202310.jpg" style="width:45%">
 
-![](/images/tl%20pic1.jpg)
+<img src="/images/tl%20pic1.jpg" style="width:45%"> 
 
-![](/images/tl12202345.jpg)
+<img src="/images/tl12202345.jpg" style="width:45%"> 
 
-![](/images/tl20237.png)
+<img src="/images/tl20237.png" style="width:45%"> 
 
-![](/images/tl182023%20(2).jpg)
+<img src="/images/tl182023%20(2).jpg" style="width:45%"> 
 
-![](/images/tl20239.jpg)
+<img src="/images/tl20239.jpg" style="width:45%"> 
 
-![](/images/tl152023.jpg)
+<img src="/images/tl152023.jpg" style="width:45%"> 
 
-![](/images/tl192023.jpg)
+<img src="/images/tl192023.jpg" style="width:45%"> 
+
