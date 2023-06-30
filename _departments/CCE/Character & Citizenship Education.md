@@ -109,9 +109,12 @@ third_nav_title: CCE
     <td class="tg-0lax">Primary 6</td>
     <td class="tg-0lax"><a href="https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1414/2023%20CCE%20SOW%20P6%20T2.pdf">2023 CCE SOW P6 T2.pdf</a></td></tr></tbody></table>
 		
+| Level 	| Term 3 	|
+|---	|---	|
+| Primary 1 	| [2023 CCE SOW P1 T3.pdf](/files/2023%20cce%20sow%20p1%20t3.pdf) 	| 
+| Primary 2 	| Mr Chia Hwa Tong 	| Operations Manager 	| [chia_hwa_tong@moe.edu.sg](mailto:chia_hwa_tong@moe.edu.sg) 	|
 		
-		
-[2023 CCE SOW P1 T3.pdf](/files/2023%20cce%20sow%20p1%20t3.pdf)
+[
 [2023 CCE SOW P2 T3.pdf](/files/2023%20cce%20sow%20p2%20t3.pdf)
 [2023 CCE SOW P3 T3.pdf](/files/2023%20cce%20sow%20p3%20t3.pdf)
 [2023 CCE SOW P4 T3.pdf](/files/2023%20cce%20sow%20p4%20t3.pdf)
