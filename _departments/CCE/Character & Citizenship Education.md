@@ -69,13 +69,6 @@ third_nav_title: CCE
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 
-		
-		
-| Level 	| Term 3 	| 
-|---	|---	|
-| Primary 1	| [2023 CCE SOW P1 T3.pdf](/files/2023%20cce%20sow%20p1%20t3.pdf)	|  	
-| Primary 2 	|  [2023 CCE SOW P2 T3.pdf](/files/2023%20cce%20sow%20p2%20t3.pdf)	|  
-| Primary 3| |
 
 <table class="tg">
 <thead>
