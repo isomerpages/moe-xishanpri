@@ -115,3 +115,5 @@ third_nav_title: CCE
 [2023 CCE SOW P2 T3.pdf](/files/2023%20cce%20sow%20p2%20t3.pdf)
 [2023 CCE SOW P3 T3.pdf](/files/2023%20cce%20sow%20p3%20t3.pdf)
 [2023 CCE SOW P4 T3.pdf](/files/2023%20cce%20sow%20p4%20t3.pdf)
+[2023 CCE SOW P5 T3.pdf](/files/2023%20cce%20sow%20p5%20t3.pdf)
+[2023 CCE SOW P6 T3.pdf](/files/2023%20cce%20sow%20p6%20t3.pdf)
