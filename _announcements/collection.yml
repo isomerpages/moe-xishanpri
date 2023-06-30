@@ -2,5 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - Closure of General Office.md
       - Updates on Group Personal Accident (GPA) Insurance for Students.md
