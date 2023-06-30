@@ -68,6 +68,8 @@ third_nav_title: CCE
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
+
+
 <table class="tg">
 <thead>
   <tr>
@@ -98,7 +100,13 @@ third_nav_title: CCE
   </tr>
   <tr>
     <td class="tg-0lax">Primary 6</td>
-    <td class="tg-0lax"><a href="https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1414/2023%20CCE%20SOW%20P6%20T2.pdf">2023 CCE SOW P6 T2.pdf</a></td>
-  </tr>
-</tbody>
-</table>
+    <td class="tg-0lax"><a href="https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1414/2023%20CCE%20SOW%20P6%20T2.pdf">2023 CCE SOW P6 T2.pdf</a></td></tr></tbody></table>
+		
+| Level 	| Term 3 	|
+|---	|---	|
+| Primary 1 	| [2023 CCE SOW P1 T3.pdf](/files/2023%20cce%20sow%20p1%20t3.pdf) 	| 
+| Primary 2 	| [2023 CCE SOW P2 T3.pdf](/files/2023%20cce%20sow%20p2%20t3.pdf)	| 
+|Primary 3| [2023 CCE SOW P2 T3.pdf](/files/2023%20cce%20sow%20p2%20t3.pdf)|
+|Primary 4|[2023 CCE SOW P4 T3.pdf](/files/2023%20cce%20sow%20p4%20t3.pdf)|
+|Primary 5|[2023 CCE SOW P5 T3.pdf](/files/2023%20cce%20sow%20p5%20t3.pdf)|
+|Primary 6| [2023 CCE SOW P6 T3.pdf](/files/2023%20cce%20sow%20p6%20t3.pdf)|
