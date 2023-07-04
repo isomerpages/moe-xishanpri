@@ -16,6 +16,7 @@ The Environmental Education at Xishan focuses on the Eco Stewardship Programme w
        
 There are four different domains in Environment Education at Xishan. Together, they provide our students with a holistic understanding and application of all aspects of Environmental Education.
 
+![](/images/environmentdepart1.png)
          
 ##### Tiered Approach
 
