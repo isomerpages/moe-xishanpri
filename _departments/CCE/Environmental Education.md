@@ -25,3 +25,7 @@ The school adopts a three-tiered approach in promoting Eco Stewardship.
 ##### Tier 1 – Engage
   
 Tier 1 initiatives engage the students in acquiring environmental sustainability concepts and values on the various environmental topics through assembly or Form Teachers’ sharing. Every student will be provided with the opportunity to participate in Tier 1 initiatives such as Recycle Right Campaign, World Water Day and Clean Plate Campaign. Tier 1 initiatives aim to raise awareness towards environmental conservation and protection as well as to encourage the students to adopt responsible sustainability habits for life. For instance, the briefing on the ‘Green Etiquette’ aims to promote positive environmental habits and values.
+    
+##### Tier 2 – Enrich
+
+Tier 2 initiatives provide learning opportunities for selected levels to enrich their learning through school-based initiatives and lesson packages. Learning is hands-on, meaningful and authentic for the students. Tier 2 initiatives include vermicomposting workshop as part of Primary 3 ALP IPW and The Mindful Blooms (orchid trail) where the students are involved in simple eco activities to nurture environmentally sustainable habits.
