@@ -25,10 +25,9 @@ description: ""
 | No 	| Name 	| Designation 	|
 |---	|---	|---	|
 | 1 	| Mr Bryan Ho Jun Wei 	| Desktop Engineer 	|
-| 2 	| Ms Francisca Ngui Soo Sim 	| Dental Therapist 	|
-| 3 	| Mr Elroy Bay Cho Ping 	| Lab Technician 	|
-| 4 	| Ms Shoo Sui Ken Viva |  Librarian 
-| 5 	| Mr Ang Poh Tiong 	| Horticulturalist 	|
-| 6 	| Mdm Cheong Siew Mei 	| Prepress Technician 	|
-| 7 	|  Mr Chin Koon Teck |  Security Officer 	|
-| 8 	| Mr Chandra Manogaran 	| Security Officer 	|
+| 2  |  Ms Padmanathan Bhuvaneswari | Desktop Engineer| 
+| 3 	| Ms Francisca Ngui Soo Sim 	| Dental Therapist 	|
+| 4 	| Ms Nurul Atiqah Binte Azhar 	| Lab Technician 	|
+| 5 	| Ms Shoo Sui Ken Vivan |  Librarian 
+| 6 	| Mr Ang Poh Tiong 	| Horticulturalist 	|
+| 7 	| Mdm Cheong Siew Mei 	| Prepress Technician |
