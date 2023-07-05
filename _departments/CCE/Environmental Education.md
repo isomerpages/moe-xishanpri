@@ -17,6 +17,7 @@ The Environmental Education at Xishan focuses on the Eco Stewardship Programme w
 There are four different domains in Environment Education at Xishan. Together, they provide our students with a holistic understanding and application of all aspects of Environmental Education.
 
 ![](/images/environmentdepart1.png)
+
          
 ##### Tiered Approach
 
@@ -26,7 +27,13 @@ The school adopts a three-tiered approach in promoting Eco Stewardship.
   
 Tier 1 initiatives engage the students in acquiring environmental sustainability concepts and values on the various environmental topics through assembly or Form Teachers’ sharing. Every student will be provided with the opportunity to participate in Tier 1 initiatives such as Recycle Right Campaign, World Water Day and Clean Plate Campaign. Tier 1 initiatives aim to raise awareness towards environmental conservation and protection as well as to encourage the students to adopt responsible sustainability habits for life. For instance, the briefing on the ‘Green Etiquette’ aims to promote positive environmental habits and values.
 
+![](/images/tier%201%20–%20engage%201.jpg)
 
+![](/images/tier%201%20–%20engage%202.jpg)
+
+![](/images/tier%201%20–%20engage%203.jpg)
+
+![](/images/tier%201%20–%20engage%204.jpg)
     
 ##### Tier 2 – Enrich
 
