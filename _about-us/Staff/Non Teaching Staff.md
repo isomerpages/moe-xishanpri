@@ -15,7 +15,7 @@ description: ""
 | 5 	|  Mdm Marlina Binte Mohamed Ali 	| Management Support Officer 	| [marlina_mohamed_ali@moe.gov.sg](mailto:marlina_mohamed_ali@moe.gov.sg) 	|
 | 6 	| Ms Nicole Yeow Lin Kai	| Administrative Assistant 	| [nicole_yeow_lin_kai@moe.edu.sg](mailto:nicole_yeow_lin_kai@moe.edu.sg) 	|
 | 7 	| Mdm Rohanah  Bte Ahmad 	| Adjunct Corporate Support Officer 	| [rohanah_ahmad@moe.edu.sg](mailto:rohanah_ahmad@moe.edu.sg) 	|
-| 8 	| Mdm Rosnah Bte Abdullah 	| Operation Support Officer 	|  	|
+| 8 	| Mdm Noraini Binte Mohammad Ali 	| Adjunt Operation Support Officer 	|  	|
 | 9 	| Mdm Su Nyuk Yeng (Alice) 	| Operation Support Officer 	|  	|
 | 10 	|   Mdm Tee Siew Cheng   	| Operation Support Officer 	|  	|
 | 11 	| Mdm Ang Sue Tin 	| Operation Support Officer 	|  	|
