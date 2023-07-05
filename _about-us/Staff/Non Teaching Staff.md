@@ -15,7 +15,7 @@ description: ""
 | 5 	|  Mdm Marlina Binte Mohamed Ali 	| Management Support Officer 	| [marlina_mohamed_ali@moe.gov.sg](mailto:marlina_mohamed_ali@moe.gov.sg) 	|
 | 6 	| Ms Nicole Yeow Lin Kai	| Administrative Assistant 	| [nicole_yeow_lin_kai@moe.edu.sg](mailto:nicole_yeow_lin_kai@moe.edu.sg) 	|
 | 7 	| Mdm Rohanah  Bte Ahmad 	| Adjunct Corporate Support Officer 	| [rohanah_ahmad@moe.edu.sg](mailto:rohanah_ahmad@moe.edu.sg) 	|
-| 8 	| Mdm Rosnah Bte Abdullah 	| Operation Support Officer 	|  	|
+| 8 	| Mdm Noraini Binte Mohammad Ali 	| Adjunt Operation Support Officer 	|  	|
 | 9 	| Mdm Su Nyuk Yeng (Alice) 	| Operation Support Officer 	|  	|
 | 10 	|   Mdm Tee Siew Cheng   	| Operation Support Officer 	|  	|
 | 11 	| Mdm Ang Sue Tin 	| Operation Support Officer 	|  	|
@@ -25,10 +25,9 @@ description: ""
 | No 	| Name 	| Designation 	|
 |---	|---	|---	|
 | 1 	| Mr Bryan Ho Jun Wei 	| Desktop Engineer 	|
-| 2 	| Ms Francisca Ngui Soo Sim 	| Dental Therapist 	|
-| 3 	| Mr Elroy Bay Cho Ping 	| Lab Technician 	|
-| 4 	| Ms Shoo Sui Ken Viva |  Librarian 
-| 5 	| Mr Ang Poh Tiong 	| Horticulturalist 	|
-| 6 	| Mdm Cheong Siew Mei 	| Prepress Technician 	|
-| 7 	|  Mr Chin Koon Teck |  Security Officer 	|
-| 8 	| Mr Chandra Manogaran 	| Security Officer 	|
+| 2  |  Ms Padmanathan Bhuvaneswari | Desktop Engineer| 
+| 3 	| Ms Francisca Ngui Soo Sim 	| Dental Therapist 	|
+| 4 	| Ms Nurul Atiqah Binte Azhar 	| Lab Technician 	|
+| 5 	| Ms Shoo Sui Ken Vivan |  Librarian 
+| 6 	| Mr Ang Poh Tiong 	| Horticulturalist 	|
+| 7 	| Mdm Cheong Siew Mei 	| Prepress Technician |
