@@ -12,6 +12,7 @@ third_nav_title: CCE
 
 <img src="/images/cce2023slide3.JPG" style="width:100 %">    
 
+![](/images/education%20and%20career%20advising%20resources%20(for%20parents).jpg)
 
 2023 Lesson Units in CCE
 ------------------------
