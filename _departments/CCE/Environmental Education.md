@@ -39,6 +39,8 @@ Tier 1 initiatives engage the students in acquiring environmental sustainability
 
 Tier 2 initiatives provide learning opportunities for selected levels to enrich their learning through school-based initiatives and lesson packages. Learning is hands-on, meaningful and authentic for the students. Tier 2 initiatives include vermicomposting workshop as part of Primary 3 ALP IPW and The Mindful Blooms (orchid trail) where the students are involved in simple eco activities to nurture environmentally sustainable habits.
 
+![](/images/tier2-enrich.jpg)
+
 ##### Tier 3 – Empower
 
 Tier 3 initiatives target a smaller group of students such as the class Environment Ambassadors, Environment Club members, selected or interested students who are keen to advocate for environment sustainability and inspire others to act. These students suggested and implemented projects that promote sustainability, conservation and promotion of biodiversity, and environmental awareness. Throughout the project implementation process, the students develop creative and critical thinking skills as well as get to hone their leadership and teamwork skills.
