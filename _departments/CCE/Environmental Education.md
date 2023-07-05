@@ -35,3 +35,17 @@ Tier 2 initiatives provide learning opportunities for selected levels to enrich 
 ##### Tier 3 – Empower
 
 Tier 3 initiatives target a smaller group of students such as the class Environment Ambassadors, Environment Club members, selected or interested students who are keen to advocate for environment sustainability and inspire others to act. These students suggested and implemented projects that promote sustainability, conservation and promotion of biodiversity, and environmental awareness. Throughout the project implementation process, the students develop creative and critical thinking skills as well as get to hone their leadership and teamwork skills.
+
+##### Alignment with Singapore Green Plan 2030
+
+As part of our continued efforts under the Singapore Green Plan 2030, Xishan builds the current environmental efforts through the 4Cs (Curriculum, Culture, Community and Campus).
+
+a)  **Curriculum** – To enhance the teaching and learning of sustainability concepts through Languages, Science and Social Studies.
+
+b)  **Culture**- To strengthen the importance of sustainability as an integral part of our culture. Students and staff are encouraged to adopt sustainability and eco-mindfulness habits.
+
+c)  **Community** - To leverage on community partnerships to expand environment-related volunteering and learning opportunities.
+
+d)  **Campus** - To support the move to reduce net carbon emissions in schools, sustainability features have been put in place whenever possible. For e.g. installation of solar panels and rainwater collection at Xishan’s Greenhouse.
+
+Through these environmental programmes and efforts, Xishan hopes to transform the way the students perceive environmental issues and start them on the journey in becoming eco guardians who are ready to protect biodiversity and advocate for eco sustainability.
