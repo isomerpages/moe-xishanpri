@@ -116,6 +116,11 @@ third_nav_title: Chinese Language
 ![](/images/mtfornight202310.jpg)
 
 
+##### **《故事导读》**
+我校聘请专业导师为同学进行不同名著的导读活动。激发学生的思维能力，鼓励学生爱上阅读，扩展写作能力。
+
+
+![](/images/ChineseDept9July%20-%20%20(3).jpg)
 
 
 
