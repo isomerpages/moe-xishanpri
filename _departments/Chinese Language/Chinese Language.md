@@ -121,37 +121,3 @@ third_nav_title: Chinese Language
 
 
 ![](/images/ChineseDept9July%20-%20%20(3).jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
