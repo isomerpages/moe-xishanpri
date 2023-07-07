@@ -54,6 +54,8 @@ third_nav_title: CCE
 </tbody>
 </table>
 
+<br>
+
 
 <table class="tg">
 <thead>
@@ -86,6 +88,8 @@ third_nav_title: CCE
   <tr>
     <td class="tg-0lax">Primary 6</td>
     <td class="tg-0lax"><a href="https://xishanpri-moe-edu-sg-admin.cwp.sg/qql/slot/u1414/2023%20CCE%20SOW%20P6%20T2.pdf">2023 CCE SOW P6 T2.pdf</a></td></tr></tbody></table>
+
+<br>
 		
 | Level 	| Term 3 	|
 |---	|---	|
