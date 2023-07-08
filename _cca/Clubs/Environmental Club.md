@@ -65,7 +65,7 @@ third_nav_title: Clubs
   minor-latin;mso-ansi-language:EN-SG">balakrishnan_vijayasaraswathi@moe.edu.sg</span></p></td></tr></tbody></table>
 
 
-      
+   #### **2023 Semester 2 CCA Schedule**   
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:7.5pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:480;mso-padding-alt:
  0in 0in 0in 0in;mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:34.55pt"><td width="73" valign="top" style="width:56.9pt;border:solid black 1.0pt;
