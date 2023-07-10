@@ -8,295 +8,275 @@ third_nav_title: Physical Sports
 
 ### Teachers-in-charge:
    
-<table style="width:456.7pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="0" style="width:456.7pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
- .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="0" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:25.6pt"><td style="width:195.7pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:25.6pt" valign="top" width="261"><p style="text-align:center;line-height:115%" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG" lang="EN-SG">Name of Teacher</span></b></p></td><td style="width:261.0pt;border:solid windowtext 1.0pt;
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:25.6pt"><td width="261" valign="top" style="width:195.7pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:25.6pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:115%"><b><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Name of Teacher</span></b></p></td><td width="348" valign="top" style="width:261.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:25.6pt" valign="top" width="348"><p style="text-align:center;line-height:115%" align="center" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG" lang="EN-SG">Email Address</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:22.2pt"><td style="width:195.7pt;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:25.6pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:115%"><b><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG">Email Address</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:22.2pt"><td width="261" valign="top" style="width:195.7pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:22.2pt" valign="top" width="261"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-ansi-language:EN-SG" lang="EN-SG">Ms Soh Hui Min</span></p></td><td style="width:261.0pt;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:22.2pt"><p class="MsoNormal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-ansi-language:EN-SG">Ms Soh Hui Min</span></p></td><td width="348" valign="top" style="width:261.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:22.2pt" valign="top" width="348"><p class="MsoNormal"><span lang="EN-GB"><a href="mailto:soh_hui_min@moe.edu.sg"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#033C2E;
-  background:white">soh_hui_min@moe.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:2;height:23.1pt"><td style="width:195.7pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:22.2pt"><p class="MsoNormal"><span lang="EN-GB"><a href="mailto:soh_hui_min@moe.edu.sg"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#033C2E;
+  background:white">soh_hui_min@moe.edu.sg</span></a></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:2;height:23.1pt"><td width="261" valign="top" style="width:195.7pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:23.1pt" valign="top" width="261"><p class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;background:white" lang="EN-GB">Ms Magdalene Khoo Lyn Wen</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:261.0pt;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:23.1pt"><p class="MsoNormal"><span lang="EN-GB" style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;background:white">Ms Magdalene Khoo Lyn Wen</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG"></span></p></td><td width="348" valign="top" style="width:261.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:23.1pt" valign="top" width="348"><p class="MsoNormal"><span lang="EN-GB"><a href="mailto:magdalene%20_khoo_lyn_wen@moe.edu.sg"><span style="font-size:
-  13.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#033C2E;background:white">magdalene _khoo_lyn_wen@moe.edu.sg</span></a></span><span style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:3;height:23.1pt"><td style="width:195.7pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:23.1pt"><p class="MsoNormal"><span lang="EN-GB"><a href="mailto:magdalene%20_khoo_lyn_wen@moe.edu.sg"><span style="font-size:
+  13.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#033C2E;background:white">magdalene _khoo_lyn_wen@moe.edu.sg</span></a></span><span lang="EN-SG" style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:3;height:23.1pt"><td width="261" valign="top" style="width:195.7pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:23.1pt" valign="top" width="261"><p class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;background:white" lang="EN-GB">Mdm Maria Humairah</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td><td style="width:261.0pt;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:23.1pt"><p class="MsoNormal"><span lang="EN-GB" style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;background:white">Mdm Maria Humairah</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG"></span></p></td><td width="348" valign="top" style="width:261.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:23.1pt" valign="top" width="348"><p class="MsoNormal"><span lang="EN-GB"><a href="mailto:maria_humairah_roslan@moe.edu.sg"><span style="font-size:13.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:#033C2E">maria_humairah_roslan@moe.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:23.1pt"><td style="width:195.7pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:23.1pt"><p class="MsoNormal"><span lang="EN-GB"><a href="mailto:maria_humairah_roslan@moe.edu.sg"><span style="font-size:13.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#033C2E">maria_humairah_roslan@moe.edu.sg</span></a></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:23.1pt"><td width="261" valign="top" style="width:195.7pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:23.1pt" valign="top" width="261"><p class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;background:white" lang="EN-GB">Wu Peishan Alison</span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB"></span></p></td><td style="width:261.0pt;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:23.1pt"><p class="MsoNormal"><span lang="EN-GB" style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;background:white">Wu Peishan Alison</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="348" valign="top" style="width:261.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:23.1pt" valign="top" width="348"><p class="MsoNormal"><span lang="EN-GB"><a href="mailto:alison_wu@moe.edu.sg"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#033C2E;
-  background:white">alison_wu@moe.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG" lang="EN-SG"></span></p></td></tr></tbody></table>
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:23.1pt"><p class="MsoNormal"><span lang="EN-GB"><a href="mailto:alison_wu@moe.edu.sg"><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#033C2E;
+  background:white">alison_wu@moe.edu.sg</span></a></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG"></span></p></td></tr></tbody></table>
        
 
-#### **2023 Semester 1 CCA Schedule**
-        
-<table style="width:484.9pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
- .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="0" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:34.6pt"><td style="width:56.85pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;
-  height:34.6pt" width="76"><p style="margin:0in;margin-bottom:.0001pt;text-align:center" align="center"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-ansi-language:EN-US;
-  mso-fareast-language:EN-US">Session</span></b></p></td><td style="width:51.6pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;height:34.6pt" width="69"><p style="margin:0in;margin-bottom:.0001pt;text-align:center" align="center"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-ansi-language:EN-US;
-  mso-fareast-language:EN-US">Week</span></b></p></td><td style="width:51.6pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;height:34.6pt" width="69"><p style="margin:0in;margin-bottom:.0001pt;text-align:center" align="center"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-ansi-language:EN-US;
-  mso-fareast-language:EN-US">Date</span></b></p></td><td style="width:51.55pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;height:34.6pt" width="69"><p style="margin:0in;margin-bottom:.0001pt;text-align:center" align="center"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-ansi-language:EN-US;
-  mso-fareast-language:EN-US">Day</span></b></p></td><td style="width:76.7pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;height:34.6pt" width="102"><p style="margin:0in;margin-bottom:.0001pt;text-align:center" align="center"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-ansi-language:EN-US;
-  mso-fareast-language:EN-US">Time</span></b></p></td><td style="width:90.2pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;height:34.6pt" width="120"><p style="margin:0in;margin-bottom:.0001pt;text-align:center" align="center"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-ansi-language:EN-US;
-  mso-fareast-language:EN-US">CCA Reporting Venue</span></b></p></td><td style="width:106.4pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;height:34.6pt" width="142"><p style="margin:0in;margin-bottom:.0001pt;text-align:center" align="center"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-ansi-language:EN-US;
-  mso-fareast-language:EN-US">Remarks</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:19.85pt;mso-height-rule:exactly"><td style="width:56.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:exactly" width="76"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">1</span></i></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">T1W4</span></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">26 Jan</span></i></p></td><td style="width:51.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Thurs</span></i></p></td><td style="width:76.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" rowspan="15" width="102"><p style="text-align:center" align="center"><i><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-ansi-language:EN-US;mso-fareast-language:EN-US">2.45pm</span></i></p><p style="text-align:center" align="center"><i><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-ansi-language:EN-US;mso-fareast-language:EN-US">to</span></i></p><p style="text-align:center" align="center"><i><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-ansi-language:EN-US;mso-fareast-language:EN-US">4.15pm</span></i></p></td><td style="width:90.2pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" rowspan="15" width="120"><p style="text-align:center" align="center"><i><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-ansi-language:EN-US;mso-fareast-language:EN-US">Sheltered Basketball Court</span></i></p></td><td style="width:106.4pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" rowspan="15" width="142"><p style="text-align:center" align="center"><i><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-ansi-language:EN-US;mso-fareast-language:EN-US">Please bring a water bottle for CCA.</span></i></p><p style="text-align:center" align="center"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-ansi-language:EN-US;mso-fareast-language:EN-US">Students will be dismissed at 4.15pm. Gate B will be opened for dismissal from 4.10pm to 4.45pm.</span></p></td></tr><tr style="mso-yfti-irow:2;height:19.85pt;mso-height-rule:exactly"><td style="width:56.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:exactly" width="76"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">2</span></i></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">T1W5</span></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">02 Feb</span></i></p></td><td style="width:51.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Thurs</span></i></p></td></tr><tr style="mso-yfti-irow:3;height:19.85pt;mso-height-rule:exactly"><td style="width:56.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:exactly" width="76"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">3</span></i></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">T1W6</span></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">09 Feb</span></i></p></td><td style="width:51.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Thurs</span></i></p></td></tr><tr style="mso-yfti-irow:4;height:19.85pt;mso-height-rule:exactly"><td style="width:56.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:exactly" width="76"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">4</span></i></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">T1W7</span></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">16 Feb</span></i></p></td><td style="width:51.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Thurs</span></i></p></td></tr><tr style="mso-yfti-irow:5;height:19.85pt;mso-height-rule:exactly"><td style="width:56.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:exactly" width="76"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">5</span></i></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">T1W8</span></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">23 Feb</span></i></p></td><td style="width:51.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Thurs</span></i></p></td></tr><tr style="mso-yfti-irow:6;height:19.85pt;mso-height-rule:exactly"><td style="width:56.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:exactly" width="76"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">6</span></i></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">T1W9</span></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">02 Mar</span></i></p></td><td style="width:51.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Thurs</span></i></p></td></tr><tr style="mso-yfti-irow:7;height:19.85pt;mso-height-rule:exactly"><td style="width:56.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:exactly" width="76"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">7</span></i></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">T1W10</span></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">09 Mar</span></i></p></td><td style="width:51.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Thurs</span></i></p></td></tr><tr style="mso-yfti-irow:8;height:19.85pt;mso-height-rule:exactly"><td style="width:56.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:exactly" width="76"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">8</span></i></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">T2W2</span></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">30 Mar</span></i></p></td><td style="width:51.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Thurs</span></i></p></td></tr><tr style="mso-yfti-irow:9;height:19.85pt;mso-height-rule:exactly"><td style="width:56.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:exactly" width="76"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">9</span></i></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">T2W4</span></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">13 Apr</span></i></p></td><td style="width:51.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Thurs</span></i></p></td></tr><tr style="mso-yfti-irow:10;height:19.85pt;mso-height-rule:exactly"><td style="width:56.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:exactly" width="76"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">10</span></i></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">T2W5</span></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">20 Apr</span></i></p></td><td style="width:51.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Thurs</span></i></p></td></tr><tr style="mso-yfti-irow:11;height:19.85pt;mso-height-rule:exactly"><td style="width:56.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:exactly" width="76"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">11</span></i></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">T2W6</span></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">27 Apr</span></i></p></td><td style="width:51.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Thurs</span></i></p></td></tr><tr style="mso-yfti-irow:12;height:19.85pt;mso-height-rule:exactly"><td style="width:56.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:exactly" width="76"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">12</span></i></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">T2W7</span></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">04 May</span></i></p></td><td style="width:51.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Thurs</span></i></p></td></tr><tr style="mso-yfti-irow:13;height:19.85pt;mso-height-rule:exactly"><td style="width:56.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:exactly" width="76"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">13</span></i></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">T2W8</span></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">11 May</span></i></p></td><td style="width:51.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Thurs</span></i></p></td></tr><tr style="mso-yfti-irow:14;height:19.85pt;mso-height-rule:exactly"><td style="width:56.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:exactly" width="76"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">14</span></i></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">T2W9</span></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">18 May</span></i></p></td><td style="width:51.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Thurs</span></i></p></td></tr><tr style="mso-yfti-irow:15;mso-yfti-lastrow:yes;height:19.85pt;mso-height-rule:
-  exactly"><td style="width:56.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:exactly" width="76"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">15</span></i></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">T2W10</span></p></td><td style="width:51.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;mso-height-rule:
-  exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">25 May</span></i></p></td><td style="width:51.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.85pt;
-  mso-height-rule:exactly" width="69"><p style="text-align:center" align="center" class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Thurs</span></i></p></td></tr></tbody></table>
+#### **2023 Semester 2 CCA Schedule**
+       
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:7.5pt;border-collapse:collapse;mso-table-layout-alt:fixed;
+ border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:480;mso-padding-alt:
+ 0in 0in 0in 0in;mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:41.35pt"><td width="73" valign="top" style="width:56.9pt;border:solid black 1.0pt;
+  mso-border-alt:solid black .5pt;background:#D9D9D9;padding:0in 0in 0in 0in;
+  height:41.35pt"><p class="TableParagraph" align="left" style="margin-top:0in;text-align:left"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt">&nbsp;</span></p><p class="TableParagraph" style="margin-top:0in;margin-right:4.3pt;margin-bottom:
+  0in;margin-left:4.7pt;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;letter-spacing:
+  -.1pt">Session</span></b><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></b></p></td><td width="55" valign="top" style="width:51.6pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  background:#D9D9D9;padding:0in 0in 0in 0in;height:41.35pt"><p class="TableParagraph" align="left" style="margin-top:0in;text-align:left"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt">&nbsp;</span></p><p class="TableParagraph" align="right" style="margin-top:0in;margin-right:9.55pt;
+  margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:right"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;letter-spacing:-.2pt">Week</span></b><b style="mso-bidi-font-weight:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></b></p></td><td width="50" valign="top" style="width:51.65pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  background:#D9D9D9;padding:0in 0in 0in 0in;height:41.35pt"><p class="TableParagraph" align="left" style="margin-top:0in;text-align:left"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt">&nbsp;</span></p><p class="TableParagraph" style="margin-top:0in;margin-right:5.8pt;margin-bottom:
+  0in;margin-left:6.05pt;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;letter-spacing:
+  -.2pt">Date</span></b><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></b></p></td><td width="66" valign="top" style="width:51.5pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  background:#D9D9D9;padding:0in 0in 0in 0in;height:41.35pt"><p class="TableParagraph" align="left" style="margin-top:0in;text-align:left"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt">&nbsp;</span></p><p class="TableParagraph" style="margin-top:0in;margin-right:9.4pt;margin-bottom:
+  0in;margin-left:9.8pt;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;letter-spacing:
+  -.25pt">Day</span></b><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></b></p></td><td width="102" valign="top" style="width:76.85pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  background:#D9D9D9;padding:0in 0in 0in 0in;height:41.35pt"><p class="TableParagraph" align="left" style="margin-top:0in;text-align:left"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt">&nbsp;</span></p><p class="TableParagraph" align="left" style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:24.25pt;margin-bottom:.0001pt;text-align:left"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;letter-spacing:-.2pt">Time</span></b><b style="mso-bidi-font-weight:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></b></p></td><td width="119" valign="top" style="width:90.2pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  background:#D9D9D9;padding:0in 0in 0in 0in;height:41.35pt"><p class="TableParagraph" style="margin-top:0in;margin-right:16.2pt;margin-bottom:
+  0in;margin-left:16.5pt;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;letter-spacing:
+  -.25pt">CCA</span></b><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></b></p><p class="TableParagraph" style="margin-top:0in;margin-right:16.2pt;margin-bottom:
+  0in;margin-left:16.65pt;margin-bottom:.0001pt;line-height:13.5pt"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;letter-spacing:-.1pt">Reporting Venue</span></b><b style="mso-bidi-font-weight:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></b></p></td><td width="104" valign="top" style="width:106.5pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  background:#D9D9D9;padding:0in 0in 0in 0in;height:41.35pt"><p class="TableParagraph" align="left" style="margin-top:0in;text-align:left"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt">&nbsp;</span></p><p class="TableParagraph" align="left" style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:27.65pt;margin-bottom:.0001pt;text-align:left"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;letter-spacing:-.1pt">Remarks</span></b><b style="mso-bidi-font-weight:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:19.4pt"><td width="73" valign="top" style="width:56.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" style="margin-top:2.85pt;margin-right:0in;margin-bottom:
+  0in;margin-left:.4pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;mso-font-width:
+  99%">1</span></i><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td><td width="55" valign="top" style="width:51.6pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" align="right" style="margin-top:2.85pt;margin-right:
+  9.2pt;margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:
+  right"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;letter-spacing:
+  -.2pt">T3W3</span><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></p></td><td width="50" valign="top" style="width:51.65pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" style="margin-top:2.85pt;margin-right:5.75pt;
+  margin-bottom:0in;margin-left:6.15pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt">13<span style="letter-spacing:-.15pt"> </span><span style="letter-spacing:
+  -.25pt">Jul</span></span></i></p></td><td width="66" valign="top" style="width:51.5pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" style="margin-top:2.85pt;margin-right:9.4pt;
+  margin-bottom:0in;margin-left:9.9pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;letter-spacing:-.2pt">Thurs</span></i><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td><td width="102" rowspan="8" valign="top" style="width:76.85pt;border-top:none;
+  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" align="left" style="margin-top:0in;text-align:left"><span style="font-size:13.0pt;mso-bidi-font-size:11.0pt">&nbsp;</span></p><p class="TableParagraph" align="left" style="margin-top:0in;text-align:left"><span style="font-size:13.0pt;mso-bidi-font-size:11.0pt">&nbsp;</span></p><p class="TableParagraph" align="left" style="margin-top:.2pt;text-align:left"><span style="font-size:12.5pt;mso-bidi-font-size:11.0pt">&nbsp;</span></p><p class="TableParagraph" style="margin-top:.05pt;margin-right:.25in;
+  margin-bottom:0in;margin-left:18.15pt;margin-bottom:.0001pt;line-height:200%"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;line-height:200%;letter-spacing:-.1pt">2.45pm </span></i><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;line-height:200%;letter-spacing:-.3pt">to </span></i><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;line-height:200%;letter-spacing:-.1pt">4.15pm</span></i><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;line-height:200%"></span></i></p></td><td width="119" rowspan="8" valign="top" style="width:90.2pt;border-top:none;
+  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" align="left" style="margin-top:0in;text-align:left"><span style="font-size:13.0pt;mso-bidi-font-size:11.0pt">&nbsp;</span></p><p class="TableParagraph" align="left" style="margin-top:0in;text-align:left"><span style="font-size:13.0pt;mso-bidi-font-size:11.0pt">&nbsp;</span></p><p class="TableParagraph" align="left" style="margin-top:0in;text-align:left"><span style="font-size:13.0pt;mso-bidi-font-size:11.0pt">&nbsp;</span></p><p class="TableParagraph" align="left" style="margin-top:.45pt;text-align:left"><span style="font-size:11.5pt;mso-bidi-font-size:11.0pt">&nbsp;</span></p><p class="TableParagraph" style="margin-top:0in;margin-right:16.85pt;
+  margin-bottom:0in;margin-left:17.25pt;margin-bottom:.0001pt;text-indent:-.25pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;letter-spacing:-.1pt">Sheltered Basketball </span></i><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;letter-spacing:-.2pt">Court</span></i><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td><td width="104" rowspan="8" valign="top" style="width:106.5pt;border-top:none;
+  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" align="left" style="margin-top:.25pt;text-align:left"><span style="font-size:13.0pt;mso-bidi-font-size:11.0pt">&nbsp;</span></p><p class="TableParagraph" style="margin-top:0in;margin-right:16.5pt;margin-bottom:
+  0in;margin-left:16.6pt;margin-bottom:.0001pt;text-indent:.1pt"><i style="mso-bidi-font-style:normal">Please bring a water<span style="letter-spacing:-.8pt"> </span>bottle<span style="letter-spacing:-.75pt"> </span>for <span style="letter-spacing:-.2pt">CCA.</span></i></p><p class="TableParagraph" align="left" style="margin-top:.2pt;text-align:left"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt">&nbsp;</span></p><p class="TableParagraph" style="margin-top:0in;margin-right:5.1pt;margin-bottom:
+  0in;margin-left:5.35pt;margin-bottom:.0001pt;text-indent:-.15pt">Students will be dismissed at 4.15pm.<span style="letter-spacing:-.65pt"> </span>Gate<span style="letter-spacing:-.6pt"> </span>B<span style="letter-spacing:-.6pt"> </span>will be opened for dismissal from 4.10pm to 4.45pm.</p></td></tr><tr style="mso-yfti-irow:2;height:19.25pt"><td width="73" valign="top" style="width:56.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.25pt"><p class="TableParagraph" style="margin-left:.4pt"><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;mso-font-width:
+  99%">2</span></i><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td><td width="55" valign="top" style="width:51.6pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.25pt"><p class="TableParagraph" align="right" style="margin-right:9.2pt;text-align:
+  right"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;letter-spacing:
+  -.2pt">T3W4</span><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></p></td><td width="50" valign="top" style="width:51.65pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 0in 0in 0in;height:19.25pt"><p class="TableParagraph" style="margin-top:2.75pt;margin-right:5.75pt;
+  margin-bottom:0in;margin-left:6.15pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt">20<span style="letter-spacing:-.15pt"> </span><span style="letter-spacing:
+  -.25pt">Jul</span></span></i></p></td><td width="66" valign="top" style="width:51.5pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.25pt"><p class="TableParagraph" style="margin-top:2.75pt;margin-right:9.4pt;
+  margin-bottom:0in;margin-left:9.9pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;letter-spacing:-.2pt">Thurs</span></i><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td></tr><tr style="mso-yfti-irow:3;height:19.4pt"><td width="73" valign="top" style="width:56.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" style="margin-left:.4pt"><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;mso-font-width:
+  99%">3</span></i><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td><td width="55" valign="top" style="width:51.6pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" align="right" style="margin-right:9.2pt;text-align:
+  right"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;letter-spacing:
+  -.2pt">T3W5</span><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></p></td><td width="50" valign="top" style="width:51.65pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" style="margin-top:2.75pt;margin-right:5.75pt;
+  margin-bottom:0in;margin-left:6.15pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt">27<span style="letter-spacing:-.15pt"> </span><span style="letter-spacing:
+  -.25pt">Jul</span></span></i></p></td><td width="66" valign="top" style="width:51.5pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" style="margin-top:2.75pt;margin-right:9.4pt;
+  margin-bottom:0in;margin-left:9.9pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;letter-spacing:-.2pt">Thurs</span></i><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td></tr><tr style="mso-yfti-irow:4;height:19.25pt"><td width="73" valign="top" style="width:56.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.25pt"><p class="TableParagraph" style="margin-left:.4pt"><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;mso-font-width:
+  99%">4</span></i><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td><td width="55" valign="top" style="width:51.6pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.25pt"><p class="TableParagraph" align="right" style="margin-right:9.2pt;text-align:
+  right"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;letter-spacing:
+  -.2pt">T3W6</span><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></p></td><td width="50" valign="top" style="width:51.65pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 0in 0in 0in;height:19.25pt"><p class="TableParagraph" style="margin-top:2.75pt;margin-right:5.8pt;
+  margin-bottom:0in;margin-left:6.15pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt">03<span style="letter-spacing:-.15pt"> </span><span style="letter-spacing:
+  -.25pt">Aug</span></span></i></p></td><td width="66" valign="top" style="width:51.5pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.25pt"><p class="TableParagraph" style="margin-top:2.75pt;margin-right:9.4pt;
+  margin-bottom:0in;margin-left:9.9pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;letter-spacing:-.2pt">Thurs</span></i><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td></tr><tr style="mso-yfti-irow:5;height:19.3pt"><td width="73" valign="top" style="width:56.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.3pt"><p class="TableParagraph" style="margin-left:.4pt"><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;mso-font-width:
+  99%">5</span></i><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td><td width="55" valign="top" style="width:51.6pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.3pt"><p class="TableParagraph" align="right" style="margin-right:9.2pt;text-align:
+  right"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;letter-spacing:
+  -.2pt">T3W8</span><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></p></td><td width="50" valign="top" style="width:51.65pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 0in 0in 0in;height:19.3pt"><p class="TableParagraph" style="margin-top:2.75pt;margin-right:5.8pt;
+  margin-bottom:0in;margin-left:6.15pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt">17<span style="letter-spacing:-.15pt"> </span><span style="letter-spacing:
+  -.25pt">Aug</span></span></i></p></td><td width="66" valign="top" style="width:51.5pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.3pt"><p class="TableParagraph" style="margin-top:2.75pt;margin-right:9.4pt;
+  margin-bottom:0in;margin-left:9.9pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;letter-spacing:-.2pt">Thurs</span></i><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td></tr><tr style="mso-yfti-irow:6;height:19.4pt"><td width="73" valign="top" style="width:56.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" style="margin-top:2.9pt;margin-right:0in;margin-bottom:
+  0in;margin-left:.4pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;mso-font-width:
+  99%">6</span></i><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td><td width="55" valign="top" style="width:51.6pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" align="right" style="margin-top:2.9pt;margin-right:
+  9.2pt;margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:
+  right"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;letter-spacing:
+  -.2pt">T3W9</span><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></p></td><td width="50" valign="top" style="width:51.65pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" style="margin-top:2.9pt;margin-right:5.8pt;
+  margin-bottom:0in;margin-left:6.15pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt">24<span style="letter-spacing:-.15pt"> </span><span style="letter-spacing:
+  -.25pt">Aug</span></span></i></p></td><td width="66" valign="top" style="width:51.5pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" style="margin-top:2.9pt;margin-right:9.4pt;
+  margin-bottom:0in;margin-left:9.9pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;letter-spacing:-.2pt">Thurs</span></i><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td></tr><tr style="mso-yfti-irow:7;height:19.25pt"><td width="73" valign="top" style="width:56.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.25pt"><p class="TableParagraph" style="margin-left:.4pt"><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;mso-font-width:
+  99%">7</span></i><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td><td width="55" valign="top" style="width:51.6pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.25pt"><p class="TableParagraph" align="right" style="margin-right:9.2pt;text-align:
+  right"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;letter-spacing:
+  -.2pt">T4W2</span><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></p></td><td width="50" valign="top" style="width:51.65pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 0in 0in 0in;height:19.25pt"><p class="TableParagraph" style="margin-top:2.75pt;margin-right:5.8pt;
+  margin-bottom:0in;margin-left:6.15pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt">21<span style="letter-spacing:-.15pt"> </span><span style="letter-spacing:
+  -.25pt">Sep</span></span></i></p></td><td width="66" valign="top" style="width:51.5pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.25pt"><p class="TableParagraph" style="margin-top:2.75pt;margin-right:9.4pt;
+  margin-bottom:0in;margin-left:9.9pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;letter-spacing:-.2pt">Thurs</span></i><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:19.4pt"><td width="73" valign="top" style="width:56.9pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" style="margin-left:.4pt"><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;mso-font-width:
+  99%">8</span></i><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td><td width="55" valign="top" style="width:51.6pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" align="right" style="margin-right:9.2pt;text-align:
+  right"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt;letter-spacing:
+  -.2pt">T4W8</span><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></p></td><td width="50" valign="top" style="width:51.65pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
+  mso-border-alt:solid black .5pt;padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" style="margin-top:2.75pt;margin-right:5.75pt;
+  margin-bottom:0in;margin-left:6.15pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt">02<span style="letter-spacing:-.15pt"> </span><span style="letter-spacing:
+  -.25pt">Nov</span></span></i></p></td><td width="66" valign="top" style="width:51.5pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0in 0in 0in 0in;height:19.4pt"><p class="TableParagraph" style="margin-top:2.75pt;margin-right:9.4pt;
+  margin-bottom:0in;margin-left:9.9pt;margin-bottom:.0001pt"><i style="mso-bidi-font-style:normal"><span style="font-size:12.0pt;mso-bidi-font-size:
+  11.0pt;letter-spacing:-.2pt">Thurs</span></i><i style="mso-bidi-font-style:
+  normal"><span style="font-size:12.0pt;mso-bidi-font-size:11.0pt"></span></i></p></td></tr></tbody></table>
