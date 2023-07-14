@@ -110,6 +110,7 @@ third_nav_title: Chinese Language
 ##### **剧场体验**
 
 老师带学生走出校园，在正式的表演场所（如剧院等）观赏以华语为媒介的文艺作品。此活动让学生们通过观赏广泛而丰富题材的文化演出，感受中华文化的深厚底蕴，并鼓励他们从小种下“乐学”华文的种子。
+![](/images/66dfdc2c-b5ba-43cd-817a-fa0285239f41.jfif)
 
 <img src="/images/mtfornight20239.jpg" style="width:55%">  
 
