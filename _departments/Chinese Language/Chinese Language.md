@@ -69,12 +69,10 @@ third_nav_title: Chinese Language
 ##### **腰鼓舞**
 
 腰鼓是古老的民族艺术，它源于生活，又很好地表现生活。腰鼓舞的最大特点是鼓点与舞蹈动作的和谐配合和紧密结合。 学生们踩着清脆的鼓点，体验华族乐器的独特风格。
+<img src="/images/mtfornight20231.jpg" style="width:55%">     
 
-![](/images/mtfornight20231.jpg)
-
-![](/images/mtfornight20232.jpg)
-
-        
+<img src="/images/mtfornight20232.jpg" style="width:55%">    
+     
 ##### **茶艺**
 
 !)在我校高才课程计划下，四年级高华学生详细地讲解茶文化，并示范泡茶的重要步骤。我们提供精致的茶具，让学生亲自泡茶、品茶。这项活动成功地引起了学生对茶道的兴趣，也丰富了他们的文化知识。
