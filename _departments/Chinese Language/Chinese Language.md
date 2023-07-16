@@ -25,18 +25,14 @@ third_nav_title: Chinese Language
 
 <img src="/images/clalp1.jpg" style="width:55%"> 
 
-<img src="/images/clalp2.jpg" style="width:55%">   
-
-
-       
+<img src="/images/clalp2.jpg" style="width:55%">        
 ##### **2.** **二年级：“我会买早餐”。**
 
 配合二年级课文，创设真实场景（把咖啡店“搬”到教室中），让学生通过角色扮演的方式应用所学，发展语言沟通技巧，进一步提升使用华文表达的信心。
 
-![](/images/clalp3.jpg)
+<img src="/images/clalp3.jpg" style="width:55%"> 
 
-![](/images/clalp4.jpg)
-
+<img src="/images/clalp4.jpg" style="width:55%"> 
 ##### **3.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **三年级：“我是朗读高手”。**
 
 学生将着重学习朗读技巧，自选一篇课文朗诵并上传录音，全级公开评比选出“朗读高手”。在“吟咏的时候，对于探究所得的不仅理智地理解，而且亲切地体会，不知不觉之间，内容与理法化而为读者自己的东西了。”（ 叶圣陶）
