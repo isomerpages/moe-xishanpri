@@ -87,16 +87,15 @@ third_nav_title: Chinese Language
 
 脸谱的产生有悠久的历史，我们通过脸谱的学习带领学生走进戏曲文化。学生根据角色的性格特征设计图案并涂上不同的颜色，了解脸谱的文化意义。
 
-![](/images/mtfornight20236.jpg)
-
+<img src="/images/mtfornight20236.jpg" style="width:55%">   
 
 ##### **陈兆锦讲故事**
 
 校特地聘请新加坡著名表演艺术家陈兆锦来为同学们风趣地讲述故事。学生们也会尝试演绎故事中的角色，提高学生的语言表达能力，让孩子感受语言的魅力，培养阅读兴趣 。
 
-![](/images/mtfornight20237.jpg)
+<img src="/images/mtfornight20237.jpg" style="width:55%">   
 
-![](/images/mtfornight20238.jpg)
+<img src="/images/mtfornight20238.jpg" style="width:55%">  
 
 ##### **《舞台剧表演》**
 
