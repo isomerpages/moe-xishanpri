@@ -39,7 +39,6 @@ third_nav_title: Chinese Language
 
 学生将着重学习朗读技巧，自选一篇课文朗诵并上传录音，全级公开评比选出“朗读高手”。在“吟咏的时候，对于探究所得的不仅理智地理解，而且亲切地体会，不知不觉之间，内容与理法化而为读者自己的东西了。”（ 叶圣陶）
 
-
 <img src="/images/clalp5.jpg" style="width:55%"> 
 
 <img src="/images/clalp6.jpg" style="width:55%"> 
@@ -48,11 +47,10 @@ third_nav_title: Chinese Language
 
 学生将参加绕口令比赛。作为一种特殊的语言技巧，充满趣味性的绕口令对学生的语言和思维发展具有显著影响。通过学习绕口令，学生能学习新的词汇，同时锻炼口才和纠正发音，进一步建立说华文的自信心。比赛也提供了展示技能和表现的机会，鼓励学生积极参与，并激发对语言学习的兴趣。
 
-![](/images/whatsapp%20image%2006192.jpeg)
+<img src="/images/whatsapp%20image%2006192.jpeg" style="width:55%"> 
+<img src="/images/whatsapp%20image%200619%20.jpeg" style="width:55%"> 
+<img src="/images/clalp7.jpg" style="width:55%"> 
 
-![](/images/whatsapp%20image%200619%20.jpeg)
-
-![](/images/clalp7.jpg)
 
 ##### **5.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **五年级：“我是小记者”。**
 
