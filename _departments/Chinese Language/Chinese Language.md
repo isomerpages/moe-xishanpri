@@ -23,9 +23,11 @@ third_nav_title: Chinese Language
 
 学生将学习华语儿童歌曲和古诗词，并有机会在全级展示所学。这些歌曲和诗词语言简洁明了，节奏轻快、动感活泼，通过演唱和表演的方式进行语言强化和词语记忆，能让学生在学习中提高自信心，同时激发学习华文的兴趣。
 
-![](/images/clalp1.jpg)
+<img src="/images/clalp1.jpg" style="width:55%"> 
 
-![](/images/clalp2.jpg)
+<img src="/images/clalp2.jpg" style="width:55%">   
+
+
        
 ##### **2.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **二年级：“我会买早餐”。**
 
