@@ -18,50 +18,49 @@ third_nav_title: Chinese Language
 
 在“Keep Calm and Give”框架的理念指引下，西山小学华文部ALP项目采用渐进的方式，为学生精心设计了一系列展现口才、加强沟通技巧的课程，以此培养有效和自信的沟通者。一至六年级项目实施计划如下：
 
-##### **1.**       **一年级：“我是小歌手”。**
+##### **1.** **一年级：“我是小歌手”。**
 
 
 学生将学习华语儿童歌曲和古诗词，并有机会在全级展示所学。这些歌曲和诗词语言简洁明了，节奏轻快、动感活泼，通过演唱和表演的方式进行语言强化和词语记忆，能让学生在学习中提高自信心，同时激发学习华文的兴趣。
 
-![](/images/clalp1.jpg)
+<img src="/images/clalp1.jpg" style="width:55%"> 
 
-![](/images/clalp2.jpg)
-       
-##### **2.**       **二年级：“我会买早餐”。**
+<img src="/images/clalp2.jpg" style="width:55%"> 
+
+##### **2.** **二年级：“我会买早餐”。**
 
 配合二年级课文，创设真实场景（把咖啡店“搬”到教室中），让学生通过角色扮演的方式应用所学，发展语言沟通技巧，进一步提升使用华文表达的信心。
 
-![](/images/clalp3.jpg)
+<img src="/images/clalp3.jpg" style="width:55%"> 
 
-![](/images/clalp4.jpg)
+<img src="/images/clalp4.jpg" style="width:55%"> 
 
-##### **3.**       **三年级：“我是朗读高手”。**
+##### **3.** **三年级：“我是朗读高手”。**
 
 学生将着重学习朗读技巧，自选一篇课文朗诵并上传录音，全级公开评比选出“朗读高手”。在“吟咏的时候，对于探究所得的不仅理智地理解，而且亲切地体会，不知不觉之间，内容与理法化而为读者自己的东西了。”（ 叶圣陶）
 
-![](/images/clalp5.jpg)
+<img src="/images/clalp5.jpg" style="width:55%"> 
 
-![](/images/clalp6.jpg)
+<img src="/images/clalp6.jpg" style="width:55%"> 
 
-##### **4.**       **四年级：“我是绕口令大王”。**
+##### **4.** **四年级：“我是绕口令大王”。**
 
 学生将参加绕口令比赛。作为一种特殊的语言技巧，充满趣味性的绕口令对学生的语言和思维发展具有显著影响。通过学习绕口令，学生能学习新的词汇，同时锻炼口才和纠正发音，进一步建立说华文的自信心。比赛也提供了展示技能和表现的机会，鼓励学生积极参与，并激发对语言学习的兴趣。
 
-![](/images/whatsapp%20image%2006192.jpeg)
+<img src="/images/whatsapp%20image%2006192.jpeg" style="width:55%"> 
+<img src="/images/whatsapp%20image%200619%20.jpeg" style="width:55%"> 
+<img src="/images/clalp7.jpg" style="width:55%"> 
 
-![](/images/whatsapp%20image%200619%20.jpeg)
 
-![](/images/clalp7.jpg)
-
-##### **5.**       **五年级：“我是小记者”。**
+##### **5.** **五年级：“我是小记者”。**
 
 学生将以两人一组的形式参与采访活动。通过该活动，他们将学会如何针对一个特定主题向教师或其他人提问，并且掌握如何根据对方的回答进行继续提问。在这个过程中，学生将需要自信地运用华语进行交流，从而增强他们的沟通技巧和信心。
 
-![](/images/clalp8.jpg)
+<img src="/images/clalp8.jpg" style="width:55%"> 
 
-![](/images/clalp9jpg.jpg)
-        
-##### **6.**       **六年级：“我是西山大使”。**
+<img src="/images/clalp9jpg.jpg" style="width:55%">     
+
+##### **6.** **六年级：“我是西山大使”。**
 
 学生需要通过数码平台，运用所学知识和技能，搜集丰富多样的素材资源（包括图片、视频、采访资料等）创作一份精彩的发言稿，来介绍西山小学。在此过程中，学生需要运用创意，把素材转化为富有吸引力和感染力的语言表达，以便在发言时能够引起观众的兴趣和共鸣，有助于通过实践来巩固和拓展他们的语言能力、表达能力和创意思维。
 
@@ -70,55 +69,55 @@ third_nav_title: Chinese Language
 ##### **腰鼓舞**
 
 腰鼓是古老的民族艺术，它源于生活，又很好地表现生活。腰鼓舞的最大特点是鼓点与舞蹈动作的和谐配合和紧密结合。 学生们踩着清脆的鼓点，体验华族乐器的独特风格。
-
-![](/images/mtfornight20231.jpg)
-
-![](/images/mtfornight20232.jpg)
-
-        
+<img src="/images/mtfornight20231.jpg" style="width:55%">     
+<img src="/images/mtfornight20232.jpg" style="width:55%">    
+     
 ##### **茶艺**
 
 !)在我校高才课程计划下，四年级高华学生详细地讲解茶文化，并示范泡茶的重要步骤。我们提供精致的茶具，让学生亲自泡茶、品茶。这项活动成功地引起了学生对茶道的兴趣，也丰富了他们的文化知识。
 
-![](/images/mtfornight20233.jpg)
+<img src="/images/mtfornight20233.jpg" style="width:55%">     
 
-![](/images/mtfornight20234.jpg)
+<img src="/images/mtfornight20234.jpg" style="width:55%">     
 
-![](/images/mtfornight20235.jpg)
+<img src="/images/mtfornight20235.jpg" style="width:55%">   
+
        
 ##### **脸谱**
 
 脸谱的产生有悠久的历史，我们通过脸谱的学习带领学生走进戏曲文化。学生根据角色的性格特征设计图案并涂上不同的颜色，了解脸谱的文化意义。
 
-![](/images/mtfornight20236.jpg)
-
+<img src="/images/mtfornight20236.jpg" style="width:55%">   
 
 ##### **陈兆锦讲故事**
 
 校特地聘请新加坡著名表演艺术家陈兆锦来为同学们风趣地讲述故事。学生们也会尝试演绎故事中的角色，提高学生的语言表达能力，让孩子感受语言的魅力，培养阅读兴趣 。
 
-![](/images/mtfornight20237.jpg)
+<img src="/images/mtfornight20237.jpg" style="width:55%">   
 
-![](/images/mtfornight20238.jpg)
+<img src="/images/mtfornight20238.jpg" style="width:55%">  
 
 ##### **《舞台剧表演》**
 
 我校邀请校外专业剧团来校进行舞台剧表演，为学生演绎寓言故事。生动的表演为学生带来视觉的飨宴，近距离的互动、欢笑、正面积极的引导，让学生更深入思考故事背后的道理。
-
-![](/images/CL%20Department%20Achievement%20(5).jpg)
+<img src="/images/CL%20Department%20Achievement%20(5).jpg" style="width:70%">  
 
 ##### **剧场体验**
 
 老师带学生走出校园，在正式的表演场所（如剧院等）观赏以华语为媒介的文艺作品。此活动让学生们通过观赏广泛而丰富题材的文化演出，感受中华文化的深厚底蕴，并鼓励他们从小种下“乐学”华文的种子。
 
-![](/images/mtfornight20239.jpg)
+<img src="/images/66dfdc2c-b5ba-43cd-817a-fa0285239f41.jfif" style="width:55%">  
 
-![](/images/mtfornight202310.jpg)
+<img src="/images/8733b81b-6cdf-4bdc-9df4-ccb89225bcc9.jfif" style="width:55%">  
 
+<img src="/images/mtfornight20239.jpg" style="width:55%">  
+
+<img src="/images/mtfornight202310.jpg" style="width:55%">  
 
 ##### **《故事导读》**
 我校聘请专业导师为同学进行不同名著的导读活动。激发学生的思维能力，鼓励学生爱上阅读，扩展写作能力。
 
-![](/images/img_20230519_125521.jpg)
+<img src="/images/img_20230519_125521.jpg" style="width:55%">  
 
-![](/images/ChineseDept9July%20-%20%20(3).jpg)
+<img src="/images/ChineseDept9July%20-%20%20(3).jpg" style="width:70%">  
+
