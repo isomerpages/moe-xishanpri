@@ -100,8 +100,7 @@ third_nav_title: Chinese Language
 ##### **《舞台剧表演》**
 
 我校邀请校外专业剧团来校进行舞台剧表演，为学生演绎寓言故事。生动的表演为学生带来视觉的飨宴，近距离的互动、欢笑、正面积极的引导，让学生更深入思考故事背后的道理。
-
-![](/images/CL%20Department%20Achievement%20(5).jpg)
+<img src="/images/CL%20Department%20Achievement%20(5).jpg" style="width:55%">  
 
 ##### **剧场体验**
 
