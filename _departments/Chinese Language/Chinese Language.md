@@ -100,19 +100,19 @@ third_nav_title: Chinese Language
 ##### **《舞台剧表演》**
 
 我校邀请校外专业剧团来校进行舞台剧表演，为学生演绎寓言故事。生动的表演为学生带来视觉的飨宴，近距离的互动、欢笑、正面积极的引导，让学生更深入思考故事背后的道理。
-<img src="/images/CL%20Department%20Achievement%20(5).jpg" style="width:55%">  
+<img src="/images/CL%20Department%20Achievement%20(5).jpg" style="width:70%">  
 
 ##### **剧场体验**
 
 老师带学生走出校园，在正式的表演场所（如剧院等）观赏以华语为媒介的文艺作品。此活动让学生们通过观赏广泛而丰富题材的文化演出，感受中华文化的深厚底蕴，并鼓励他们从小种下“乐学”华文的种子。
-![](/images/66dfdc2c-b5ba-43cd-817a-fa0285239f41.jfif)
 
-![](/images/8733b81b-6cdf-4bdc-9df4-ccb89225bcc9.jfif)
+<img src="/images/66dfdc2c-b5ba-43cd-817a-fa0285239f41.jfif" style="width:55%">  
 
-<img src="/images/mtfornight20239.jpg" style="width:65%">  
+<img src="/images/8733b81b-6cdf-4bdc-9df4-ccb89225bcc9.jfif" style="width:55%">  
 
-![](/images/mtfornight202310.jpg)
+<img src="/images/mtfornight20239.jpg" style="width:55%">  
 
+<img src="/images/mtfornight202310.jpg" style="width:55%">  
 
 ##### **《故事导读》**
 我校聘请专业导师为同学进行不同名著的导读活动。激发学生的思维能力，鼓励学生爱上阅读，扩展写作能力。
