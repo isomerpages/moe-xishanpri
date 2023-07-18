@@ -37,4 +37,5 @@ Every Xishanite,  A Proficient and Confident Digital Learner, A Self - directed
 | 8 	| Ms Sharin Lee 	|  	|
 | 9 	| Mdm Gong Ya Qin 	|  	|
 | 10 	| Ms Goh Xin Yi 	|  	|
-| 14 	| Mdm Mabel Feng 	|  	|
+| 11 	| Mdm Balakrishnan Vijayasaraswati 	|  	|
+| 12 	| Mdm Mabel Feng 	|  	|
