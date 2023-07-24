@@ -12,7 +12,7 @@ description: ""
 | 2 	| Mdm Lim Seok Lian Regina 	| Administrative Manager 	| [lim_seok_lian_a@moe.edu.sg](mailto:lim_seok_lian_a@moe.edu.sg) 	|
 | 3 	| Mdm Teo Lee Lian	| Management Support Officer  	| [teo_lee_lian@moe.edu.sg](mailto:teo_lee_lian@moe.edu.sg) 	|
 | 4 	| Mdm Farekha Binte Dollah 	| Management Support Officer 	| [farekha_dollah@moe.edu.sg](mailto:farekha_dollah@moe.edu.sg) 	|
-| 5 	|  Mdm Marlina Binte Mohamed Ali 	| Management Support Officer 	| [marlina_mohamed_ali@moe.gov.sg](mailto:marlina_mohamed_ali@moe.gov.sg) 	|
+| 5 	|  Mdm Marlina Binte Mohamed Ali 	| Management Support Officer 	| [marlina_mohamed_ali@moe.edu.sg](mailto:marlina_mohamed_ali@moe.edu.sg) 	|
 | 6 	| Ms Nicole Yeow Lin Kai	| Administrative Assistant 	| [nicole_yeow_lin_kai@moe.edu.sg](mailto:nicole_yeow_lin_kai@moe.edu.sg) 	|
 | 7 	| Mdm Rohanah  Bte Ahmad 	| Adjunct Corporate Support Officer 	| [rohanah_ahmad@moe.edu.sg](mailto:rohanah_ahmad@moe.edu.sg) 	|
 | 8 	| Mdm Noraini Binte Mohammad Ali 	| Adjunt Operation Support Officer 	|  	|

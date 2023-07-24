@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Home Based Learning (1&2 Aug 2023).md
       - Open House 2023.md
       - School Rules and Regulations.md
       - Discipline/.keep
