@@ -104,7 +104,7 @@ third_nav_title: CCE
 |---	|---|
 | Primary 1 	| [2023 CCE SOW P1 T4.pdf](/files/2023%20cce%20sow%20p1%20t4.pdf)| 
 | Primary 2 	| 	[2023 CCE SOW P2 T4](/files/2023%20cce%20sow%20p2%20t4.pdf)| 
-|Primary 3| |
-|Primary 4||
-|Primary 5||
-|Primary 6| |
+|Primary 3|[2023 CCE SOW P3 T4](/files/2023%20cce%20sow%20p3%20t4.pdf) |
+|Primary 4|[2023 CCE SOW P4 T4](/files/2023%20cce%20sow%20p4%20t4.pdf)|
+|Primary 5|[2023 CCE SOW P5 T4](/files/2023%20cce%20sow%20p5%20t4.pdf)|
+|Primary 6|[2023 CCE SOW P6 T4](/files/2023%20cce%20sow%20p6%20t4.pdf) |
