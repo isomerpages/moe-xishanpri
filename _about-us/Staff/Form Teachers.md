@@ -226,11 +226,11 @@ third_nav_title: Staff
   padding:3.75pt 3.75pt 3.75pt 3.75pt" valign="top" width="373"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
   auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:TA">Ms Koh Han Yan</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  color:black;mso-bidi-language:TA">Mr Randy Khoo</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#484848;mso-bidi-language:TA"></span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
   auto;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:13.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-bidi-language:TA"><a href="mailto:han_yan_koh@moe.edu.sg"><span style="color:#033C2E">han_yan_koh@moe.edu.sg</span></a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  color:black;mso-bidi-language:TA"><a href="mailto:randy_khoo@moe.edu.sg"><span style="color:#033C2E">randy_khoo@moe.edu.sg</span></a></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#484848;mso-bidi-language:TA"></span></p></td><td style="width:279.75pt;border-top:none;border-left:
   none;border-bottom:solid #EAEAEA 1.0pt;border-right:solid #EAEAEA 1.0pt;
   padding:3.75pt 3.75pt 3.75pt 3.75pt" valign="top" width="333"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
