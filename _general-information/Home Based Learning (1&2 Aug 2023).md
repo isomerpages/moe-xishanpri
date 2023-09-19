@@ -3,7 +3,7 @@ title: Home Based Learning (1&2 Aug 2023)
 permalink: /general-information/homebasedlearning2023/
 description: ""
 ---
-#### Home-based Learning (HBL) Plan and Support for Primary 1 to 5 Students (1 and 2 August 2023)
+#### Home-based Learning (HBL) Plan and Support for Primary 1 to 5 Students 
 
 1.      As mentioned in the earlier letter to parents on the calendar of events in Term 3 (Reference Number: LTP/2023/101), the school will be conducting the Primary 6 Preliminary Oral Examination on **1 and 2 August** (Tuesday and Wednesday). As such, all Primary 1 to 5 students will NOT be reporting to school and will be involved in HBL during the two days.
 
