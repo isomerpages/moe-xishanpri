@@ -3,14 +3,69 @@ title: Home Based Learning
 permalink: /general-information/homebasedlearning2023/
 description: ""
 ---
-#### Home-based Learning (HBL) Plan and Support for Primary 1 to 5 Students 
 
-1.      As mentioned in the earlier letter to parents on the calendar of events in Term 3 (Reference Number: LTP/2023/101), the school will be conducting the Primary 6 Preliminary Oral Examination on **1 and 2 August** (Tuesday and Wednesday). As such, all Primary 1 to 5 students will NOT be reporting to school and will be involved in HBL during the two days.
+##### P1 to P5 STAGGERED HOME-BASED LEARNING (HBL) DURING PSLE WRITTEN EXAMINATIONS 2023
+##### 
+         
+To complement in-school learning and provide our students with more opportunities to learn independently and to be more self-directed in their learning, all P1 to P5 students will have a day of HBL during the PSLE written examinations from **28 September to 3 October**. Please refer to the schedule, appended below, for more details on the HBL for the respective levels.
 
-2.      As part of the school’s effort to engage your child/ward in learning during the HBL on 1 and 2 August, home-based learning materials and assignments have been prepared and will be disseminated to our students. These learning resources and their content coverage for each subject are aligned to each department’s scheme of work and students will continue to learn these topics through various learning tasks and activities.
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:5.4pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="114" valign="top" style="width:103.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoListParagraphCxSpFirst" style="margin-left:0in;mso-add-space:auto;
+  line-height:150%"><b><span lang="EN-SG" style="font-size:11.0pt;line-height:
+  150%;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-ansi-language:EN-SG;mso-fareast-language:EN-US">Date/Level</span></b></p></td><td width="96" valign="top" style="width:100.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoListParagraphCxSpMiddle" style="margin-left:0in;mso-add-space:
+  auto;line-height:150%"><b><span lang="EN-SG" style="font-size:11.0pt;
+  line-height:150%;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG;mso-fareast-language:EN-US">28 Sep (Thu)</span></b></p></td><td width="82" valign="top" style="width:85.3pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoListParagraphCxSpMiddle" style="margin-left:0in;mso-add-space:
+  auto;line-height:150%"><b><span lang="EN-SG" style="font-size:11.0pt;
+  line-height:150%;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG;mso-fareast-language:EN-US">29 Sep (Fri)</span></b></p></td><td width="88" valign="top" style="width:86.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoListParagraphCxSpMiddle" style="margin-left:0in;mso-add-space:
+  auto;line-height:150%"><b><span lang="EN-SG" style="font-size:11.0pt;
+  line-height:150%;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG;mso-fareast-language:EN-US">2 Oct (Mon)</span></b></p></td><td width="85" valign="top" style="width:85.7pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoListParagraphCxSpLast" style="margin-left:0in;mso-add-space:auto;
+  line-height:150%"><b><span lang="EN-SG" style="font-size:11.0pt;line-height:
+  150%;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-ansi-language:EN-SG;mso-fareast-language:EN-US">3 Oct (Tue)</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td width="114" valign="top" style="width:103.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoListParagraphCxSpFirst" style="margin-left:0in;mso-add-space:auto;
+  line-height:150%"><span lang="EN-SG" style="font-size:11.0pt;line-height:150%;
+  font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-ansi-language:EN-SG;mso-fareast-language:EN-US">HBL</span></p></td><td width="96" valign="top" style="width:100.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoListParagraphCxSpMiddle" style="margin-left:0in;mso-add-space:
+  auto;line-height:150%"><span lang="EN-SG" style="font-size:11.0pt;line-height:
+  150%;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-ansi-language:EN-SG;mso-fareast-language:EN-US">P4 and P5</span></p></td><td width="82" valign="top" style="width:85.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoListParagraphCxSpMiddle" style="margin-left:0in;mso-add-space:
+  auto;line-height:150%"><span lang="EN-SG" style="font-size:11.0pt;line-height:
+  150%;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-ansi-language:EN-SG;mso-fareast-language:EN-US">P3</span></p></td><td width="88" valign="top" style="width:86.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoListParagraphCxSpMiddle" style="margin-left:0in;mso-add-space:
+  auto;line-height:150%"><span lang="EN-SG" style="font-size:11.0pt;line-height:
+  150%;font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-ansi-language:EN-SG;mso-fareast-language:EN-US">P2</span></p></td><td width="85" valign="top" style="width:85.7pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoListParagraphCxSpLast" style="margin-left:0in;mso-add-space:auto;
+  line-height:150%"><span lang="EN-SG" style="font-size:11.0pt;line-height:150%;
+  font-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-ansi-language:EN-SG;mso-fareast-language:EN-US">P1</span></p></td></tr></tbody></table>
 
-3.      The HBL will focus on English, Mathematics, Mother Tongue languages and Science, and there will not be any online work assigned. To facilitate students’ learning during the HBL, these assignments will be given from Friday, 28 July 2023 for students to complete on 1 and 2 August.
+**P1 to P5 students will NOT be reporting to school on the stipulated day of HBL and will be involved in independent learning at home.**
 
-4.      The school will also be sending to parents, via Parents Gateway, a daily HBL plan on the learning for the two HBL days detailing the learning tasks, materials that their child/ward will need and the contact of teachers whom parents may wish to contact for assistance. This HBL plan will be useful in helping parents to facilitate the learning of their child/ward at home.
-
-5.      If your child/ward is unable to engage the HBL and complete the assignments, please **inform your child’s/ward’s Form Teacher** so that alternative arrangements can be made to provide support for his/her learning.
+&nbsp; If your child/ward is unable to engage the HBL and complete the assignments, please **inform your child’s/ward’s Form Teacher** so that alternative arrangements can be made to provide support for his/her learning.
