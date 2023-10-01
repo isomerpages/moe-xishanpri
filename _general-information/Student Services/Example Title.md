@@ -18,7 +18,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
      
 ##### Application Procedure
            
-1. Complete the 
+1. Complete the [Call for Proposal_Annex A_Xishan](/files/call%20for%20proposal_annex%20a_xishan.pdf)
 
 2. Submit the completed Call for Proposal – Annex A and the supporting documents by closing date, 10 Oct 2023, to the School’s General Office: -
 
