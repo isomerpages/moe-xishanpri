@@ -11,6 +11,8 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
        
 ##### Service Requirements
+1. [Call for Proposals_Xishan]()
+2. 
 
      
 ##### Application Procedure
