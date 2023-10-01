@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Home Based Learning.md
-      - Open House 2023.md
       - School Rules and Regulations.md
       - Discipline/.keep
       - Discipline/Joint Mid Year School Holidays Advisory.md
@@ -11,6 +10,7 @@ collections:
       - Discipline/Harmful effects of vaping.md
       - Assessment Matters.md
       - Homework Policy.md
+      - Student Services/School Bus Advertisement.md
       - Student Services/.keep
       - Student Services/Student Care.md
       - Student Services/Canteen.md
