@@ -13,6 +13,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 ##### Service Requirements
 1. [Call For Proposals_Xishan](/files/call%20for%20proposals_xishan.pdf)
 2. [Agreement For Appointment](/files/agreement%20for%20appointment.pdf)
+3. [Request For School Bus Service](/files/request%20for%20school%20bus%20service.pdf)
 
      
 ##### Application Procedure
