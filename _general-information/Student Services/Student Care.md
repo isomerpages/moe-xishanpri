@@ -1,13 +1,18 @@
 ---
 title: Student Care
-permalink: /general-information/school-services/student-care
+permalink: /general-information/school-services/student-care/
 description: ""
 third_nav_title: Student Services
 ---
 
-# **Student Care**
 
 ### Big Heart Student Care @ Xishan
+
+
+Kindly refer below for the E-interest URL link / QR code:
+
+![](/images/qr%20code%20for%20student%20care%202023.jpg)
+
 
 ![](/images/studentcare.jpg)
 
