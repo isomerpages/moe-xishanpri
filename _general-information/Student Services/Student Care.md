@@ -9,8 +9,10 @@ third_nav_title: Student Services
 ![](/images/studentcare.jpg)
 
 ##### Kindly refer below for the E-interest URL link / QR code:
-<img src="/images/qr%20code%20for%20student%20care%202023.jpg" style="width:55%"> 
 
+[https://bigheartstudentcare.com/interest/](https://bigheartstudentcare.com/interest/)
+
+<img src="/images/qr%20code%20for%20student%20care%202023.jpg" style="width:45%"> 
 
 
 
