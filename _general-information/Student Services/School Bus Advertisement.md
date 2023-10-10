@@ -11,7 +11,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
        
 ##### Service Requirements
-1. [Call For Proprosal](/files/c1e54bb4.pdf)
+1. [Call For Proposal](/files/c1e54bb4.pdf)
 2. [Agreement For Appointment](/files/agreement%20for%20appointment.pdf)
 3. [Request For School Bus Service](/files/request%20for%20school%20bus%20service.pdf)
 
