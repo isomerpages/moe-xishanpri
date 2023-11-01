@@ -2,7 +2,6 @@ collections:
   programmes-and-events:
     output: true
     order:
-      - Staff Achievement/.keep
       - Applied Learning Programme/.keep
       - Applied Learning Programme/Applied Learning Programme (ALP).md
       - Applied Learning Programme/Reading and NLB activities.md
@@ -11,6 +10,7 @@ collections:
       - MOE Sexuality Education in Schools.md
       - Programmes for Active Learning (PAL).md
       - Learning to Learn Programme.md
+      - Cyber Wellness@Xishan/.keep
       - Cyber Wellness@Xishan/Cyber Wellness@Xishan.md
       - Cyber Wellness@Xishan/Safer Internet Day.md
       - Cyber Wellness@Xishan/Helping Children Manage Cyber Bullying.md
@@ -19,10 +19,10 @@ collections:
       - Cyber Wellness@Xishan/Helping Children with Appropriate Online
         Expression.md
       - Cyber Wellness@Xishan/Cyber Workout Song.md
-      - Cyber Wellness@Xishan/.keep
+      - Xishanites' Achievements/.keep
       - Xishanites' Achievements/2023.md
       - Xishanites' Achievements/2022.md
       - Xishanites' Achievements/2021.md
       - Xishanites' Achievements/2020.md
       - Xishanites' Achievements/2019.md
-      - Xishanites' Achievements/.keep
+      - Staff Achievement/.keep
