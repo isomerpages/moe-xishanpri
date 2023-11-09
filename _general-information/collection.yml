@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Book List 2024.md
       - School Rules and Regulations.md
       - Discipline/.keep
       - Discipline/Joint Mid Year School Holidays Advisory.md
@@ -17,4 +16,5 @@ collections:
       - Student Services/Dental Clinic.md
       - Student Services/School Bus.md
       - Student Services/School Uniform.md
+      - Book List 2024.md
       - Appreciation and Feedback.md
