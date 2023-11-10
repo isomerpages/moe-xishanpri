@@ -52,9 +52,3 @@ Berinteraksi dalam suasana bahasa yang autentik
 Menyemarakkan keseronokan dalam pembelajaran
 # <img src="/images/malay%20department%20202312.jpg" style="width:55%">    <img src="/images/malay%20department%20202313.jpg" style="width:55%">    <img src="/images/malay%20department%20202314.jpg" style="width:55%">     <img src="/images/malay%20department%20202315.jpg" style="width:55%">     <img src="/images/malay%20department%20202316.jpg" style="width:55%">    <img src="/images/malay%20department%20202317.jpg" style="width:55%">    <img src="/images/malay%20department%20202318.jpg" style="width:55%">    <img src="/images/malay%20department%20202319.jpg" style="width:55%">     <img src="/images/malay%20department%20202320.jpg" style="width:55%">     <img src="/images/malay%20department%20202321.jpg" style="width:55%">    <img src="/images/malay%20department%20202322.jpg" style="width:55%">    <img src="/images/malay%20department%20202323.jpg" style="width:55%">   <img src="/images/malay%20department%20202324.jpg" style="width:55%">   <img src="/images/malay%20department%20202325.jpg" style="width:55%">    <img src="/images/malay%20department%20202326.jpg" style="width:55%">
 
-##### Achievement and Awards
-
-**2nd runner-up for NIE/NTU Malay Language Amazing Race**
-
-Our students, Nur Adelia Bte Muhammad Hidir (5 Love), Abdullah Bin Mohamed Alfian (5 Respect), Nur Shahana Daania (5 Respect) and Nur Dina Bte Razali (5 Self-Discipline) clinched 2nd runner-up for the NIE/NTU Malay Language Amazing Race. Well done!
-
