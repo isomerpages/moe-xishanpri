@@ -5,5 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Discipline
 ---
-Globally, there is a worrying trend on the uptake of e-cigarettes, especially among the youth. This infographic wants to raise awareness about the dangers of e-cigarettes and vaping vapes and share important information on what parents can do to keep their children vape-free.
+Globally, there is a worrying trend on the uptake of e-cigarettes, especially among the youth.
+
+This infographic wants to raise awareness about the dangers of e-cigarettes and vaping vapes and share important information on what parents can do to keep their children vape-free. 
+
+[https://go.gov.sg/keepyourchildvapefree](https://go.gov.sg/keepyourchildvapefree)
 
