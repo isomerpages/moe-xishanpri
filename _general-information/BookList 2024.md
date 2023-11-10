@@ -19,7 +19,7 @@ description: ""
 | -------- | -------- | -------- |
 | 1   | Primary 5 Standard |  [P5 Standard Booklist 2024](https://go.gov.sg/p5standardbooklist2024xishan)  |
 | 2  | Primary 5 Foundation |  [P5 Foundation Booklist 2024](https://go.gov.sg/p5foundationbooklistxishan2024)|
-| 3  | Primary 5 3F 1S(Mother Tongue)| [P5 3F 1F(MT) Booklist 2024](https://go.gov.sg/p53f1smtbooklistxishan2024)|
-| 4  | Primary 5 3S 1F(Mathematics) | |
-| 5  | Primary 5 3S IF (Mother Tongue)
-| 6  | Primary 5  3S 1H(Mother Tongue)
+| 3  | Primary 5 3F 1S(Mother Tongue)| [P5 3F 1S(MT) Booklist 2024](https://go.gov.sg/p53f1smtbooklistxishan2024)|
+| 4  | Primary 5 3S 1F(Mathematics) | [P5 3S 1F(MA) Booklist 2024](https://go.gov.sg/p53s1fmabooklist2024xishan)|
+| 5  | Primary 5 3S IF (Mother Tongue) |[P5 3S 1F(MT) Booklist 2024](https://go.gov.sg/p53s1fmtbooklist2024xishan)|
+| 6  | Primary 5  3S 1H(Mother Tongue)| [P5  3S 1H(MT) Booklist 2024](https://go.gov.sg/p53s1hmtbooklist2024xishan)|
