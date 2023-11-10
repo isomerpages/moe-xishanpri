@@ -4,7 +4,6 @@ permalink: /general-information/booklist2024/
 variant: markdown
 description: ""
 ---
-
 | No | Level | Booklist 2024 |
 | -------- | -------- | -------- |
 | 1  | Primary 1    |   [P1 Booklist 2024](https://go.gov.sg/p1booklistxishan2024)   |
@@ -13,3 +12,14 @@ description: ""
 | 4 | Primary 3 Higher Mother Tongue | [P3 HMT Booklist 2024](https://go.gov.sg/p3hmtbooklistxishan2024) |
 | 5 | Primary 4 |[P4 Booklist 2024](https://go.gov.sg/p4booklistxishan2024) |
 | 6 | Primary 4 Higher Mother Tongue | [P4 HMT Booklist 2024](https://go.gov.sg/p4hmtbooklistxishan2024)|
+
+
+
+| No | Level | Booklist 2024 |  
+| -------- | -------- | -------- |
+| 1   | Primary 5 Standard |  [P5 Standard Booklist 2024](https://go.gov.sg/p5standardbooklist2024xishan)  |
+| 2  | Primary 5 Foundation |  [P5 Foundation Booklist 2024](https://go.gov.sg/p5foundationbooklistxishan2024)|
+| 3  | Primary 5 3F 1S(Mother Tongue)
+| 4  | Primary 5 3S 1F(Mathematics)
+| 5  | Primary 5 3S IF (Mother Tongue)
+| 6  | Primary 5  3S 1H(Mother Tongue)
