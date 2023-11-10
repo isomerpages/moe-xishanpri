@@ -21,7 +21,7 @@ description: ""
 | 2  | Primary 5 Foundation |  [P5 Foundation Booklist 2024](https://go.gov.sg/p5foundationbooklistxishan2024)|
 | 3  | Primary 5 3 Foundation subjects & 1 Standard Mother Tongue | [P5 3F 1S(MT) Booklist 2024](https://go.gov.sg/p53f1smtbooklistxishan2024)|
 | 4  | Primary 5 3 Standard Subjects & 1 Foundation Mathematics | [P5 3S 1F(MA) Booklist 2024](https://go.gov.sg/p53s1fmabooklist2024xishan)|
-| 5  | Primary 5 3 Standard Subjects & 1 Foundation Mother Tongue | |
+| 5  | Primary 5 3 Standard Subjects & 1 Foundation Mother Tongue | [P5 3S 1F(MT) Booklist 2024](https://go.gov.sg/p53s1fmtbooklist2024xishan)|
 | 6  | Primary 5  3 Standard Subjects & 1 Higher Mother Tongue | [P5  3S 1H(MT) Booklist 2024](https://go.gov.sg/p53s1hmtbooklist2024xishan)|
 
 
