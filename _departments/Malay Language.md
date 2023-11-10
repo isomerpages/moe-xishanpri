@@ -54,3 +54,7 @@ Menyemarakkan keseronokan dalam pembelajaran
 
 ##### Achievement and Awards
 
+**2nd runner-up for NIE/NTU Malay Language Amazing Race**
+
+Our students, Nur Adelia Bte Muhammad Hidir (5 Love), Abdullah Bin Mohamed Alfian (5 Respect), Nur Shahana Daania (5 Respect) and Nur Dina Bte Razali (5 Self-Discipline) clinched 2nd runner-up for the NIE/NTU Malay Language Amazing Race. Well done!
+
