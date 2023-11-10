@@ -16,4 +16,4 @@ As parents, you can [inspire](https://go.gov.sg/reducescreentime) your children 
 
 ##### Strengthening Communication with Your Child
 
-Good communication between you and your child is important for developing a positive relationship and will make it easier for you to talk about difficult topics as they get older.
+Good communication between you and your child is important for developing a positive relationship and will make it easier for you to talk about difficult topics as they get older. Click [here](https://go.gov.sg/strengtheningcommunication) to find out more. 
