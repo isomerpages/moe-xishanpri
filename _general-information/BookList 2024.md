@@ -32,7 +32,7 @@ description: ""
 | 2 | Primary 6 Foundation | [P6 Foundation Booklist 2024](https://go.gov.sg/p6foundationbooklistxishan2024) |
 | 3| Primary 6 3 Foundation Subjects & 1 Standard Mother Tongue | [P6 3F 1S(MT) Booklist 2024](https://go.gov.sg/p63f1smtbooklistxishan2024)|
 | 4| Primary 6 3 Standard Subjects & 1 Foundation Mathematics |[P6 3S 1F(MA)](https://go.gov.sg/p63s1fmabooklistxps2024) |
-|5| Primary 6 3S 1F(MT)| |
-|6| Primary 6 3SStandard Subjects & 1 Higher (Mother Tongue)| [P6 3S 1H(MT) Booklist 2024](https://go.gov.sg/p63s1hmtbooklistxps2024)|
+|5| Primary 6 3 Standard Subjects & 1 Foundation Mother Tongue|  [P6 3S 1F(MT) Booklist 2024](https://go.gov.sg/p63s1fmtbooklistxps2024)|
+|6| Primary 6 3 Standard Subjects & 1 Higher (Mother Tongue)| [P6 3S 1H(MT) Booklist 2024](https://go.gov.sg/p63s1hmtbooklistxps2024)|
 
 
