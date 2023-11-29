@@ -28,7 +28,7 @@ description: ""
 
 | No | Level | Booklist|
 | -------- | -------- | -------- |
-| 1   | Priamry 6 Standard  |   [P6 Standard Booklist 2024](https://go.gov.sg/p6standardbooklistxishan2024)  |
+| 1   | Primary 6 Standard  |   [P6 Standard Booklist 2024](https://go.gov.sg/p6standardbooklistxishan2024)  |
 | 2 | Primary 6 Foundation | [P6 Foundation Booklist 2024](https://go.gov.sg/p6foundationbooklistxishan2024) |
 | 3| Primary 6 (3 Foundation Subjects & 1 Standard Mother Tongue) | [P6 3F 1S(MT) Booklist 2024](https://go.gov.sg/p63f1smtbooklistxishan2024)|
 | 4| Primary 6 (3 Standard Subjects & 1 Foundation Mathematic)s |[P6 3S 1F(MA)](https://go.gov.sg/p63s1fmabooklistxps2024) |
