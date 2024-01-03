@@ -1,0 +1,21 @@
+collections:
+  general-information:
+    output: true
+    order:
+      - School Rules and Regulations.md
+      - Discipline/.keep
+      - Discipline/Joint Mid Year School Holidays Advisory.md
+      - Discipline/I Can ACT Against Scams.md
+      - Discipline/Harmful effects of vaping.md
+      - Discipline/Keep Your Child Vape Free.md
+      - Assessment Matters.md
+      - Homework Policy.md
+      - Student Services/.keep
+      - Student Services/Student Care.md
+      - Student Services/Canteen.md
+      - Student Services/Bookshop.md
+      - Student Services/Dental Clinic.md
+      - Student Services/School Bus.md
+      - Student Services/School Uniform.md
+      - BookList 2024.md
+      - Appreciation and Feedback.md

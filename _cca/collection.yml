@@ -1,0 +1,25 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Physical Sports/Badminton.md
+      - Physical Sports/Floorball.md
+      - Physical Sports/Hockey.md
+      - Physical Sports/Basketball.md
+      - Physical Sports/Volleyball.md
+      - Physical Sports/.keep
+      - Clubs/Environmental Club.md
+      - Clubs/ICT Club (Media Production).md
+      - Clubs/English Drama.md
+      - Clubs/Strategic Games.md
+      - Clubs/Visual Arts.md
+      - Clubs/.keep
+      - Visual & Performing Arts/Guzheng Ensemble.md
+      - Visual & Performing Arts/String Ensemble.md
+      - Visual & Performing Arts/Chinese Dance.md
+      - Visual & Performing Arts/Indian Dance.md
+      - Visual & Performing Arts/Malay Dance.md
+      - Visual & Performing Arts/.keep
+      - Uniformed Groups/Red Cross.md
+      - Uniformed Groups/Scouts.md
+      - Uniformed Groups/.keep

@@ -1,0 +1,17 @@
+logo: /images/logo_home.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: General Info
+    collection: general-information
+  - title: Partnerships
+    collection: partnerships
+  - title: Departments
+    collection: departments
+  - title: Programmes
+    collection: programmes-and-events
+  - title: CCA
+    collection: cca
+  - title: Gallery
+    url: /quick-links/gallery
+    sublinks: []

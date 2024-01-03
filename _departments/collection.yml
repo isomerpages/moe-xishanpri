@@ -1,0 +1,28 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Chinese Language/.keep
+      - Chinese Language/Chinese Language.md
+      - Malay Language.md
+      - Tamil Language.md
+      - Science.md
+      - PHE/.keep
+      - PHE/Physical Education.md
+      - PHE/Curated Sports Activities.md
+      - Aesthetics/.keep
+      - Aesthetics/Art.md
+      - Aesthetics/Music.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Values in Action.md
+      - CCE/National Education.md
+      - CCE/Environmental Education.md
+      - CCE/Connecting with Parents Series.md
+      - Student Management/.keep
+      - Student Management/Student Well being.md
+      - Student Management/Student Leadership.md
+      - Student Management/Student Leaders Newsletter.md
+      - Infocomm Technology.md

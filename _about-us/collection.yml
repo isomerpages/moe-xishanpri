@@ -1,0 +1,17 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - School History.md
+      - The Xishan Story.md
+      - Virtual School Tour.md
+      - School Crest | School Song.md
+      - Vision | Mission | Values | Motto.md
+      - School Advisory Committee (SAC).md
+      - Staff/School Executive Committee (EXCO).md
+      - Staff/Teacher Leaders.md
+      - Staff/.keep
+      - Staff/Form Teachers.md
+      - Staff/Non Form Teachers.md
+      - Staff/Non Teaching Staff.md
