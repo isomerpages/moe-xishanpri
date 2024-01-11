@@ -3,6 +3,7 @@ title: Non Teaching Staff
 permalink: /about-us/staff/non-teaching-staff/
 third_nav_title: Staff
 description: ""
+variant: markdown
 ---
 # **Non Teaching Staff**
 
@@ -19,6 +20,7 @@ description: ""
 | 9 	| Mdm Su Nyuk Yeng (Alice) 	| Operation Support Officer 	|  	|
 | 10 	|   Mdm Tee Siew Cheng   	| Operation Support Officer 	|  	|
 | 11 	| Mdm Ang Sue Tin 	| Operation Support Officer 	|  	|
+| 12 | Mr Vincent Heng Yee Liang | ICT Manager |  |
 
 # **Support Staff**
 
