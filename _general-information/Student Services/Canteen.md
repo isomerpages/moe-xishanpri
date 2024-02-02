@@ -3,116 +3,304 @@ title: Canteen
 permalink: /general-information/school-services/canteen/
 description: ""
 third_nav_title: Student Services
+variant: tiptap
 ---
-# **Canteen**
-
-#### ![](/images/canteen01.jpg)
-
-![](/images/5zz.png)
-
-![](/images/Set%20Meal_pic.jpg)
-
-### 2023&nbsp; Canteen&nbsp; Menu
-
-### **Stall 2**
-
-<table class="iveo_table ives_tab_1 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
-  <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
-    <tr class="" style="margin: 0px; outline: 0px; padding: 0px;">
-      <td width="397" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);">
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"></p>
-      </td>
-    </tr>
-    <tr class="" style="margin: 0px; outline: 0px; padding: 0px;">
-      <td width="397" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Mee Goreng (Halal)</span></u></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p>
-      </td>
-    </tr>
-    <tr class="" style="margin: 0px; outline: 0px; padding: 0px;">
-      <td width="397" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);">
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Nasi Goreng (Halal)</span></u></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p>
-        <p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin-left: 218px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p>
-      </td>
-    </tr>
-    <tr class="" style="margin: 0px; outline: 0px; padding: 0px;">
-      <td width="397" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: ; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Mee Hoon Goreng (Halal)</span></u></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p>
-        <p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin-left: 218px; outline: 0px; padding: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p>
-      </td>
-    </tr>
-    <tr class="" style="margin: 0px; outline: 0px; padding: 0px;">
-      <td width="397" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 224, 226); color: rgb(0, 0, 0);">
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Mushroom Soup with Garlic Bread and Fruit (Halal)</span></u></p>
-        <p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A - $1.50</span></p>
-      </td>
-    </tr>
-    <tr class="" style="margin: 0px; outline: 0px; padding: 0px;">
-      <td width="397" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Mushroom Soup with Curry Puff and Fruit (Halal)</span></u></p>
-        <p class="" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"> Set A - $1.50</span></p>
-      </td>
-    </tr>
-  </tbody>
+<h1><strong>Canteen</strong></h1>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5zz.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Set%20Meal_pic.jpg">
+</div>
+<h3>2024&nbsp; Canteen&nbsp; Menu</h3>
+<h3><strong>Stall 2</strong></h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Mee Goreng (Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Nasi Goreng (Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Mee Hoon Goreng (Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Mushroom Soup with Garlic Bread and Fruit (Halal)</u>
+</p>
+<p>Set A - $1.80</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Mushroom Soup with Curry Puff and Fruit (Halal)</u>
+</p>
+<p>Set A - $1.80</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Nasi Lemak and Fruit (Halal)</u>
+</p>
+<p>Set A - $1.80</p>
+<p>Set B - $2.00</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-### **Stall 3**
-<table class="iveo_table ives_tab_1 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Fishball Soup Noodle (Non- Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Shredded Chicken Soup Noodle (Non- Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Prawn Soup Noodle (Non- Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Chicken Char Siew Soup Noodle (Non- Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"><br clear="all" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Wan Ton Soup Noodle (Non- Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p></td></tr></tbody></table>
-
-### **Stall 4**
-<table class="iveo_table ives_tab_1 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Wholemeal Pasta with Homemade Sauce and Fruit (Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">$1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">$2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">$2.20</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Chicken Macaroni with Mixed Vegetable and Fruit (Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">$2.00</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Gourmet Sausage Bun with Salad and Fruit (Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">$1.80</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Handmade Hawaiian Pizza with Mixed Vegetable and Fruit (Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">$1.80</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Fluffy Pancake with Corn and Fruit (Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">$1.60</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Fluffy Pancake with Mash Potato and Fruit (Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">$1.60</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Baked Chicken Pot Pie with Mixed Vegetable and Fruit (Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">$2.00</span></p></td></tr></tbody></table>
-
-### **Stall 5**
-<table class="iveo_table ives_tab_1 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Stir Fry Rice (Non- Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Stir Fry Bee Hoon (Non- Halal + Vegetarian)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Vegetable with Fruit) - $1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Vegetable with Fruit) - $2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (3 Vegetable with Fruit) - $2.20</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Or</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Stir Fry Kway Teow (Non- Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Stir Fry Noodles (Non- Halal + Vegetarian)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Vegetable with Fruit) - $1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Vegetable with Fruit) - $2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (3 Vegetable with Fruit) - $2.20</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Or</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p></td></tr></tbody></table>
-
-### **Stall 6**
-<table class="iveo_table ives_tab_1 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><b class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;"></span></b></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Japanese Curry Rice (Non- Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Scallion Noodles (Non- Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Japanese Fried Rice (Non- Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Mapo Tofu Rice (Non- Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p></td></tr><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);"><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Tomato Egg Stir-Fry with Rice (Non- Halal)</span></u></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p><p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p></td></tr></tbody></table>
-
-### **Stall 7**
-<table class="iveo_table ives_tab_1 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
-  <tbody class="" style="margin: 0px; outline: 0px; padding: 0px;">
-    <tr class="" style="margin: 0px; outline: 0px; padding: 0px;">
-      <td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);">
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"></p>
-      </td>
-    </tr>
-    <tr class="" style="margin: 0px; outline: 0px; padding: 0px;">
-      <td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Kway Teow Goreng (Halal)</span></u></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p>
-      </td>
-    </tr>
-    <tr class="" style="margin: 0px; outline: 0px; padding: 0px;">
-      <td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);">
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Nasi Padang (Halal)</span></u></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p>
-      </td>
-    </tr>
-    <tr class="" style="margin: 0px; outline: 0px; padding: 0px;">
-      <td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Mee Rebus (Halal)</span></u></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p>
-      </td>
-    </tr>
-    <tr class="" style="margin: 0px; outline: 0px; padding: 0px;">
-      <td width="396" class="" style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 224, 226); color: rgb(0, 0, 0);">
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><u class="" style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Mee Soup (Halal)</span></u></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set A (1 Meat 1 Vegetable with Fruit) - $1.50</span></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set B (2 Meat 1 Vegetable with Fruit) - $2.00</span></p>
-        <p class="" align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 0, 0); font-family: Lato, sans-serif; font-size: 17px; font-weight: 400;"><span lang="EN-SG" class="" style="margin: 0px; outline: 0px; padding: 0px;">Set C (2 Meat 2 Vegetable with Fruit) - $2.20</span></p>
-      </td>
-    </tr>
-  </tbody>
+<h3><strong>Stall 3</strong></h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Fishball Soup Noodle (Non- Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Shredded Chicken Soup Noodle (Non- Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Prawn Soup Noodle (Non- Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Chicken Char Siew Soup Noodle (Non- Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Wan Ton Soup Noodle (Non- Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+</tbody>
 </table>
+<h3><strong>Stall 4</strong></h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Hotdog Bun and Fruit (Halal)</u>
+</p>
+<p>$$2.30</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Baked Mac and Fruit (Halal)</u>
+</p>
+<p>$2.30</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Rice Bowl and Fruit (Halal)</u>
+</p>
+<p>$2.30</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Roti John and Fruit (Halal)</u>
+</p>
+<p>$2.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Mushroom Soup set and Fruit (Halal)</u>
+</p>
+<p>$2.00</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Stall 5</strong></h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Stir Fry Rice (Non- Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Stir Fry Bee Hoon (Non- Halal + Vegetarian)</u>
+</p>
+<p>Set A (1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Vegetable with Fruit) - $2.30</p>
+<p>Set C (3 Vegetable with Fruit) - $2.50</p>
+<p>Or</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Stir Fry Kway Teow (Non- Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Stir Fry Noodles (Non- Halal + Vegetarian)</u>
+</p>
+<p>Set A (1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Vegetable with Fruit) - $2.30</p>
+<p>Set C (3 Vegetable with Fruit) - $2.50</p>
+<p>Or</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Stall 6</strong></h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Japanese Curry Rice (Non- Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Scallion Noodles (Non- Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Japanese Fried Rice (Non- Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Mapo Tofu Rice (Non- Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Tomato Egg Stir-Fry with Rice (Non- Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Stall 7</strong></h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Kway Teow Goreng (Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Nasi Padang (Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Mee Rebus (Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Mee Soup (Halal)</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
