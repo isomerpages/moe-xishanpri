@@ -160,6 +160,20 @@ variant: tiptap
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Tan Siew Mui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Vincent Heng Yee Liang</p>
 </td>
 <td rowspan="1" colspan="1">
