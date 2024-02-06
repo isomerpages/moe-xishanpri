@@ -224,7 +224,7 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Atiqah Binte Azhar</p>
+<p>Ms Salama Abdul Latiff</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lab Technician</p>
