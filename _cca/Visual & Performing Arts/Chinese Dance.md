@@ -11,11 +11,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Dance_Teachers_in_Charge.jpg">
 </div>
-<p>Chinese Dance CCA Term 2 (P3)</p>
+<h3>Chinese Dance CCA Term 2 (P3)</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Dance_CCA_Term_2__P3_.jpg">
 </div>
-<p>Chinese Dance CCA Term 2 (P4 - P6)</p>
+<h3>Chinese Dance CCA Term 2 (P4 - P6)</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Dance_CCA_Term_2__P4_6_.jpg">
 </div>
