@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Open House 2024.md
       - School Rules and Regulations.md
       - Discipline/.keep
       - Discipline/Joint Mid Year School Holidays Advisory.md
@@ -19,5 +18,6 @@ collections:
       - Student Services/School Bus.md
       - Student Services/School Uniform.md
       - BookList 2024.md
+      - Open House 2024.md
       - Student Transfer Wait List.md
       - Appreciation and Feedback.md
