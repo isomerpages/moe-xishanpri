@@ -1,8 +1,9 @@
 ---
 title: Parents
-permalink: /quick-links/Parents
+permalink: /quick-links/Parents/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 # **Parents**
 
@@ -21,7 +22,7 @@ third_nav_title: Parents
 | No. 	| Site 	|
 |---	|---	|
 | 1 	| [Schoolbag](https://www.schoolbag.edu.sg/) 	|
-| 2 	| [MOE School Information](https://sis.moe.gov.sg/SchoolDetails.aspx?schoolCode=1227) 	|
+| 2 	| [MOE School Information](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=xishan-primary-school) 	|
 | 3 	| [Changes to the PSLE scoring & S1 posting](/quick-links/parents/changes-to-the-psle-scoring-and-s1-posting) 	|
 | 4 	| [Pac@Gov](https://www.hrp.gov.sg/hrp/#/)	|
 | 5 	| [MOE Parent Kit](https://www.moe.gov.sg/parentkit#3)	|
