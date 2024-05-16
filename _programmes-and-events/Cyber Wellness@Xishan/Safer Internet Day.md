@@ -1,8 +1,9 @@
 ---
 title: Safer Internet Day
-permalink: /programmes-n-events/cyber-wellness-at-xishan/safer-internet-day
+permalink: /programmes-n-events/cyber-wellness-at-xishan/safer-internet-day/
 description: ""
 third_nav_title: Cyber Wellness@Xishan
+variant: markdown
 ---
 # **Safer Internet Day**
 
@@ -17,4 +18,3 @@ On 9 February 2021, countries all over the world celebrates Safer Internet Day. 
 
 For more information on Safer Internet Day, please visit;
 [https://www.saferinternetday.org/](https://www.saferinternetday.org/)     
-[https://www.betterinternet.sg/](https://www.betterinternet.sg/)
