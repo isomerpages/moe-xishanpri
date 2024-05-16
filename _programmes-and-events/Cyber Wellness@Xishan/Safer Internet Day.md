@@ -1,8 +1,9 @@
 ---
 title: Safer Internet Day
-permalink: /programmes-n-events/cyber-wellness-at-xishan/safer-internet-day
+permalink: /programmes-n-events/cyber-wellness-at-xishan/safer-internet-day/
 description: ""
 third_nav_title: Cyber Wellness@Xishan
+variant: markdown
 ---
 # **Safer Internet Day**
 
@@ -16,5 +17,4 @@ On 9 February 2021, countries all over the world celebrates Safer Internet Day. 
 [What Should Parents do if Their Child is Cyberbullied.pdf](/files/What%20Should%20Parents%20do%20if%20Their%20Child%20is%20Cyberbullied.pdf)
 
 For more information on Safer Internet Day, please visit;
-[https://www.saferinternetday.org/](https://www.saferinternetday.org/)     
-[https://www.betterinternet.sg/](https://www.betterinternet.sg/)
+[https://www.saferinternetday.org/](https://www.saferinternetday.org/)
