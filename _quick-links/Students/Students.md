@@ -38,7 +38,7 @@ variant: markdown
 | No. 	| Site 	|
 |---	|---	|
 | 1 	| [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login) 	|
-| 2 	| [My Skills Future](https://www.myskillsfuture.sg/content/student/en/primary.html) 	|
+| 2 	| [My Skills Future](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) 	|
 | 3 	| [Etutor Online](https://www.ezhishi.net/Contents/) 	|
 | 4 	| [Pazhahutamil](https://www.pazhahutamil.com/login/)	|
 | 5 	| [DQ World](https://www.dqworld.net/lang:en_GB/#!/landing)	|
