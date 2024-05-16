@@ -1,7 +1,8 @@
 ---
 title: Teachers
-permalink: /quick-links/teachers
+permalink: /quick-links/teachers/
 description: ""
+variant: markdown
 ---
 # **Teachers**
 
