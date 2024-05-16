@@ -23,7 +23,7 @@ In view of the COVID-19 situation, there will&nbsp;**not be any in-person regist
 
 *   Singapore Citizens (SCs) will be given absolute priority over Singapore Permanent Residents (PRs) when balloting is necessary in a specific phase. SCs and PRs will continue to be eligible for the same phases, and all applicants will be admitted if the total number of applications in any phase does not exceed the number of vacancies. However, if the number of applications exceeds the number of vacancies in a specific phase, SCs will be admitted first ahead of PRs, before home-school distance is considered.
 
-*   P1 Registration Website: https://www.moe.gov.sg/primary/p1-registration
+*   P1 Registration Website: [https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration)
 
 *   Registration of SingPass: [https://www.singpass.gov.sg/singpass/register/instructions](https://www.singpass.gov.sg/singpass/register/instructions)
 
