@@ -1,8 +1,9 @@
 ---
 title: Students
-permalink: /quick-links/students
+permalink: /quick-links/students/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
 # **Students**
 
@@ -23,7 +24,7 @@ third_nav_title: Students
 | No. 	| Site 	|
 |---	|---	|
 | 1 	| [Syllabuses](https://www.moe.gov.sg/education/syllabuses) 	|
-| 2 	| [Financial Assistance Scheme (FAS)](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/financial-assistance/) 	|
+| 2 	| [Financial Assistance Scheme (FAS)](https://www.moe.gov.sg/financial-matters/financial-assistance) 	|
 | 3 	| [Edusave Awards](https://xishanpri.moe.edu.sg/quick-links/students/edusave-awards) 	|
 | 4 	| [Assessment Matters](https://xishanpri.moe.edu.sg/general-information/assessment-matters)	|
 | 5 	| [School Library](https://schoolibrary.moe.edu.sg/xishanpri/)	|
