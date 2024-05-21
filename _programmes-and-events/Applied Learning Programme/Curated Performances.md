@@ -6,7 +6,6 @@ third_nav_title: Applied Learning Programme
 variant: tiptap
 ---
 <p>Looking for exciting ways to engage your child in learning while having
-fun? <strong><a href="/files/ALP_Holiday_Activities_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Discover the ALP-related events at the Esplanade</u></a></strong>,
-where you and your child can enjoy free shows and performances, perfect
-for bonding!</p>
+fun? <a href="https://go.gov.sg/xishan-holiday-activities-2024" rel="noopener noreferrer nofollow" target="_blank">Discover the ALP-related events at the Esplanade,</a> where
+you and your child can enjoy free shows and performances, perfect for bonding!</p>
 <p></p>
