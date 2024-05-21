@@ -21,10 +21,10 @@ more.</p>
 <h4>Coping with schoolwork</h4>
 <p>Feeling swamped with schoolwork? Don’t stress! Break tasks into smaller,
 manageable steps. Take regular breaks to recharge, stay organized with
-a planner, and ask for help when you need it. You’ve got the power to <strong><a href="/files/CCE_Coping_with_schoolwork_Infographic.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>conquer your workload</u></a></strong>!
-#XishanitesSchoolSuccess #StudySmart #StressLess</p>
+a planner, and ask for help when you need it. You’ve got the power to
+<a href="https://go.gov.sg/copingwithschoolwork" rel="noopener noreferrer nofollow" target="_blank">conquer your workload!</a>#XishanitesSchoolSuccess #StudySmart #StressLess</p>
 <h4>Sleep Hygiene</h4>
-<p>Did you know that good sleep is a game-changer for you? <strong><a href="/files/CCE_Sleep_Hygiene_Infographics.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Prioritizing quality sleep</u></a></strong> can
+<p>Did you know that good sleep is a game-changer for you? <a href="https://go.gov.sg/xishan-sleep-hygiene" rel="noopener noreferrer nofollow" target="_blank">Prioritizing quality sleep </a><strong><u> </u></strong>can
 boost your mood, sharpen your focus, and even improve your grades! Establish
 a relaxing bedtime routine, power down your screens, and aim for those
 9-11 hours. #XishanitesGoodSleepHygiene</p>
@@ -34,7 +34,7 @@ Life (FFL) on the importance of families from 25 May 2024 to 23 June 2024.
 As part of NFF2024, all students have received a binoculars craft. We encourage
 parents and/or guardians to complete the binoculars craft together with
 their children. Instructions are found at the back of the envelope which
-contains the craft. Fun doesn’t stop here! <a href="https://go.gov.sg/familyfestsg-2024-join-us" rel="noopener noreferrer nofollow" target="_blank">Exclusive Deals</a> for
+contains the craft. Fun doesn’t stop here! Find <a href="https://go.gov.sg/familyfestsg-2024-join-us" rel="noopener noreferrer nofollow" target="_blank">Exclusive Deals</a> for
 you and your family to enjoy this June Holidays.</p>
 <p></p>
 <p></p>
