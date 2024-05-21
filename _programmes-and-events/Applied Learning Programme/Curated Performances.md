@@ -3,8 +3,10 @@ title: Curated Performances
 permalink: /programmes-and-events/applied-learning-programme/curatedperformances/
 description: ""
 third_nav_title: Applied Learning Programme
+variant: tiptap
 ---
-#####   Curated ALP-related Events at the Esplanade!
-
-
-Looking for interesting ways to help your child learn and have fun at the same time? Fret not! [Find out](https://go.gov.sg/gq5w17) more about these ALP-related events at the Esplanade where you and your child can bond over choral recitation and performances for free during the June Holidays!
+<p>Looking for exciting ways to engage your child in learning while having
+fun? <strong><a href="/files/ALP_Holiday_Activities_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Discover the ALP-related events at the Esplanade</u></a></strong>,
+where you and your child can enjoy free shows and performances, perfect
+for bonding!</p>
+<p></p>
