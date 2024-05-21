@@ -97,7 +97,7 @@ technology</p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Soh Hui Min</p>
+<p>Mr Choo Chang Joon</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ technology</p>
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Choo Chang Joon</p>
+<p>Ms Soh Hui Min</p>
 </td>
 </tr>
 <tr>
