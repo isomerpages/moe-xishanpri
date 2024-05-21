@@ -18,7 +18,7 @@ way starting today!</p>
 a positive relationship and will make it easier for you to talk about difficult
 topics as they get older. Click <a href="https://go.gov.sg/strengtheningcommunication" rel="noopener noreferrer nofollow" target="_blank">here</a> to find out
 more.</p>
-<h4><strong>Coping with schoolwork</strong></h4>
+<h4>Coping with schoolwork</h4>
 <p>Feeling swamped with schoolwork? Don’t stress! Break tasks into smaller,
 manageable steps. Take regular breaks to recharge, stay organized with
 a planner, and ask for help when you need it. You’ve got the power to <strong><a href="/files/CCE_Coping_with_schoolwork_Infographic.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>conquer your workload</u></a></strong>!
@@ -28,4 +28,13 @@ a planner, and ask for help when you need it. You’ve got the power to <strong>
 boost your mood, sharpen your focus, and even improve your grades! Establish
 a relaxing bedtime routine, power down your screens, and aim for those
 9-11 hours. #XishanitesGoodSleepHygiene</p>
+<h4>2024 National Family Festival Crafts for you and your child</h4>
+<p>National Family Festival (NFF) is an annual celebration by Families for
+Life (FFL) on the importance of families from 25 May 2024 to 23 June 2024.
+As part of NFF2024, all students have received a binoculars craft. We encourage
+parents and/or guardians to complete the binoculars craft together with
+their children. Instructions are found at the back of the envelope which
+contains the craft. Fun doesn’t stop here! <a href="https://go.gov.sg/familyfestsg-2024-join-us" rel="noopener noreferrer nofollow" target="_blank">Exclusive Deals</a> for
+you and your family to enjoy this June Holidays.</p>
+<p></p>
 <p></p>
