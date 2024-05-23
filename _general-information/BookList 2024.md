@@ -30,7 +30,7 @@ description: ""
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist_2024_Xishan_P1_14_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist (14 May 2024)</a>
+<p><a href="https://go.gov.sg/xishan-p1-booklist-14may2024" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist (14 May 2024)</a>
 </p>
 </td>
 </tr>
