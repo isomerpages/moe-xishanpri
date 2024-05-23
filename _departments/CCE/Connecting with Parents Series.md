@@ -23,11 +23,6 @@ more.</p>
 manageable steps. Take regular breaks to recharge, stay organized with
 a planner, and ask for help when you need it. You’ve got the power to
 <a href="https://go.gov.sg/copingwithschoolwork" rel="noopener noreferrer nofollow" target="_blank">conquer your workload!</a>#XishanitesSchoolSuccess #StudySmart #StressLess</p>
-<h4>Sleep Hygiene</h4>
-<p>Did you know that good sleep is a game-changer for you? <a href="https://go.gov.sg/xishan-sleep-hygiene" rel="noopener noreferrer nofollow" target="_blank">Prioritizing quality sleep </a><strong><u> </u></strong>can
-boost your mood, sharpen your focus, and even improve your grades! Establish
-a relaxing bedtime routine, power down your screens, and aim for those
-9-11 hours. #XishanitesGoodSleepHygiene</p>
 <h4>2024 National Family Festival Crafts for you and your child</h4>
 <p>National Family Festival (NFF) is an annual celebration by Families for
 Life (FFL) on the importance of families from 25 May 2024 to 23 June 2024.
