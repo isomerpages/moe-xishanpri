@@ -22,7 +22,12 @@ more.</p>
 <p>Feeling swamped with schoolwork? Don’t stress! Break tasks into smaller,
 manageable steps. Take regular breaks to recharge, stay organized with
 a planner, and ask for help when you need it. You’ve got the power to
-<a href="https://go.gov.sg/copingwithschoolwork" rel="noopener noreferrer nofollow" target="_blank">conquer your workload!</a>#XishanitesSchoolSuccess #StudySmart #StressLess</p>
+<a href="https://go.gov.sg/xishan-copingwithschoolwork" rel="noopener noreferrer nofollow" target="_blank">conquer your workload!</a>#XishanitesSchoolSuccess #StudySmart #StressLess</p>
+<h4>Sleep Hygiene</h4>
+<p>Did you know that good sleep is a game-changer for your child? <a href="https://go.gov.sg/xishan-sleephygiene" rel="noopener noreferrer nofollow" target="_blank">Prioritizing quality sleep </a>can
+boost your mood, sharpen your focus, and even improve your grades! Encourage
+a relaxing bedtime routine, power down screens, and ensure they aim for
+those 9-11 hours to feel motivated and recharged! #XishanitesGoodSleepHygiene.</p>
 <h4>2024 National Family Festival Crafts for you and your child</h4>
 <p>National Family Festival (NFF) is an annual celebration by Families for
 Life (FFL) on the importance of families from 25 May 2024 to 23 June 2024.
