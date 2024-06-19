@@ -6,7 +6,13 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Non Teaching Staff</strong></h1>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -42,7 +48,7 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Seok Lian Regina</p>
+<p>Mdm Lim Seok Lian, Regina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Manager</p>
@@ -57,6 +63,21 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Heng Yee Liang, Vincent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:heng_yee_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_yee_liang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Teo Lee Lian</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,7 +90,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Farekha Binte Dollah</p>
@@ -169,25 +190,15 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Vincent Heng Yee Liang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:heng_yee_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_yee_liang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h1><strong>Support Staff</strong></h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
