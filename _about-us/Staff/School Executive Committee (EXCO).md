@@ -709,6 +709,21 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Heng Yee Liang (Vincent)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:heng_yee_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_yee_liang@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
