@@ -3,7 +3,7 @@ title: Password Reset
 permalink: /password-reset/
 variant: tiptap
 description: ""
-third_nav_title: Parents
+third_nav_title: Students
 ---
 <p><strong>Please email us at </strong>  <a href="mailto:ict@xps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ict@xps.edu.sg </a><strong> or to contact the school office at +65 6758 8837.</strong>
 </p>
