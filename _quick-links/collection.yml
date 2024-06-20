@@ -2,11 +2,11 @@ collections:
   quick-links:
     output: true
     order:
-      - Students/Password Reset.md
       - Students/.keep
       - Students/Students.md
       - Students/SLS Guide.md
       - Students/Student iCON.md
+      - Students/Password Reset.md
       - Students/Learning Portals.md
       - Teachers.md
       - Parents/.keep
