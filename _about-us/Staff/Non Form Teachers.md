@@ -6,7 +6,13 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h3><strong>Non-Form Teachers</strong></h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -81,8 +87,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Allied Educator
-<br>(Learning and Behavioural Support)</p>
+<p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ting_tiong_hin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ting_tiong_hin@moe.edu.sg</a>
@@ -99,8 +104,7 @@ variant: tiptap
 <p>Ms Nur 'Adilah Binte Mohammad Sulaimun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Allied Educator
-<br>(Learning and Behavioural Support)</p>
+<p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_adilah_mohamad_sulai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_adilah_mohamad_sulai@moe.edu.sg</a>
@@ -112,6 +116,21 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fadzil Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Fadzil_Ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Fadzil_Ismail@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Lai Sim Patricia</p>
@@ -126,7 +145,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chia Pei Ying Hazel</p>
@@ -141,7 +160,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Harish Gopinadhan Pillai</p>
@@ -156,7 +175,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Jing Yi</p>
@@ -171,7 +190,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Salyna Mohd Sahir</p>
@@ -180,12 +199,13 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:salyna_mohd_sahir_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">salyna_mohd_sahir_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joanne Yeow Wen Lin</p>
@@ -199,7 +219,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Hong Kai</p>
@@ -214,7 +234,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>14</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shariffa Zubaidah Begum Chishty&nbsp;</p>
@@ -229,7 +249,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Shafiqah Binte Abdul Aziz</p>
@@ -244,7 +264,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p>16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hazlinda Bte Mohammed Lahir</p>
@@ -259,7 +279,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Sabir Bin Abdul Gulam</p>
@@ -274,7 +294,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jeslyn Goh</p>
@@ -290,7 +310,13 @@ variant: tiptap
 </tbody>
 </table>
 <h3>School Counsellors</h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -345,13 +371,13 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Paul Jeremiah</p>
+<p>Ms Daphne Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N2 Roving Student Welfare Officer</p>
+<p>Senior Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:paul_jeremiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>paul_jeremiah@moe.edu.sg</u></a>
+<p><a href="mailto:Tan_Kim_Kee_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Kim_Kee_A@moe.edu.sg</a>
 </p>
 </td>
 </tr>

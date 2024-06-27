@@ -6,8 +6,9 @@ third_nav_title: CCE
 variant: tiptap
 ---
 <h2><strong>Character &amp; Citizenship Education</strong></h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/slide1cce.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="CCE Staff list" src="/images/CCE_Website_first_page_intro.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width:100 %" height="auto" width="100%" src="/images/slide2cce.JPG">
@@ -19,7 +20,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/education%20and%20career%20advising%20resources%20(for%20parents).jpg">
 </div>
 <h2>2024 Lesson Units in CCE</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -88,7 +93,11 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -157,7 +166,11 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -172,7 +185,8 @@ variant: tiptap
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 CCE SOW P1 T3</p>
+<p><a href="/files/2024_CCE_SOW_P1_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 CCE SOW P1 T3</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +194,8 @@ variant: tiptap
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 CCE SOW P2 T3</p>
+<p><a href="/files/2024_CCE_SOW_P2_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 CCE SOW P2 T3</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -188,7 +203,8 @@ variant: tiptap
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 CCE SOW P3 T3</p>
+<p><a href="/files/2024_CCE_SOW_P3_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 CCE SOW P3 T3</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -196,7 +212,8 @@ variant: tiptap
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 CCE SOW P4 T3</p>
+<p><a href="/files/2024_CCE_SOW_P4_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 CCE SOW P4 T3</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -204,7 +221,8 @@ variant: tiptap
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 CCE SOW P5 T3</p>
+<p><a href="/files/2024_CCE_SOW_P5_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 CCE SOW P5 T3</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -212,7 +230,8 @@ variant: tiptap
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 CCE SOW P6 T3</p>
+<p><a href="/files/2024_CCE_SOW_P6_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 CCE SOW P6 T3</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -220,7 +239,11 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
