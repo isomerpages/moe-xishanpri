@@ -124,7 +124,7 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Fadzil_Ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Fadzil_Ismail@moe.edu.sg</a>
+<p><a href="mailto:Fadzil_Ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Fadzil_Ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
