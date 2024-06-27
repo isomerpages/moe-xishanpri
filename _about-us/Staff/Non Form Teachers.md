@@ -376,7 +376,7 @@ variant: tiptap
 <p>Senior Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Tan_Kim_Kee_A@moe.edu.sg</a>
+<p><a href="mailto:Tan_Kim_Kee_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Kim_Kee_A@moe.edu.sg</a>
 </p>
 </td>
 </tr>
