@@ -79,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wee Sze Yi, Amanda</p>
@@ -94,58 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Wilson Ting</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ting_tiong_hin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ting_tiong_hin@moe.edu.sg</a>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nur 'Adilah Binte Mohammad Sulaimun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_adilah_mohamad_sulai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_adilah_mohamad_sulai@moe.edu.sg</a>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fadzil Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Fadzil_Ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Fadzil_Ismail@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Lai Sim, Patricia</p>
@@ -160,7 +109,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chia Pei Ying, Hazel</p>
@@ -175,7 +124,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Harish Gopinadhan Pillai</p>
@@ -190,7 +139,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Jing Yi</p>
@@ -205,7 +154,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Salyna Mohd Sahir</p>
@@ -220,7 +169,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joanne Yeow Wen Lin</p>
@@ -234,7 +183,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Hong Kai</p>
@@ -249,7 +198,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shariffa Zubaidah Begum Chishty&nbsp;</p>
@@ -264,7 +213,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Shafiqah Binte Abdul Aziz</p>
@@ -279,7 +228,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p>14</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hazlinda Bte Mohammed Lahir</p>
@@ -294,7 +243,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
+<p>15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jeslyn Goh</p>
@@ -309,7 +258,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18</p>
+<p>16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Huang Suhui</p>
@@ -324,7 +273,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19</p>
+<p>17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Siti Horrianie Binte Osman</p>
@@ -339,7 +288,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20</p>
+<p>18</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Laura Wee May Ying</p>
@@ -354,7 +303,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21</p>
+<p>19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Husnita Binte Omar</p>
@@ -369,7 +318,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22</p>
+<p>20</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kuah Kim Geok (Mrs Ho)</p>
@@ -473,3 +422,54 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h3>Special Education Needs Officers</h3>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ting Tiong Hin, Wilson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ting_tiong_hin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ting_tiong_hin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur 'Adilah Binte Mohammad Sulaimun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_adilah_mohamad_sulai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_adilah_mohamad_sulai@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Fadzil Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Fadzil_Ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Fadzil_Ismail@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Special</p>
