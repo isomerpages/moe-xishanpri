@@ -19,8 +19,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tamil pict 2" src="/images/Tamil_Picture2.jpg">
 </div>
-<p><strong>ஆர்வமூட்டும் கற்றல் நடவடிக்கைகள்</strong>
-</p>
+<h4><strong>ஆர்வமூட்டும் கற்றல் நடவடிக்கைகள்</strong></h4>
 <p>மாணவர்களின் கேட்டல், பேசுதல், படித்தல், எழுதுதல் ஆகிய அடிப்படை மொழித்திறன்களோடு
 இருவழிக் கருத்துப்பரிமாற்றத் திறன்களும் பல்வேறு நடவடிக்கைகளின் மூலம் கற்பிக்கப்படுகின்றன.</p>
 <p></p>
@@ -75,8 +74,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pict 15" src="/images/Picture15.jpg">
 </div>
-<p><strong>போட்டிகள்</strong>
-</p>
+<h4><strong>போட்டிகள்</strong></h4>
 <p>நம் மாணவர்கள் பலதரப்பட்ட போட்டிகளில் பங்குபெற ஊக்குவிக்கப்படுகின்றனர்.
 அவர்கள் பள்ளிக்கூடத்தில்,&nbsp;சமூக மன்றங்களில் மற்றும் தேசிய அளவிலான தமிழ்ப்போட்டிகளில்
 பங்குபெறுவதால் தங்கள் தன்னம்பிக்கையை வளர்த்துக்கொள்வதோடு தமிழ்மொழி மீதான
