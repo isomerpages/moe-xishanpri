@@ -375,20 +375,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yew Hui Yi, Rachel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Trainee Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
