@@ -183,7 +183,7 @@ variant: tiptap
 <p>Ms Sutha D/O Therumalai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Lower Primary Year Head (Internal)</p>
+<p>Assistant Lower Primary Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sutha_therumalai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutha_therumalai@moe.edu.sg</a>
