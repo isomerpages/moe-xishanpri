@@ -67,7 +67,6 @@ komunikasi dan kolaborasi.</p>
 <p></p>
 <p><strong>Sambutan Hari Raya Aidilfitri</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture10.jpg">
 </div>
@@ -84,9 +83,9 @@ komunikasi dan kolaborasi.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture13.jpg">
 </div>
 <p></p>
+<p></p>
 <p><strong>Pendedahan Teater ‘Hantu Kaki Kotor’</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture14.jpg">
 </div>
@@ -106,6 +105,7 @@ komunikasi dan kolaborasi.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture17.jpg">
 </div>
 <p></p>
+<p></p>
 <p><strong>Piala Cendekia 2024 (Sahibba)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -115,6 +115,7 @@ komunikasi dan kolaborasi.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture19.jpg">
 </div>
+<p></p>
 <p></p>
 <p><strong>Pesta Bahasa Utara @ Chong Pang</strong>
 </p>
@@ -145,6 +146,7 @@ komunikasi dan kolaborasi.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture26.jpg">
 </div>
+<p></p>
 <p></p>
 <p><strong>Cepat Tepat (Pidato)</strong>
 </p>
