@@ -2,53 +2,130 @@
 title: Malay Language
 permalink: /departments/malaylanguage/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **Malay Language**
-![](/images/malay%20department%202023.jpg)
-
-**Visi:**&nbsp;Setiap pelajar, pengguna Bahasa Melayu yang aktif, cekap dan berkeyakinan
-
-**Misi:**&nbsp;Melahirkan pelajar yang aktif dan cekap berkomunikasi dalam Bahasa Melayu serta mencintai Budaya Melayu
-
-_Burung kedidi terbang berdua,_&nbsp;&nbsp;&nbsp;
-_Hinggap sebentar di pucuk rumbia;_
-_Junjunglah tinggi bahasa ibunda,_
-_Majulah bahasa, majulah bangsa!_
-
-![](/images/malay%20department%2020231.jpg)
-
-### Program Teras
-
-#### Program Mari Membaca 
- <img src="/images/malay%20department%2020232.jpg" style="width:55%">    
- 
-<img src="/images/malay%20department%2020233.jpg" style="width:55%">    
-
-Memupuk minat membaca dalam kalangan murid.
-Menanam perasaan menggemari buku. Mewujudkan budaya membaca di sekolah.
-
-####  Program Aplikasi Pembelajaran (ALP)
-<img src="/images/malay%20department%2020234.jpg" style="width:55%">    
-<img src="/images/malay%20department%2020235.jpg" style="width:55%">    
-<img src="/images/malay%20department%2020236.jpg" style="width:55%">    
-<img src="/images/malay%20department%2020237.jpg" style="width:55%">    
-<img src="/images/malay%20department%2020238.jpg" style="width:55%">    
-<img src="/images/malay%20department%2020239.jpg" style="width:55%">    
-
-Membangunkan komunikator yang yakin melalui kewartawanan dan penyiaran media
- 
- **Penggunaan Informasi, Komunikasi dan Teknologi**
- 
-<img src="/images/malay%20department%20202310.jpg" style="width:55%">    
-<img src="/images/malay%20department%20202311jpg.jpg" style="width:55%">    
-      
-Memanfaatkan kemampuan ICT&nbsp; untuk meningkatkan kecekapan dan kemahiran komunikasi dan kolaborasi
-
-####    Lain-lain Program
-Program Dwi Minggu Bahasa Ibunda Sambutan Hari Raya Aidilfitri Pendedahan Teater Kembara Ilmu Jejak Budaya dan Warisan Peraduan dan Pertandingan
-
-Berinteraksi dalam suasana bahasa yang autentik
-Menyemarakkan keseronokan dalam pembelajaran
-# <img src="/images/malay%20department%20202312.jpg" style="width:55%">    <img src="/images/malay%20department%20202313.jpg" style="width:55%">    <img src="/images/malay%20department%20202314.jpg" style="width:55%">     <img src="/images/malay%20department%20202315.jpg" style="width:55%">     <img src="/images/malay%20department%20202316.jpg" style="width:55%">    <img src="/images/malay%20department%20202317.jpg" style="width:55%">    <img src="/images/malay%20department%20202318.jpg" style="width:55%">    <img src="/images/malay%20department%20202319.jpg" style="width:55%">     <img src="/images/malay%20department%20202320.jpg" style="width:55%">     <img src="/images/malay%20department%20202321.jpg" style="width:55%">    <img src="/images/malay%20department%20202322.jpg" style="width:55%">    <img src="/images/malay%20department%20202323.jpg" style="width:55%">   <img src="/images/malay%20department%20202324.jpg" style="width:55%">   <img src="/images/malay%20department%20202325.jpg" style="width:55%">    <img src="/images/malay%20department%20202326.jpg" style="width:55%">
-
+<h1><strong>Malay Language</strong></h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture1.jpg">
+</div>
+<p><strong>Visi:</strong>&nbsp;Setiap pelajar, pengguna Bahasa Melayu yang
+aktif, cekap dan berkeyakinan</p>
+<p><strong>Misi:</strong>&nbsp;Melahirkan pelajar yang aktif dan cekap berkomunikasi
+dalam Bahasa Melayu serta mencintai Budaya Melayu</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture28.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture2.jpg">
+</div>
+<h3>Program Teras</h3>
+<h4>Program Aplikasi Pembelajaran (ALP)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture4.jpg">
+</div>
+<p>Membangunkan komunikator yang yakin melalui kewartawanan dan penyiaran
+media</p>
+<p></p>
+<h4>Program Penggunaan Teknologi Pembelajaran (EdTech)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture5.jpg">
+</div>
+<p>Memanfaatkan kemampuan EdTech untuk meningkatkan kecekapan dan kemahiran
+komunikasi dan kolaborasi.</p>
+<p></p>
+<h4>Lain-lain Program</h4>
+<p>Berinteraksi dalam suasana bahasa yang autentik</p>
+<p>Menyemarakkan keseronokan dalam pembelajaran</p>
+<p></p>
+<p><strong>Semarak Budaya</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture9.jpg">
+</div>
+<p></p>
+<p><strong>Sambutan Hari Raya Aidilfitri</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture11.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture12.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture13.jpg">
+</div>
+<p></p>
+<p><strong>Pendedahan Teater ‘Hantu Kaki Kotor’</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture14.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture15.jpg">
+</div>
+<p></p>
+<h4>Peraduan dan Pertandingan</h4>
+<p><strong>Rentas Pantas</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture16.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture17.jpg">
+</div>
+<p></p>
+<p><strong>Piala Cendekia 2024 (Sahibba)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture18.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture19.jpg">
+</div>
+<p></p>
+<p><strong>Pesta Bahasa Utara @ Chong Pang</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture20.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture21.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
