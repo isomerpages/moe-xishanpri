@@ -53,6 +53,7 @@ komunikasi dan kolaborasi.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture6.jpg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture7.jpg">
 </div>
