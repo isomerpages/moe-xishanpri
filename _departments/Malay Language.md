@@ -149,7 +149,7 @@ komunikasi dan kolaborasi.</p>
 </div>
 <p></p>
 <p></p>
-<p><strong>Cepat Tepat (Pidato)</strong>
+<p><strong>Budiman Bestari (Pidato)</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
