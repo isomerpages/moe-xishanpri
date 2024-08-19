@@ -2,7 +2,7 @@
 layout: homepage
 title: Xishan Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/XISHAN_LOGO___High_Res_without_bg.png
 permalink: /
 notification: ""
 sections:
