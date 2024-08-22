@@ -102,7 +102,6 @@ Singapore and the Ministry of Education, working together to promote the
 value of sports education, foster a culture of sports participation in
 schools, and provide expanded opportunities for young people to engage
 in sports.</p>
-<p>&nbsp;</p>
 <p>In Xishan Primary School, we offer the following SEPs. SEPs for Primary
 1-3 students are held in school while SEPs for Primary 4-6 students are
 hosted outside of school:</p>
