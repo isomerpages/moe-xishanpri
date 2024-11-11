@@ -58,7 +58,6 @@ conditions in the website.</p>
 <p>The school has arranged for our uniform vendor to be in school on the
 following days&nbsp;<strong>from 9am to 3pm (Lunch break: 12noon to 1pm):</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Uniform_dates.jpg">
 </div>
