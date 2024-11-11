@@ -5,12 +5,14 @@ description: ""
 third_nav_title: Student Services
 variant: tiptap
 ---
-<h2>To request for school bus services in 2025, please refer to link for registration: </h2>
-<p>https://forms.gle/SHX8VQe7jbb9NDWF6</p>
+<h3>To request for school bus services in 2025, please refer to link for registration:</h3>
+<p><a href="https://forms.gle/SHX8VQe7jbb9NDWF6" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/SHX8VQe7jbb9NDWF6</a>
+</p>
+<p></p>
 <p><strong>Registration will be closed on 22 Nov 2024.</strong>
 </p>
 <p></p>
-<h2>School Bus Operator: Sirius Transport a.k.a Tian Lang Xing Singapore Pte Ltd</h2>
+<h3>School Bus Operator: Sirius Transport a.k.a Tian Lang Xing Singapore Pte Ltd</h3>
 <p>Email: <a href="mailto:xps_schoolbus@siriustpt.com" rel="noopener noreferrer nofollow" target="_blank">xps_schoolbus@siriustpt.com</a>
 </p>
 <p>Contact Number : 8078 5507</p>
