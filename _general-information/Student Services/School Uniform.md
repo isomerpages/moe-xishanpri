@@ -54,26 +54,12 @@ conditions in the website.</p>
 </tr>
 </tbody>
 </table>
-<h3>Sale of School&nbsp; Uniform &amp; Name Tags</h3>
+<h3>Sale of School&nbsp;Uniform &amp; Name Tags</h3>
 <p>The school has arranged for our uniform vendor to be in school on the
-following days&nbsp;<strong>from 9am to 3pm (Lunch break: 12noon to 1pm): </strong>
+following days&nbsp;<strong>from 9am to 3pm (Lunch break: 12noon to 1pm):</strong>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26, 28, 29 November 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3, 4, 5, 6, 10, 16, 17 December 2024</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Uniform_dates.jpg">
+</div>
 <p>Mode of payment: Cash, PayNow, Paylah!</p>
-<p>without appointment. Thank you for your kind understanding.</p>
