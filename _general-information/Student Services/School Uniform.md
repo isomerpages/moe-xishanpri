@@ -5,4 +5,75 @@ description: ""
 third_nav_title: Student Services
 variant: tiptap
 ---
-<h1><strong>School Uniform</strong></h1><h3>Details on Purchase of School Uniform</h3><p>Other modes of purchase:</p><ul data-tight="true" class="tight"><li><p>Walk-in purchase at retail Outlet&nbsp;</p></li><li><p>Online purchase at&nbsp;<a href="https://jeepsinguniform.com/" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/</a></p></li></ul><p>Mode of payment: Cash, Nets, PayNow, DBS Paylah! Support Centre:&nbsp;<a href="https://bit.ly/JSFSUPPORT" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/JSFSUPPORT</a> For details, please refer to our terms and conditions in the website.</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Jeep Sing Fashion</p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Blk 4012<br>Ang Mo Kio Ave 10<br>#01-09 Techplace1<br>Singapore 569628<br><br></p></td><td rowspan="1" colspan="1"><p><strong>Opening Hours</strong><br>Monday to Friday: 10am to 6pm.<br>Lunch break and Sanitising of Store – 1pm to 2pm<br>Saturday: 10am to 2pm<br>Closed on Sunday and Public Holidays</p></td></tr></tbody></table><h3>Sale of School&nbsp; Uniform &amp; Name Tags</h3><p>The school has arranged for our uniform vendor to be in school on the following days <strong>from 1.15p.m. to 3.00p.m.</strong>:</p><table><tbody><tr><td rowspan="1" colspan="1"><p>2 Jan</p></td><td rowspan="1" colspan="1"><p>18 Jan</p></td><td rowspan="1" colspan="1"><p>22 Feb</p></td></tr><tr><td rowspan="1" colspan="1"><p>21 Mar</p></td><td rowspan="1" colspan="1"><p>18 Apr</p></td><td rowspan="1" colspan="1"><p>16 May</p></td></tr><tr><td rowspan="1" colspan="1"><p>11 Jul</p></td><td rowspan="1" colspan="1"><p>22 Aug</p></td><td rowspan="1" colspan="1"><p>19 Sep</p></td></tr></tbody></table><p></p><p>Mode of payment: Cash, PayNow, Paylah!</p><p>Parents who would like to purchase school uniform and name tags in person are required to book an appointment slot via this link:&nbsp;<a href="https://bit.ly/3zjTKuC" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/3zjTKuC</a>. Please kindly note that the appointment slot will be open for booking on the same week as the sales date.</p><p>For the safety of the students, we will only admit 1 adult per student and will not be able to accommodate any walk-in without appointment. Thank you for your kind understanding.</p>
+<h1><strong>School Uniform</strong></h1>
+<h3>Details on Purchase of School Uniform</h3>
+<p>Other modes of purchase:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Walk-in purchase at retail Outlet&nbsp;</p>
+</li>
+<li>
+<p>Online purchase at&nbsp;<a href="https://jeepsinguniform.com/" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/</a>
+</p>
+</li>
+</ul>
+<p>Mode of payment: Cash, Nets, PayNow, DBS Paylah! Support Centre:&nbsp;
+<a href="https://bit.ly/JSFSUPPORT" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/JSFSUPPORT</a>For details, please refer to our terms and
+conditions in the website.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Jeep Sing Fashion</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Blk 4012
+<br>Ang Mo Kio Ave 10
+<br>#01-09 Techplace1
+<br>Singapore 569628
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Opening Hours</strong>
+<br>Monday to Friday: 10am to 6pm.
+<br>Lunch break and Sanitising of Store – 1pm to 2pm
+<br>Saturday: 10am to 2pm
+<br>Closed on Sunday and Public Holidays</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Sale of School&nbsp; Uniform &amp; Name Tags</h3>
+<p>The school has arranged for our uniform vendor to be in school on the
+following days&nbsp;<strong>from 9am to 3pm (Lunch break: 12noon to 1pm): </strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26, 28, 29 November 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3, 4, 5, 6, 10, 16, 17 December 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Mode of payment: Cash, PayNow, Paylah!</p>
+<p>without appointment. Thank you for your kind understanding.</p>
