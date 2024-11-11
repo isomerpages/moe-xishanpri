@@ -19,7 +19,7 @@ description: ""
 <p>Level</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Booklist 2024</p>
+<p>Booklist 2025</p>
 </th>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ description: ""
 <p>Level</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Booklist 2024</p>
+<p>Booklist 2025</p>
 </th>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ on 28 Nov)</p>
 <p>Level</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Booklist</p>
+<p>Booklist 2025</p>
 </th>
 </tr>
 <tr>
