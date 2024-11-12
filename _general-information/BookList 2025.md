@@ -51,7 +51,7 @@ description: ""
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 3 (Updated on 28 Nov)</p>
+<p>Primary 3 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/p3booklistxishan2024-28nov" rel="noopener noreferrer nofollow" target="_blank">P3 Booklist 2024</a>
@@ -75,7 +75,7 @@ description: ""
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 4</p>
+<p>Primary 4 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/p4booklistxishan2024" rel="noopener noreferrer nofollow" target="_blank">P4 Booklist 2024</a>
@@ -119,7 +119,7 @@ description: ""
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 5 Standard (Updated on 28 Nov)</p>
+<p>Primary 5 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/p5standardbooklist2024xishan-28nov" rel="noopener noreferrer nofollow" target="_blank">P5 Standard Booklist 2024</a>
@@ -131,7 +131,7 @@ description: ""
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 5 Foundation (Updated on 14 Jan 2024)</p>
+<p>Primary 5 Foundation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Booklist_2024_Xishan_P5_Foundation_PDF.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Foundation Booklist 2024</a>
@@ -143,8 +143,7 @@ description: ""
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 5 (3 Foundation subjects &amp; 1 Standard Mother Tongue) (Updated
-on 14 Jan 2024)</p>
+<p>Primary 5 (3 Foundation subjects &amp; 1 Standard Mother Tongue)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Booklist_2024_P5_3F_1S_MT__PDF.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 3F-1S(MT) Booklist 2024</a>
@@ -156,8 +155,7 @@ on 14 Jan 2024)</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 5 (3 Standard Subjects &amp; 1 Foundation Mathematics) (Updated
-on 28 Nov)</p>
+<p>Primary 5 (3 Standard Subjects &amp; 1 Foundation Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/p53s1fmabooklist2024xishan-28nov" rel="noopener noreferrer nofollow" target="_blank">P5 3S 1F(MA) Booklist 2024</a>
@@ -225,7 +223,7 @@ on 28 Nov)</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 6 Foundation (Updated on 14 Jan 2024)</p>
+<p>Primary 6 Foundation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Booklist_2024_Xishan_P6_Foundation_PDF.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Foundation Booklist 2024</a>
@@ -237,8 +235,7 @@ on 28 Nov)</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 6 (3 Foundation Subjects &amp; 1 Standard Mother Tongue) (Updated
-on 14 Jan 2024)</p>
+<p>Primary 6 (3 Foundation Subjects &amp; 1 Standard Mother Tongue)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Booklist_2024_Xishan_P6_3F_1S_MT__PDF.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 3F-1S(MT) Booklist 2024</a>
@@ -250,7 +247,7 @@ on 14 Jan 2024)</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Primary 6 (3 Standard Subjects &amp; 1 Foundation Mathematic)s</p>
+<p>Primary 6 (3 Standard Subjects &amp; 1 Foundation Mathematic)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/p63s1fmabooklistxps2024" rel="noopener noreferrer nofollow" target="_blank">P6 3S 1F(MA)</a>
