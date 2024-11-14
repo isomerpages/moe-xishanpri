@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Chinese Language
 variant: tiptap
 ---
+<h1><strong>西山“语”世界</strong></h1>
 <p></p><a class="isomer-image-wrapper" href="https://jjjj7777.my.canva.site/xishan-lustre-2024"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xishan_chinese_image.png"></a>
 <h1><strong>Chinese Language 华文</strong></h1>
 <p>西山小学华文部遵循教育部的方针指引，通过实施“乐学善用”教学理念，努力让华语成为学生的生活用语。除了重视学生听、说、读、写四种技能的全面发展外，更强调学生“口语互动技能”和“书面互动技能”的发展和提高。</p>
