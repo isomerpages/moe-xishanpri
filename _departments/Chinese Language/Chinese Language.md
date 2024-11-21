@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1><strong>西山“语”世界</strong></h1>
 <p></p><a class="isomer-image-wrapper" href="https://jjjj7777.my.canva.site/xishan-lustre-2024"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xishan_chinese_image.png"></a>
-<p>📢✨西山小学华文部隆重推出有声电子报《西山“语”世界》创刊号！🌏✨</p>
+<p>📢✨西山小学华文部隆重推出有声电子报《西山“语”世界》🌏✨</p>
 <p>&nbsp;西山小学LUSTRE项目旨在提升学生的华语能力，加深他们对华族文化的兴趣与理解。《西山“语”世界》今日正式上线！电子报精选学生华文佳作，展现其独特视角和才华，让他们的声音传向更广阔的世界！</p>
 <p>&nbsp;📖精彩栏目一览：</p>
 <p>🕰️西山时刻：校园大事记，一览西山精彩活动！</p>
