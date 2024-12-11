@@ -35,7 +35,7 @@ are both anchored in character values and developed in 21<sup>st</sup> Century
 Competencies (E21CC).</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Growing_legacy.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Growing_legacy.jpg">
 </div>
 <p>As we embark on this new chapter, I invite our entire Xishan community
 - staff, students, parents, and partners - to join me and my Vice-Principals,
