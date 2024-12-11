@@ -6,9 +6,6 @@ variant: tiptap
 ---
 <h1><strong>Principal's Message 2025</strong></h1>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Mrs_Jane_Chng2.jpg">
-</div>
 <p><strong><u>Growing from Legacy, Creating New Possibilities Together</u></strong>
 </p>
 <p>Welcome back to school! On behalf of the Xishan community, I thank Mrs
