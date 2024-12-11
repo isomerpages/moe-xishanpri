@@ -6,9 +6,7 @@ variant: tiptap
 ---
 <h3>School Advisory Committee (SAC)</h3>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_list_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_list_7.jpg">
 </div>
-<p></p>
 <p></p>
