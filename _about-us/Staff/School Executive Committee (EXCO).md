@@ -8,21 +8,12 @@ variant: tiptap
 <h1><strong>School Executive Committee (EXCO)</strong></h1>
 <h2>Management Team</h2>
 <h3>School Leaders</h3>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/mrs%20anne%20quek%20(2).jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/ms%20latha%20sinasamy%20(2).jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLs_2025.jpg">
 </div>
+<p>From left to right: Ms Latha, Mrs Jane Chng, Mdm Sophia Lee</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/mdm%20sophia%20lee.jpg">
-</div>
-<h3></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/mrs_jane_chng.png">
-</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -50,7 +41,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Anne Quek</p>
+<p>Mrs Jane Chng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -84,21 +75,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (Administration)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:xishan_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xishan_ps@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Jane Chng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xishan_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xishan_ps@moe.edu.sg</a>
