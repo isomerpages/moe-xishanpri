@@ -114,7 +114,7 @@ variant: tiptap
 <p>Ms Mandy Lau Tyng Tyng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>Year Head (P1 &amp; P4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lau_tyng_tyng_mandy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_tyng_tyng_mandy@moe.edu.sg</a>
@@ -126,13 +126,13 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Mei Li</p>
+<p>Mr Sahir Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>Year Head (P2 &amp; P5)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_mei_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_mei_li@moe.edu.sg</a>
+<p><a href="mailto:sahir_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sahir_abdullah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -141,13 +141,13 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sahir Abdullah</p>
+<p>Ms Wong Mei Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>Year Head (P3 &amp; P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sahir_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sahir_abdullah@moe.edu.sg</a>
+<p><a href="mailto:wong_mei_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_mei_li@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -319,7 +319,7 @@ variant: tiptap
 <p>Mr Yvonne Lin Cui Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Physical &amp; Health Education and CCA (internal)</p>
+<p>Physical &amp; Health Education and CCA (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lin_cuiwen_yvonne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_cuiwen_yvonne@moe.edu.sg</a>
@@ -567,7 +567,7 @@ variant: tiptap
 <p>Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mohamad_narul_azrin@schools.gov.sg</a>
+<p><a href="mailto:mohamad_narul_azrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_narul_azrin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
