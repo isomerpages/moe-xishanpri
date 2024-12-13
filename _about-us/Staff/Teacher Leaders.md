@@ -152,7 +152,7 @@ variant: tiptap
 <p>Ms Jolene Cheng Pei Fern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aesthetics</p>
+<p>Senior Teacher (Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheng_pei_fern_jolene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_pei_fern_jolene@moe.edu.sg</a>
