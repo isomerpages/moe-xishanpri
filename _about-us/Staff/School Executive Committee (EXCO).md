@@ -147,7 +147,7 @@ variant: tiptap
 <p>Year Head (P3 &amp; P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_mei_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_mei_li@moe.edu.sg</a> 
+<p><a href="mailto:wong_mei_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_mei_li@moe.edu.sg</a>
 </p>
 </td>
 </tr>
