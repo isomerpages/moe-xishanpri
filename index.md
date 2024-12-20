@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Xishan Primary School
-      background: /images/School_Website_GIF__1_.gif
+      background: /images/School_Website_GIF__2_.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
