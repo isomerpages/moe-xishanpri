@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Xishan Primary School
-      background: /images/xsps(1).gif
+      background: /images/School_Website_GIF__3_.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -18,4 +18,5 @@ sections:
         - title: Useful Links
           description: ""
           url: https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/students
+      variant: center
 ---
