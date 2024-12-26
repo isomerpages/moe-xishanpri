@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Xishan Primary School
       background: /images/School_Website_GIF__5_.gif
       key_highlights:
         - title: Announcements
