@@ -25,7 +25,8 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>FT 1 : Ms Rachel Tham</p>
-<p></p>
+<p><a href="mailto:tham_mei_theng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_mei_theng@moe.edu.sg</a>
+</p>
 <p></p>
 <p>FT 2 : Ms Sheralin See</p>
 <p><a href="mailto:see_kai_li_sheralin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_kai_li_sheralin_a@moe.edu.sg</a>
@@ -54,10 +55,12 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>FT 1 : Ms Christine Ong</p>
-<p></p>
+<p><a href="mailto:ong_guat_yeng_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_guat_yeng_christine@moe.edu.sg</a>
+</p>
 <p></p>
 <p>FT2 : Ms Koh Han Yan</p>
-<p></p>
+<p><a href="mailto:han_yan_koh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_yan_koh@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -67,10 +70,12 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>FT 1 : Ms Choo Mei Fang</p>
-<p></p>
+<p><a href="mailto:choo_mei_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_mei_fang@moe.edu.sg</a>
+</p>
 <p></p>
 <p>FT 2 : Ms Tan Lin San</p>
-<p></p>
+<p><a href="mailto:tan_lin_san@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lin_san@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -80,10 +85,12 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>FT 1 : Ms Dewi Lee</p>
-<p></p>
+<p><a href="mailto:lee_jia_hui_dewi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jia_hui_dewi@moe.edu.sg</a>
+</p>
 <p></p>
 <p>FT 2 : Ms Diyanah Zahirah</p>
-<p></p>
+<p><a href="mailto:diyanah_zahirah_amiral@mpe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">diyanah_zahirah_amiral@mpe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -93,10 +100,12 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>FT 1 : Ms Teo Lee Ying</p>
-<p></p>
+<p><a href="mailto:teo_lee_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_lee_ying@moe.edu.sg</a>
+</p>
 <p></p>
 <p>FT2 : Ms Mahalakshmi</p>
-<p></p>
+<p><a href="mailto:mahalakshmi_alaghimanvalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahalakshmi_alaghimanvalan@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -105,11 +114,13 @@ third_nav_title: Staff
 <p>1 Share</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FT 1 : Ms Tan Yin Peng</p>
-<p></p>
+<p>FT 1 : Tan Yin Peng</p>
+<p><a href="mailto:tan_yin_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yin_peng@moe.edu.sg</a>
+</p>
 <p></p>
 <p>FT 2 : Ms Nur Quraisyah Bte Fisall</p>
-<p></p>
+<p><a href="mailto:nur_quraisyah_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_quraisyah_fisall@moe.edu.sg</a>
+</p>
 <p></p>
 <p>FT 3 : Ms Priya Gopalakrishan</p>
 <p></p>
