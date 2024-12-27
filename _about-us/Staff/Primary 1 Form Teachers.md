@@ -89,7 +89,7 @@ third_nav_title: Staff
 </p>
 <p></p>
 <p>FT 2 : Ms Diyanah Zahirah</p>
-<p><a href="mailto:diyanah_zahirah_amiral@mpe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">diyanah_zahirah_amiral@mpe.edu.sg</a>
+<p><a href="mailto:diyanah_zahirah_amiral@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">diyanah_zahirah_amiral@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
