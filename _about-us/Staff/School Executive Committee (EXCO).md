@@ -316,7 +316,7 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yvonne Lin Cui Wen</p>
+<p>Ms Yvonne Lin Cui Wen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Physical &amp; Health Education and CCA (Internal)</p>
