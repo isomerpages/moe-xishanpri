@@ -63,21 +63,6 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Heng Yee Liang, Vincent</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:heng_yee_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_yee_liang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Teo Lee Lian</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +75,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Farekha Binte Dollah</p>
@@ -153,6 +138,22 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Toh Cian Pheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_cian_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_cian_pheng@moe.edu.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Tee Siew Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,7 +165,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ang Sue Tin</p>
@@ -178,7 +179,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Siew Mui</p>
