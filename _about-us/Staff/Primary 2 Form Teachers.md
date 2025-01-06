@@ -78,7 +78,7 @@ third_nav_title: Staff
 </p>
 <p></p>
 <p>Lim Jing Yi</p>
-<p><a href="mailto:lim_jing_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jing_yi_a@moe.edu.sg</a> 
+<p><a href="mailto:lim_jing_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jing_yi_a@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
