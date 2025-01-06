@@ -43,8 +43,8 @@ third_nav_title: Staff
 <p><a href="mailto:sutha_therumalai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutha_therumalai@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Norizawaty</p>
-<p><a href="mailto:norizawaty_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norizawaty_sulaiman@moe.edu.sg</a>
+<p>Ms Peng Chia Hui</p>
+<p><a href="mailto:peng_chia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peng_chia_hui@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -78,7 +78,8 @@ third_nav_title: Staff
 </p>
 <p></p>
 <p>Lim Jing Yi</p>
-<p></p>
+<p><a href="mailto:lim_jing_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jing_yi_a@moe.edu.sg</a> 
+</p>
 <p></p>
 </td>
 </tr>
