@@ -561,7 +561,7 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Narul Azrin Bin Abdul Aziz</p>
+<p>Mr Mohamad Narul Azrin Bin Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Leadership</p>
