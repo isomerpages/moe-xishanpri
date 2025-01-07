@@ -95,6 +95,5 @@ lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also downloadable <a href="https://forms.moe.edu.sg/forms/JqpRPg" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 The completed opt-out form is to be submitted by Wednesday, 15 January
 2025.</p>
-<p>Parents can contact the school via phone at 67588837 or email at <a rel="noopener noreferrer nofollow" target="_blank">xishan_ps@moe.edu.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<p>Parents can contact the school via phone at 67588837 or email at <a rel="noopener noreferrer nofollow" target="_blank">xishan_ps@moe.edu.sg</a> for discussion
+or to seek clarification about the school’s Sexuality Education programme.</p>
