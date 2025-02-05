@@ -2,5 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - Closure of General Office on 3rd July.md
-      - Updates on Group Personal Accident (GPA) Insurance for Students.md
+      - School Canteen Advertisement.md
