@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Parent Engagement 2025/Parent Engagement 2025.md
       - Parent Engagement 2025/.keep
       - School Rules and Regulations.md
       - Discipline/.keep
