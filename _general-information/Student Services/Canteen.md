@@ -15,11 +15,24 @@ variant: tiptap
 </div>
 <h3>2025 Canteen&nbsp; Menu</h3>
 <h3><strong>Stall 1</strong></h3>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Sunshine Bun - $1.30</p>
 <p>Lor Mai Kai - $1.50</p>
 <p>Burger with meat - $1.70</p>
 <p>Siew Mai - $0.70</p>
 <p>Assorted steamed bun - $0.90</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3><strong>Stall 2</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
@@ -293,11 +306,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><u>Kway Teow Goreng (Halal)</u>
