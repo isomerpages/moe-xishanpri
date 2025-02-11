@@ -14,8 +14,17 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Set%20Meal_pic.jpg">
 </div>
 <h3>2024&nbsp; Canteen&nbsp; Menu</h3>
+<h3><strong>Stall 1</strong></h3>
+<p>Sunshine Bun - $1.30</p>
+<p>Lor Mai Kai - $1.50</p>
+<p>Burger with meat - $1.70</p>
+<p>Siew Mai - $0.70</p>
+<p>Assorted steamed bun - $0.90</p>
 <h3><strong>Stall 2</strong></h3>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -69,7 +78,10 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Stall 3</strong></h3>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -119,7 +131,10 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Stall 4</strong></h3>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -159,7 +174,10 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Stall 5</strong></h3>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -205,10 +223,22 @@ variant: tiptap
 <p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Chicken Rice</u>
+</p>
+<p>Set A (1 Meat 1 Vegetable with Fruit) - $1.80</p>
+<p>Set B (2 Meat 1 Vegetable with Fruit) - $2.30</p>
+<p>Set C (2 Meat 2 Vegetable with Fruit) - $2.50</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>Stall 6</strong></h3>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -258,7 +288,10 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Stall 7</strong></h3>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
