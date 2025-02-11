@@ -13,7 +13,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Set%20Meal_pic.jpg">
 </div>
-<h3>2024&nbsp; Canteen&nbsp; Menu</h3>
+<h3>2025 Canteen&nbsp; Menu</h3>
 <h3><strong>Stall 1</strong></h3>
 <p>Sunshine Bun - $1.30</p>
 <p>Lor Mai Kai - $1.50</p>
