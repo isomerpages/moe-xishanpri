@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyber%20Wellness%20Reminder%20Message.jpg">
 </div>
-<h3>Cyber Wellness Week 2024</h3>
+<h3>Cyber Wellness Week 2025</h3>
 <p><strong>Wrapping Up Cyber Wellness Week!</strong>
 </p>
 <p>This year, we explored the theme <strong>"Pause, Think, Protect: Be Cyber Smart!"</strong>
