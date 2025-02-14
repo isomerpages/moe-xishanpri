@@ -17,11 +17,11 @@ Engagement 2025 sessions.</p>
 <p><strong>Primary 5 Parents Engagement (Principal's Sharing)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="844" width="1500" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1056662032?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe height="563" width="1000" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1056662032?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 </div>
 <p><strong>Primary 5 Parents Engagement (Year Head Briefing)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1056662115?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
+<iframe height="563" width="1000" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1056662115?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe>
 </div>
 <p></p>
