@@ -12,7 +12,7 @@ variant: tiptap
 <h3>Cyber Wellness Week 2024</h3>
 <p><strong>Wrapping Up Cyber Wellness Week!</strong>
 </p>
-<p>This week, we explored the theme <strong>"Pause, Think, Protect: Be Cyber Smart!"</strong>
+<p>This year, we explored the theme <strong>"Pause, Think, Protect: Be Cyber Smart!"</strong>
 </p>
 <p>Our students had an insightful session with professionals from <strong>TOUCH Community</strong>,
 where they learned about the <strong>S.U.R.E. framework</strong> during morning
