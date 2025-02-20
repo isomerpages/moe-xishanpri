@@ -18,8 +18,8 @@ variant: tiptap
 </li>
 </ul>
 <p>Mode of payment: Cash, Nets, PayNow, DBS Paylah! Support Centre:&nbsp;
-<a href="https://bit.ly/JSFSUPPORT" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/JSFSUPPORT</a>For details, please refer to our terms and
-conditions in the website.</p>
+<a href="https://bit.ly/3zjTKuC" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/3zjTKuC</a><a href="https://bit.ly/JSFSUPPORT" rel="noopener noreferrer nofollow" target="_blank"> </a>For details, please refer to our
+terms and conditions in the website.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -56,9 +56,48 @@ conditions in the website.</p>
 </table>
 <h3>Sale of School&nbsp;Uniform &amp; Name Tags</h3>
 <p>The school has arranged for our uniform vendor to be in school on the
-following days&nbsp;<strong>from 9am to 3pm (Lunch break: 12noon to 1pm):</strong>
+following days&nbsp;<strong>from 1.15pm to 3pm</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Uniform_dates.jpg">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Feb 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Mar 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 Apr 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 May 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Jul 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 Aug 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 Sep 2025</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Mode of payment: Cash, PayNow, Paylah!</p>
