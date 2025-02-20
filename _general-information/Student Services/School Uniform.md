@@ -17,8 +17,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>Mode of payment: Cash, Nets, PayNow, DBS Paylah! Support Centre:&nbsp;
-<a href="https://bit.ly/3zjTKuC" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/3zjTKuC</a><a href="https://bit.ly/JSFSUPPORT" rel="noopener noreferrer nofollow" target="_blank"> </a>For details, please refer to our
+<p>Mode of payment: Cash, Nets, PayNow, DBS Paylah! <a href="https://bit.ly/JSFSUPPORT" rel="noopener noreferrer nofollow" target="_blank"> </a>For details, please refer to our
 terms and conditions in the website.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -56,8 +55,14 @@ terms and conditions in the website.</p>
 </table>
 <h3>Sale of School&nbsp;Uniform &amp; Name Tags</h3>
 <p>The school has arranged for our uniform vendor to be in school on the
-following days&nbsp;<strong>from 1.15pm to 3pm</strong>
+following days&nbsp;<strong>from 1.15pm to 3pm. </strong>
 </p>
+<p>Parents who would like to purchase school uniforms and name tags in person
+are required to book an appointment slot via this link:&nbsp; <a href="https://bit.ly/3zjTKuC" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/3zjTKuC: </a>
+</p>
+<p>Please kindly note that the appointment slots will be open for booking
+in the same week as the sales date.</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
