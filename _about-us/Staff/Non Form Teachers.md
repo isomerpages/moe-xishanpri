@@ -141,21 +141,6 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Husnita Binte Omar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:husnita_omar_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">husnita_omar_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Kuah Kim Geok (Mrs Ho)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -168,7 +153,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shariffa Zubaidah Begum Chishty&nbsp;</p>
@@ -183,7 +168,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hazlinda Bte Mohammed Lahir</p>
@@ -198,7 +183,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jeslyn Goh</p>
@@ -213,7 +198,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Siti Horrianie Binte Osman</p>
