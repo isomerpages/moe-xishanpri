@@ -125,7 +125,9 @@ third_nav_title: Staff
 <p><a href="mailto:anand_kumar_manivanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anand_kumar_manivanan@moe.edu.sg</a>
 </p>
 <p></p>
-<p></p>
+<p>Ms Siti Horrianie</p>
+<p><a href="mailto:siti_horrianie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_horrianie@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
