@@ -69,9 +69,8 @@ third_nav_title: Staff
 <p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Adeline Yan</p>
-<p><a href="mailto:yan_peiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yan_peiyun@moe.edu.sg</a>
-</p>
+<p></p>
+<p></p>
 <p></p>
 <p>Mr Muhammad Nasiruddin</p>
 <p><a href="mailto:muhd_nasiruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhd_nasiruddin@moe.edu.sg</a>
@@ -126,9 +125,7 @@ third_nav_title: Staff
 <p><a href="mailto:anand_kumar_manivanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anand_kumar_manivanan@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Siti Horrianie</p>
-<p><a href="mailto:siti_horrianie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_horrianie@moe.edu.sg</a>
-</p>
+<p></p>
 <p></p>
 </td>
 </tr>
