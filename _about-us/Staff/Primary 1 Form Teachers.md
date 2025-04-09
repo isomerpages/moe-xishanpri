@@ -74,8 +74,6 @@ third_nav_title: Staff
 </p>
 <p></p>
 <p>Ms Liu Yutian</p>
-<p><a href="mailto:Liu_Yutian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lin_san@moe.edu.sg</a>
-</p>
 <p></p>
 </td>
 </tr>
