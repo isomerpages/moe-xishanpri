@@ -62,9 +62,7 @@ third_nav_title: Staff
 <p><a href="mailto:maria_humairah_roslan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maria_humairah_roslan@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Siti Zahirah</p>
-<p><a href="mailto:siti_zahirah_hidzir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zahirah_hidzir@moe.edu.sg</a>
-</p>
+<p></p>
 <p></p>
 </td>
 </tr>
