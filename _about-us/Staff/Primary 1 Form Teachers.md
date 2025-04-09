@@ -122,6 +122,10 @@ third_nav_title: Staff
 <p><a href="mailto:nur_quraisyah_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_quraisyah_fisall@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Ms Priya Gopalakrishnan</p>
+<p><a href="mailto:priya_gopalakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priya_gopalakrishnan@moe.edu.sg</a>
+</p>
+<p></p>
 <p></p>
 </td>
 </tr>
