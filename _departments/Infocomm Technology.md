@@ -73,7 +73,7 @@ technology</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Heng Yee Liang, Vincent ( ICT Manager )</p>
+<p>Mr Azmi Bin Ajis ( ICT Manager )</p>
 </td>
 </tr>
 <tr>
