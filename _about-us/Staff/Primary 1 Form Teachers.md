@@ -73,7 +73,13 @@ third_nav_title: Staff
 <p><a href="mailto:choo_mei_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_mei_fang@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Ms Priya Gopalakrishnan</p>
+<p><a href="mailto:priya_gopalakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priya_gopalakrishnan@moe.edu.sg</a>
+</p>
+<p></p>
 <p>Ms Liu Yutian</p>
+<p><a href="mailto:Liu_Yutian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yutian@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -120,9 +126,8 @@ third_nav_title: Staff
 <p><a href="mailto:nur_quraisyah_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_quraisyah_fisall@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Priya Gopalakrishnan</p>
-<p><a href="mailto:priya_gopalakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priya_gopalakrishnan@moe.edu.sg</a>
-</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 </td>
