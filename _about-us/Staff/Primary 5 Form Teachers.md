@@ -54,14 +54,12 @@ third_nav_title: Staff
 <p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tery Lou</p>
-<p><a href="mailto:lou_si_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lou_si_yu@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Ms Dayna Wang</p>
 <p><a href="mailto:dayna_wang_xiao_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dayna_wang_xiao_dan@moe.edu.sg</a>
 </p>
-<p></p>
+<p>Ms Siti Zahirah</p>
+<p><a href="mailto:siti_zahirah_hidzir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zahirah_hidzir@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
