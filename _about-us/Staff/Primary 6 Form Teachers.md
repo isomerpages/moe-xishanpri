@@ -58,7 +58,7 @@ third_nav_title: Staff
 <p><a href="mailto:seow_qi_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_qi_en@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Kamalam Govindasamy</p>
+<p>Mrs Kamalam Govin</p>
 <p><a href="mailto:kamalam_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamalam_govindasamy@moe.edu.sg</a>
 </p>
 <p></p>
