@@ -70,16 +70,13 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
+<p>Ms Adeline Yan</p>
+<p><a href="mailto:yan_peiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yan_peiyun@moe.edu.sg</a>
+</p>
 <p></p>
 <p>Mr Muhammad Nasiruddin</p>
 <p><a href="mailto:muhd_nasiruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhd_nasiruddin@moe.edu.sg</a>
 </p>
-<p></p>
-<p>Lim Jing Yi</p>
-<p><a href="mailto:lim_jing_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jing_yi_a@moe.edu.sg</a>
-</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -110,6 +107,9 @@ third_nav_title: Staff
 <p><a href="mailto:norizawaty_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norizawaty_sulaiman@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Ms Brenda ONg</p>
+<p><a href="mailto:Ong_Shi_Min_Brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shi_min_Brenda@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
