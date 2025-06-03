@@ -12,3 +12,4 @@ image: /images/Xishan_Pri_Sch_Open_House_2024_MOTD_Banner.png
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/openhouse_2025.png">
 </div>
 <p></p>
+<p></p>
