@@ -13,7 +13,8 @@ image: /images/Xishan_Pri_Sch_Open_House_2024_MOTD_Banner.png
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Xishan Primary Open House 2025" src="/images/openhouse2025v18.png">
+<img style="width: 100%" height="auto" width="100%" alt="Xishan Primary School Open House 2025" src="/images/openhouse2025v22.png">
 </div>
 <p></p>
