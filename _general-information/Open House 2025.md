@@ -15,3 +15,7 @@ image: /images/Xishan_Pri_Sch_Open_House_2024_MOTD_Banner.png
 <img style="width: 100%" height="auto" width="100%" alt="xishan open house 2025" src="/images/openhouse2025v9.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Open house poster" src="/images/856f6edded8eff3f7fc3b9b5787fe480_min.png">
+</div>
+<p></p>
