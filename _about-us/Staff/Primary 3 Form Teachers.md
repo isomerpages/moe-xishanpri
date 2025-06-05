@@ -58,7 +58,7 @@ third_nav_title: Staff
 <p><a href="mailto:lee_yu_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_xin@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Gong Y Q</p>
+<p>Ms Gong Yaqin</p>
 <p><a href="mailto:gong_yaqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gong_yaqin@moe.edu.sg</a>
 </p>
 <p></p>
@@ -84,7 +84,7 @@ third_nav_title: Staff
 <p>3 Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan ZhaoLi</p>
+<p>Mr Chan Zhaoli</p>
 <p><a href="mailto:chan_zhaoli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_zhaoli@moe.edu.sg</a>
 </p>
 <p></p>
