@@ -54,11 +54,11 @@ third_nav_title: Staff
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Yu Xin</p>
+<p>Ms Lee Yu Xin</p>
 <p><a href="mailto:lee_yu_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_xin@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Gong Yaqin</p>
+<p>Mdm Gong Yaqin</p>
 <p><a href="mailto:gong_yaqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gong_yaqin@moe.edu.sg</a>
 </p>
 <p></p>
