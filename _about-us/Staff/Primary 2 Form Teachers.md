@@ -28,7 +28,7 @@ third_nav_title: Staff
 <p><a href="mailto:amanda_wee_sze_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amanda_wee_sze_yi@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Leslie Gwee</p>
+<p>Mr Leslie Gwee</p>
 <p><a href="mailto:gwee_cher_siang_leslie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gwee_cher_siang_leslie@moe.edu.sg</a>
 </p>
 <p></p>
@@ -39,7 +39,7 @@ third_nav_title: Staff
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sutha</p>
+<p>Ms Sutha Therumalai</p>
 <p><a href="mailto:sutha_therumalai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutha_therumalai@moe.edu.sg</a>
 </p>
 <p></p>
@@ -69,7 +69,6 @@ third_nav_title: Staff
 <p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Ms Adeline Yan</p>
 <p><a href="mailto:yan_peiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yan_peiyun@moe.edu.sg</a>
 </p>
@@ -84,12 +83,12 @@ third_nav_title: Staff
 <p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Rashidah</p>
+<p>Mdm Nur Rashidah</p>
 <p><a href="mailto:nur_rashidah_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_rashidah_abdullah@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ang Zi Jie</p>
-<p><a href="mailto:Ang_Zi_Jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ang_Zi_Jie@moe.edu.sg</a>
+<p>Mr Ang Zi Jie</p>
+<p><a href="mailto:Ang_Zi_Jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_zi_jie@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -108,7 +107,7 @@ third_nav_title: Staff
 </p>
 <p></p>
 <p>Ms Brenda ONg</p>
-<p><a href="mailto:Ong_Shi_Min_Brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shi_min_Brenda@moe.edu.sg</a>
+<p><a href="mailto:Ong_Shi_Min_Brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shi_min_brenda@moe.edu.sg</a>
 </p>
 </td>
 </tr>
