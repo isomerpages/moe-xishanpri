@@ -75,7 +75,7 @@ variant: tiptap
 <p>Senior Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loke_peng_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_peng_kuan@moe.edu.sg</a> 
+<p><a href="mailto:loke_peng_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_peng_kuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
