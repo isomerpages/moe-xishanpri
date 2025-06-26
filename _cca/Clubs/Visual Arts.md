@@ -5,4 +5,60 @@ description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
-<h1><strong>Visual Arts</strong></h1><h3>Teachers-in-charge:</h3><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Name of Teacher</strong></p></td><td rowspan="1" colspan="1"><p><strong>Email Address</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Fadzlina Bte Malik</p></td><td rowspan="1" colspan="1"><p><a href="mailto:fadzlina_malik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fadzlina_malik@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Cheng Pei Fern Jolene</p></td><td rowspan="1" colspan="1"><p><a href="mailto:cheng_pei_fern_jolene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_pei_fern_jolene@moe.edu.sg</a> &nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Quraisyah Fisall</p></td><td rowspan="1" colspan="1"><p><a href="mailto:nur_quraisyah_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_quraisyah_fisall@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Ang Zi Jie</p></td><td rowspan="1" colspan="1"><p><a href="mailto:ang_zi_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_zi_jie@moe.edu.sg</a></p></td></tr></tbody></table><p></p><h3>2024 Semester 1 CCA Schedule</h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Visual_Art.jpg"></div><p></p>
+<h1><strong>Visual Arts</strong></h1>
+<h3>Teachers-in-charge:</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Fadzlina Bte Malik</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fadzlina_malik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fadzlina_malik@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cheng Pei Fern Jolene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheng_pei_fern_jolene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_pei_fern_jolene@moe.edu.sg</a> &nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Quraisyah Fisall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_quraisyah_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_quraisyah_fisall@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Zi Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_zi_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_zi_jie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
