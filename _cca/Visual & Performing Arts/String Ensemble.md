@@ -5,4 +5,71 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
-<h1><strong>String Ensemble</strong></h1><h3>Teachers-in-charge:</h3><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Name of Teacher</strong></p></td><td rowspan="1" colspan="1"><p><strong>Email Address</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Mandy Lau (Advisor)</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">lau_tyng_tyng_mandy@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Liu Zengjiao</p></td><td rowspan="1" colspan="1"><p><a href="mailto:liu_zengjiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_zengjiao@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Chan Zhaoli</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">chan_zhaoli@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Bakti</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_bakti_ridhwan_mohd@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Khoo-Chew Liang Liang</p></td><td rowspan="1" colspan="1"><p><a href="mailto:khoo-chew_liang_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo-chew_liang_liang@moe.edu.sg</a></p></td></tr></tbody></table><h4><strong>2024 Semester 1 CCA Schedule (P3)</strong></h4><p>&nbsp;</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/String_P3.jpg"></div><h4><strong>2024 Semester 1 CCA Schedule (P4-P6)</strong></h4><p>&nbsp;</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/String_P4_to_P6_3.jpg"></div><h3>Singapore Youth Festival Art Presentation 2022</h3><p>After months of hard work put in by the students, teachers and instructor, our String Ensemble participated in their 1st SYF at SOTA! The team did very well and we are very proud of them!</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SESYF2.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SESYF1.jpg"></div><p></p>
+<h1><strong>String Ensemble</strong></h1>
+<h3>Teachers-in-charge:</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Mandy Lau (Advisor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">lau_tyng_tyng_mandy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Liu Zengjiao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liu_zengjiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_zengjiao@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Zhaoli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chan_zhaoli@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Khoo-Chew Liang Liang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khoo-chew_liang_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo-chew_liang_liang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3>Singapore Youth Festival Art Presentation 2022</h3>
+<p>After months of hard work put in by the students, teachers and instructor,
+our String Ensemble participated in their 1st SYF at SOTA! The team did
+very well and we are very proud of them!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SESYF2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SESYF1.jpg">
+</div>
+<p></p>
