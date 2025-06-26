@@ -11,16 +11,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Dance_Teachers_in_Charge.jpg">
 </div>
-<h3>Chinese Dance CCA Term 2 (P3)</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Dance_CCA_Term_2__P3_.jpg">
-</div>
-<h3>Chinese Dance CCA Term 2 (P4 - P6)</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Dance_CCA_Term_2__P4_6_.jpg">
-</div>
 <p></p>
-<p>### XPS Chinese Dance @ Kampung Admiratly HDB Community Week</p>
+<p>XPS Chinese Dance @ Kampung Admiratly HDB Community Week</p>
 <p>Xishanites proudly presented our Chinese Dance while celebrating Life
 In the Heartlands during the HDB Community Week</p>
 <div class="isomer-image-wrapper">
