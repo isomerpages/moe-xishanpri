@@ -5,4 +5,52 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
-<h1><strong>Basketball</strong></h1><h3>Teachers-in-charge:</h3><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Name of Teacher</strong></p></td><td rowspan="1" colspan="1"><p><strong>Email Address</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Soh Hui Min</p></td><td rowspan="1" colspan="1"><p><a href="mailto:soh_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_hui_min@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Magdalene Khoo Lyn Wen</p></td><td rowspan="1" colspan="1"><p><a href="mailto:magdalene%20_khoo_lyn_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magdalene _khoo_lyn_wen@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Joseph Loke Peng Kuan &nbsp;</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">loke_peng_kuan@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Wu Peishan Alison</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">alison_wu@moe.edu.sg</a></p></td></tr></tbody></table><h4><strong>2024 Semester 1 CCA Schedule</strong></h4><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball.jpg"></div><p></p>
+<h1><strong>Basketball</strong></h1>
+<h3>Teachers-in-charge:</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Soh Hui Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_hui_min@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Magdalene Khoo Lyn Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:magdalene%20_khoo_lyn_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magdalene _khoo_lyn_wen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Joseph Loke Peng Kuan &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">loke_peng_kuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<p></p>
