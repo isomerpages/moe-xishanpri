@@ -43,15 +43,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Madam Angela</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:umapathy_kanitha_angela_sibayan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">umapathy_kanitha_angela_sibayan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Natasha Lin Kleinman</p>
 </td>
 <td rowspan="1" colspan="1">
