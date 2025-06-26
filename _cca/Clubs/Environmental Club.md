@@ -33,14 +33,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Saedah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>saedah_mohamed_hussien@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Seow</p>
 </td>
 <td rowspan="1" colspan="1">
