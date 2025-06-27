@@ -46,7 +46,8 @@ variant: tiptap
 <p>Ms Nur Shahidah Bte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_shahidah_ismail@moe.edu.sg</p>
+<p><a href="mailto:nur_shahidah_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shahidah_ismail@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
