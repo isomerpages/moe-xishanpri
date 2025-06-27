@@ -19,13 +19,21 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Email Address</strong>
+<p><strong>Email Addressing</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Liz Selamat</p>
+<p>Nisha Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Liz Alfreda Selamat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liz_alfreda_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liz_alfreda_selamat@moe.edu.sg</a>
@@ -47,6 +55,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">dayna_wang_xiao_dan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Hwee Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">yeo.hwee.leng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
