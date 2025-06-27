@@ -28,7 +28,8 @@ variant: tiptap
 <p>Nisha Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nisha_keshyiap_ram_putre@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nisha_keshyiap_ram_putre@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +55,7 @@ variant: tiptap
 <p>Ms Dayna Wang Xiao Dan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">dayna_wang_xiao_dan@schools.gov.sg</a>
+<p><a href="mailto:dayna_wang_xiao_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dayna_wang_xiao_dan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -63,7 +64,7 @@ variant: tiptap
 <p>Ms Yeo Hwee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yeo.hwee.leng@schools.gov.sg</a>
+<p><a href="mailto:yeo_hwee_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_hwee_leng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
