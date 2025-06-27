@@ -34,19 +34,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Gary Song</p>
+<p>Balakrishnan Vijayasarawathi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gary_song@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gary_song@moe.edu.sg</a>
+<p><a href="mailto:Balakrishnan_Vijayasaraswathi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Balakrishnan_Vijayasaraswathi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rashidah</p>
+<p>Amanda Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_rashidah_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_rashidah_abdullah@moe.edu.sg</a>
+<p><a href="mailto:amanda_wee_sze_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">amanda_wee_sze_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
