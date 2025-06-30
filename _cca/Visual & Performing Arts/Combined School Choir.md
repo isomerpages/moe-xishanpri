@@ -29,7 +29,7 @@ third_nav_title: Visual & Performing Arts
 <p>Ms Yvonne Lin (HOD PE/CCA) - internal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lin_cuiwen_yvonne@moe.edu.sg</a>
+<p><a href="mailto:lin_cuiwen_yvonne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_cuiwen_yvonne@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -38,16 +38,27 @@ third_nav_title: Visual & Performing Arts
 <p>Mr Chan Zhaoli (Teacher I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_zhaoli@moe.edu.sg</a>
+<p><a href="mailto:chan_zhaoli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_zhaoli@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Xie Yuan</p>
+<p>Ms Fadzlina Binte Malik</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:fadzlina_malik@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fadzlina_malik@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS Xie Yuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Xie_Yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Xie_Yuan</a>
+<a href="mailto:Xie_Yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
