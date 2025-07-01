@@ -185,8 +185,8 @@ variant: tiptap
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P1_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW </a>
-<a href="/files/2025_CCE_SOW_P1_T3_For_School_Website.pdf" rel="noopener nofollow" target="_blank">P1 T3</a>
+<p><a href="/files/2025_CCE_SOW_P1_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SO</a>
+<a href="/files/2025_CCE_SOW_P1_T3_For_School_Website.pdf" rel="noopener nofollow" target="_blank">W P1 T3</a>
 </p>
 </td>
 </tr>
@@ -204,7 +204,8 @@ variant: tiptap
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P1_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P3 T3</a>
+<p><a href="/files/2025_CCE_SOW_P1_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE </a>
+<a href="/files/2025_CCE_SOW_P3_T3_For_School_Website.pdf" rel="noopener nofollow" target="_blank">SOW P3 T3</a>
 </p>
 </td>
 </tr>
@@ -213,7 +214,8 @@ variant: tiptap
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P1_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P4 T3</a>
+<p><a href="/files/2025_CCE_SOW_P1_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P</a>
+<a href="/files/2025_CCE_SOW_P4_T3_For_School_Website.pdf" rel="noopener nofollow" target="_blank">4 T3</a>
 </p>
 </td>
 </tr>
