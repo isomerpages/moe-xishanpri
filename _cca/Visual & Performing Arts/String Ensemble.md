@@ -25,15 +25,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mandy Lau (Advisor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lau_tyng_tyng_mandy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Liu Zengjiao</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,10 +34,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Zhaoli</p>
+<p>Ms Koh Han Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_zhaoli@moe.edu.sg</a>
+<p><a href="mailto:han_yan_koh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_yan_koh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
