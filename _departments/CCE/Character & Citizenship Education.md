@@ -186,7 +186,7 @@ variant: tiptap
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P1_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P2 T3</a>
+<p><a href="/files/2025_CCE_SOW_P2_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P2 T3</a>
 </p>
 </td>
 </tr>
