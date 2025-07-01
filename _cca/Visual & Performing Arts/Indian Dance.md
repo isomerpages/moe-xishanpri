@@ -34,10 +34,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kanmani</p>
+<p>Ms Tan Hong Kai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:p_v_kanmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">p_v_kanmani@moe.edu.sg</a>
+<p><a href="mailto:Tan_Hong_Kai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Hong_Kai</a>
+<a href="mailtoTan_Hong_Kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
 </p>
 </td>
 </tr>
