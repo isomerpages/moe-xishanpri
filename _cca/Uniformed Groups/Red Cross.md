@@ -34,24 +34,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Heng Xin Yi Ivy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:heng_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_xin_yi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Juwita Binte Mohamad Salleh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:juwita_mohamad_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juwita_mohamad_salleh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Chia Pei Ying Hazel</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,10 +43,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Harish Gopinadhan Pillai</p>
+<p>Ms Christine Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:harish_gopinadhan_pillai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">harish_gopinadhan_pillai@moe.edu.sg</a>
+<p><a href="mailto:Ong_Guat_Yeng_Christine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_Guat_Yeng_Christine</a>
+<a href="mailto:Ong_Guat_Yeng_Christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
 </p>
 </td>
 </tr>
