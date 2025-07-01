@@ -26,15 +26,6 @@ third_nav_title: Visual & Performing Arts
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yvonne Lin (HOD PE/CCA) - internal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lin_cuiwen_yvonne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_cuiwen_yvonne@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Chan Zhaoli (Teacher I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
