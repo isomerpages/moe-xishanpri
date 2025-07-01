@@ -34,15 +34,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Azarina Khamis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_azarina_khamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azarina_khamis@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Jin Jing</p>
 </td>
 <td rowspan="1" colspan="1">
