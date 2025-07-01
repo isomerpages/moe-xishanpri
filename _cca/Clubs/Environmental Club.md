@@ -28,7 +28,8 @@ variant: tiptap
 <p>Ms Liana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Karliana_ahmad@moe.edu.sg</p>
+<p><a href="mailto:karliana_ahmad@moe.edu.sg" rel="noopener nofollow" target="_blank">karliana_ahmad@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +37,8 @@ variant: tiptap
 <p>Ms Seow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>seow_qi_en@moe.edu.sg</p>
+<p><a href="mailto:seow_qi_en@moe.edu.sg" rel="noopener nofollow" target="_blank">seow_qi_en@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -44,15 +46,17 @@ variant: tiptap
 <p>Ms Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_yu_xin@moe.edu.sg</p>
+<p><a href="mailto:lee_yu_xin@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_yu_xin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Vijaya</p>
+<p>Ms Brenda Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>balakrishnan_vijayasaraswathi@moe.edu.sg</p>
+<p><a href="mailto:tan_geok_hong_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_geok_hong_brenda@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
