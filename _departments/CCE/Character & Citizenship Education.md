@@ -173,19 +173,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Term 3</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 CCE SOW P1<a href="/files/2025_CCE_SOW_P1_T3_For_School_Website.pdf" rel="noopener nofollow" target="_blank">file</a> T3</p>
+<p><a href="" rel="noopener nofollow" target="_blank">2205 CCE SOW P1 T3</a>
+</p>
 </td>
 </tr>
 <tr>
