@@ -39,6 +39,15 @@ third_nav_title: Clubs
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Eileen Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Eileen_TAN@moe.edu.sg" rel="noopener nofollow" target="_blank">Eileen_TAN@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
