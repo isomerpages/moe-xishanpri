@@ -36,7 +36,7 @@ variant: tiptap
 <p>Ms Nur Shafiqah Binte Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nur_Shafiqah_Abdul_Aziz@schools.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Shafiqah_Abdul_Aziz@moe.edu.sg</a>
+<p><a href="mailto:Nur_Shafiqah_Abdul_Aziz@schools.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shafiqah_abdul_aziz@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ variant: tiptap
 <p>Ms Eugenia Aw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Aw_Rui_Shan_Eugenia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Aw_Rui_Shan_Eugenia@moe.edu.sg</a>
+<p><a href="mailto:Aw_Rui_Shan_Eugenia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aw_rui_shan_eugenia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
