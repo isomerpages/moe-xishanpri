@@ -26,7 +26,7 @@ variant: tiptap
 <p>Ms Natalie Lam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lam_Lai_Fong_Natalie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lam_Lai_Fong_Natalie@moe.edu.sg</a>
+<p><a href="mailto:Lam_Lai_Fong_Natalie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lam_lai_fong_natalie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -50,19 +50,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nisha Ling</p>
+<p>Ms Natalie Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nisha_keshyiap_ram_putre@moe.edu.sg" rel="noopener nofollow" target="_blank">nisha_keshyiap_ram_putre@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Koh Han Yan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_han_yan@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_han_yan@moe.edu.sg</a>
+<p><a href="mailto:teng_sing_kwan@moe.edu.sg" rel="noopener nofollow" target="_blank">teng_sing_kwan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
