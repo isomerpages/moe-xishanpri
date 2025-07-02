@@ -60,7 +60,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p>XPS Chinese Dance @ Kampung Admiratly HDB Community Week</p>
+<p>XPS Chinese Dance @ Kampung Admiralty HDB Community Week</p>
 <p>Xishanites proudly presented our Chinese Dance while celebrating Life
 In the Heartlands during the HDB Community Week</p>
 <div class="isomer-image-wrapper">
