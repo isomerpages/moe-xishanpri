@@ -56,8 +56,7 @@ variant: tiptap
 <p>Mr Jude Anthony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Jude_Anthony_Roland@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jude_Anthony_Roland</a>
-<a href="mailto:Jude_Anthony_Roland@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:Jude_Anthony_Roland@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jude_Anthony_Roland@moe.edu.sg</a>
 </p>
 </td>
 </tr>
