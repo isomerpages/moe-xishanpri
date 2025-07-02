@@ -57,7 +57,7 @@ technology</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Heng Xin Yi ( HOD / ICT Int )</p>
+<p>Ms Heng Xin Yi ( HOD / ICT)</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ technology</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jin Jing ( LH / EdTech Int )</p>
+<p>Ms Jin Jing ( LH / EdTech)</p>
 </td>
 </tr>
 <tr>
@@ -186,6 +186,14 @@ technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chan Zhaoli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Karliana Ahmad</p>
 </td>
 </tr>
 </tbody>
