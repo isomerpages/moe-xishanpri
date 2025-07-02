@@ -61,7 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Brenda Ong</p>
+<p>Ms Brenda Ong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Ong_Shi_Min_Brenda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_Shi_Min_Brenda@moe.edu.sg</a>
@@ -73,7 +73,8 @@ variant: tiptap
 <p>Ms Kokoro Choda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Kokoro_Choda@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
