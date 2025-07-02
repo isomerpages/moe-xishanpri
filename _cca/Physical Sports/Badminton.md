@@ -28,7 +28,7 @@ variant: tiptap
 <p>Ms Goh Xin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">goh_xin_yi@moe.edu.sg</a>
+<p><a href="mailto: goh_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_xin_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -46,7 +46,7 @@ variant: tiptap
 <p>Mdm Siti Sarah Bte Sokran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_sarah_sokran@moe.edu.sg</a>
+<p><a href="mailto: siti_sarah_sokran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_sarah_sokran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
