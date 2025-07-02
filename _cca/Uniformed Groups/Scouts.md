@@ -25,10 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Mei Li</p>
+<p>Kum Chee Fai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_mei_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_mei_li@schools.gov.sg</a>
+<p><a href="mailto:kum_chee_fai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kum_chee_fai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -37,16 +37,16 @@ variant: tiptap
 <p>Ms Tan Li Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_li_ting_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_ting_a@schools.gov.sg</a>
+<p><a href="mailto:tan_li_ting_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_ting_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nat Teng</p>
+<p>Mr Ang Zi Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teng_sing_kwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_sing_kwan@moe.edu.sg</a>
+<p><a href="mailto:ang_zi_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_zi_jie@moe.edu.sg</a>
 </p>
 </td>
 </tr>

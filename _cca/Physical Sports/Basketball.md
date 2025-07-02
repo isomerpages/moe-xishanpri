@@ -34,19 +34,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Magdalene Khoo Lyn Wen</p>
+<p>Ms P V Kanmani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:magdalene%20_khoo_lyn_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magdalene _khoo_lyn_wen@moe.edu.sg</a>
+<p><a href="mailto:p_v_kanmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">p_v_kanmani@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Joseph Loke Peng Kuan &nbsp;</p>
+<p>Ms Magdalene Khoo Lyn Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">loke_peng_kuan@moe.edu.sg</a>
+<p><a href="mailto:magdalene_khoo_lyn_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magdalene _khoo_lyn_wen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Rashidah Abdullah&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_rashidah_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_rashidah_abdullah@moe.edu.sg</a>
 </p>
 </td>
 </tr>

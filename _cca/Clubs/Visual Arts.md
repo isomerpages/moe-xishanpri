@@ -25,19 +25,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fadzlina Bte Malik</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fadzlina_malik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fadzlina_malik@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Cheng Pei Fern Jolene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheng_pei_fern_jolene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_pei_fern_jolene@moe.edu.sg</a> &nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Shafiqah Binte Abdul Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nur_Shafiqah_Abdul_Aziz@schools.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shafiqah_abdul_aziz@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -51,10 +51,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Zi Jie</p>
+<p>Ms Eugenia Aw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_zi_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_zi_jie@moe.edu.sg</a>
+<p><a href="mailto:Aw_Rui_Shan_Eugenia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aw_rui_shan_eugenia@moe.edu.sg</a>
 </p>
 </td>
 </tr>

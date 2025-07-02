@@ -34,10 +34,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Lin San</p>
+<p>Mdm Gong Yaqin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lin_san@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lin_san@moe.edu.sg</a>
+<p><a href="mailto:gong_yaqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gong_yaqin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -47,15 +47,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_woan_shya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_woan_shya@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Chiu Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chiu_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chiu_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>

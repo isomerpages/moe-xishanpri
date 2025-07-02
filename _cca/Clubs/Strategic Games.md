@@ -32,10 +32,19 @@ third_nav_title: Clubs
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Anand</p>
+<p>Mr Anand Kumar Manivanan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:anand_kumar_manivanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anand_kumar_manivanan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Eileen Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Eileen_TAN@moe.edu.sg" rel="noopener nofollow" target="_blank">eileen_tan@moe.edu.sg</a>
 </p>
 </td>
 </tr>

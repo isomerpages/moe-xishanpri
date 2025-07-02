@@ -28,25 +28,16 @@ variant: tiptap
 <p>Ms Goh Xin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">goh_xin_yi@moe.edu.sg</a>
+<p><a href="mailto: goh_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_xin_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Maria Humairah</p>
+<p>Ms Nur Shahidah Bte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">maria_humairah_roslan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Gong Ya Qin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">gong_ya_qin@moe.edu.sg</a>
+<p><a href="mailto:nur_shahidah_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shahidah_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -55,7 +46,7 @@ variant: tiptap
 <p>Mdm Siti Sarah Bte Sokran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_sarah_sokran@moe.edu.sg</a>
+<p><a href="mailto: siti_sarah_sokran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_sarah_sokran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
