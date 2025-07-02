@@ -47,7 +47,7 @@ third_nav_title: Visual & Performing Arts
 <p>MS Xie Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Xie_Yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Xie_Yuan</a>
+<p><a href="mailto:Xie_Yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xie_yuan</a>
 <a href="mailto:Xie_Yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
 </p>
 </td>
