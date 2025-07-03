@@ -25,7 +25,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fschools.gov.sg%2fowa" rel="noopener noreferrer nofollow" target="_blank">CES Mailbox (via VPN)</a>
+<p><a href="https://outlook.office365.com/owa/schools.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">CES Mailbox (via VPN)</a>
 </p>
 </td>
 </tr>
