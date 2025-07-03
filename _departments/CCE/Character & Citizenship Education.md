@@ -19,7 +19,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/education%20and%20career%20advising%20resources%20(for%20parents).jpg">
 </div>
-<h2>2024 Lesson Units in CCE</h2>
+<h2>2025 Lesson Units in CCE</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
