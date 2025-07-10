@@ -49,15 +49,7 @@ of Total Defence and how they can play a part in each aspect.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Caption: 2024 Food Disruption – No Meat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -65,4 +57,24 @@ of Total Defence and how they can play a part in each aspect.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><strong>International Friendship Day (IFD) <br></strong>Term 2 3rd Friday</p>
+<p>The theme for 2025 to 2027 is “Singapore: Forging Friendships in a Complex
+World.”.</p>
+<p>It is a day dedicated to the understanding of Singapore's relations with
+neighbouring countries and beyond. IFD is a good opportunity for students
+in primary school to:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be acquainted with the diverse and
+colourful culture and traditions of the region and the lives of their peers
+in other ASEAN Member-States,</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; nurture in our students the spirit
+of friendship and collaboration among different peoples in ASEAN and beyond
+and</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; keep an open mindset and express
+an appreciation of the contributions of foreigners living, working and
+studying in Singapore.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Caption: 2024 International Friendship Day" src="/images/5cb33a6c_b93d_42cf_a434_eb5c46e85162.jpg">
+</div>
 <p></p>
