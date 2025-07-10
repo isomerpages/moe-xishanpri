@@ -77,4 +77,18 @@ studying in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Caption: 2024 International Friendship Day" src="/images/5cb33a6c_b93d_42cf_a434_eb5c46e85162.jpg">
 </div>
+<p>Caption: 2024 International Friendship Day&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p><strong>Racial Harmony Day<br></strong>Term 3 21 July</p>
+<p>The theme for 2025 to 2027 is “Our People, Our Tapestry”.</p>
+<p>21 July marks the anniversary of the 1964 race riots. On this day, students
+reflect on and celebrate Singapore as a harmonious society built on a rich
+diversity of cultures and the collaborative effort of all to promote social
+cohesion. RHD is a good opportunity for students in primary school to:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; make friends with people of other
+races and religions,</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; learn that in Singapore, people
+are treated equally regardless of their race and religion, and</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; appreciate the different cultures
+that make up Singapore.</p>
 <p></p>
