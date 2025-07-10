@@ -42,7 +42,7 @@ description: ""
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist_2025_Xishan_P2_7_July.pdf" rel="noopener nofollow" target="_blank">p2 booklist</a>
+<p><a href="https://go.gov.sg/xishanbooklistp2" rel="noopener nofollow" target="_blank">P2 Booklist</a>
 </p>
 </td>
 </tr>
