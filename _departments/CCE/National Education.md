@@ -43,7 +43,7 @@ of Total Defence and how they can play a part in each aspect.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NE_2.jpg">
 </div>
 </th>
 </tr>
