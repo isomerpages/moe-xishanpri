@@ -42,7 +42,7 @@ description: ""
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/sites/moe-xishanpri/media/files/mediaDirectory/files/Booklist_2025_Xishan_P2_7_July" rel="noopener nofollow" target="_blank">P2 Booklist</a>
+<p><a href="/files/Booklist_2025_Xishan_P2_7_July.pdf" rel="noopener nofollow" target="_blank">P2 Booklist</a>
 </p>
 </td>
 </tr>
