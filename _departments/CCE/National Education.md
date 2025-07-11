@@ -66,3 +66,78 @@ are treated equally regardless of their race and religion, and</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; appreciate the different cultures
 that make up Singapore.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024 Racial Harmony Day Assembly Skit by Drama Club" src="/images/Picture10__rational_harmony_.jpg">
+</div>
+<p>2024 Racial Harmony Day Assembly Skit by Drama Club</p>
+<p></p>
+<p><strong>National Day Commemoration in School <br></strong>Term 3 Last
+school day before 9 August</p>
+<p>The theme for 2025 is “Majulah Singapura”.
+<br>It calls upon Singaporeans to look forward confidently and move onward
+together in building our shared future as one united people.</p>
+<p>National Day marks our separation from Malaysia in 1965, and our emergence
+as an independent country in a community of nations.</p>
+<p>The school-based commemoration brings to students a sense of the historical
+importance and solemnity of National Day. There will be an observance ceremony
+and a celebrations segment that reflects the National Day theme.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024 Observance Ceremony" src="/images/IMG_20240808_WA0004__2024_Observance_Ceremony__.jpg">
+</div>
+<p>2024 Observance Ceremony</p>
+<p><strong>National Education (NE) and Social Studies Programmes</strong>
+</p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp; Primary 5 NE Show</strong>
+</p>
+<p>As part of our commitment to nurturing active and proud citizens, our
+Primary 5 students attend the National Education (NE) Show — a special
+preview of the National Day Parade held at the Padang.</p>
+<p>This meaningful experience allows our students to:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appreciate the significance of National
+Day and Singapore’s journey as a nation</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience the pride and unity that
+come from being part of a larger national celebration</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reflect on their identity as Singaporeans
+and the values that unite us as one people</p>
+<p>The NE Show serves as a powerful platform to ignite a sense of belonging
+and national pride in our students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024 NE Show" src="/images/Picture4__2024_NE_Show_.jpg">
+</div>
+<p>2024 NE Show</p>
+<p></p>
+<p><strong>2.&nbsp;&nbsp;&nbsp; NE Integration Programme for ISPR</strong>
+</p>
+<p>This programme is designed to support our <strong>International Students (IS)</strong> and <strong>Singapore Permanent Residents (PR)</strong> in
+developing a deeper understanding of Singapore’s rich cultural heritage
+and national values.</p>
+<p>Through specially curated experiences, the programme aims to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Introduce students to <strong>Singapore’s diverse cultures</strong>
+</p>
+</li>
+<li>
+<p>Foster a sense of <strong>belonging and rootedness</strong> in Singapore</p>
+</li>
+<li>
+<p>Encourage the building of <strong>friendships and mutual respect</strong> among
+students of different backgrounds</p>
+</li>
+</ul>
+<p>By promoting inclusion and cultural appreciation, this programme nurtures
+stronger emotional connections and a greater sense of national identity
+in our IS/PR students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Diverse cultures in singapore" src="/images/cultural_programme.png">
+</div>
+<p>Deepening understanding of the diverse cultures in Singapore through hands-on
+activities with Malay kompangs, Chinese drums and Indian dhols in 2024.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
