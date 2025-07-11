@@ -16,9 +16,9 @@ playing a contributory role in their families, school, and immediate communities
 <p>&nbsp;<strong><u>NE Commemorative Events</u></strong>
 </p>
 <p><strong>Total Defence Day (TDD) <br></strong>Term 1 15 February</p>
-<p>The theme for 2025 is “Together We Keep Singapore Strong”.</p>
-<p>15 February marks the fall of Singapore to the Japanese in 1942. In commemorating
-TDD, our students reflect on the importance of Total Defence as Singapore's
+<p>The theme for 2025 is “Together We Keep Singapore Strong”. 15 February
+marks the fall of Singapore to the Japanese in 1942. In commemorating TDD,
+our students reflect on the importance of Total Defence as Singapore's
 best all-round response to threats and challenges that confront Singapore
 (e.g. terrorism, pandemics, cyber-attacks, influence campaigns or economic
 crises). Students also reflect on the continuing relevance of the six pillars
@@ -28,13 +28,12 @@ message of every Singaporean standing together, each playing our part to
 protect Singapore and our shared way of life.</p>
 <p>TDD is a good opportunity for students in primary school to know the aspects
 of Total Defence and how they can play a part in each aspect.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="2024 Food Disruption / Water Disruption" src="/images/food_and_water_disruption_2024.png">
 </div>
 <p><strong>International Friendship Day (IFD) <br></strong>Term 2 3rd Friday</p>
 <p>The theme for 2025 to 2027 is “Singapore: Forging Friendships in a Complex
-World.”.</p>
+World".</p>
 <p>It is a day dedicated to the understanding of Singapore's relations with
 neighbouring countries and beyond. IFD is a good opportunity for students
 in primary school to:</p>
@@ -47,7 +46,6 @@ and</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; keep an open mindset and express
 an appreciation of the contributions of foreigners living, working and
 studying in Singapore.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Caption: 2024 International Friendship Day" src="/images/5cb33a6c_b93d_42cf_a434_eb5c46e85162.jpg">
 </div>
@@ -59,12 +57,18 @@ studying in Singapore.</p>
 reflect on and celebrate Singapore as a harmonious society built on a rich
 diversity of cultures and the collaborative effort of all to promote social
 cohesion. RHD is a good opportunity for students in primary school to:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; make friends with people of other
-races and religions,</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; learn that in Singapore, people
-are treated equally regardless of their race and religion, and</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; appreciate the different cultures
-that make up Singapore.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>make friends with people of other races and religions,</p>
+</li>
+<li>
+<p>learn that in Singapore, people are treated equally regardless of their
+race and religion, and</p>
+</li>
+<li>
+<p>appreciate the different cultures that make up Singapore.</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024 Racial Harmony Day Assembly Skit by Drama Club" src="/images/Picture10__rational_harmony_.jpg">
@@ -94,15 +98,23 @@ and a celebrations segment that reflects the National Day theme.</p>
 Primary 5 students attend the National Education (NE) Show — a special
 preview of the National Day Parade held at the Padang.</p>
 <p>This meaningful experience allows our students to:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appreciate the significance of National
-Day and Singapore’s journey as a nation</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience the pride and unity that
-come from being part of a larger national celebration</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reflect on their identity as Singaporeans
-and the values that unite us as one people</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Appreciate the significance of National Day and Singapore’s journey as
+a nation</p>
+</li>
+<li>
+<p>Experience the pride and unity that come from being part of a larger national
+celebration</p>
+</li>
+<li>
+<p>Reflect on their identity as Singaporeans and the values that unite us
+as one people</p>
+<p></p>
+</li>
+</ul>
 <p>The NE Show serves as a powerful platform to ignite a sense of belonging
 and national pride in our students.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024 NE Show" src="/images/Picture4__2024_NE_Show_.jpg">
 </div>
@@ -132,7 +144,7 @@ stronger emotional connections and a greater sense of national identity
 in our IS/PR students.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Diverse cultures in singapore" src="/images/cultural_programme.png">
+<img style="width: 100%" height="auto" width="100%" alt="Cultural programme" src="/images/cultural_programme1.png">
 </div>
 <p>Deepening understanding of the diverse cultures in Singapore through hands-on
 activities with Malay kompangs, Chinese drums and Indian dhols in 2024.</p>
