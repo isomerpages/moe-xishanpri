@@ -37,15 +37,20 @@ World".</p>
 <p>It is a day dedicated to the understanding of Singapore's relations with
 neighbouring countries and beyond. IFD is a good opportunity for students
 in primary school to:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be acquainted with the diverse and
-colourful culture and traditions of the region and the lives of their peers
-in other ASEAN Member-States,</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; nurture in our students the spirit
-of friendship and collaboration among different peoples in ASEAN and beyond
-and</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; keep an open mindset and express
-an appreciation of the contributions of foreigners living, working and
-studying in Singapore.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>be acquainted with the diverse and colourful culture and traditions of
+the region and the lives of their peers in other ASEAN Member-States,</p>
+</li>
+<li>
+<p>nurture in our students the spirit of friendship and collaboration among
+different peoples in ASEAN and beyond</p>
+</li>
+<li>
+<p>keep an open mindset and express an appreciation of the contributions
+of foreigners living, working and studying in Singapore.</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Caption: 2024 International Friendship Day" src="/images/5cb33a6c_b93d_42cf_a434_eb5c46e85162.jpg">
 </div>
@@ -59,14 +64,14 @@ diversity of cultures and the collaborative effort of all to promote social
 cohesion. RHD is a good opportunity for students in primary school to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>make friends with people of other races and religions,</p>
+<p>make friends with people of other races and religions</p>
 </li>
 <li>
 <p>learn that in Singapore, people are treated equally regardless of their
-race and religion, and</p>
+race and religion</p>
 </li>
 <li>
-<p>appreciate the different cultures that make up Singapore.</p>
+<p>appreciate the different cultures that make up Singapore</p>
 </li>
 </ul>
 <p></p>
