@@ -36,13 +36,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/xishan-booklist2025p2" rel="noopener noreferrer nofollow" target="_blank">P2 Booklist</a>
+<p><a href="https://go.gov.sg/xishanbooklistp2" rel="noopener nofollow" target="_blank">P2 Booklist</a>
 </p>
 </td>
 </tr>
