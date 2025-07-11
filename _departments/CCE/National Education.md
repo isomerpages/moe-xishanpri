@@ -185,6 +185,13 @@ and the world around them</p>
 the <strong>Character and Citizenship Education (CCE) Curriculum</strong>.
 Through these experiences, students not only gain knowledge but also develop
 a stronger sense of national identity and rootedness.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Field Base Learning" src="/images/field_base_learning.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
