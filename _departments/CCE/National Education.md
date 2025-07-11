@@ -44,7 +44,7 @@ the region and the lives of their peers in other ASEAN Member-States,</p>
 </li>
 <li>
 <p>nurture in our students the spirit of friendship and collaboration among
-different peoples in ASEAN and beyond</p>
+different peoples in ASEAN and beyond and</p>
 </li>
 <li>
 <p>keep an open mindset and express an appreciation of the contributions
@@ -78,7 +78,7 @@ race and religion</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024 Racial Harmony Day Assembly Skit by Drama Club" src="/images/Picture10__rational_harmony_.jpg">
 </div>
-<p>2024 Racial Harmony Day Assembly Skit by Drama Club</p>
+<p>Caption: 2024 Racial Harmony Day Assembly Skit by Drama Club</p>
 <p></p>
 <p><strong>National Day Commemoration in School <br></strong>Term 3 Last
 school day before 9 August</p>
@@ -115,7 +115,6 @@ celebration</p>
 <li>
 <p>Reflect on their identity as Singaporeans and the values that unite us
 as one people</p>
-<p></p>
 </li>
 </ul>
 <p>The NE Show serves as a powerful platform to ignite a sense of belonging
@@ -123,7 +122,7 @@ and national pride in our students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024 NE Show" src="/images/Picture4__2024_NE_Show_.jpg">
 </div>
-<p>2024 NE Show</p>
+<p>Caption: 2024 NE Show</p>
 <p></p>
 <p><strong>2.&nbsp;&nbsp;&nbsp; NE Integration Programme for ISPR</strong>
 </p>
@@ -151,8 +150,9 @@ in our IS/PR students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cultural programme" src="/images/cultural_programme1.png">
 </div>
-<p>Deepening understanding of the diverse cultures in Singapore through hands-on
-activities with Malay kompangs, Chinese drums and Indian dhols in 2024.</p>
+<p>Caption: Deepening understanding of the diverse cultures in Singapore
+through hands-on activities with Malay kompangs, Chinese drums and Indian
+dhols in 2024.</p>
 <p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; <strong>Learning at Xishan Heritage Gallery and Heritage Cove</strong>
 </p>
