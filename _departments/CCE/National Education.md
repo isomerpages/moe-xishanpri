@@ -28,36 +28,10 @@ message of every Singaporean standing together, each playing our part to
 protect Singapore and our shared way of life.</p>
 <p>TDD is a good opportunity for students in primary school to know the aspects
 of Total Defence and how they can play a part in each aspect.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024 Food Disruption – No Meat" src="/images/8.png">
+<img style="width: 100%;" height="auto" width="100%" alt="2024 Food Disruption / Water Disruption" src="/images/food_and_water_disruption_2024.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NE_2.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Caption: 2024 Food Disruption – No Meat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p><strong>International Friendship Day (IFD) <br></strong>Term 2 3rd Friday</p>
 <p>The theme for 2025 to 2027 is “Singapore: Forging Friendships in a Complex
 World.”.</p>
