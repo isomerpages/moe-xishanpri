@@ -137,6 +137,61 @@ in our IS/PR students.</p>
 <p>Deepening understanding of the diverse cultures in Singapore through hands-on
 activities with Malay kompangs, Chinese drums and Indian dhols in 2024.</p>
 <p></p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; <strong>Learning at Xishan Heritage Gallery and Heritage Cove</strong>
+</p>
+<p>Xishan Primary unveiled its extended Heritage Gallery (The Heritage Cove)
+on Thursday, 28 July 2022. The launch reception was officiated by our SAC
+Chairperson, Mrs Agnes Sim and members of the SAC.</p>
+<p>The original Heritage Gallery was constructed in 2017 to commemorate the
+school’s 80<sup>th</sup> anniversary. It provides an overview of the school
+history, Singapore’s development over the years and the neighbourhood around
+the school. The heritage gallery was extended and refurbished to showcase
+the school’s and nation’s transformation over the years. The extension
+of the gallery allows us to convert the external area into a space for
+teaching and learning Social Studies and National Education.</p>
+<p>Students get to learn about the national symbols by completing the pencil
+rubbing activities and matching the images to the information about these
+symbols on the floor visuals. The large Singapore map allows students to
+practise their map reading skills as they identify the location of the
+significant places they have read about during Social Studies lessons and
+visited during their FbL. The newly designed feature wall “Our Journey,
+Our Hopes” presents the hopes and wishes that Xishanites have penned for
+their school and nation as well as showcase our journey and our hopes as
+a school and a nation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Heritage Gallery" src="/images/Heritage_gallery.png">
+</div>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp; <strong>Social Studies Field-based Learning (FbL)</strong>
+</p>
+<p>Social Studies Field-based Learning (FbL) experiences are thoughtfully
+curated to provide our students with authentic opportunities to explore
+Singapore’s heritage, environment, and identity.</p>
+<p>These learning journeys:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Engage students in <strong>inquiry-based learning</strong>, where they
+ask questions, observe, and reflect</p>
+</li>
+<li>
+<p>Motivate and sustain interest in Social Studies by connecting lessons
+to real-world experiences</p>
+</li>
+<li>
+<p>Help students make meaningful connections between what they learn in class
+and the world around them</p>
+</li>
+</ul>
+<p>All FbL experiences are part of the <strong>Student Development Experiences (SDEs)</strong> under
+the <strong>Character and Citizenship Education (CCE) Curriculum</strong>.
+Through these experiences, students not only gain knowledge but also develop
+a stronger sense of national identity and rootedness.</p>
+<p>&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
