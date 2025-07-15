@@ -129,3 +129,13 @@ programmes and Co-Curricular Activities) dismissed by 4:30pm</p>
 distance, bus size and number of students. Please also note that the Home-School
 Distance used for the P1 Registration Exercise is not applicable to the
 home-school route distance calculation for the school bus fare.</p>
+<p>Please not that the school bus operator is not obliged to provide transport
+services where the distance between the pick-up and drop-off location is
+more that 4 km from the school, or where your child/ward requires after-school
+drop off for activities ending after-school drop off for activities ending
+after 4:30pm.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
