@@ -124,8 +124,7 @@ programmes and Co-Curricular Activities) dismissed by 4:30pm</p>
 </tr>
 </tbody>
 </table>
-<p>&lt;font color="red"&gt;This is red &lt;/font&gt;</p>
-<p>Above prices under Table A and B are valid till 31 Dec 2025</p>
+<p>Above prices under Table A and B are valid till 31 Dec 2025**</p>
 <p>Please note that the school bus fare is determined by home-school route
 distance, bus size and number of students. Please also note that the Home-School
 Distance used for the P1 Registration Exercise is not applicable to the
