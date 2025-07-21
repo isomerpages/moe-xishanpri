@@ -1,9 +1,9 @@
 ---
 title: School Bus
-permalink: /general-information/Student-Services/permalink/
+permalink: /school-bus1/
+variant: tiptap
 description: ""
 third_nav_title: Student Services
-variant: tiptap
 ---
 <h3>To request for school bus services in 2025, please refer to link for registration:</h3>
 <p><a href="https://forms.gle/SHX8VQe7jbb9NDWF6" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/SHX8VQe7jbb9NDWF6</a>
@@ -124,7 +124,17 @@ programmes and Co-Curricular Activities) dismissed by 4:30pm</p>
 </tr>
 </tbody>
 </table>
+<p>Above prices under Table A and B are valid till 31 Dec 2025.</p>
 <p>Please note that the school bus fare is determined by home-school route
 distance, bus size and number of students. Please also note that the Home-School
 Distance used for the P1 Registration Exercise is not applicable to the
 home-school route distance calculation for the school bus fare.</p>
+<p>Please note that the school bus operator is not obliged to provide transport
+services where the distance between the pick-up and drop-off location is
+more that 4 km from the school, or where your child/ward requires after-school
+drop off for activities ending after-school drop off for activities ending
+after 4:30pm.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
