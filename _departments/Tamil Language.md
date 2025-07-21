@@ -23,56 +23,54 @@ variant: tiptap
 <p>மாணவர்களின் கேட்டல், பேசுதல், படித்தல், எழுதுதல் ஆகிய அடிப்படை மொழித்திறன்களோடு
 இருவழிக் கருத்துப்பரிமாற்றத் திறன்களும் பல்வேறு நடவடிக்கைகளின் மூலம் கற்பிக்கப்படுகின்றன.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pict 3" src="/images/Picture3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 1" src="/images/Fortnight2025_pict_1.gif">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pict 4" src="/images/Picture4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 2" src="/images/Fortnight2025_pict_2.gif">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pict 5" src="/images/Picture5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 3" src="/images/Fortnight2025_pict_3.gif">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pict 6" src="/images/Picture6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 4" src="/images/Fortnight2025_pict_4.gif">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pict 7" src="/images/Picture7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 5" src="/images/Fortnight2025_pict_5.gif">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pict 8" src="/images/Picture8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 6" src="/images/Fortnight2025_pict_6.gif">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 7" src="/images/Fortnight2025_pict_7.gif">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pict 9" src="/images/Picture9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 8" src="/images/Fortnight2025_pict_8.gif">
+</div>
+<p></p>
+<h4><strong>புத்தக வானில் பறப்போம் வாசிப்புத் திட்டம் (P1 &amp; P2)</strong></h4>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Reading program P1 &amp; P2 Pict 1" src="/images/p1p2_pic1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pict 10" src="/images/Picture10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Reading programme P1 &amp; P2 picture 2" src="/images/p1p2_pic2.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pict 11" src="/images/Picture11.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pict 12" src="/images/Picture12.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pict 13" src="/images/Picture13.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pict 14" src="/images/Picture14.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pict 15" src="/images/Picture15.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Reading Programme Picture 3" src="/images/p1p2_pic3.png">
 </div>
 <h4><strong>போட்டிகள்</strong></h4>
 <p>நம் மாணவர்கள் பலதரப்பட்ட போட்டிகளில் பங்குபெற ஊக்குவிக்கப்படுகின்றனர்.
