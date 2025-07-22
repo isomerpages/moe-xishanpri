@@ -26,6 +26,9 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 1" src="/images/Fortnight2025_pict_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="fortnight 2025 picture 1" src="/images/Fortnight2025_pict_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
