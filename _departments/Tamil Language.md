@@ -47,18 +47,33 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 4" src="/images/Fortnight_2025_pict_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 5" src="/images/Fortnight2025_pict_5.gif">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 5" src="/images/Fortnight_2025_pict_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 6" src="/images/Fortnight2025_pict_6.gif">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 6" src="/images/Fortnight_2025_pict_6.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 7" src="/images/Fortnight_2025_pict_7.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 7" src="/images/Fortnight2025_pict_7.gif">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 8" src="/images/Fortnight_2025_pict_8.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 8" src="/images/Fortnight2025_pict_8.gif">
 </div>
