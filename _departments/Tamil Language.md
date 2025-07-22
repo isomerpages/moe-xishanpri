@@ -24,10 +24,10 @@ variant: tiptap
 இருவழிக் கருத்துப்பரிமாற்றத் திறன்களும் பல்வேறு நடவடிக்கைகளின் மூலம் கற்பிக்கப்படுகின்றன.</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 1" src="/images/Fortnight2025_pict_1.gif">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="fortnight 2025 picture 1" src="/images/Fortnight2025_pict_1.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 2" src="/images/Fortnight2025_pict_2.gif">
 </div>
