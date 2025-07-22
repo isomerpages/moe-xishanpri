@@ -23,57 +23,39 @@ variant: tiptap
 <p>மாணவர்களின் கேட்டல், பேசுதல், படித்தல், எழுதுதல் ஆகிய அடிப்படை மொழித்திறன்களோடு
 இருவழிக் கருத்துப்பரிமாற்றத் திறன்களும் பல்வேறு நடவடிக்கைகளின் மூலம் கற்பிக்கப்படுகின்றன.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fortnight 2025 picture 1" src="/images/Fortnight2025_pict_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 2" src="/images/Fortnight2025_pict_2.gif">
+<img style="width: 100%" height="auto" width="100%" alt="MTL fortnight 2025 picture 1" src="/images/Fortnight2025_pict_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fortnight 2025 picture 2" src="/images/Fortnight2025_pict_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 3" src="/images/Fortnight2025_pict_3.gif">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fortnight 2025 picture 3" src="/images/Fortnight_2025_pict_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 4" src="/images/Fortnight2025_pict_4.gif">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 4" src="/images/Fortnight_2025_pict_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 5" src="/images/Fortnight2025_pict_5.gif">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 5" src="/images/Fortnight_2025_pict_5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 6" src="/images/Fortnight2025_pict_6.gif">
+<img style="width: 100%" height="auto" width="100%" alt="MTL fortnight 2025 picture 2" src="/images/Fortnight2025_pict_2.jpg">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 7" src="/images/Fortnight_2025_pict_7.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 7" src="/images/Fortnight2025_pict_7.gif">
+<img style="width: 100%" height="auto" width="100%" alt="MTL fortnight 2025 picture 3" src="/images/Fortnight_2025_pict_3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 8" src="/images/Fortnight_2025_pict_8.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fortnight 2025 picture 8" src="/images/Fortnight2025_pict_8.gif">
+<img style="width: 100%" height="auto" width="100%" alt="MTL fortnight 2025 picture 4" src="/images/Fortnight_2025_pict_4.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL fortnight 2025 picture 5" src="/images/Fortnight_2025_pict_5.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL fortnight 2025 picture 6" src="/images/Fortnight_2025_pict_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL fortnight 2025 picture 7" src="/images/Fortnight_2025_pict_7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MTL fortnight 2025 picture 8" src="/images/Fortnight_2025_pict_8.jpg">
+</div>
 <h4><strong>புத்தக வானில் பறப்போம் வாசிப்புத் திட்டம் (P1 &amp; P2)</strong></h4>
 <p></p>
 <p></p>
