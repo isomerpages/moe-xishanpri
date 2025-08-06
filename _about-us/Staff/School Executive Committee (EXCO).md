@@ -9,11 +9,6 @@ variant: tiptap
 <h2>Management Team</h2>
 <h3>School Leaders</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SLs_2025.jpg">
-</div>
-<p>From left to right: Ms Latha, Mrs Jane Chng, Mdm Sophia Lee</p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
