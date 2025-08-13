@@ -4,3 +4,40 @@ permalink: /school-bus-advertisement/
 variant: tiptap
 description: ""
 ---
+<p>To apply, please refer to the Service Requirements and the Application
+Procedure below.</p>
+<p><strong>Service Requirements</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/call_for_proposal.pdf" rel="noopener nofollow" target="_blank">Call for Proposal</a>
+</p>
+</li>
+<li>
+<p><a href="/files/terms_and_condition.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Service</a>
+</p>
+</li>
+<li>
+<p><a href="/files/request_for_school_bus_service.pdf" rel="noopener nofollow" target="_blank">Request for School Bus Services</a>
+</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Application Procedure</strong>
+</p>
+<p>1.Complete the Call for Proposal –<a href="/files/call_for_proposal_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank"> Annex A </a>(Information Required
+from Vendor)</p>
+<p>2.Submit the completed Call for Proposal – Annex A by closing date, XX
+XXX 2024, to the School’s General Office.</p>
+<p>•Address: XXXX, S7311110</p>
+<p>•Contract Number: 6666 1111</p>
+<p>•Email: <a href="mailto:abc_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abc_ps@moe.edu.sg</a>
+</p>
+<p>•Contact Person: Mdm. Jessie</p>
+<p><strong>How to get there?</strong>
+</p>
+<p>•Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance</p>
+<p>•Bus number: 900 – 3 minutes walking distance</p>
+<p></p>
+<p></p>
+<p></p>
