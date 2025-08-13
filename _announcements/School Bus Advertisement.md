@@ -8,12 +8,9 @@ description: ""
 Procedure below.</p>
 <p><strong>Service Requirements</strong>
 </p>
-<p><a href="/files/call_for_proposal.pdf" rel="noopener nofollow" target="_blank">1. Call for Proposal</a>
-</p>
-<p><a href="/files/terms_and_condition.pdf" rel="noopener nofollow" target="_blank">2. Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
-</p>
-<p><a href="/files/request_for_school_bus_service.pdf" rel="noopener nofollow" target="_blank">3. Request for School Bus Services</a>
-</p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Application Procedure</strong>
 </p>
 <p>1.Complete the Call for Proposal – <a href="/files/call_for_proposal_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a> (Information Required
