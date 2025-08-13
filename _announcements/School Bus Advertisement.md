@@ -6,7 +6,8 @@ description: ""
 ---
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
-<p>Service Requirements</p>
+<p><strong>Service Requirements</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/call_for_proposal.pdf" rel="noopener nofollow" target="_blank">Call for Proposal</a>
