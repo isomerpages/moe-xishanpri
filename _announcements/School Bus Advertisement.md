@@ -8,7 +8,8 @@ description: ""
 Procedure below.</p>
 <p><strong>Service Requirements</strong>
 </p>
-<p></p>
+<p><a href="https://file.go.gov.sg/callforproposal130825.pdf" rel="noopener nofollow" target="_blank">1. Call for Proposal</a>
+</p>
 <p></p>
 <p></p>
 <p><strong>Application Procedure</strong>
