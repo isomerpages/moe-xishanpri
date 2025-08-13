@@ -2,5 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - School Bus Advertisement.md
       - School Canteen Advertisement.md
