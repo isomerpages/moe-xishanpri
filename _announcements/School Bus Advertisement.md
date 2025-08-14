@@ -10,14 +10,22 @@ Procedure below.</p>
 </p>
 <p><a href="https://file.go.gov.sg/callforproposal130825.pdf" rel="noopener nofollow" target="_blank">1. Call for Proposal</a>
 </p>
-<p></p>
-<p></p>
+<p><a href="https://go.gov.sg/termcondition130825" rel="noopener nofollow" target="_blank">2. Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
+</p>
+<p><a href="https://go.gov.sg/rfsbusservice130825" rel="noopener nofollow" target="_blank">3. Request for School Bus Services</a>
+</p>
 <p><strong>Application Procedure</strong>
 </p>
-<p>1.Complete the Call for Proposal – <a href="/files/call_for_proposal_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a> (Information Required
-from Vendor)</p>
-<p>2.Submit the completed Call for Proposal – Annex A by closing date, XX
-XXX 2024, to the School’s General Office.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Complete the Call for Proposal – <a href="https://go.gov.sg/annexa130825" rel="noopener nofollow" target="_blank">Call for Proposal – Annex A</a>(Information
+Required from Vendor)</p>
+</li>
+<li>
+<p>Submit the completed Call for Proposal – Annex A by closing date, XX XXX
+2025, to the School’s General Office.</p>
+</li>
+</ol>
 <p>•Address: XXXX, S7311110</p>
 <p>•Contract Number: 6666 1111</p>
 <p>•Email: <a href="mailto:abc_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abc_ps@moe.edu.sg</a>
