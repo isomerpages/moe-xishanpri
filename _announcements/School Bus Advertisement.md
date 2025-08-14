@@ -20,7 +20,7 @@ Procedure below.</p>
 </p>
 <p>1. Complete the Call for Proposal – Annex A (Information from Vendor)
 .</p>
-<p>2. Submit the completed Call for Proposal – Annex A and the supporting
+<p>2. Submit the completed Call for Proposal – <a href="/files/call_for_proposal_Annex_A_130825.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a> and the supporting
 documents by closing date, 26 Aug 2025, to the School’s General Office:
 -</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Address: 8 Yishun Street 21
