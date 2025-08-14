@@ -10,12 +10,8 @@ description: ""
 Procedure below.</p>
 <p><strong>Service Requirements</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/call_for_proposal_130825.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
+<p><a href="/files/call_for_proposal_130825.pdf" rel="noopener noreferrer nofollow" target="_blank">1. Call for Proposal</a>
 </p>
-</li>
-</ol>
 <p><a href="/files/terms_and_condition_130825.pdf" rel="noopener noreferrer nofollow" target="_blank">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Terms &amp; Conditions for School Bus Operator to Provide School Bus Services&nbsp;</a>
 </p>
 <p><a href="/files/request_for_school_bus_service_130825.pdf" rel="noopener noreferrer nofollow" target="_blank">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Request for School Bus Service and T&amp;C Governing the Requests for Services</a>
@@ -30,7 +26,7 @@ documents by closing date, 26 Aug 2025, to the School’s General Office:
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Address: 8 Yishun Street 21
 Singapore 768611</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact No: 6758 8837</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a rel="noopener noreferrer nofollow" target="_blank">xishan_ps@moe.edu.sg</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a href="mailto:xishan_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xishan_ps@moe.edu.sg</a>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Regina Lim</p>
 <p></p>
