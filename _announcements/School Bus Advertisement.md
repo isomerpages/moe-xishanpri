@@ -26,7 +26,7 @@ documents by closing date, 26 Aug 2025, to the School’s General Office:
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Address: 8 Yishun Street 21
 Singapore 768611</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact No: 6758 8837</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a rel="noopener noreferrer nofollow" target="_blank">xishan_ps@moe.edu.sg</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a href="mailto:xishan_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xishan_ps@moe.edu.sg</a>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Regina Lim</p>
 <p></p>
