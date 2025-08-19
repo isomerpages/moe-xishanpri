@@ -98,7 +98,7 @@ third_nav_title: Staff
 <p>2 Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Natasha Lin</p>
+<p>Ms Natasha Lin Kleinman</p>
 <p><a href="mailto:natasha_lin_kleinman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_lin_kleinman@moe.edu.sg</a>
 </p>
 <p></p>
