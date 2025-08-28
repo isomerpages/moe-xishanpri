@@ -4,4 +4,4 @@ permalink: /school-canteen-advertisement/
 variant: tiptap
 description: ""
 ---
-<p>There is no announcement at the moment.</p>
+<p>There are no announcements at the moment.</p>
