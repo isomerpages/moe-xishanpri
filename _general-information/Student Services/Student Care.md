@@ -3,6 +3,7 @@ title: Student Care
 permalink: /general-information/school-services/student-care/
 description: ""
 third_nav_title: Student Services
+variant: markdown
 ---
 ### Big Heart Student Care @ Xishan
 
@@ -11,7 +12,7 @@ third_nav_title: Student Services
  
 ##### Kindly refer below for the E-interest URL link / QR code:
 
-**Dateline: 20 October 2023**
+**Dateline: 31 October 2025**
 
 [https://bigheartstudentcare.com/interest/](https://bigheartstudentcare.com/interest/)
 
