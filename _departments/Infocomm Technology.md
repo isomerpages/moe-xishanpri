@@ -63,4 +63,17 @@ Charts)</p>
 <p>Primary 5 – National Digital Explorer</p>
 <p>Primary 6 – Collaboration on Slideshow Creation</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="digital pict 1" src="/images/digital_pict_1.jpg">
+</div>
+<p>Other than focusing on Digital Literacy and Technological Skills, our
+school also focuses on guiding students to develop Human Centred Design
+Thinking via our Tinkering Programme.</p>
+<p>Primary 1,2– Collaboration with PAL on the use of Scratch Junior</p>
+<p>Primary 3,4,5 – Collaboration with Science on the use of Microbit</p>
+<p>Primary 6 – IMDA’s Code for Fun and AI For Fun</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="digital pict 2" src="/images/digital_pict_2.jpg">
+</div>
 <p></p>
