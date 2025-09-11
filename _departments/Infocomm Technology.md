@@ -35,7 +35,11 @@ ICT</p>
 technology</p>
 </li>
 </ul>
-<h3>In Xishan Primary School, we envision every Xishanite as a proficient and confident digital learner, a self-directed and responsible user. We aim to create meaningful ICT-enhanced learning experiences while fostering cyber wellness and nurturing critical, adaptive, and inventive thinking in the digital age.</h3>
+<p>In Xishan Primary School, we envision every Xishanite as a proficient
+and confident digital learner, a self-directed and responsible user. We
+aim to create meaningful ICT-enhanced learning experiences while fostering
+cyber wellness and nurturing critical, adaptive, and inventive thinking
+in the digital age.</p>
 <p><strong>Supporting the EdTech Masterplan 2030</strong>
 </p>
 <p>Our school is committed to advancing Singapore’s <strong>EdTech Masterplan 2030</strong>,
