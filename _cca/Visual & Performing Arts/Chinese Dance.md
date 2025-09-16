@@ -60,19 +60,46 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p>XPS Chinese Dance @ Kampung Admiralty HDB Community Week</p>
-<p>Xishanites proudly presented our Chinese Dance while celebrating Life
-In the Heartlands during the HDB Community Week</p>
+<p>Our Chinese Dancers achieved the Certificate of Accomplishment at the
+2024 Singapore Youth Festival Arts Presentation.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG-20190525-WA0024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="chinese dance 1" src="/images/chdance1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG-20190525-WA0028.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="chinese dance 2" src="/images/chdance2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG-20190525-WA0018.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="chinese dance 3" src="/images/chdance3.jpg">
 </div>
+<p></p>
+<p>Dancers warming up their muscles through their weekly stretching routine</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG-20190525-WA0030.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="chinese dance 4" src="/images/chdance4.jpg">
 </div>
+<p></p>
+<p>Members engaging in peer learning during dance practice</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="chinese dance 5" src="/images/chdance5.jpg">
+</div>
+<p></p>
+<p>Dancers practising their moves with confidence and grace</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="chinese dance practice" src="/images/chdance6.jpg">
+</div>
+<p></p>
+<p>Student leader supporting in the School Open House</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="school open house - chinese dance" src="/images/chdance7.jpg">
+</div>
+<p></p>
+<p>Dancers beaming with joy after a performance</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dancers beaming with joy after performance" src="/images/chdance8.jpg">
+</div>
+<p></p>
 <p></p>
