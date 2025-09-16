@@ -80,10 +80,10 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 National Games Floorball result" src="/images/2025_floorbal_result.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 National School Games Result" src="/images/2025_floorbal_result.jpg">
+</div>
 <p>1) Senior Floorball Girls participating in the National School Games</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Senior Floorball Girls" src="/images/Photo_1.jpg">
