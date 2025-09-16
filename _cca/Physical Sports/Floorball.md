@@ -79,9 +79,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 Floorball National School Games" src="/images/2025_national_games_Result.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2025 National Games Floorball result" src="/images/2025_floorbal_result.jpg">
 </div>
 <p></p>
 <p>1) Senior Floorball Girls participating in the National School Games</p>
