@@ -62,44 +62,44 @@ variant: tiptap
 <p></p>
 <p>Our Chinese Dancers achieved the Certificate of Accomplishment at the
 2024 Singapore Youth Festival Arts Presentation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024 Singapore Youth Festival Arts Presentation 1" src="/images/2024_Singapore_Youth_Festival_Arts_Presentation_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore Youth Festival Arts Presentation 2" src="/images/2024_Singapore_Youth_Festival_Arts_Presentation_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024 Singapore Youth Festival Arts Presentation 3" src="/images/2024_Singapore_Youth_Festival_Arts_Presentation_3.jpg">
+</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="chinese dance 1" src="/images/chdance1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="chinese dance 2" src="/images/chdance2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="chinese dance 3" src="/images/chdance3.jpg">
-</div>
 <p></p>
 <p>Dancers warming up their muscles through their weekly stretching routine</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="chinese dance 4" src="/images/chdance4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dancers warming up their muscles through their weekly stretching routine" src="/images/Dancers_warming_up_their_muscles_through_their_weekly_stretching_routine.jpg">
 </div>
+<p></p>
 <p></p>
 <p>Members engaging in peer learning during dance practice</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="chinese dance 5" src="/images/chdance5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Members engaging in peer learning accessibility" src="/images/Members_engaging_in_peer_learning_during_dance_practice.jpg">
 </div>
+<p></p>
 <p></p>
 <p>Dancers practising their moves with confidence and grace</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="chinese dance practice" src="/images/chdance6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="dancers practising their moves with confidence and grace" src="/images/Dancers_practising_their_moves_with_confidence_and_grace.jpg">
 </div>
+<p></p>
 <p></p>
 <p>Student leader supporting in the School Open House</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="school open house - chinese dance" src="/images/chdance7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Student leader supporting in the school Open House" src="/images/Student_leader_supporting_in_the_School_Open_House.jpg">
 </div>
 <p></p>
-<p>Dancers beaming with joy after a performance</p>
 <p></p>
+<p>Dancers beaming with joy after a performance</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="dancers beaming with joy after performance" src="/images/chdance8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dancers_beaming with joy after a performance" src="/images/Dancers_beaming_with_joy_after_a_performance.jpg">
 </div>
 <p></p>
 <p></p>
