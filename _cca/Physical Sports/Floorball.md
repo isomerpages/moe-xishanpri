@@ -90,33 +90,28 @@ variant: tiptap
 </div>
 <p></p>
 <p>2) Players showing sportsmanship&nbsp;&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Players showing sportsmanship" src="/images/Photo_2.jpg">
 </div>
 <p>&nbsp;</p>
 <p>3) Senior Floorball Boys showing their team spirit after scoring a goal</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Senior Floorball Boys showing their team spirit" src="/images/Photo_3.jpg">
 </div>
-<h3></h3>
-<p>4) Senior Floorball Boys – 2025 National School Games (Tier 3 – 3<sup>rd</sup> Position)</p>
 <p></p>
+<p>4) Senior Floorball Boys – 2025 National School Games (Tier 3 – 3<sup>rd</sup> Position)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Senior Floorball Boys - 2025 National School Games" src="/images/Photo_4.jpg">
 </div>
 <p></p>
 <p>5) Junior Floorball Boys doing their team cheer before their National
 School Games</p>
-<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Junior floorball boys team cheer" src="/images/Photo_5.jpg">
 </div>
 <p></p>
 <p>&nbsp;6) Junior Floorball Girls giving their best shot at the National
 School Games</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Junior Floorball Girls giving their best shot" src="/images/Photo_6.jpg">
 </div>
