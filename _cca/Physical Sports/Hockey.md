@@ -34,7 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Martin</p>
+<p>Mr Christopher Martin Philix</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:christopher_martin_philix@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_martin_philix@moe.edu.sg</a>
@@ -46,8 +46,7 @@ variant: tiptap
 <p>Ms Mahalakshmi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Mahalakshmi_Alaghimanvalan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mahalakshmi_Alaghimanvalan</a>
-<a href="mailto:Mahalakshmi_Alaghimanvalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:Mahalakshmi_Alaghimanvalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mahalakshmi_Alaghimanvalan@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -62,7 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Azrin</p>
+<p>Mr Mohamad Narul Azrin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamad_narul_azrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_narul_azrin@moe.edu.sg</a>
