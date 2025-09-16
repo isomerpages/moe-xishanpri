@@ -99,7 +99,7 @@ variant: tiptap
 <p>Dancers beaming with joy after a performance</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dancers beaming with joy after performance" src="/images/chdance8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="dancers beaming with joy after performance" src="/images/chdance8.jpg">
 </div>
 <p></p>
 <p></p>
