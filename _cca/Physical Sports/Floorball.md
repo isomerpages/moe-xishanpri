@@ -46,7 +46,7 @@ variant: tiptap
 <p>Ms Sheralin See</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:See_Kai_Li_Sheralin_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">See_Kai_Li_Sheralin_A@moe.edu.sg</a>
+<p><a href="mailto:see_kai_li_sheralin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_kai_li_sheralin_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -64,7 +64,7 @@ variant: tiptap
 <p>Ms Brenda Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ong_Shi_Min_Brenda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_Shi_Min_Brenda@moe.edu.sg</a>
+<p><a href="mailto:ong_shi_min_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shi_min_brenda@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -73,17 +73,17 @@ variant: tiptap
 <p>Ms Kokoro Choda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Kokoro_Choda@moe.edu.sg</a>
+<p><a href="mailto:kokoro_choda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kokoro_choda@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2025 National School Games Result" src="/images/2025_floorbal_result.jpg">
 </div>
+<p></p>
 <p>1) Senior Floorball Girls participating in the National School Games</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Senior Floorball Girls" src="/images/Photo_1.jpg">
