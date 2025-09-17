@@ -1,17 +1,18 @@
 ---
 title: Mathematics
-permalink: /departments/mathematics
+permalink: /departments/mathematics/
 description: ""
+variant: markdown
 ---
 # **Mathematics**
 
-**Vision:** Every pupil an **effective** and **confident** problem-solver
+**Vision:** Every pupil an&nbsp;**effective**&nbsp;and&nbsp;**confident**&nbsp;problem-solver
 
-**Mission:** To cultivate **an inquiring mind** and to develop **mathematical reasoning** in problem solving
+**Mission:** To cultivate&nbsp;**an inquiring mind**&nbsp;and to develop&nbsp;**mathematical reasoning**&nbsp;in problem solving
 
-The Mathematics Curriculum in Xishan Primary School is **centred on Problem Solving** with the five key supporting components as illustrated in the pentagon below. We believe that to develop a deep understanding of mathematical concepts, and to make sense of mathematical ideas as well as their connections and applications, our pupils should be exposed to **a variety of learning experiences** including hands-on activities and technological explorations. Our curriculum is focused on **building strong fundamentals** as the basis for cultivating an inquiring mind and developing mathematical reasoning in problem solving.
+The Mathematics Curriculum in Xishan Primary School is centred on  Problem Solving, with the five key supporting components as illustrated in the in the MOE Mathematics Curriculum Framework. We focus on building strong fundamentals as the foundation for cultivating an inquiring mind and developing mathematical reasoning in problem solving.   
 
-![](/images/MathImage1.png)
+![Maths Curriculum Framework](/images/Maths_Curriculum_Framework_.png)
 
 ### Learning Experiences
 
