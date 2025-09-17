@@ -86,7 +86,7 @@ any delays that may occur due to exceptional circumstances.</p>
 <p>School Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">xishan_ps@moe.edu.sg</a>
+<p><a href="mailto:xishan_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xishan_ps@moe.edu.sg</a>
 </p>
 </td>
 </tr>
