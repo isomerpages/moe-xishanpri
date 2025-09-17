@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
-      - Parents Support Group.md
       - Alumni.md
       - Community Partners.md
+      - Home School Communications.md
+      - Parents Support Group.md

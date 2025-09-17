@@ -1,7 +1,8 @@
 ---
 title: School Rules and Regulations
-permalink: /general-information/school-rules-and-regulations
+permalink: /general-information/school-rules-and-regulations/
 description: ""
+variant: markdown
 ---
 # **School Rules and Regulations**
 
@@ -52,3 +53,15 @@ All students are reminded to exercise the school values (Self- discipline, Integ
 If the above-mentioned items in paragraph 4 & 5 are found with the students, they will be confiscated and parents need to come to the school to collect the item(s) personally.
 
 Should there be a need for students to bring mobile phone/smart watch to school, parents can go to the General Office to fill up a form on “Request for Permission to Bring Mobile Phone/Smart Watch To School”. School will evaluate and grant permission on a case-by-case basis.
+
+### Anti-Bullying Policy
+
+1. Bullying is defined as the deliberate and repeated behaviours intended to cause hurt, distress or humiliation. It can be physical, verbal, social and/or cyber in nature.
+*  **Physical** - persistent in hitting someone or damaging someone else’s belongings 
+*  **Verbal** - repeated name-calling, spreading rumours or making threats 
+*  **Social** - leaving someone out of a group or things on purpose 
+*  **Cyber** - using online messages, images or videos to hurt someone
+
+2. The school maintains a zero-tolerance approach to bullying in all its forms. Anchored in our school motto of Love, Care, Share, we strongly believe that every member of our school community has the right to feel safe, respected, and valued. No one should be bullied, and no one should engage in bullying behaviour.
+
+3. **Reporting Procedure:** Students and parents/guardians may report bullying directly to teachers, school counsellors, or School Leaders. All reports will be taken seriously and treated confidentially.
