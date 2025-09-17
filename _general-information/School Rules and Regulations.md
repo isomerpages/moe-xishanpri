@@ -1,7 +1,8 @@
 ---
 title: School Rules and Regulations
-permalink: /general-information/school-rules-and-regulations
+permalink: /general-information/school-rules-and-regulations/
 description: ""
+variant: markdown
 ---
 # **School Rules and Regulations**
 
@@ -52,3 +53,5 @@ All students are reminded to exercise the school values (Self- discipline, Integ
 If the above-mentioned items in paragraph 4 & 5 are found with the students, they will be confiscated and parents need to come to the school to collect the item(s) personally.
 
 Should there be a need for students to bring mobile phone/smart watch to school, parents can go to the General Office to fill up a form on “Request for Permission to Bring Mobile Phone/Smart Watch To School”. School will evaluate and grant permission on a case-by-case basis.
+
+### Anti-Bullying Policy
