@@ -12,7 +12,6 @@ variant: markdown
 
 The Mathematics Curriculum in Xishan Primary School is centred on  Problem Solving, with the five key supporting components as illustrated in the in the MOE Mathematics Curriculum Framework. We focus on building strong fundamentals as the foundation for cultivating an inquiring mind and developing mathematical reasoning in problem solving.   
 
-![Maths Curriculum Framework](/images/Maths_Curriculum_Framework_.png)
 
 ### Learning Experiences
 
