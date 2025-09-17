@@ -13,12 +13,11 @@ thrive when schools and families work hand-in-hand to support them.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guideline_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guideline_1a.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guideline_2.png">
 </div>
 <p><strong>Our Service Charter</strong>
 </p>
