@@ -11,10 +11,13 @@ the holistic development of our children, as we truly believe that children
 thrive when schools and families work hand-in-hand to support them.</p>
 <p>&nbsp;<strong>Guidelines for School-Home Partnership</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Guidelines for school home partnership" src="/images/guidelines_for_school_home_partneship.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Role Model" src="/images/role_model.jpg">
 </div>
+<p></p>
 <p><strong>Our Service Charter</strong>
 </p>
 <div class="isomer-image-wrapper">
