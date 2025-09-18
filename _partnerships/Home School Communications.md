@@ -19,7 +19,7 @@ thrive when schools and families work hand-in-hand to support them.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guideline_2.png">
 </div>
-<p><strong>Our Service Charter</strong>
+<p><strong>Our Engagement Charter</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Respecting our staff" src="/images/respecting_staff.jpg">
