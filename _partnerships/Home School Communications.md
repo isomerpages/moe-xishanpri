@@ -25,9 +25,9 @@ thrive when schools and families work hand-in-hand to support them.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Respecting our staff" src="/images/respecting_staff.jpg">
 </div>
 <p></p>
-<p><strong>Our Service Standards</strong>
+<p><strong>Our Engagement Standards</strong>
 </p>
-<p><strong>Service Standards for Response Times</strong>
+<p><strong>Engagement Standards for Response Times</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
