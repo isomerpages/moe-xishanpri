@@ -17,27 +17,11 @@ developing mathematical reasoning in problem solving.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MOE Mathematics Curriculum Framework" src="/images/Maths_Curriculum_Framework_.png">
 </div>
-<h1></h1>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>MOE Mathematics Curriculum Framework</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
 <p>In Xishan Primary School, pupils are given opportunities to <strong>discuss, reason, and reflect</strong>,
 through various learning experiences and technological explorations to:</p>
 <p>&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Develop a deep understanding of mathematical concepts</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Make meaningful connections between mathematical ideas</p>
 </li>
@@ -46,8 +30,7 @@ through various learning experiences and technological explorations to:</p>
 </li>
 </ul>
 <h2>Teaching Approaches</h2>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concrete-Pictorial-Abstract
-(CPA) Approach</p>
+<h3>Concrete-Pictorial-Abstract (CPA) Approach</h3>
 <p>Teachers curate meaningful learning experiences for pupils to first use
 concrete objects to explore and understand mathematical concepts and ideas.
 Pupils then progress to pictorial representations, such as diagrams and
@@ -62,19 +45,25 @@ the concepts in their abstract form.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Photo: CPA Approach 1</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPA5.jpg">
+</div>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Photo: CPA Approach 2</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPA_Approach_2.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Caption: Pupils using multilink cubes to learn the concept of Division</p>
+<p>Pupils using multilink cubes to learn the concept of Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Caption: Pupils learning about the nets of solid figures.</p>
+<p>Pupils learning about the nets of solid figures.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
@@ -90,28 +79,33 @@ the concepts in their abstract form.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Photo: CPA Approach 3A</p>
-<p>Photo: CPA Approach 3B</p>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CPA_Approach_3A.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPA_Approach_3B.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Photo: CPA Approach 4</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPA_Approach_4.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Caption: Pupils estimating and measuring the volume in various containers.</p>
+<p>Pupils estimating and measuring the volume in various containers.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Caption: Pupils assemble angles in a triangle into a straight line.</p>
+<p>Pupils assemble angles in a triangle into a straight line.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mathematical Problem-Solving
-Approach</p>
+<h3>Mathematical Problem-Solving Approach</h3>
 <p>At Xishan Primary School, we use the BEST Problem-Solving Approach to
 help pupils develop confidence and competence in solving mathematical problems.
 Through this approach, teachers guide pupils to apply systematic thinking
@@ -124,77 +118,54 @@ problems, explore possible solutions and solve mathematics problems.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Photo: Xishan Problem Solving Approach</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xishan_Problem_Solving_Approach.png">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inquiry- based Learning</p>
+<h3>Inquiry- based Learning</h3>
 <p>Through Inquiry-Based Learning (IBL), pupils are presented with problem
 situations and encouraged to explore ideas and patterns to find solutions.
 Teachers carefully sequence and facilitate class discussions, guiding pupils
 as they co-construct their understanding of mathematical concepts. This
 approach nurtures critical, adaptive, and inventive thinking, while helping
 pupils appreciate the relevance of Mathematics in real-life contexts.</p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Photo: IBL 1</p>
-<p>Photo: IBL 2</p>
-</td>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IBL_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IBL_2.jpg">
+</div>
+</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Primary 1 pupils exploring different methods of counting numbers within
 100.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outdoor and Home-based
-Learning Experiences.&nbsp;</p>
+<h3>Outdoor and Home-based Learning Experiences</h3>
 <p>We also extend learning beyond the classroom doors for pupils to apply
 mathematical concepts in real world context. These meaningful activities
 nurture an appreciation of how Mathematics is all around us.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Photo: Outdoor Learning 1</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Photo: Outdoor Learning 2A</p>
-<p>Photo: Outdoor Learning 2B</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Caption: Pupils learning about Money in our school canteen.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Caption: Pupils learning about angles around the school.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -204,28 +175,32 @@ nurture an appreciation of how Mathematics is all around us.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Photo: Outdoor Learning 3</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outdoor_Learning_3.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stitcjed.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Caption: Pupils use Padlet to share with teachers and friends about Maths
-around them.</p>
+<p>Pupils use Padlet to share with teachers and friends about Maths around
+them.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Pupils learning about angles around the school.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Technological Explorations</p>
+<h3>Technological Explorations</h3>
 <p>Teachers design Student Learning Space (SLS) lessons and integrate interactive
 digital manipulatives to help pupils visualise abstract mathematical concepts
 and receive instant feedback on their learning. Technology also allows
@@ -241,19 +216,25 @@ their understanding and making Mathematics lessons more engaging and meaningful.
 <td rowspan="1" colspan="1">
 <p>Photo: SLS Circles</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS_Lessons_q2.png">
+</div>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Photo: Decktoys</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Decktoys.jpg">
+</div>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Caption: P6 SLS lessons on circumference of circle.</p>
+<p>P6 SLS lessons on circumference of circle.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Caption: Pupils checking their understanding of Time using online platforms.</p>
+<p>Pupils checking their understanding of Time using online platforms.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
