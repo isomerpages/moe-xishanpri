@@ -125,7 +125,7 @@ problems, explore possible solutions and solve mathematics problems.</p>
 </tr>
 </tbody>
 </table>
-<h3>Inquiry- based Learning</h3>
+<h3>Inquiry- Based Learning (IBL)</h3>
 <p>Through Inquiry-Based Learning (IBL), pupils are presented with problem
 situations and encouraged to explore ideas and patterns to find solutions.
 Teachers carefully sequence and facilitate class discussions, guiding pupils
@@ -189,7 +189,6 @@ nurture an appreciation of how Mathematics is all around us.</p>
 <td rowspan="1" colspan="1">
 <p>Pupils use Padlet to share with teachers and friends about Maths around
 them.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Pupils learning about angles around the school.</p>
@@ -212,8 +211,7 @@ their understanding and making Mathematics lessons more engaging and meaningful.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Photo: SLS Circles</p>
-<p>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLS_Lessons_q2.png">
 </div>
@@ -232,9 +230,7 @@ their understanding and making Mathematics lessons more engaging and meaningful.
 <p>P6 SLS lessons on circumference of circle.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pupils checking their understanding of Time using online platforms.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>Pupils checking their understanding of Time using online platforms.&nbsp;</p>
 </td>
 </tr>
 </tbody>
