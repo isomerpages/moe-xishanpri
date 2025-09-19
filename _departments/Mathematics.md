@@ -26,6 +26,9 @@ In Xishan Primary School, pupils are given opportunities to discuss, reason, and
 
 Teachers curate meaningful learning experiences for pupils to first use concrete objects to explore and understand mathematical concepts and ideas. Pupils then progress to pictorial representations, such as diagrams and models, which help them visualize and make sense of the concepts. Finally, pupils are introduced to symbols and equations, enabling them to represent the concepts in their abstract form.
 
+![Teaching approach 1](/images/teaching_approach1.jpg)
+
+
 <center>Pupils working out addition sums using inter-locking cubes and ten-frame.</center>
 
 
