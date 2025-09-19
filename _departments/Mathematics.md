@@ -63,6 +63,3 @@ Teachers design Student Learning Space (SLS) lessons and integrate interactive d
 **•	P1 to P3 Koobits Rewards Programme**
 
 The Koobits Rewards Programme encourages our pupils to become self-directed learners by recognising consistent effort and achievement in Koobits. Each term, the top-performing pupils are awarded tokens as a form of encouragement and motivation. This programme fosters a sense of responsibility, perseverance, and a love for learning, while making the learning of Mathematics fun and rewarding.
-
-
-
