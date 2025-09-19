@@ -15,22 +15,18 @@ fundamentals&nbsp;as the foundation for cultivating an inquiring mind and
 developing mathematical reasoning in problem solving.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths_Curriculum_Framework_.png">
+<img style="width: 100%" height="auto" width="100%" alt="MOE Mathematics Curriculum Framework" src="/images/Maths_Curriculum_Framework_.png">
 </div>
+<h1></h1>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>MOE Mathematics Curriculum Framework</p>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
@@ -264,17 +260,13 @@ their understanding and making Mathematics lessons more engaging and meaningful.
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h1>Our Programmes</h1>
+<h2>Our Programmes</h2>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>P1 to P3 Koobits Rewards Programme</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
 <p>The Koobits Rewards Programme encourages our pupils to become self-directed
 learners by recognising consistent effort and achievement in Koobits. Each
 term, the top-performing pupils are awarded tokens as a form of encouragement
@@ -283,10 +275,10 @@ and a love for learning, while making the learning of Mathematics fun and
 rewarding.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Koobits_1.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Koobits_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Koobits_2.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Koobits_2.jpg">
 </div>
 </div>
 </details>
