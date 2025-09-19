@@ -65,12 +65,12 @@ the concepts in their abstract form.</p>
 <td rowspan="1" colspan="1">
 <p>Pupils learning about the nets of solid figures.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -104,8 +104,7 @@ the concepts in their abstract form.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<h3>Mathematical Problem-Solving Approach</h3>
+<h3>&nbsp;Mathematical Problem-Solving Approach</h3>
 <p>At Xishan Primary School, we use the BEST Problem-Solving Approach to
 help pupils develop confidence and competence in solving mathematical problems.
 Through this approach, teachers guide pupils to apply systematic thinking
@@ -126,7 +125,6 @@ problems, explore possible solutions and solve mathematics problems.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <h3>Inquiry- based Learning</h3>
 <p>Through Inquiry-Based Learning (IBL), pupils are presented with problem
 situations and encouraged to explore ideas and patterns to find solutions.
