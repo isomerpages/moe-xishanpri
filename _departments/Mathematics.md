@@ -28,31 +28,27 @@ Teachers curate meaningful learning experiences for pupils to first use concrete
 
 ![Teaching approach 1](/images/teaching_approach1.jpg)
 
-
-<center>Pupils working out addition sums using inter-locking cubes and ten-frame.</center>
-
-
-
-<center>Pupils building up addition facts using 6-sided and 10-sided die.</center>
-
+![Teaching approach 2](/images/CPA_Approach_combine_rev_2.jpg)
 
 **•	Mathematical Problem-Solving Approach**
 
 At Xishan Primary School, we use the BEST Problem-Solving Approach to help pupils develop confidence and competence in solving mathematical problems. Through this approach, teachers guide pupils to apply systematic thinking routines and a range of heuristic strategies, enabling them to analyse problems, explore possible solutions and solve mathematics problems.
+![Xishan Mathematical problem solving approach](/images/Xishan_Problem_Solving_Approach.jpg)
 
-![Xishan Problem Solving Approach](/images/Xishan_Problem_Solving_Approach.jpg)
 
-**•	Inquiry- based Learning **
+**•	Inquiry- based Learning** 
 
 Through Inquiry-Based Learning (IBL), pupils are presented with problem situations and encouraged to explore ideas and patterns to find solutions. Teachers carefully sequence and facilitate class discussions, guiding pupils as they co-construct their understanding of mathematical concepts. This approach nurtures critical, adaptive, and inventive thinking, while helping pupils appreciate the relevance of Mathematics in real-life contexts.
 
 ![IBL 1](/images/IBL_1.jpg)
+
 ![IBL 2](/images/IBL_2.jpg)
 Primary 1 pupils exploring different methods of counting numbers within 100. 
 
 **•	Outdoor and Home-based Learning Experiences.**
 
 We also extend learning beyond the classroom doors for pupils to apply mathematical concepts in real world context. These meaningful activities nurture an appreciation of how Mathematics is all around us.
+![Outdoor Learning](/images/outdoor_learning_.jpg)
 
 ![Outdoor Learning 3](/images/Outdoor_Learning_3.jpg)
 Pupils use Padlet to share with teachers and friends about Maths around them.
@@ -62,15 +58,11 @@ Pupils use Padlet to share with teachers and friends about Maths around them.
 
 Teachers design Student Learning Space (SLS) lessons and integrate interactive digital manipulatives to help pupils visualise abstract mathematical concepts and receive instant feedback on their learning. Technology also allows pupils to collaborate seamlessly and learn at their own pace, deepening their understanding and making Mathematics lessons more engaging and meaningful.
 
+### Our Programmes
+
+**•	P1 to P3 Koobits Rewards Programme**
+
+The Koobits Rewards Programme encourages our pupils to become self-directed learners by recognising consistent effort and achievement in Koobits. Each term, the top-performing pupils are awarded tokens as a form of encouragement and motivation. This programme fosters a sense of responsibility, perseverance, and a love for learning, while making the learning of Mathematics fun and rewarding.
 
 
 
-<center> Pupils working on a plan for their dream bedroom using their knowledge of budgeting and skills of managing data using excel spreadsheet.</center>
-
-![](/images/MathImage6.jpg)
-
-<center> Pupils explore online resources independently. </center>
-
-![](/images/MathImage7.jpg)
-
-<center> They share their plans on MC Online social learning wall to extend learning beyond their own team. </center>
