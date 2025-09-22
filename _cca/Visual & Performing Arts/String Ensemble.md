@@ -73,4 +73,7 @@ very well and we are very proud of them!</p>
 <img style="width: 100%" height="auto" width="100%" alt="violinist and cellist tapping" src="/images/violinist_and_cellist_tapping.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYF rehearsals" src="/images/SYF_rehearsals.jpg">
+</div>
 <p></p>
