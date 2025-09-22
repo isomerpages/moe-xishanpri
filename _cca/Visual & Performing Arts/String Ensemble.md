@@ -97,3 +97,19 @@ very well and we are very proud of them!</p>
 <img style="width: 100%" height="auto" width="100%" alt="Members Rehearsal" src="/images/Members_rehearse.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Concentration and commitment" src="/images/concentration_and_commitment.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Refine technique with instructor guidance" src="/images/Refine_technique_with_instructor_guidance.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="exploring new melodies" src="/images/exploring_new_melodies.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sectional practices" src="/images/Sectional_practice.jpg">
+</div>
+<p></p>
