@@ -93,3 +93,7 @@ very well and we are very proud of them!</p>
 <img style="width: 100%" height="auto" width="100%" alt="Behind the Scenes" src="/images/Behind_the_scenes.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Members Rehearsal" src="/images/Members_rehearse.jpg">
+</div>
+<p></p>
