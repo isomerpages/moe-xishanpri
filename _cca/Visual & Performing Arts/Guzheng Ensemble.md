@@ -77,3 +77,22 @@ earned the Certificate of Distinction. We are proud to celebrate this achievemen
 together!</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Vibrant in Guzheng new costumes" src="/images/Guzheng_5.jpg">
+</div>
+<p>Our students look vibrant in their new costumes, all set to usher in the
+Chinese New Year with a captivating performance!</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Guzheng CCA leader in action" src="/images/Guzheng_6.jpg">
+</div>
+<p>Our passionate guzheng CCA leader in action — inspiring a peer with a
+hands-on experience at the Open House!</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Guzheng members beaming with pride and confidence" src="/images/Guzheng_7.jpg">
+</div>
+<p>Our guzheng CCA members are beaming with pride and confidence as they
+share their passion and skills at the CCA Open House!</p>
