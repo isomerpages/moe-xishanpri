@@ -113,3 +113,11 @@ very well and we are very proud of them!</p>
 <img style="width: 100%" height="auto" width="100%" alt="Sectional practices" src="/images/Sectional_practice.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Laser focus intensive training" src="/images/Laser_focus_intensive_training.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fostering strong culture of mentorship" src="/images/Fostering_strong_culture_of_mentorship.jpg">
+</div>
+<p></p>
