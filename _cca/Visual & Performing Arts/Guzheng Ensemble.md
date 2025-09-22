@@ -52,4 +52,28 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h3>Singapore Youth Festival Art Presentation 2024</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Guzheng photo 1" src="/images/Guzheng_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Guzheng photo 2" src="/images/Guzheng_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Guzheng photo 3" src="/images/Guzheng_3.jpg">
+</div>
+<p>Our guzheng members performed at the 2024 Singapore Youth Festival Arts
+Presentation with confidence and enthusiasm.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Guzehng Ensemble earned Certificate of Distinction" src="/images/Guzheng_4.jpg">
+</div>
+<p>Through hard work, resilience, and strong teamwork, our guzheng ensemble
+earned the Certificate of Distinction. We are proud to celebrate this achievement
+together!</p>
+<p></p>
 <p></p>
