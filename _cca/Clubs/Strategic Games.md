@@ -55,5 +55,8 @@ third_nav_title: Clubs
 <img style="width: 100%" height="auto" width="100%" alt="Students Helpers in Action" src="/images/students_helpers_in_action.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Learning through play" src="/images/learning_through_play.jpg">
+</div>
 <p></p>
 <p></p>
