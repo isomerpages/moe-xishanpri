@@ -62,6 +62,14 @@ third_nav_title: Clubs
 </div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Strategy meets technology" src="/images/strategy_meets_technology.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="smiles and strategies" src="/images/smiles_and_strategies.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
