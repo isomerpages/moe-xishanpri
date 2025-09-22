@@ -81,3 +81,15 @@ very well and we are very proud of them!</p>
 <img style="width: 100%" height="auto" width="100%" alt="proud moment of our student" src="/images/proud_moment_of_our_student.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYF 2024 Performance" src="/images/SYF_2024_performance.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student SYF 2024 Performance" src="/images/student_syf_2024_performance.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Behind the Scenes" src="/images/Behind_the_scenes.jpg">
+</div>
+<p></p>
