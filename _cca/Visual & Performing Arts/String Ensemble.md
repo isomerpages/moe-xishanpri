@@ -53,16 +53,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h3>Singapore Youth Festival Art Presentation 2022</h3>
-<p>After months of hard work put in by the students, teachers and instructor,
-our String Ensemble participated in their 1st SYF at SOTA! The team did
-very well and we are very proud of them!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SESYF2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SESYF1.jpg">
-</div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
