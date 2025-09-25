@@ -54,6 +54,9 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P3 enthusiastic members" src="/images/STRING_P1.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="P3 Enthusiastic" src="/images/p3_enthusiastic.jpg">
