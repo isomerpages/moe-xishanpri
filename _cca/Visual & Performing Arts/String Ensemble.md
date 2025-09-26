@@ -150,6 +150,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Members rehearse diligently" src="/images/String_Ensemble___5_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Members rehearse diligently during weekly sessions, building harmony through music.</strong>
@@ -159,6 +162,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Concentration and commitment" src="/images/String_Ensemble___6_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Concentration and commitment on full display as members practise challenging songs during CCA.</strong>
@@ -168,6 +174,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Guided by their instructor" src="/images/String_Ensemble___7_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Guided by their instructor, students refine their techniques and develop greater musical sensitivity.</strong>
@@ -177,6 +186,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Exploring new melodies" src="/images/String_Ensemble___8_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Exploring new melodies together – students play them with enthusiasm and curiosity.</strong>
@@ -186,6 +198,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sectional practice" src="/images/String_Ensemble___9_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sectional practices allow members to fine-tune their parts and support one another in mastering the music piece.</strong>
@@ -195,6 +210,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Laser focus intensive training" src="/images/String_Ensemble___10_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Laser focused during an intensive practice session as members prepare for an upcoming performance.</strong>
@@ -204,6 +222,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Senior members mentoring" src="/images/String_Ensemble___11_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Senior members patiently guiding their juniors, fostering a strong culture of mentorship and teamwork.</strong>
@@ -213,6 +234,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Performing at Yio Chu Kang Bus Interchange on 22 May 2025" src="/images/String_Ensemble___12_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Performing at Yio Chu Kang Bus Interchange on 22 May 2025 - Community Outreach.</strong>
