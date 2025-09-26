@@ -53,23 +53,40 @@ third_nav_title: Clubs
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student helpers in action" src="/images/students_helpers_in_action.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="our amazing student helpers in action!" src="/images/stg1.jpg">
 </div>
+<p><strong>Our Amazing Student helpers in action!</strong>
+</p>
+<p>Thank you to this dedicated team for making the CCA Strategy Games Open
+House event a success - your teamwork, leadership, and smiles made all
+the difference!</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Learning through play" src="/images/learning_through_play.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Learning through play!" src="/images/stg2.jpg">
 </div>
+<p><strong>Learning through play!</strong> 
+</p>
+<p>These two students added a dash of fun while staying focused as they learnt
+the rules of Monopoly Deal - engaging their minds, one card at a time!</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Strategy meets technology" src="/images/strategy_meets_technology.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Strategy meets technology!" src="/images/stg3.jpg">
 </div>
+<p><strong>Strategy meets technology!</strong>
+</p>
+<p>Our Strategy Games CCA student gives a thumbs up while engaging in an
+online game of Rummikub - a great example of using ICT to sharpen strategic
+thinking and problem-solving skills!</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="smiles and strategies" src="/images/smiles_and_strategies.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="smiles and strategies" src="/images/stg4.jpg">
 </div>
-<p></p>
+<p><strong>Smiles and strategies!</strong>
+</p>
+<p>Two students enjoying a friendly game of chess - where fun meets focus
+on every move!</p>
 <p></p>
 <p></p>
