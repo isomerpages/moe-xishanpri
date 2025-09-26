@@ -90,6 +90,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYF Full rehersal" src="/images/String_Ensemble___1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SYF rehearsals in full swing – members fine-tuned every detail to deliver their best performance.</strong>
@@ -99,6 +102,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Proud Moment" src="/images/String_Ensemble___2_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Proud moment for our students as they received recognition for their dedication and excellence in music.</strong>
@@ -108,6 +114,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="From the practice room to performance hall" src="/images/String_Ensemble___3_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>From the practice room to performance hall – the SYF journey strengthened not just our music, but also our bonds.</strong>
@@ -117,6 +126,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students performance SYF 2024" src="/images/String_Ensemble___4_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Students performing confidently at the 2024 SYF, sharing their musical talents with pride.</strong>
@@ -126,6 +138,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Behind the scene" src="/images/Picture7.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Behind the scenes: Ensemble members tuning their instruments and encouraging one another before a big performance.</strong>
