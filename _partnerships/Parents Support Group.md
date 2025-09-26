@@ -10,10 +10,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Xishan_Website__for_uploading__24_Sep_2025_Page_01.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Xishan_Website__for_uploading__24_Sep_2025_Page_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Xishan_Website__for_uploading__24_Sep_2025_Page_02a.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Xishan_Website__for_uploading__24_Sep_2025_Page_03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Xishan_Website__for_uploading__24_Sep_2025_Page_03a.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Xishan_Website__for_uploading__24_Sep_2025_Page_04.jpg">
