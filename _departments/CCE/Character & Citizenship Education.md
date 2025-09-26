@@ -8,7 +8,7 @@ variant: tiptap
 <h2><strong>Character &amp; Citizenship Education</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCE Staff list" src="/images/CCE_Website_first_page_intro.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CCE TEAM MEMBER SEPT 2025" src="/images/CCE_TEAM_MEMBER_22_Sep_2025.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width:100 %" height="auto" width="100%" src="/images/slide2cce.JPG">
@@ -250,7 +250,8 @@ variant: tiptap
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 CCE SOW P1 T4</p>
+<p><a href="/files/2025_CCE_SOW_P1_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE S0W P1 T4</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -258,7 +259,8 @@ variant: tiptap
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 CCE SOW P2 T4</p>
+<p><a href="/files/2025_CCE_SOW_P2_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P2 T4</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -266,7 +268,8 @@ variant: tiptap
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 CCE SOW P3 T4</p>
+<p><a href="/files/2025_CCE_SOW_P3_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P3 T4</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +277,8 @@ variant: tiptap
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 CCE SOW P4 T4</p>
+<p><a href="/files/2025_CCE_SOW_P4_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P4 T4</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -282,7 +286,8 @@ variant: tiptap
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 CCE SOW P5 T4</p>
+<p><a href="/files/2025_CCE_SOW_P5_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P5 T4</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -290,7 +295,8 @@ variant: tiptap
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 CCE SOW P6 T4</p>
+<p><a href="/files/2025_CCE_SOW_P6_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P6 T4</a>
+</p>
 </td>
 </tr>
 </tbody>
