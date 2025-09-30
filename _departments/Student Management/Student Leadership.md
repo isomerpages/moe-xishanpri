@@ -1,10 +1,10 @@
 ---
 title: Student Leadership
-permalink: /departments/student-management/student-leadership
+permalink: /departments/student-management/student-leadership/
 description: ""
 third_nav_title: Student Management
+variant: markdown
 ---
-
 # **Student Leadership**
 
 ### Developing Confident Leaders through Mental Skills Empowerment and Values in Action
@@ -59,6 +59,3 @@ In tier 3, we plan and create opportunities for **Prefects, CCA leaders and Pee
 
 These leadership trainings and platforms provide students with more opportunities to enact good practices and sharpen their leadership competencies (5Cs). The service opportunities inculcate in them the spirit of serving to nurture them into confident leaders as they lead and serve alongside one another. We enrich Xishanite’s school experience by giving them opportunities to realise their optimal leadership potential.
 
-![](/images/L5.png)
-![](/images/L6.png)
-![](/images/L7.png)
