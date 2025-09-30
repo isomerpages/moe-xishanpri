@@ -91,7 +91,4 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Powered by the sun, driven by passion!" src="/images/power_by_the_sun.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="From seed to harvest" src="/images/from_seed_to_harvest.jpg">
-</div>
 <p></p>
