@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs
 ---
-<h1><strong>Strategic Games</strong></h1>
+<h1><strong>Strategy Games</strong></h1>
 <h2>Teachers-in-charge:</h2>
 <table style="minWidth: 50px">
 <colgroup>
@@ -65,7 +65,7 @@ the difference!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Learning through play!" src="/images/stg2.jpg">
 </div>
-<p><strong>Learning through play!</strong> 
+<p><strong>Learning through play!</strong>
 </p>
 <p>These two students added a dash of fun while staying focused as they learnt
 the rules of Monopoly Deal - engaging their minds, one card at a time!</p>
