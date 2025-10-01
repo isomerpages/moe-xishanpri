@@ -76,7 +76,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teamwork in action! Our creative environment club members channel their
+<p>Teamwork in action! Our creative Environment Club members channel their
 flair into crafting beautiful lanterns together. Learning, bonding and
 having fun - all at once!</p>
 </td>
@@ -91,7 +91,7 @@ having fun - all at once!</p>
 <td rowspan="1" colspan="1">
 <p>Getting their hands dirty for a greener future! Our Environment Club members
 create their own self-watering planters, learning how sustainability can
-start wiht something as simple as a bottle and a seedling. Small steps,
+start with something as simple as a bottle and a seedling. Small steps,
 big impact!</p>
 </td>
 </tr>
@@ -143,7 +143,10 @@ even waste can give life! Small steps today for a greener life.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Big ideas, little audience! Our Environment Club leaders proudly presenting
+their Green City Prototype to curious K2 visitors at the CCA Open House!
+From rooftop gardens to solar-powered homes. These young minds are helping
+to build a future that's clean, green and inspiring.</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +157,7 @@ even waste can give life! Small steps today for a greener life.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Powered by the sun, driven by passion! Our</p>
 </td>
 </tr>
 <tr>
