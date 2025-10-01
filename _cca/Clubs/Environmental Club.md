@@ -181,37 +181,10 @@ the joy of reaping what you sow - literally!</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Self watering planters" src="/images/self_watering_planters_2.jpg">
-</div>
-<p>Getting their hands dirty for a greener future! Our Environment Club members
-create their own self-watering planters, learning how sustainability can
-start wiht something as simple as a bottle and a seedling. Small steps,
-big impact!</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Getting their hands dirty for a greener future!" src="/images/greener_future.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hands-on learning at its best!" src="/images/hands_on_learning.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Buzzing with excitement!" src="/images/buzzing_excitement.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Turning scraps into soil magic!" src="/images/turning_scrap.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Big ideas, little audience!" src="/images/big_ideas.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Powered by the sun, driven by passion!" src="/images/power_by_the_sun.jpg">
-</div>
 <p></p>
 <p></p>
