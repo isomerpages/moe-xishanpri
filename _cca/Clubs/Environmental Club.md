@@ -61,7 +61,68 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teamwork at work !" src="/images/Crafting_beautiful_lanterns_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teamwork in action! Our creative environment club members channel their
+flair into crafting beautiful lanterns together. Learning, bonding and
+having fun - all at once!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Self-watering planters" src="/images/Self_watering_planters.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Getting their hands dirty for a greener future! Our Environment Club members
+create their own self-watering planters, learning how sustainability can
+start wiht something as simple as a bottle and a seedling. Small steps,
+big impact!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Self watering planters" src="/images/Self_watering_planters1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Team work in action" src="/images/teamwork_in_action.jpg">
 </div>
