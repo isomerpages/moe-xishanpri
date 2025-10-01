@@ -70,6 +70,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Teamwork at work !" src="/images/Crafting_beautiful_lanterns_1.jpg">
 </div>
@@ -97,24 +98,6 @@ big impact!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Self watering planters" src="/images/Self_watering_planters1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,9 +106,15 @@ big impact!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Team work in action" src="/images/teamwork_in_action.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Self watering planters" src="/images/self_watering_planters_2.jpg">
 </div>
+<p>Getting their hands dirty for a greener future! Our Environment Club members
+create their own self-watering planters, learning how sustainability can
+start wiht something as simple as a bottle and a seedling. Small steps,
+big impact!</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
