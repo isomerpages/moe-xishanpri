@@ -157,7 +157,11 @@ to build a future that's clean, green and inspiring.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Powered by the sun, driven by passion! Our</p>
+<p>Powered by the sun, driven by passion! Our Environment Club leaders demonstrated
+how their solar car prototype zooms ahead using clean, renewable energy
+to an eager crowd of K2 learners at the CCA Open House! Who says big science
+is only for big people? These young engineers are lighting the way to a
+brighter, greener tomorrow!</p>
 </td>
 </tr>
 <tr>
@@ -168,7 +172,10 @@ to build a future that's clean, green and inspiring.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>From seed to harvest - it's finally time! Our Environment Club senior
+member guiding the juniors as they proudly harvest fresh, crunchy greens
+from the Grow Tower after weeks of care, patience and love. Nothing beats
+the joy of reaping what you sow - literally!</p>
 </td>
 </tr>
 </tbody>
