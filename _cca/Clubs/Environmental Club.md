@@ -98,7 +98,71 @@ big impact!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hands-on learning at its best!" src="/images/Terrariums.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hands-on learning at its best! Our Environment Club members got their
+hand dirty (in the best way!) creating and care. Learning about nature
+has never been this fun, cute or meaningful.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Buzzing with excitement" src="/images/Beeswax_wraps.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Buzzing with excitement! OUr curious Environment Club members got hands-on
+making their very own beeswax wraps! Learning how nature can help us reduce
+plastic use -one sustainable step at a time.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Turning scraps into soil magic!" src="/images/Prep_food_scraps_for_composting.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Turning scraps into soil magic! Our young eoc-heroes displaying excellent
+teamwork and learning how to prepare food scraps for composting - because
+even waste can give life! Small steps today for a greener life.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Big ideas, little audience!" src="/images/CCA_Open_Hse_Green_City_Prototype.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Powered by the sun, driven by passion!" src="/images/CCA_Open_Hse_Solar_Car_Prototype.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="From seed to harvest" src="/images/Grow_Tower.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
