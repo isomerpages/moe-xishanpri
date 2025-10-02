@@ -189,9 +189,39 @@ the joy of reaping what you sow - literally!</p>
 </table>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teamwork in action" src="/images/Crafting_beautiful_lanterns_1.jpg">
+</div>
+<p>Teamwork in action! Our creative Environment Club members channelled their
+flair into crafting beautiful lanterns together. Learning, bonding, and
+having fun - all at once!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Getting their hands dirty for a greener future !" src="/images/Self_watering_planters1.jpg">
+</div>
+<p>Getting their hands dirty for a greener future! Our Environment Club members
+created their own self-watering planters, learning how sustainability can
+start with something as simple as a bottle and a seedling. Small steps,
+big impact!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hands-on learning at its best!" src="/images/Terrariums.jpg">
+</div>
+<p>Hands-on learning at its best! Our Environment Club members got their
+hands dirty (in the best way!) creating and caring. Learning about nature
+has never been this fun, cute, or meaningful.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Buzzing with excitement!" src="/images/envpict1.jpg">
+</div>
+<p>Buzzing with excitement! Our curious Environment Club members got hands-on
+making their very own beeswax wraps! Learning how nature can help us reduce
+plastic use - one sustainable step at a time.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Turning scraps into soil magic!" src="/images/Prep_food_scraps_for_composting.jpg">
+</div>
+<p>Turning scraps into soil magic! Our young eco-heroes displayed excellent
+teamwork and learned how to prepare food scraps for composting - because
+even waste can give life! Small steps today for a greener life.</p>
 <p></p>
