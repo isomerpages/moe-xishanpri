@@ -61,19 +61,26 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 225px">
 <colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
+<td rowspan="1" colspan="8">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Teamwork at work !" src="/images/Crafting_beautiful_lanterns_1.jpg">
 </div>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teamwork in action! Our creative Environment Club members channelled their
@@ -82,7 +89,7 @@ having fun - all at once!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Self-watering planters" src="/images/Self_watering_planters.jpg">
@@ -96,7 +103,7 @@ big impact!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Hands-on learning at its best!" src="/images/Terrariums.jpg">
@@ -109,7 +116,7 @@ has never been this fun, cute, or meaningful.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Buzzing with excitement" src="/images/Beeswax_wraps.png">
@@ -122,7 +129,7 @@ plastic use - one sustainable step at a time.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Turning scraps into soil magic!" src="/images/Prep_food_scraps_for_composting.jpg">
@@ -135,7 +142,7 @@ even waste can give life! Small steps today for a greener life.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -150,7 +157,7 @@ to build a future that's clean, green, and inspiring.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Powered by the sun, driven by passion!" src="/images/CCA_Open_Hse_Solar_Car_Prototype.jpg">
@@ -165,7 +172,7 @@ brighter, greener tomorrow!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="8">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="From seed to harvest" src="/images/Grow_Tower.jpg">
