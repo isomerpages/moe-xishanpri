@@ -70,7 +70,6 @@ variant: tiptap
 flair into crafting beautiful lanterns together. Learning, bonding, and
 having fun - all at once!</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Getting their hands dirty for a greener future !" src="/images/Self_watering_planters1.jpg">
 </div>
@@ -78,7 +77,6 @@ having fun - all at once!</p>
 created their own self-watering planters, learning how sustainability can
 start with something as simple as a bottle and a seedling. Small steps,
 big impact!</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Hands-on learning at its best!" src="/images/Terrariums.jpg">
