@@ -71,12 +71,29 @@ variant: tiptap
 </tbody>
 </table>
 <h4></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P5 guiding P2 Student" src="/images/p5_guding_p2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1a__CCA_Bazar_.jpg">
 </div>
-<p><em>The P5 Hockey Boys guiding the P2 students during the CCA Bazaar.</em>
-</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1b__CCA_Bazar_.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>The P5 Hockey Boys guiding the P2 students during the CCA Bazaar.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Warm up exercises" src="/images/Photo_2__warm_up_.jpg">
@@ -93,9 +110,28 @@ variant: tiptap
 </div>
 <p>The P5 Hockey Boys warming up for their National School Games.</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="p5 warming up" src="/images/p5_warming_up.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_6a__Passing_.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_6b__Shooting_.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>The P5 Hockey Boys warming up for their National School Games.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -106,19 +142,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Our Senior Hockey Boys (P6) participating in the National School Games." src="/images/Photo_8__P6_school_team_.jpg">
 </div>
-<p><em>Our Senior Hockey Boys (P6) participating in the National School Games.</em>
-</p>
+<p>Our Senior Hockey Boys (P6) participating in the National School Games.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Our P5 Hockey Boys participating in the National School Games." src="/images/Photo_9__P5_school_team_.jpg">
 </div>
-<p><em>Our P5 Hockey Boys participating in the National School Games.</em>
-</p>
+<p>Our P5 Hockey Boys participating in the National School Games.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Our P4 Hockey boys ready for their first National School Games!" src="/images/Photo_10__P4_school_team_.jpg">
 </div>
-<p><em>Our P4 Hockey boys ready for their first National School Games!</em>
-</p>
+<p>Our P4 Hockey boys ready for their first National School Games!</p>
