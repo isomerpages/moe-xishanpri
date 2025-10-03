@@ -85,8 +85,9 @@ big impact!</p>
 hands dirty (in the best way!) creating and caring. Learning about nature
 has never been this fun, cute, or meaningful.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Buzzing with excitement!" src="/images/envpict1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Beeswax_wraps.png">
 </div>
 <p>Buzzing with excitement! Our curious Environment Club members got hands-on
 making their very own beeswax wraps! Learning how nature can help us reduce
