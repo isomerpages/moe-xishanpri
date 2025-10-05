@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Science</strong></h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC00107.jpg">
-</div>
 <h4><strong>Vision</strong><br></h4>
 <p>Passionate scientific inquirers who are curious, confident and innovative
 learners​.</p>
@@ -19,12 +16,12 @@ contexts.</p>
 <h4><strong>Our Focus</strong></h4>
 <p></p>
 <p>We grow every Xishanite through:</p>
-<p>• Engaging and hand-on lessons inspired by the 5E Inquiry Model (Engage,
-Explore, Explain, Elaborate, Evaluate)</p>
-<p>• Core scientific knowledge, anchored in five foundational themes: Diversity,
-Cycles, Systems, Interactions, and Energy</p>
-<p>• Key values and mindsets fostered through inquiry: curiosity, resilience,
-responsibility, and integrity</p>
+<p>• <strong>Engaging and hand-on lessons</strong> inspired by the 5E Inquiry
+Model (Engage, Explore, Explain, Elaborate, Evaluate)</p>
+<p>• <strong>Core scientific knowledge,</strong> anchored in five foundational
+themes: Diversity, Cycles, Systems, Interactions, and Energy</p>
+<p>• <strong>Key values and mindsets</strong> fostered through inquiry: curiosity,
+resilience, responsibility, and integrity</p>
 <p>Science at Xishan is about <strong>observing carefully, linking ideas meaningfully, and communicating with evidence and sound reasoning.</strong> This
 aligns with MOE’s Science Curriculum Framework, which emphasises curiosity,
 conceptual understanding, inquiry skills, values, and application.</p>
@@ -49,9 +46,10 @@ as facilitators who guide students to become lifelong learners.</p>
 </div>
 <p>• <strong>School Gardens &amp; Aquaponics:</strong> Hands-on platforms for
 exploring how living things depend on one another and caring for the environment.
-Refurbished in 2024, building on the Distinction project that Xishanites
-won for the 2023 Singapore Youth Science Fair. This showcases how Xishanites
-can turn ideas into practical and real-world solutions</p>
+Platforms for exploring how living things depend on one another and caring
+for the environment. Refurbished in 2024, building on our Xishanites’ Distinction
+project at the 2023 Singapore Youth Science Fair. This showcases how Xishanites
+can turn ideas into practical, real-world solutions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="science learning journey" src="/images/science_learning_journey_rev_4.jpg">
 </div>
@@ -59,12 +57,13 @@ can turn ideas into practical and real-world solutions</p>
 at authentic settings such as the Singapore Zoo (P3) and Sungei Buloh Wetland
 Reserve (P6), reinforcing science concepts and extending learning beyond
 the classroom.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="prototype and design" src="/images/prototype_and_design.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/try.png">
 </div>
-<p>•** TinkerSpace (Toy Design and Making / Sony Creative Science Awards
-Challenges):** A creative hub where Xishanites design and prototype ideas
-for competitions, nurturing perseverance, innovation and joy.</p>
+<p>•<strong>TinkerSpace (Toy Design and Making / Sony Creative Science Awards Challenges):</strong>A
+creative hub where Xishanites design and prototype ideas for competitions,
+nurturing perseverance, innovation and joy.</p>
 <h4><strong>Stretch &amp; Enrichment</strong></h4>
 <p>•<strong> Science Ignite-E2K:</strong>
 </p>
@@ -101,7 +100,7 @@ areas such as Chemistry and Earth Science .</p>
 <p>2025 - Singapore Primary Science Olympiad (1 Bronze, 7 Merits)</p>
 </li>
 </ul>
-<h4><strong>How we Know Learning is Happening</strong></h4>
+<h4><strong>How We Know Learning is Happening</strong></h4>
 <p>We use age-appropriate approaches such as talk prompts, exit slips, hands-on
 checkpoints, and term reviews to guide us in providing timely feedback
 to our students on how they are progressing and ways to improve.</p>
