@@ -61,7 +61,7 @@ the classroom.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/try.png">
 </div>
-<p>•<strong>TinkerSpace (Toy Design and Making / Sony Creative Science Awards Challenges):</strong>A
+<p>•<strong>TinkerSpace (Toy Design and Making / Sony Creative Science Awards Challenges): </strong>A
 creative hub where Xishanites design and prototype ideas for competitions,
 nurturing perseverance, innovation and joy.</p>
 <h4><strong>Stretch &amp; Enrichment</strong></h4>
