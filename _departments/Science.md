@@ -16,7 +16,6 @@ learners​.</p>
 <br>To nurture curious and confident individuals who pursue Science with curiosity,
 clarity and care, while applying their learning meaningfully to real-world
 contexts.</p>
-<p></p>
 <h4><strong>Our Focus</strong></h4>
 <p></p>
 <p>We grow every Xishanite through:</p>
@@ -66,17 +65,13 @@ the classroom.</p>
 <p>•** TinkerSpace (Toy Design and Making / Sony Creative Science Awards
 Challenges):** A creative hub where Xishanites design and prototype ideas
 for competitions, nurturing perseverance, innovation and joy.</p>
-<p><strong>Stretch &amp; Enrichment</strong>• Science Ignite-E2K:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>For high-progress learners to develop scientific thinking, teamwork and
+<h4><strong>Stretch &amp; Enrichment</strong></h4>
+<p>•<strong> Science Ignite-E2K:</strong>
+</p>
+<p>-For high-progress learners to develop scientific thinking, teamwork and
 resilience.</p>
-</li>
-<li>
-<p>Exploration extends beyond PSLE readiness, cultivating curiosity in areas
-such as Chemistry and Earth Science .</p>
-</li>
-</ul>
+<p>- Exploration extends beyond PSLE readiness, cultivating curiosity in
+areas such as Chemistry and Earth Science .</p>
 <p><strong>• Competitions:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -93,4 +88,31 @@ such as Chemistry and Earth Science .</p>
 <p>Singapore Primary Science Olympiad</p>
 </li>
 </ul>
+<p></p>
+<h4><strong>2025 Accolades</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>2025 - International Singapore Science Competition (19 Gold, 3 Silver)</p>
+</li>
+<li>
+<p>2025 - Singapore Youth STEM Festival (Commendation Award)</p>
+</li>
+<li>
+<p>2025 - Singapore Primary Science Olympiad (1 Bronze, 7 Merits)</p>
+</li>
+</ul>
+<h4><strong>How we Know Learning is Happening</strong></h4>
+<p>We use age-appropriate approaches such as talk prompts, exit slips, hands-on
+checkpoints, and term reviews to guide us in providing timely feedback
+to our students on how they are progressing and ways to improve.</p>
+<p></p>
+<h4><strong>Our Commitment</strong></h4>
+<p>By the end of Primary 6, every Xishanite will have the skills to<strong> OBSERVE</strong> closely, <strong>LINK</strong> ideas
+thoughtfully and <strong>COMMUNICATE</strong> Science with clarity and confidence.
+More importantly, they will have the courage to turn ideas into meaningful
+actions that makes a difference in our world.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
