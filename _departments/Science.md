@@ -1,108 +1,117 @@
 ---
 title: Science
-permalink: /departments/science
+permalink: /departments/science/
 description: ""
+variant: tiptap
 ---
-# **Science**
-
-![](/images/DSC00107.jpg)
-
-**Vision**     
-Passionate Scientific Inquirers, Curious and Mindful Learners  
-
-**Mission**      
-To develop confident and inquisitive individuals who exhibit a passion for Science learning
-
-**Focus**
-![](/images/ScienceImg.jpg)
-
-The Science curriculum encourages students to learn Science through understanding basic concepts and applying what they have learnt in different contexts. The focus of learning Science is on developing students' ability to inquire, understand and explain scientific phenomena with clarity.  
-
-### Key Programmes
-
-_**1\. Igniting Curiosity through Science Inquiry**_
-
-In Science teaching and learning, activities are specially planned to integrate skills and processes which arouse students’ curiosity and encourage them to seek new knowledge and inquire about things around them. With the focus on conceptual understanding and skills development, students are encouraged to ask questions to deepen their learning as they quest for new knowledge and embark on their journey of continuous learning.
-
-![](/images/Capture1.png)
-![](/images/ScienceImg1.jpg)
-
-**_2\. Enriched Learning @ Our School Garden_**
-
-The school garden is a rich learning ground designed to bring out students’ natural curiosity and to encourage them to actively explore, engage with and experience the natural environment. Interesting programmes and engaging activities are designed to enhance students’ capacities for creativity and intellectual development in learning beyond the classroom.
-
-![](/images/Capture2.png)
-
-![](/images/ScienceImg2.jpg)
-
-**_3\. Enriched Learning @ Our School Aquaponics System_**
-
-The school outdoor aquaponics system, consisting of 3 vegetables grow beds and 2 tilapia fish culture tanks, arouses students’ curiosity and deepens their conceptual understanding of the different types of sustainable farming systems and their benefits to Singapore. 
-
-Through first-hand observations, students get a deeper understanding of the symbiotic relationship between the tilapia fish and vegetables, in which the tilapia fish’s excreta provide nutrients to the plants, while the plants naturally clean up the water for the fish. Students get to appreciate the role of bacteria as decomposers that break down excreta of tilapia fish to provide nutrients for the plants. 
-
-Students also get to experience the process of growing their own vegetables from sowing and germinating seeds, transplanting seedlings and lastly, harvesting their own produce from the aquaponics system.
-
-![](/images/Capture3.png)
-
-**_4\. Learning Journeys & Workshops_** 
-
-Learning Journeys and workshops are specially organized for all Primary 3 to 6 students to complement the Science curriculum and allow students to reinforce their learning through exploration in a natural setting beyond the school. Students as active learners are given the opportunities to discover and experience the natural environment at first hand. Learning is enriched as they make new discoveries in their quest for new knowledge.  
-
-Primary 3: Virtual Learning Journey to Singapore Botanic Gardens   
-Primary 4: Science Workshop (Heat & Temperature)   
-Primary 5: Science Workshop (Wind Turbine)  
-Primary 6: Physical Learning Journey to Sungei Buloh Wetland Reserve
-
-![](/images/ScienceImg3.jpeg)
-
-![](/images/6xx.png)
-
-![](/images/7xx.png)
-
-**_5\. Igniting Joy of Learning through Toy Making_**  
-
-The annual Creative Toy Design and Making Competition for Primary 3-6 students provides opportunities for them to apply the scientific concepts that they have learned into the creation of a toy, while igniting their joy of learning Science. Through the process of toy design and creation, students also develop critical and inventive thinking skills.
-
-Selected toys are sent for the Sony Creative Science Award (SCSA) Competition which is jointly organised by the Science Centre Singapore and the Sony Group of Companies in Singapore, with the support of the Ministry of Education. In 2021, we are proud that one of our Xishanites attained the Merit Award in the national competition.
-
-![](/images/8xx.png)
-
-![](/images/10.png)
-
-![](/images/11.png)
-
-**_6\. Stretch Programmes for Passionate Learners_**  
-
-There are several Stretch Programmes for Primary 4 to 5 students who are passionate in Science, with the aptitude and positive attitude to learn about exciting topics beyond the syllabus.  
-
-The E2K Science Enrichment Programme is adapted from Israel’s E2K Programme, developed by the Israel Centre for Excellence through Education (ICEE). Our own E2K Science Teachers use the E2K pedagogy to develop scientific inquiry process skills in our high-progress students, and further nurture their 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills. 
-
-Students in E2K Programme learn Science by going through the same process that scientists use to generate Science knowledge. Just as scientists make mistakes in the real world, students are allowed to make mistakes, and teachers help students to learn from the mistakes. Through collaborative learning and guidance provided by the teacher, students practise scientific thinking and reasoning and develop confidence and independence in carrying out scientific inquiry as well as scientific habits, attitudes and dispositions.
-
-Science Ignite Programme is another exciting Stretch Programme that sparks students’ curiosity to discover topics beyond the PSLE, e.g. Chemistry and Earth Science. It deepens their interest, creativity, analytical thinking skills as well as the spirit of learning through discovery and challenge in Science. Students in Science Ignite Programme will acquire content knowledge and skills necessary to take part in Singapore Primary Science Olympiad (SPSO). 
-
-We are proud that two of our Xishanites emerged as medallists in 2021 Singapore Primary Science Olympiad (1 Silver, 1 Bronze).
-
-![](/images/12.png)
-
-![](/images/13.png)
-
-![](/images/Capture4.png)
-
-**_6\. Science Competitions_**
-
-Interested students have many opportunities to showcase their knowledge and skills in various competitions such as:
-
-* Singapore Primary Science Olympiad (SPSO)
-* Raffles Science Olympiad (RSO)
-* West Zone Junior Science Whiz Challenge (JSWC)
-* Elementz Science Project Competition
-* Sony Creative Science Award (SCSA)
-* Green Wave Environmental Care Competition
-
-Our Xishanites achieved 1 Silver and 1 Bronze in SPSO, and 1 Merit Award in SCSA.
-
-Other than showcasing their Science knowledge and skills, our Xishanites also demonstrated their love for their environment and attained an Encouragement Award in the Green Wave Environmental Care Competition, winning $200 cash and a trophy for the school. In their submission titled ‘Enhanced Living with Sustainable Plant Transpiration System’, they designed an environmentally-friendly and self-sustaining green tank system that re-uses rainwater and water obtained from transpiration of plants to irrigate other plants in urban farming while creating rooftop gardens.
-
-![](/images/15.png)
+<h1><strong>Science</strong></h1>
+<h4><strong>Vision</strong><br></h4>
+<p>Passionate scientific inquirers who are curious, confident and innovative
+learners​.</p>
+<h4><strong>Mission</strong></h4>
+<p>
+<br>To nurture curious and confident individuals who pursue Science with curiosity,
+clarity and care, while applying their learning meaningfully to real-world
+contexts.</p>
+<h4><strong>Our Focus</strong></h4>
+<p></p>
+<p>We grow every Xishanite through:</p>
+<p>• <strong>Engaging and hand-on lessons</strong> inspired by the 5E Inquiry
+Model (Engage, Explore, Explain, Elaborate, Evaluate)</p>
+<p>• <strong>Core scientific knowledge,</strong> anchored in five foundational
+themes: Diversity, Cycles, Systems, Interactions, and Energy</p>
+<p>• <strong>Key values and mindsets</strong> fostered through inquiry: curiosity,
+resilience, responsibility, and integrity</p>
+<p>Science at Xishan is about <strong>observing carefully, linking ideas meaningfully, and communicating with evidence and sound reasoning.</strong> This
+aligns with MOE’s Science Curriculum Framework, which emphasises curiosity,
+conceptual understanding, inquiry skills, values, and application.</p>
+<p></p>
+<h4><strong>Our Approach</strong></h4>
+<p></p>
+<p>Science learning at Xishan is <strong>active, authentic and communicative</strong>:</p>
+<p>• <strong>Inquiry over answers</strong>: Practical investigations and real-world
+phenomena invite questioning and sense-making.</p>
+<p>• <strong>Clear and confident communication:</strong> Xishanites learn to
+present ideas using oral presentations, diagrams, models, graphs, and writing
+frames grounded in evidence.</p>
+<p>• <strong>Structured progression</strong>: Scaffolded support in the lower
+primary years builds towards greater independence and self-directed inquiry
+in the upper primary years.</p>
+<p>In line with MOE’s 3INs (Inspire, Inquire, Innovate), our teachers act
+as facilitators who guide students to become lifelong learners.</p>
+<p><strong>Signature Experiences</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="signature experience" src="/images/signature_experience_rev_1.jpg">
+</div>
+<p>• <strong>School Gardens &amp; Aquaponics:</strong> Hands-on platforms for
+exploring how living things depend on one another and caring for the environment.
+Platforms for exploring how living things depend on one another and caring
+for the environment. Refurbished in 2024, building on our Xishanites’ Distinction
+project at the 2023 Singapore Youth Science Fair. This showcases how Xishanites
+can turn ideas into practical, real-world solutions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="science learning journey" src="/images/science_learning_journey_rev_4.jpg">
+</div>
+<p>• <strong>Learning Journeys &amp; Workshops:</strong> Contextual learning
+at authentic settings such as the Singapore Zoo (P3) and Sungei Buloh Wetland
+Reserve (P6), reinforcing science concepts and extending learning beyond
+the classroom.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/try.png">
+</div>
+<p>•<strong>TinkerSpace (Toy Design and Making / Sony Creative Science Awards Challenges): </strong>A
+creative hub where Xishanites design and prototype ideas for competitions,
+nurturing perseverance, innovation and joy.</p>
+<h4><strong>Stretch &amp; Enrichment</strong></h4>
+<p>•<strong> Science Ignite-E2K:</strong>
+</p>
+<p>-For high-progress learners to develop scientific thinking, teamwork and
+resilience.</p>
+<p>- Exploration extends beyond PSLE readiness, cultivating curiosity in
+areas such as Chemistry and Earth Science .</p>
+<p><strong>• Competitions:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Youth Science Festival (SYSF)</p>
+</li>
+<li>
+<p>Xishan Toy-making Competition / Sony Creative Science Award (SCSA)</p>
+</li>
+<li>
+<p>International Singapore Science Competition</p>
+</li>
+<li>
+<p>Singapore Primary Science Olympiad</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>2025 Accolades</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>2025 - International Singapore Science Competition (19 Gold, 3 Silver)</p>
+</li>
+<li>
+<p>2025 - Singapore Youth STEM Festival (Commendation Award)</p>
+</li>
+<li>
+<p>2025 - Singapore Primary Science Olympiad (1 Bronze, 7 Merits)</p>
+</li>
+</ul>
+<h4><strong>How We Know Learning is Happening</strong></h4>
+<p>We use age-appropriate approaches such as talk prompts, exit slips, hands-on
+checkpoints, and term reviews to guide us in providing timely feedback
+to our students on how they are progressing and ways to improve.</p>
+<p></p>
+<h4><strong>Our Commitment</strong></h4>
+<p>By the end of Primary 6, every Xishanite will have the skills to<strong> OBSERVE</strong> closely, <strong>LINK</strong> ideas
+thoughtfully and <strong>COMMUNICATE</strong> Science with clarity and confidence.
+More importantly, they will have the courage to turn ideas into meaningful
+actions that makes a difference in our world.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
