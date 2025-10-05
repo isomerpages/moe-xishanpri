@@ -32,7 +32,7 @@ In line with MOE’s 3INs (Inspire, Inquire, Innovate), our teachers act as faci
 
 **Signature Experiences**
 
-![signature experience](/images/signature_experiene1.jpg)
+![signature experience](/images/sign_experience_3.jpg)
 
 
 
