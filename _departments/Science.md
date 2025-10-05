@@ -1,22 +1,45 @@
 ---
 title: Science
-permalink: /departments/science
+permalink: /departments/science/
 description: ""
+variant: markdown
 ---
 # **Science**
 
 ![](/images/DSC00107.jpg)
 
 **Vision**     
-Passionate Scientific Inquirers, Curious and Mindful Learners  
+Passionate scientific inquirers who are **curious**, **confident** and **innovative learners**​.
 
 **Mission**      
-To develop confident and inquisitive individuals who exhibit a passion for Science learning
+To nurture curious and confident individuals who pursue Science with curiosity, clarity and care, while applying their learning meaningfully to real-world contexts.
 
-**Focus**
-![](/images/ScienceImg.jpg)
+**Our Focus**
+We grow every Xishanite through:
+•	Engaging and hand-on lessons inspired by the 5E Inquiry Model (Engage, Explore, Explain, Elaborate, Evaluate)
+•	Core scientific knowledge, anchored in  five foundational themes: Diversity, Cycles, Systems, Interactions, and Energy
+•	Key values and mindsets fostered through inquiry: curiosity, resilience, responsibility, and integrity
 
-The Science curriculum encourages students to learn Science through understanding basic concepts and applying what they have learnt in different contexts. The focus of learning Science is on developing students' ability to inquire, understand and explain scientific phenomena with clarity.  
+Science at Xishan is about **observing carefully, linking ideas meaningfully, and communicating with evidence and sound reasoning.**   This aligns with MOE’s Science Curriculum Framework, which emphasises curiosity, conceptual understanding, inquiry skills, values, and application.
+
+**Our Approach**
+Science learning at Xishan is **active, authentic and communicative**:
+•	**Inquiry over answers**: Practical investigations and real-world phenomena invite questioning and sense-making.
+•**	Clear and confident communication**: Xishanites learn to present ideas using oral presentations, diagrams, models, graphs, and writing frames grounded in evidence.
+•	**Structured  progression**: Scaffolded support in the lower primary years builds towards greater independence and self-directed inquiry in the upper primary years.
+
+In line with MOE’s 3INs (Inspire, Inquire, Innovate), our teachers act as facilitators who guide students to become lifelong learners.
+
+
+
+| ![Aquaponics](/images/aquaponics.jpg)Column 1 | ![Edible garden2](/images/edible_garden2.jpg)Column 2 | ![mindful blooms](/images/mindful_blooms.jpg)Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
+
+
 
 ### Key Programmes
 
