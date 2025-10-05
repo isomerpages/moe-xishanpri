@@ -30,11 +30,11 @@ Science learning at Xishan is **active, authentic and communicative**:
 
 In line with MOE’s 3INs (Inspire, Inquire, Innovate), our teachers act as facilitators who guide students to become lifelong learners.
 
+**Signature Experiences**
+
+![signature experience](/images/signature_experiene1.jpg)
 
 
-| ![Aquaponics](/images/aquaponics.jpg)Column 1 | ![Edible garden2](/images/edible_garden2.jpg)Column 2 | ![mindful blooms](/images/mindful_blooms.jpg)Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
 
 
 
