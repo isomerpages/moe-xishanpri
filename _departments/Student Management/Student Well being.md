@@ -55,20 +55,11 @@ those with additional needs:</p>
 </table>
 <h4>Be Kind Be You Week</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Be Kind Be You Week" src="/images/be_kind_combine.png">
-</div>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="be kind be you week 3" src="/images/be_kind_be_you_week_comb_3.png">
-</div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="be kind be you week 4" src="/images/be_kind_be_you_week_comb_4a.png">
-</div>
 <p></p>
 <p></p>
 <p></p>
