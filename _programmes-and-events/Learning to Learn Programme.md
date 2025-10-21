@@ -4,7 +4,7 @@ permalink: /programmes-n-events/learning-to-learn-programme/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Learning to Learn Programme</strong> </h1>
+<h1><strong>Learning to Learn Programme</strong></h1>
 <h3>Learning to Learn Programme Objectives</h3>
 <p>The future is what we do in the present. The Xishan education experience
 not only focuses on equipping our learners with the knowledge, skills and
