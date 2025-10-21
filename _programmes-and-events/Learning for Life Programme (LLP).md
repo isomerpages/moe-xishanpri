@@ -29,6 +29,7 @@ Leaders</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Connected" src="/images/connected2.png">
 </div>
+<p></p>
 <h4>A <strong>Compassionate</strong> Leader - shows care and understanding for others</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Compassionate" src="/images/compassionate2.png">
@@ -39,13 +40,11 @@ Leaders</p>
 </div>
 <p></p>
 <h4>A <strong>Role-model</strong> Leader - leads by example and inspires others</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="role model" src="/images/role_model.png">
 </div>
 <p></p>
 <h4>An <strong>Empathetic</strong> Leader - takes on other perspectives</h4>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Emphatic" src="/images/emphatic.png">
 </div>
