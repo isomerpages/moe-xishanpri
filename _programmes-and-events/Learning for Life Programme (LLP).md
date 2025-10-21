@@ -20,13 +20,42 @@ Leaders</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LLP Framework" src="/images/LLP_pic_2_1_.png">
 </div>
-<h4>An Innovative Leader - seeks improvement through new solutions</h4>
+<h4>An <strong>Innovative</strong> Leader - seeks improvement through new solutions</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Innovative" src="/images/innovative.png">
 </div>
 <p></p>
-<h4>A Connected Leader - works together with others to build relationships and a sense of belonging</h4>
+<h4>A <strong>Connected</strong> Leader - works together with others to build relationships and a sense of belonging</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A Connected Leader" src="/images/connected.png">
+</div>
+<p></p>
+<h4>A <strong>Compassionate</strong> Leader - shows care and understanding for others</h4>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Compassionate" src="/images/compassionate.png">
+</div>
+<p></p>
+<p></p>
+<h4>An <strong>Advocating</strong> Leader - speaks up with respect and responsibility</h4>
+<h4></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Advocating" src="/images/advocating.png">
+</div>
+<p></p>
+<h4>A <strong>Role-model</strong> Leader - leads by example and inspires others</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="role model" src="/images/role_model.png">
+</div>
+<p></p>
+<h4>An <strong>Empathetic</strong> Leader - takes on other perspectives</h4>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Emphatic" src="/images/emphatic.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
