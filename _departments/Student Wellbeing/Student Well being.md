@@ -6,7 +6,7 @@ third_nav_title: Student Wellbeing
 variant: tiptap
 ---
 <h1><strong>Student Management &amp; Student Well-Being</strong></h1>
-<h4>Our Purpose: The Heart of Our Work</h4>
+<h3>Our Purpose: The Heart of Our Work</h3>
 <p>To build a caring, enabling and inclusive school where all students, including
 those with additional needs:</p>
 <ul data-tight="true" class="tight">
@@ -30,7 +30,7 @@ those with additional needs:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Department Framework" src="/images/department_framework.png">
 </div>
-<h4>Celebration of Termly Star Xishanites @ Assembly</h4>
+<h3>Celebration of Termly Star Xishanites @ Assembly</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -53,7 +53,7 @@ those with additional needs:</p>
 </tr>
 </tbody>
 </table>
-<h4>Be Kind Be You Week</h4>
+<h3>Be Kind Be You Week</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="be kind be you week comb 1" src="/images/be_kind_be_you_week_comb_1.png">
@@ -62,7 +62,6 @@ those with additional needs:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="be kind be you week comb 2" src="/images/be_kind_be_you_week_comb_2.png">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="be kind be you week comb 3" src="/images/be_kind_be_you_week_comb_3.png">
