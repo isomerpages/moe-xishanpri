@@ -26,23 +26,16 @@ Leaders</p>
 </div>
 <p></p>
 <h4>A <strong>Connected</strong> Leader - works together with others to build relationships and a sense of belonging</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A Connected Leader" src="/images/connected.png">
+<img style="width: 100%" height="auto" width="100%" alt="Connected" src="/images/connected2.png">
 </div>
-<p></p>
 <h4>A <strong>Compassionate</strong> Leader - shows care and understanding for others</h4>
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Compassionate" src="/images/compassionate.png">
+<img style="width: 100%" height="auto" width="100%" alt="Compassionate" src="/images/compassionate2.png">
 </div>
-<p></p>
-<p></p>
-<h4>An <strong>Advocating</strong> Leader - speaks up with respect and responsibility</h4>
-<h4></h4>
-<p></p>
+<h4><strong>Advocating</strong> Leader - speaks up with respect and responsibility</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Advocating" src="/images/advocating.png">
+<img style="width: 100%" height="auto" width="100%" alt="Advocating" src="/images/advocating2.png">
 </div>
 <p></p>
 <h4>A <strong>Role-model</strong> Leader - leads by example and inspires others</h4>
