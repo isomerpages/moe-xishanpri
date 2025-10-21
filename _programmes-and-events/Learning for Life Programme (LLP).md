@@ -21,8 +21,12 @@ Leaders</p>
 <img style="width: 100%" height="auto" width="100%" alt="LLP Framework" src="/images/LLP_pic_2_1_.png">
 </div>
 <h4>An Innovative Leader - seeks improvement through new solutions</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Innovative" src="/images/innovative.png">
 </div>
+<p></p>
+<h4>A Connected Leader - works together with others to build relationships and a sense of belonging</h4>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
