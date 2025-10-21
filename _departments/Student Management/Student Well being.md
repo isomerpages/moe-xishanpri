@@ -53,9 +53,28 @@ those with additional needs:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4>Be Kind Be You Week</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_edt-1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Be kind" src="/images/be_kind_be_you_week_pic_1.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Be kind 2" src="/images/be_kind_be_you_week_pic_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
