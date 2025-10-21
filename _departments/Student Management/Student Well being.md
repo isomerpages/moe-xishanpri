@@ -30,9 +30,29 @@ those with additional needs:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Department Framework" src="/images/department_framework.png">
 </div>
+<h4>Celebration of Termly Star Xishanites @ Assembly</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Star Xishanite Awards" src="/images/star_xishanites_term_1_pic_1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Self Discipline" src="/images/star_xishanites_term_1_pic_2.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
