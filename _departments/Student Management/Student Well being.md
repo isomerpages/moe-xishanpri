@@ -27,6 +27,9 @@ those with additional needs:</p>
 </div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Department Framework" src="/images/department_framework.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
