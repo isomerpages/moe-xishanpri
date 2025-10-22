@@ -56,12 +56,46 @@ those with additional needs:</p>
 <h3>Be Kind Be You Week</h3>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="be kind pict 1" src="/images/be_kind_be_you_week_pic_1.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="be kind pic 2" src="/images/be_kind_be_you_week_pic_2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="be kind pic 3" src="/images/be_kind_be_you_week_pic_3.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="be kind pic 4" src="/images/newphoto.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="be kind pic 5" src="/images/be_kind_be_you_week_pic_5.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="be kind pic 6" src="/images/be_kind_be_you_week_pic_6.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="be kind be you week comb 1" src="/images/be_kind_be_you_week_comb_1.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="be kind be you week comb 2" src="/images/be_kind_be_you_week_comb_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="be kind be you week comb 2" src="/images/be_kind_be_you_week_comb_2a.png">
 </div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="be kind be you week comb 3" src="/images/be_kind_be_you_week_comb_3.png">
