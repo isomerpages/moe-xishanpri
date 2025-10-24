@@ -5,12 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Learning for Life Programme (LLP)</strong></h1>
-<h3></h3>
-<p><strong>Vision:</strong>&nbsp;Every Xishanite, a Confident Leader with
-the Heart to Serve</p>
-<p><strong>Mission:</strong>&nbsp;To Nurture Xishanites to Become | C2ARE
-Leaders</p>
-<p><strong>Motto:</strong>&nbsp;To Lead Is To Serve</p>
+<h4><strong>Vision:</strong> Every Xishanite, a Confident Leader with the Heart to Serve</h4>
+<h4><strong>Mission</strong>: To Nurture Xishanites to become I C<sup>2</sup>ARE leaders</h4>
+<h4><strong>Motto:</strong> To Lead is To Serve</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Leadership development" src="/images/LLP_pic_1.png">
