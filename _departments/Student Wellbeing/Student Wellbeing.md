@@ -1,11 +1,11 @@
 ---
-title: Student Well being
+title: Student Wellbeing
 permalink: /departments/student-management/student-well-being/
 description: ""
 third_nav_title: Student Wellbeing
 variant: tiptap
 ---
-<h1><strong>Student Management &amp; Student Well-Being</strong></h1>
+<h1><strong>Student Wellbeing &amp; Educational Support</strong></h1>
 <h3>Our Purpose: The Heart of Our Work</h3>
 <p>To build a caring, enabling and inclusive school where all students, including
 those with additional needs:</p>
