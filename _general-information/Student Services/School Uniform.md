@@ -53,7 +53,7 @@ to our terms and conditions in the website.</p>
 </tr>
 </tbody>
 </table>
-<h3>Sale of School&nbsp;Uniform &amp; Name Tags</h3>
+<h3></h3>
 <p>The school has arranged for our uniform vendor to be in school on the
 following days&nbsp;<strong>from 9am to 3pm (Lunch break: 12noon to 1pm):</strong>
 </p>
