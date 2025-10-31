@@ -1,6 +1,6 @@
 ---
 title: BookList 2026
-permalink: /general-information/booklist2025/
+permalink: /general-information/booklist2026/
 variant: tiptap
 description: ""
 ---
