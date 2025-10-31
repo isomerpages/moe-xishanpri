@@ -53,16 +53,10 @@ to our terms and conditions in the website.</p>
 </tr>
 </tbody>
 </table>
-<h3>Sale of School&nbsp;Uniform &amp; Name Tags</h3>
+<h3></h3>
 <p>The school has arranged for our uniform vendor to be in school on the
-following days&nbsp;<strong>from 1.15pm to 3pm.</strong>
+following days&nbsp;<strong>from 9am to 3pm (Lunch break: 12noon to 1pm):</strong>
 </p>
-<p>Parents who would like to purchase school uniforms and name tags in person
-are required to book an appointment slot via this link:&nbsp; <a href="https://bit.ly/3zjTKuC" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/3zjTKuC:</a>
-</p>
-<p>Please kindly note that the appointment slots will be open for booking
-in the same week as the sales date.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -71,38 +65,16 @@ in the same week as the sales date.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2 Jan 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9 Jan 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20 Feb 2025</p>
+<td rowspan="1" colspan="3">
+<p>28 Nov 2025</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>13 Mar 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>17 Apr 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 May 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17 Jul 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21 Aug 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18 Sep 2025</p>
+<td rowspan="1" colspan="3">
+<p>3, 4, 8, 12, 15, 16 Dec 2025</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Mode of payment: Cash, PayNow, Paylah!</p>
+<p><strong>Mode of payment: Cash, PayNow, Paylah!</strong>
+</p>
