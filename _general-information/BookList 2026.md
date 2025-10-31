@@ -30,7 +30,7 @@ description: ""
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/xishan-booklist2025p1" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist</a>
+<p><a href="/files/Booklist_2026_XPS_P1.pdf" rel="noopener nofollow" target="_blank">P1 Booklist</a>
 </p>
 </td>
 </tr>
@@ -42,7 +42,7 @@ description: ""
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/xishanbooklistp2" rel="noopener nofollow" target="_blank">P2 Booklist</a>
+<p><a href="/files/Booklist_2026_XPS_P2.pdf" rel="noopener nofollow" target="_blank">P2 Booklist</a>
 </p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ description: ""
 <p>Primary 3 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/xishan-booklist2025-p3-standard" rel="noopener noreferrer nofollow" target="_blank">P3 Booklist</a>
+<p><a href="/files/Booklist_2026_XPS_P3_Standard.pdf" rel="noopener nofollow" target="_blank">P3 Booklist</a>
 </p>
 </td>
 </tr>
@@ -66,7 +66,7 @@ description: ""
 <p>Primary 3 Higher Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/xishan-booklist2025-p3-higher" rel="noopener noreferrer nofollow" target="_blank">P3 HMT Booklist</a>
+<p><a href="/files/Booklist_2026_XPS_P3_Higher.pdf" rel="noopener nofollow" target="_blank">P3 HMT Booklist</a>
 </p>
 </td>
 </tr>
@@ -78,7 +78,7 @@ description: ""
 <p>Primary 4 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/xishan-booklist2025-p4-standard" rel="noopener noreferrer nofollow" target="_blank">P4 Booklist</a>
+<p><a href="/files/Booklist_2026_XPS_P4_Standard.pdf" rel="noopener nofollow" target="_blank">P4 Booklist</a>
 </p>
 </td>
 </tr>
@@ -90,7 +90,7 @@ description: ""
 <p>Primary 4 Higher Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/xishan-booklist2025-p4-higher" rel="noopener noreferrer nofollow" target="_blank">P4 HMT Booklist</a>
+<p><a href="/files/Booklist_2026_XPS_P4_Higher.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 HMT Booklist</a>
 </p>
 </td>
 </tr>
