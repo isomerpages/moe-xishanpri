@@ -39,137 +39,139 @@ mereka. Melalui program ini, murid dilatih menjadi komunikator yang berkesan
 dan yakin. Pelaksanaan program ini bagi murid-murid dari Primari 1 hingga
 Primari 6, memastikan perjalanan pembelajaran yang menyeluruh dan berterusan
 bagi semua murid.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>Membangunkan komunikator yang yakin melalui kewartawanan dan penyiaran
-media</p>
-<p></p>
-<h4>Program Penggunaan Teknologi Pembelajaran (EdTech)</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture5.jpg">
-</div>
-<p>Memanfaatkan kemampuan EdTech untuk meningkatkan kecekapan dan kemahiran
-komunikasi dan kolaborasi.</p>
-<p></p>
-<h4>Lain-lain Program</h4>
-<p>Berinteraksi dalam suasana bahasa yang autentik</p>
-<p>Menyemarakkan keseronokan dalam pembelajaran</p>
-<p></p>
-<p><strong>Semarak Budaya</strong>
+<p><strong>Primari 1: Membina Keyakinan Diri Melalui Nyanyian Lagu Tradisional</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture6.jpg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture7.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture8.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture9.jpg">
-</div>
-<p></p>
-<p><strong>Sambutan Hari Raya Aidilfitri</strong>
+<p>Murid-murid melakukan aksi ataupun tarian mengikut irama lagu dan mempersembahkan
+lagu tradisional mereka di hadapan kelas.</p>
+<p><strong>Primari 2: Membina Keyakinan Diri Melalui Seni Teater</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture10.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture11.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture12.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture13.jpg">
-</div>
-<p></p>
-<p></p>
-<p><strong>Pendedahan Teater ‘Hantu Kaki Kotor’</strong>
+<p>Murid-murid dibimbing untuk menyampaikan monolog dengan suara yang kuat,
+jelas dan menggunakan intonasi yang betul.</p>
+<p><strong>Primari 3: Membina Pemikiran Kritis dan Inovatif Melalui Persembahan Boneka</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture14.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture15.jpg">
-</div>
-<p></p>
-<h4>Peraduan dan Pertandingan</h4>
-<p><strong>Rentas Pantas</strong>
+<p>Murid-murid menyampaikan skrip cerita yang diolah dan diperbaharu dengan
+intonasi dan gaya suara yang menarik dan pelbagai. Murid-murid membuat
+persembahan boneka lidi di hadapan kelas.</p>
+<h4><strong>Program Aplikasi Pembelajaran (ALP) dengan Penggunaan Teknologi Pembelajaran (EdTech) </strong></h4>
+<p><strong>Primari 4 &amp; Primari 5: Membina Kemahiran Berfikir dan Mencipta Video Kewartawanan Menggunakan peralatan EdTech Canva</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture16.jpg">
-</div>
+<p>Murid-murid mencipta video menggunakan aplikasi Canva dan merakam diri
+membuat laporan mengenai tema yang diberikan</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture17.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Primari 6: Membina Kemahiran Pengacaraan melalui Penciptaan Podcast" src="/images/primary_6_membina_kemahiran.jpg">
 </div>
-<p></p>
-<p></p>
-<p><strong>Piala Cendekia 2024 (Sahibba)</strong>
+<p><strong>Primari 6: Membina Kemahiran Pengacaraan melalui Penciptaan Podcast</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture18.jpg">
-</div>
+<p>Murid menjadi pengacara yang berwibawa sambil menggunakan teknologi untuk
+berkongsi pandangan dan kisah mereka</p>
+<p></p>
+<h4><strong>Program Bacaan MTL SOAR</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture19.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Program Bacaan MTL SOAR" src="/images/bacaan_mtl_soar.jpg">
 </div>
 <p></p>
+<p>Program Bacaan MTL SOAR ialah satu inisiatif oleh Kementerian Pendidikan
+Singapura (MOE) di sekolah rendah yang dimulakan pada tahun 2025. Program
+ini bertujuan untuk memupuk minat membaca dalam bahasa ibunda murid. Akronim
+SOAR membawa maksud:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Spark Interest (Mencetus Minat)</p>
+</li>
+<li>
+<p>Open Minds (Membuka Minda)</p>
+</li>
+<li>
+<p>Appreciate Cultural Heritage (Menghargai Warisan Budaya)</p>
+</li>
+<li>
+<p>Rise As Confident Readers (Menjadi Pembaca yang Yakin)</p>
+</li>
+</ul>
+<p>Program ini menggunakan aktiviti menarik seperti penceritaan dan reka
+bentuk buku untuk menggalakkan pembacaan serta membantu murid mengembangkan
+kemahiran penting.</p>
 <p></p>
-<p><strong>Pesta Bahasa Utara @ Chong Pang</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture20.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture21.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture22.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture23.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture24.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture25.jpg">
-</div>
+<h3>Lain-lain Program</h3>
+<h4>Semarak Budaya</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture26.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Semarak Budaya" src="/images/semarak_budaya_combine.jpg">
 </div>
+<p>Semarak Budaya ialah program yang dijalankan untuk mendedahkan murid-murid
+kepada aktiviti-aktiviti yang membolehkan mereka mendalami bahasa dan budaya
+Melayu. Contoh-contoh aktiviti menarik yang dijalankan adalah permainan
+tradisional, muzik, seni kraf tangan, dan persembahan drama. Program ini
+bertujuan untuk memupuk minat dan cinta akan bahasa serta warisan budaya
+Melayu di luar bilik darjah, dengan menggunakan pendekatan pembelajaran
+berasaskan pengalaman yang interaktif bagi menjadikan proses pembelajaran
+lebih autentik, bermakna dan menyeronokkan</p>
 <p></p>
-<p></p>
-<p><strong>Budiman Bestari (Pidato)</strong>
-</p>
+<h4>Sambutan Hari Raya Aidilfitri </h4>
+<p>Konsert Hari Raya Aidilfitri meraikan keindahan budaya dan tradisi Melayu
+melalui muzik, tarian dan lakonan. Persembahan seperti zapin, joget dan
+lagu-lagu raya menghidupkan suasana meriah serta membangkitkan kenangan
+indah. Acara ini turut menonjolkan adat bermaaf-maafan, kunjung-mengunjung
+dan busana tradisional. Selain menghiburkan, konsert ini mendidik generasi
+muda tentang warisan yang perlu dipelihara dan memperkukuhkan perpaduan
+dalam masyarakat.</p>
+<h4>Pendedahan Teater </h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture27.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Pendedahan Teater" src="/images/pendedahan_teater.jpg">
 </div>
+<p>(Gambar : Pendedahan Teater 'Hantu Kaki Kotor' bagi murid-murid pada tahun
+2024!</p>
+<p>Pendedahan teater memberi peluang kepada murid Darjah 6 untuk menonton
+dan menghargai seni lakonan. Melalui pengalaman menonton, mereka dapat
+memahami bagaimana dialog, pergerakan, ekspresi wajah dan elemen pentas
+digabungkan untuk menyampaikan jalan cerita dengan berkesan. Aktiviti ini
+membantu murid mengembangkan kreativiti, kemahiran pemerhatian dan penghayatan
+terhadap seni persembahan. Menonton teater juga membina empati, pemikiran
+kritis dan keyakinan untuk berkomunikasi dalam situasi sebenar.</p>
+<p></p>
+<h3>Peraduan dan Pertandingan</h3>
+<h4>Pesta Bahasa Utara </h4>
+<p><strong>Pesta Bahasa Utara</strong> ialah fiesta tahunan Bahasa Melayu
+yang menjadi wadah bagi murid untuk meraikan dan menonjolkan bakat mereka
+dalam bahasa dan budaya Melayu. Melalui pelbagai pertandingan berunsur
+budaya, murid berpeluang untuk mengasah kemahiran berbahasa, meningkatkan
+kreativiti serta keyakinan diri, sambil berkongsi kecintaan mereka terhadap
+warisan Melayu.</p>
+<p></p>
+<h4>Rentas Pantas</h4>
+<p><strong>Rentas Pentas</strong> ialah acara tahunan Bahasa Melayu yang menjadi
+wadah bagi murid-murid meraikan dan menonjolkan bakat mereka dalam bahasa
+dan budaya Melayu. Melalui pelbagai pertandingan berunsurkan budaya ini,
+murid berpeluang mengasah kemahiran berbahasa, meningkatkan kreativiti
+serta keyakinan diri, sambil berkongsi kecintaan mereka terhadap warisan
+Melayu.</p>
+<p></p>
+<h4>Pertandingan TeeVers (Peringkat Nasional) </h4>
+<p>Pertandingan tahunan ini dianjurkan khas untuk murid sekolah rendah yang
+dilantik sebagai Rakan Bahasa. Peserta dikehendaki menulis skrip drama
+audio selama tiga minit berdasarkan tema yang diberikan dan menghidupkannya
+melalui vokalisasi serta penceritaan kreatif menggunakan platform The Vactors
+Club.</p>
+<p></p>
+<h4>Pertandingan Pidato Budiman Bestari </h4>
+<p><strong>Pertandingan Pidato Budiman Bestari</strong> ialah pertandingan
+antara sekolah yang bertujuan untuk memupuk kemahiran bertutur Bahasa Melayu
+dengan fasih, keyakinan diri dan pemikiran kritikal dalam kalangan murid
+sekolah rendah. Sebagai sebahagian daripada sesi persiapan pertandingan,
+para peserta turut menghadiri segmen perkongsian khas tentang kemahiran
+berpidato yang memberi mereka dorongan untuk mengatasi rasa gementar, bertutur
+dengan jelas serta menyampaikan idea dengan penuh keyakinan.</p>
+<p></p>
+<h4></h4>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
