@@ -7,12 +7,14 @@ variant: tiptap
 <h1><strong>Malay Language</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="ML Dept group picture" src="/images/ml_group_photo25.jpg">
 </div>
-<p><strong>Visi:</strong>&nbsp;Setiap pelajar, pengguna Bahasa Melayu yang
-aktif, cekap dan berkeyakinan</p>
-<p><strong>Misi:</strong>&nbsp;Melahirkan pelajar yang aktif dan cekap berkomunikasi
-dalam Bahasa Melayu serta mencintai Budaya Melayu</p>
+<p>Di belakang: Cikgu Johan, Cikgu Shafiqah, Cikgu Diyanah, Cikgu Shahidah,
+Cikgu Farkhan</p>
+<p>Di depan: Cikgu Norin, Cikgu Saedah, Cikgu Farah, Cikgu Zahirah</p>
+<p></p>
+<h4><strong>Visi:</strong>&nbsp;Setiap pelajar, pengguna Bahasa Melayu yang aktif, cekap dan berkeyakinan</h4>
+<h4><strong>Misi:</strong>&nbsp;Melahirkan pelajar yang aktif dan cekap berkomunikasi dalam Bahasa Melayu serta mencintai Budaya Melayu</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture28.jpg">
@@ -23,14 +25,27 @@ dalam Bahasa Melayu serta mencintai Budaya Melayu</p>
 </div>
 <h3>Program Teras</h3>
 <h4>Program Aplikasi Pembelajaran (ALP)</h4>
+<p>Sejak tahun 2019, Sekolah Rendah Xishan telah mula membangunkan dan melaksanakan
+sepenuhnya <strong>Program Aplikasi Pembelajaran (ALP)</strong> bagi membangunkan
+komunikator yang yakin melalui kewartawanan dan penyiaran media. Program
+ini bertujuan untuk memupuk kemahiran praktikal serta kebolehan murid agar
+mereka dapat memahami makna di sebalik pembelajaran dan mengekalkan semangat
+serta rasa ingin tahu terhadap ilmu.</p>
+<p>Berpandukan rangka kerja <strong>“Keep Calm and Give”</strong>, Program
+Aplikasi Pembelajaran di bawah Unit Bahasa Melayu Sekolah Rendah Xishan
+menggunakan pendekatan progresif dengan merancang siri kursus yang rapi
+untuk menyerlahkan keupayaan bertutur murid dan memperkukuh kemahiran komunikasi
+mereka. Melalui program ini, murid dilatih menjadi komunikator yang berkesan
+dan yakin. Pelaksanaan program ini bagi murid-murid dari Primari 1 hingga
+Primari 6, memastikan perjalanan pembelajaran yang menyeluruh dan berterusan
+bagi semua murid.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture3.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture4.jpg">
-</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>Membangunkan komunikator yang yakin melalui kewartawanan dan penyiaran
 media</p>
 <p></p>
