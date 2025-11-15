@@ -71,10 +71,10 @@ berkongsi pandangan dan kisah mereka</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Program Bacaan MTL SOAR" src="/images/bacaan_mtl_soar.jpg">
 </div>
-<p>Program Bacaan MTL SOAR ialah satu inisiatif oleh Kementerian Pendidikan
-Singapura (MOE) di sekolah rendah yang dimulakan pada tahun 2025. Program
-ini bertujuan untuk memupuk minat membaca dalam bahasa ibunda murid. Akronim
-SOAR membawa maksud:</p>
+<p>Program <strong>Bacaan MTL SOAR</strong> ialah satu inisiatif oleh <strong>Kementerian Pendidikan Singapura (MOE)</strong> di
+sekolah rendah yang dimulakan pada tahun 2025. Program ini bertujuan untuk
+memupuk minat membaca dalam bahasa ibunda murid. Akronim <strong>SOAR</strong> membawa
+maksud:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Spark Interest (Mencetus Minat)</p>
@@ -89,9 +89,8 @@ SOAR membawa maksud:</p>
 <p>Rise As Confident Readers (Menjadi Pembaca yang Yakin)</p>
 </li>
 </ul>
-<p>Program ini menggunakan aktiviti menarik seperti penceritaan dan reka
-bentuk buku untuk menggalakkan pembacaan serta membantu murid mengembangkan
-kemahiran penting.</p>
+<p>Program ini menggunakan aktiviti menarik seperti <strong>penceritaan</strong> dan <strong>reka bentuk buku</strong> untuk
+menggalakkan pembacaan serta membantu murid mengembangkan kemahiran penting.</p>
 <p></p>
 <h3><strong>Lain-lain Program</strong></h3>
 <h4><strong>Semarak Budaya</strong></h4>
@@ -120,7 +119,7 @@ dalam masyarakat.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Pendedahan Teater" src="/images/pendedahan_teater.jpg">
 </div>
 <p>(Gambar : Pendedahan Teater 'Hantu Kaki Kotor' bagi murid-murid pada tahun
-2024!</p>
+2024)</p>
 <p>Pendedahan teater memberi peluang kepada murid Darjah 6 untuk menonton
 dan menghargai seni lakonan. Melalui pengalaman menonton, mereka dapat
 memahami bagaimana dialog, pergerakan, ekspresi wajah dan elemen pentas
