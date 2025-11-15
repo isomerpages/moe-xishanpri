@@ -23,8 +23,8 @@ Cikgu Farkhan</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Picture2.jpg">
 </div>
-<h3>Program Teras</h3>
-<h4>Program Aplikasi Pembelajaran (ALP)</h4>
+<h3><strong>Program Teras</strong></h3>
+<h4><strong>Program Aplikasi Pembelajaran (ALP)</strong></h4>
 <p>Sejak tahun 2019, Sekolah Rendah Xishan telah mula membangunkan dan melaksanakan
 sepenuhnya <strong>Program Aplikasi Pembelajaran (ALP)</strong> bagi membangunkan
 komunikator yang yakin melalui kewartawanan dan penyiaran media. Program
@@ -52,7 +52,7 @@ jelas dan menggunakan intonasi yang betul.</p>
 <p>Murid-murid menyampaikan skrip cerita yang diolah dan diperbaharu dengan
 intonasi dan gaya suara yang menarik dan pelbagai. Murid-murid membuat
 persembahan boneka lidi di hadapan kelas.</p>
-<h4><strong>Program Aplikasi Pembelajaran (ALP) dengan Penggunaan Teknologi Pembelajaran (EdTech) </strong></h4>
+<h4><strong>Program Aplikasi Pembelajaran (ALP) dengan Penggunaan Teknologi Pembelajaran (EdTech)</strong></h4>
 <p><strong>Primari 4 &amp; Primari 5: Membina Kemahiran Berfikir dan Mencipta Video Kewartawanan Menggunakan peralatan EdTech Canva</strong>
 </p>
 <p>Murid-murid mencipta video menggunakan aplikasi Canva dan merakam diri
@@ -71,7 +71,6 @@ berkongsi pandangan dan kisah mereka</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Program Bacaan MTL SOAR" src="/images/bacaan_mtl_soar.jpg">
 </div>
-<p></p>
 <p>Program Bacaan MTL SOAR ialah satu inisiatif oleh Kementerian Pendidikan
 Singapura (MOE) di sekolah rendah yang dimulakan pada tahun 2025. Program
 ini bertujuan untuk memupuk minat membaca dalam bahasa ibunda murid. Akronim
@@ -94,9 +93,8 @@ SOAR membawa maksud:</p>
 bentuk buku untuk menggalakkan pembacaan serta membantu murid mengembangkan
 kemahiran penting.</p>
 <p></p>
-<h3>Lain-lain Program</h3>
-<h4>Semarak Budaya</h4>
-<p></p>
+<h3><strong>Lain-lain Program</strong></h3>
+<h4><strong>Semarak Budaya</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Semarak Budaya" src="/images/semarak_budaya_combine.jpg">
 </div>
@@ -109,7 +107,7 @@ Melayu di luar bilik darjah, dengan menggunakan pendekatan pembelajaran
 berasaskan pengalaman yang interaktif bagi menjadikan proses pembelajaran
 lebih autentik, bermakna dan menyeronokkan</p>
 <p></p>
-<h4>Sambutan Hari Raya Aidilfitri </h4>
+<h4><strong>Sambutan Hari Raya Aidilfitri</strong></h4>
 <p>Konsert Hari Raya Aidilfitri meraikan keindahan budaya dan tradisi Melayu
 melalui muzik, tarian dan lakonan. Persembahan seperti zapin, joget dan
 lagu-lagu raya menghidupkan suasana meriah serta membangkitkan kenangan
@@ -117,8 +115,7 @@ indah. Acara ini turut menonjolkan adat bermaaf-maafan, kunjung-mengunjung
 dan busana tradisional. Selain menghiburkan, konsert ini mendidik generasi
 muda tentang warisan yang perlu dipelihara dan memperkukuhkan perpaduan
 dalam masyarakat.</p>
-<h4>Pendedahan Teater </h4>
-<p></p>
+<h4><strong>Pendedahan Teater</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pendedahan Teater" src="/images/pendedahan_teater.jpg">
 </div>
@@ -132,8 +129,8 @@ membantu murid mengembangkan kreativiti, kemahiran pemerhatian dan penghayatan
 terhadap seni persembahan. Menonton teater juga membina empati, pemikiran
 kritis dan keyakinan untuk berkomunikasi dalam situasi sebenar.</p>
 <p></p>
-<h3>Peraduan dan Pertandingan</h3>
-<h4>Pesta Bahasa Utara </h4>
+<h3><strong>Peraduan dan Pertandingan</strong></h3>
+<h4><strong>Pesta Bahasa Utara</strong></h4>
 <p><strong>Pesta Bahasa Utara</strong> ialah fiesta tahunan Bahasa Melayu
 yang menjadi wadah bagi murid untuk meraikan dan menonjolkan bakat mereka
 dalam bahasa dan budaya Melayu. Melalui pelbagai pertandingan berunsur
@@ -141,7 +138,7 @@ budaya, murid berpeluang untuk mengasah kemahiran berbahasa, meningkatkan
 kreativiti serta keyakinan diri, sambil berkongsi kecintaan mereka terhadap
 warisan Melayu.</p>
 <p></p>
-<h4>Rentas Pantas</h4>
+<h4><strong>Rentas Pantas</strong></h4>
 <p><strong>Rentas Pentas</strong> ialah acara tahunan Bahasa Melayu yang menjadi
 wadah bagi murid-murid meraikan dan menonjolkan bakat mereka dalam bahasa
 dan budaya Melayu. Melalui pelbagai pertandingan berunsurkan budaya ini,
@@ -149,14 +146,14 @@ murid berpeluang mengasah kemahiran berbahasa, meningkatkan kreativiti
 serta keyakinan diri, sambil berkongsi kecintaan mereka terhadap warisan
 Melayu.</p>
 <p></p>
-<h4>Pertandingan TeeVers (Peringkat Nasional) </h4>
+<h4><strong>Pertandingan TeeVers (Peringkat Nasional)</strong></h4>
 <p>Pertandingan tahunan ini dianjurkan khas untuk murid sekolah rendah yang
-dilantik sebagai Rakan Bahasa. Peserta dikehendaki menulis skrip drama
-audio selama tiga minit berdasarkan tema yang diberikan dan menghidupkannya
-melalui vokalisasi serta penceritaan kreatif menggunakan platform The Vactors
-Club.</p>
+dilantik sebagai <strong>Rakan Bahasa</strong>. Peserta dikehendaki menulis
+skrip drama audio selama tiga minit berdasarkan tema yang diberikan dan
+menghidupkannya melalui vokalisasi serta penceritaan kreatif menggunakan
+platform <strong>The Vactors Club</strong>.</p>
 <p></p>
-<h4>Pertandingan Pidato Budiman Bestari </h4>
+<h4><strong>Pertandingan Pidato Budiman Bestari</strong></h4>
 <p><strong>Pertandingan Pidato Budiman Bestari</strong> ialah pertandingan
 antara sekolah yang bertujuan untuk memupuk kemahiran bertutur Bahasa Melayu
 dengan fasih, keyakinan diri dan pemikiran kritikal dalam kalangan murid
