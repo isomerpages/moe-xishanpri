@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <h1><strong>Malay Language</strong></h1>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ML Dept group picture" src="/images/ml_group_photo25.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="staff photo" src="/images/Staff_photo.jpg">
 </div>
 <p>Di belakang: Cikgu Johan, Cikgu Shafiqah, Cikgu Diyanah, Cikgu Shahidah,
 Cikgu Farkhan</p>
@@ -59,7 +60,7 @@ persembahan boneka lidi di hadapan kelas.</p>
 membuat laporan mengenai tema yang diberikan</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Primari 6: Membina Kemahiran Pengacaraan melalui Penciptaan Podcast" src="/images/primary_6_membina_kemahiran.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Primary 6 : Membina Kemahiran" src="/images/primary6.jpg">
 </div>
 <p><strong>Primari 6: Membina Kemahiran Pengacaraan melalui Penciptaan Podcast</strong>
 </p>
@@ -69,7 +70,7 @@ berkongsi pandangan dan kisah mereka</p>
 <h4><strong>Program Bacaan MTL SOAR</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Program Bacaan MTL SOAR" src="/images/bacaan_mtl_soar.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Program Pembacaan MTL" src="/images/program_pembacaan.jpg">
 </div>
 <p>Program <strong>Bacaan MTL SOAR</strong> ialah satu inisiatif oleh <strong>Kementerian Pendidikan Singapura (MOE)</strong> di
 sekolah rendah yang dimulakan pada tahun 2025. Program ini bertujuan untuk
@@ -115,8 +116,9 @@ dan busana tradisional. Selain menghiburkan, konsert ini mendidik generasi
 muda tentang warisan yang perlu dipelihara dan memperkukuhkan perpaduan
 dalam masyarakat.</p>
 <h4><strong>Pendedahan Teater</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pendedahan Teater" src="/images/pendedahan_teater.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Pendedahan Teater" src="/images/Teater.jpg">
 </div>
 <p>(Gambar : Pendedahan Teater 'Hantu Kaki Kotor' bagi murid-murid pada tahun
 2024)</p>
