@@ -115,105 +115,17 @@ to keep the school premises clean and tidy.</p>
 <li>
 <p>Electronic items – For example, mobile phone, iPad, tablet, smart watch
 (except POSB Smart Buddy), etc.</p>
-<p></p>
 </li>
 </ul>
 <p>5.&nbsp;No jewellery or accessories are to be worn in school. Girls are
 allowed to wear a pair of simple gold or silver ear rings/ear studs. Accessories
 such as ear rings/ear studs and nose rings are<strong> not allowed</strong> for
 boys.</p>
-<p></p>
 <p>If the above-mentioned items in Paragraphs 4 &amp; 5 are found with the
 students, they will be confiscated and parents/guardians need to come to
 the school to collect the item(s) personally.</p>
 <p></p>
 <h3>Mobile Phones/Smart Watches Policy</h3>
-<p>All students are discouraged from bringing their mobile phones/smart watches
-to school. Should there be a need for students to bring their mobile phones/smart
-watches to school, students can go to the General Office at the beginning
-of the school term to request for a form on “Request for Permission to
-Bring Mobile Phone/Smart Watch to School” and have it completed by parents/guardians.
-School will evaluate and grant permission on a case-by-case basis. Do note
-that students can be contacted via the General Office and students can
-also use the phone in the General Office to contact parents/guardians if
-needed.</p>
-<p>Students are not to use their mobile phones/smart watches during school
-hours including recess, CCA and after-school programmes (e.g. supplementary
-/ enrichment / remedial lessons). Students who have been given the approval
-to bring their mobile phones/smart watches are to switch them off and put
-them in their school bags when they reach school. Students should bear
-responsibility for keeping their mobile phones/smart watches safe.</p>
-<p>Students are only allowed to use their mobile phones/smart watches outside
-the school compound after school hours.</p>
-<p>All students are reminded to exercise the school values (Self-Discipline,
-Integrity, Respect and Resilience) and behave responsibly at all times,
-both within and outside school premises. When wearing the school uniform,
-neat personal appearance and good personal conduct must be maintained at
-all times.</p>
-<p>1. Students who are Singapore citizens must sing the National Anthem and
-take the Pledge. Students will take the Pledge with the right fist clenched
-at the heart.</p>
-<p>2. Students are to wear the prescribed school uniform and modification
-to the uniform is NOT allowed.</p>
-<p>3. All male students must be clean-shaven at all times. Moustache and
-beard are NOT allowed.</p>
-<p>4. Students are not allowed to have in their possession any weapon. They
-are also not allowed to bring any weapon-like item which is intended to
-be used to cause harm to others.</p>
-<p>School Attire</p>
-<p>1. The prescribed PE attire must be worn for PE lessons and CCAs, and
-modification to the attire is strictly NOT allowed. Students are allowed
-to wear their PE attire on days they have PE or PAL lessons.</p>
-<p>2. P5 and P6 students are allowed to wear the school-issued CCA T-shirt
-every Thursday.</p>
-<p>3. All school Polo T-shirts must have the name tag sewn on the left side
-(above the school crest).</p>
-<p>4. All students must use school approved black shoes and black socks.
-Decorating the black shoes with accessories and colours is strictly NOT
-allowed. The black socks need to be above ankle level.</p>
-<p>Attendance</p>
-<p>1. Students are required to attend:</p>
-<p>• lessons every day and all assemblies,</p>
-<p>• all school functions as required,</p>
-<p>• remedial/supplementary classes (as informed by teachers), and</p>
-<p>• respective CCAs.</p>
-<p>2. Parents need to inform the school of their child’s absence from school
-or any of the activities mentioned above. Upon returning to school, the
-student must produce a medical certificate or a letter from the parent/guardian,
-stating the reason for absence.</p>
-<p>3. Students’ absence supported by a letter from their parent/guardian
-with a valid reason, for example, unwell the day after the period covered
-by the medical certificate, external examination for ballet or music, etc.
-would be denoted as Valid Reason (Private) [VR(P)]. The number of days
-absent due to VR(P) should not exceed 5 per semester. If a student exceeds
-the accepted number of VR(P) per semester, subsequent absences will be
-considered invalid and this will affect his/her conduct grade. Travelling
-during term time is generally not considered a valid reason for absence.
-Parents who wish to take their child overseas for vacation or to attend
-to personal matters should do so during the school holidays. If there is
-an urgent need to travel during term time, parents are requested to write
-in to the school.</p>
-<p>4. Students are to be punctual for all activities and must be appropriately
-dressed. Students must report to school by 7.30 a.m. Students will be considered
-as late if they are unable to reach the assembly point outside the canteen
-by 7.30 a.m.</p>
-<p>General</p>
-<p>1. Students must observe the 3Ps (Punctuality, Proper Attire and Proper
-Behaviour).</p>
-<p>2. Students are to take good care of the school property and help to keep
-the school premises clean and tidy.</p>
-<p>3. Students must put the school motto into practice: LOVE, CARE, SHARE.</p>
-<p>4. Students are not allowed to bring the following items to school:</p>
-<p>• Toys</p>
-<p>• Electronic items – For example, mobile phone, iPad, tablet, smart watch
-(except POSB Smart Buddy), etc.</p>
-<p>5. No jewellery or accessories are to be worn in school. Girls are allowed
-to wear a pair of simple gold or silver ear rings/ear studs. Accessories
-such as ear rings/ear studs and nose rings are not allowed for boys.</p>
-<p>If the above-mentioned items in Paragraphs 4 &amp; 5 are found with the
-students, they will be confiscated and parents/guardians need to come to
-the school to collect the item(s) personally.</p>
-<p>Mobile Phones/Smart Watches Policy</p>
 <p>All students are discouraged from bringing their mobile phones/smart watches
 to school. Should there be a need for students to bring their mobile phones/smart
 watches to school, students can go to the General Office at the beginning
