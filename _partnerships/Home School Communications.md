@@ -117,7 +117,7 @@ are available on our school website under ‘Staff’.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Parents/Guardians are advised to contact our staff during office hours
-(7.30 am – 5.00 pm). Other than in emergencies, staff are not required
+(7.30 am – 5.30 pm). Other than in emergencies, staff are not required
 to respond outside office hours or during school holidays.</p>
 </li>
 <li>
