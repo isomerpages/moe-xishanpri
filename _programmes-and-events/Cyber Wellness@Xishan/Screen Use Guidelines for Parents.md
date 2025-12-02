@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Cyber Wellness@Xishan
 ---
-<h3>Grow Well SG: Screen Use Guidelines for Primary School Children</h3>
+<h3><strong>Grow Well SG</strong>: Screen Use Guidelines for Primary School Children</h3>
 <p>As children become more adept with technology, guiding them towards healthy
 and purposeful screen use is an important aspect of their development.
 Under the <strong>Grow Well SG</strong> initiative, <strong>MOH</strong>,
@@ -15,7 +15,7 @@ age, including guidance for those aged <strong>7–12 years.</strong>
 </p>
 <p>The information below complements the national guidelines and outlines
 practical approaches for families to support healthy screen habits at home.</p>
-<p><strong>1.</strong>		<strong>Screen Use Overview</strong>
+<p><strong>1.</strong>  <strong>Screen Use Overview</strong>
 </p>
 <p>The infographic below from the <strong>Health Promotion Board (HPB)</strong> summarises
 the key recommended practices for healthy screen use in children, including
@@ -26,40 +26,40 @@ those aged 7–12 years.</p>
 </div>
 <p>These guidelines are based on extensive research conducted by MOH, which
 you can access by downloading the full report [here].</p>
-<p><strong>2.	Supporting Healthy Screen Habits at Home</strong>
+<p><strong>2. Supporting Healthy Screen Habits at Home</strong>
 </p>
 <p>To complement the guidance in the infographic, families may find the following
 approaches helpful:</p>
-<p><strong>a)	Be mindful of overall screen duration</strong>
+<p><strong>a) Be mindful of overall screen duration</strong>
 </p>
 <p>• Recreational screen use for children aged<strong> 7–12 years</strong> should
 be <strong>kept to less than 2 hours a day,</strong> excluding school-related
 learning.</p>
 <p>• Encourage breaks to avoid long, continuous screen use.</p>
-<p><strong>b)	Establish simple daily routines</strong>
+<p><strong>b) Establish simple daily routines</strong>
 </p>
 <p>• Use devices at predictable times (e.g., after homework).</p>
 <p>• Keep the hour before bedtime screen-free.</p>
 <p>• Ensure time each day for physical activity, reading and rest.</p>
-<p><strong>c)	Create screen-free moments</strong>
+<p><strong>c) Create screen-free moments</strong>
 </p>
 <p>• Maintain screen-free mealtimes.</p>
 <p>• Keep devices out of bedrooms at night.</p>
-<p><strong>d)	Be involved in your child’s digital world</strong>
+<p><strong>d) Be involved in your child’s digital world</strong>
 </p>
 <p>• Know what your child is watching or playing.</p>
 <p>• Discuss online safety, respectful communication and what to do if they
 encounter inappropriate content.</p>
-<p><strong>e)	Use parental controls</strong>
+<p><strong>e) Use parental controls</strong>
 </p>
 <p>Parents may find it helpful to set basic safeguards on devices:</p>
-<p>•	<strong>Apple devices (iPhone/iPad):</strong> Screen Time and Family Sharing
-(<em>Family Sharing - Apple (SG</em>)</p>
-<p>•	<strong>Android devices:</strong> Google Family Link (<em>Get started with Family Link - Google For Families Help</em>)</p>
-<p>•	<strong>Windows computers:</strong> Microsoft Family Safety (<em>Set up Microsoft Family Safety - Microsoft Support</em>)</p>
+<p>• <strong>Apple devices (iPhone/iPad):</strong> Screen Time and Family Sharing
+(<a href="https://www.apple.com/sg/family-sharing/" rel="noopener nofollow" target="_blank">Family Sharing - Apple (SG)</a>)</p>
+<p>• <strong>Android devices:</strong> Google Family Link (<a href="https://support.google.com/families/answer/7101025?hl=en#zippy=%2Chow-account-management-works%2Cmanage-your-childs-google-account" rel="noopener nofollow" target="_blank">Get started with Family Link - Google For Families Help</a>)</p>
+<p>• <strong>Windows computers:</strong> Microsoft Family Safety (<a href="https://support.microsoft.com/en-us/account-billing/set-up-microsoft-family-safety-b6280c9d-38d7-82ff-0e4f-a6cb7e659344" rel="noopener nofollow" target="_blank">Set up Microsoft Family Safety - Microsoft Support</a>)</p>
 <p>These tools help families ensure that device use stays age-appropriate
 and well-regulated.</p>
-<p><strong>3.	When to Review Screen Use</strong>
+<p><strong>3. When to Review Screen Use</strong>
 </p>
 <p>Parents may wish to review their family’s expectations if they observe:</p>
 <p>• Persistent difficulty stopping device use</p>
@@ -68,6 +68,7 @@ and well-regulated.</p>
 <p>• Sleep disruption linked to screen use</p>
 <p>If concerns persist, parents may contact the <strong>Form Teacher, Year Head</strong> or <strong>School Counsellor</strong>,
 or consult a healthcare professional.</p>
+<p></p>
 <p><strong>Health Hub: Grow Well SG - Nurturing Healthy Behaviours:</strong> 
 <a href="https://www.healthhub.sg/programmes/parent-hub/grow-well-sg/nurture-healthy-behaviours/#learn-well" rel="noopener nofollow" target="_blank">https://www.healthhub.sg/programmes/parent-hub/grow-well-sg/nurture-healthy-behaviours/#learn-well</a>
 </p>
