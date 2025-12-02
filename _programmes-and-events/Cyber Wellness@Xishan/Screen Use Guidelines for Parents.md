@@ -53,12 +53,15 @@ encounter inappropriate content.</p>
 <p><strong>e) Use parental controls</strong>
 </p>
 <p>Parents may find it helpful to set basic safeguards on devices:</p>
-<p>• <strong>Apple devices (iPhone/iPad):</strong> Screen Time and Family Sharing
-(<a href="https://www.apple.com/sg/family-sharing/" rel="noopener nofollow" target="_blank">Family Sharing - Apple (SG)</a>)</p>
-<p>• <strong>Android devices:</strong> Google Family Link (<a href="https://support.google.com/families/answer/7101025?hl=en#zippy=%2Chow-account-management-works%2Cmanage-your-childs-google-account" rel="noopener nofollow" target="_blank">Get started with Family Link - Google For Families Help</a>)</p>
-<p>• <strong>Windows computers:</strong> Microsoft Family Safety (<a href="https://support.microsoft.com/en-us/account-billing/set-up-microsoft-family-safety-b6280c9d-38d7-82ff-0e4f-a6cb7e659344" rel="noopener nofollow" target="_blank">Set up Microsoft Family Safety - Microsoft Support</a>)</p>
+<p>• <strong>Apple devices (iPhone/iPad):</strong>  <a href="https://www.apple.com/sg/family-sharing/" rel="noopener nofollow" target="_blank">Screen Time and Family Sharing</a> 
+</p>
+<p>• <strong>Android devices:</strong>  <a href="https://support.google.com/families/answer/7101025?hl=en#zippy=%2Chow-account-management-works%2Cmanage-your-childs-google-account" rel="noopener nofollow" target="_blank">Google Family Link</a> 
+</p>
+<p>• <strong>Windows computers:</strong>  <a href="https://support.microsoft.com/en-us/account-billing/set-up-microsoft-family-safety-b6280c9d-38d7-82ff-0e4f-a6cb7e659344" rel="noopener nofollow" target="_blank">Microsoft Family Safety</a>
+</p>
 <p>These tools help families ensure that device use stays age-appropriate
 and well-regulated.</p>
+<p></p>
 <p><strong>3. When to Review Screen Use</strong>
 </p>
 <p>Parents may wish to review their family’s expectations if they observe:</p>
