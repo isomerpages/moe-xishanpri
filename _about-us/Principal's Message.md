@@ -51,6 +51,5 @@ or taking time to understand different perspectives, <strong>every Xishanite can
 </p>
 <p>We look forward to partnering with parents and the wider community on
 this journey as we collectively shape tomorrow, today.</p>
-<p>Mrs Jane Chng</p>
-<p>Principal</p>
-<p></p>
+<p>Mrs Jane Chng
+<br>Principal</p>
