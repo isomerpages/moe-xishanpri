@@ -246,7 +246,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Bryan Ho Jun Wei</p>
+<p>Ms Padmanathan Bhuvaneswari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -257,7 +257,7 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Padmanathan Bhuvaneswari</p>
+<p>Mr Danial Syahmi Bin Dzulfaqar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
