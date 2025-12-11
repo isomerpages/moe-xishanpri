@@ -284,7 +284,7 @@ variant: tiptap
 <p>Ms P V Kanmani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>Science(int)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:p_v_kanmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">p_v_kanmani@moe.edu.sg</a>
@@ -511,13 +511,13 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms P V Kanmani</p>
+<p>Mr Mohamad Narul Azrin Bin Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:p_v_kanmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">p_v_kanmani@moe.edu.sg</a>
+<p><a href="mailto:mohamad_narul_azrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_narul_azrin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -571,13 +571,13 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Narul Azrin Bin Abdul Aziz</p>
+<p>Ms Koh Han Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Leadership</p>
+<p>Student Leadership(int)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamad_narul_azrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_narul_azrin@moe.edu.sg</a>
+<p><a href="mailto:mohamad_narul_azrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_yan_koh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
