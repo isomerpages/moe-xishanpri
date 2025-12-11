@@ -444,7 +444,7 @@ variant: tiptap
 <p>Ms Lee Yu Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science (Internal)</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_yu_xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_xin@schools.gov.sg</a>
