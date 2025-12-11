@@ -33,13 +33,13 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chia Hwa Tong</p>
+<p>Mdm Lim Seok Lian, Regina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
+<p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_hwa_tong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_hwa_tong@moe.edu.sg</a>
+<p><a href="mailto:lim_seok_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_seok_lian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -48,13 +48,13 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Seok Lian, Regina</p>
+<p>Mr Chia Hwa Tong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager</p>
+<p>Operation Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_seok_lian_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_seok_lian_a@moe.edu.sg</a>
+<p><a href="mailto:chia_hwa_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_hwa_tong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -63,13 +63,13 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Lee Lian</p>
+<p>Ms Toh Cian Pheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
+<p>Adjunct Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_lee_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_lee_lian@moe.edu.sg</a>
+<p><a href="mailto:toh_cian_pheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_cian_pheng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -186,6 +186,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
