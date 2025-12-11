@@ -284,7 +284,7 @@ variant: tiptap
 <p>Ms P V Kanmani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science(int)</p>
+<p>Science (int)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:p_v_kanmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">p_v_kanmani@moe.edu.sg</a>
@@ -574,7 +574,7 @@ variant: tiptap
 <p>Ms Koh Han Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Leadership(int)</p>
+<p>Student Leadership (int)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamad_narul_azrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_yan_koh@moe.edu.sg</a>
