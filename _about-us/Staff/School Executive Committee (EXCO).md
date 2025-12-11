@@ -602,7 +602,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_seok_lian_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_seok_lian_a@moe.edu.sg</a>
+<p><a href="mailto:lim_seok_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_seok_lian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -617,7 +617,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_hwa_tong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_hwa_tong@moe.edu.sg</a>
+<p><a href="mailto:chia_hwa_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_hwa_tong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -632,7 +632,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="azmi_ajis@moe.edu.sg" rel="noopener nofollow" target="_blank">azmi_ajis@moe.edu.sg</a>
+<p><a href="azmi_ajis@moe.edu.sg" rel="noopener nofollow" target="_blank">azmi_ajis@schools.gov.sg</a>
 </p>
 </td>
 </tr>
