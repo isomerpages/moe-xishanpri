@@ -78,13 +78,13 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Farekha Binte Dollah</p>
+<p>Mdm Ong Wei Nee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
+<p>Adjunct Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:farekha_dollah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farekha_dollah@moe.edu.sg</a>
+<p><a href="mailto:ong_wei_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wei_nee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -93,13 +93,13 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Marlina Binte Mohamed Ali</p>
+<p>Mdm Teo Lee Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:marlina_mohamed_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marlina_mohamed_ali@moe.edu.sg</a>
+<p><a href="mailto:teo_lee_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_lee_lian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -108,13 +108,13 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nicole Yeow Lin Kai</p>
+<p>Mdm Farekha Binte Dollah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Assistant</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nicole_yeow_lin_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_yeow_lin_kai@moe.edu.sg</a>
+<p><a href="mailto:farekha_dollah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farekha_dollah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -129,7 +129,7 @@ variant: tiptap
 <p>Adjunct Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rohanah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rohanah_ahmad@moe.edu.sg</a>
+<p><a href="mailto:rohanah_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rohanah_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -138,13 +138,13 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Cian Pheng</p>
+<p>Mr Azmi Bin Ajis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Assistant</p>
+<p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_cian_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_cian_pheng@moe.edu.sg</a>
+<p><a href="mailto:azmi_ajis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azmi_ajis@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
