@@ -39,14 +39,13 @@ third_nav_title: Staff
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mardhiah Binte Mansor</p>
-<p><a href="mailto:mardhiah_mansor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mardhiah_mansor@moe.edu.sg</a>
+<p>Mr Leslie Gwee</p>
+<p><a href="mailto:gwee_cher_siang_leslie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gwee_cher_siang_leslie@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Natalie Teng</p>
-<p><a href="mailto:teng_sing_kwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_sing_kwan@moe.edu.sg</a>
+<p>Mdm Lam Lai Fong Natalie</p>
+<p><a href="mailto:lam_lai_fong_natalie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_lai_fong_natalie@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
