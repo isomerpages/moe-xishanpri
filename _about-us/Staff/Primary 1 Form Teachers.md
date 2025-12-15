@@ -68,16 +68,12 @@ third_nav_title: Staff
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Choo Mei Fang</p>
-<p><a href="mailto:choo_mei_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_mei_fang@moe.edu.sg</a>
+<p>Mdm Chew Liang Liang</p>
+<p><a href="mailto:khoo-chew_liang_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo-chew_liang_liang@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Priya Gopalakrishnan</p>
-<p><a href="mailto:priya_gopalakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priya_gopalakrishnan@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Ms Liu Yutian</p>
-<p><a href="mailto:Liu_Yutian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yutian@moe.edu.sg</a>
+<p>Mdm Sarina Banu Noordin</p>
+<p><a href="mailto:sarina_banu_mohaideen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_banu_mohaideen@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -87,12 +83,12 @@ third_nav_title: Staff
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dewi Lee</p>
-<p><a href="mailto:lee_jia_hui_dewi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jia_hui_dewi@moe.edu.sg</a>
+<p>Ms Sutha Therumalai</p>
+<p><a href="mailto:sutha_therumalai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutha_therumalaii@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Diyanah Zahirah</p>
-<p><a href="mailto:diyanah_zahirah_amiral@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">diyanah_zahirah_amiral@moe.edu.sg</a>
+<p>Ms Li Wenling</p>
+<p><a href="mailto:li_wenling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_wenling@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
