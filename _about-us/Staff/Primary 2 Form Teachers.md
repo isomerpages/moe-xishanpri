@@ -39,12 +39,16 @@ third_nav_title: Staff
 <p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sutha Therumalai</p>
-<p><a href="mailto:sutha_therumalai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutha_therumalai@moe.edu.sg</a>
+<p>Mdm Mardhiah Bte Mansor</p>
+<p><a href="mailto:mardhiah_mansor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mardhiah_mansor@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Peng Chia Hui</p>
-<p><a href="mailto:peng_chia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peng_chia_hui@moe.edu.sg</a>
+<p>Ms Teng Sing Kwan Natalie</p>
+<p><a href="mailto:lam_lai_fong_natalie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_lai_fong_natalie@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Ms Xie Yuan</p>
+<p><a href="mailto:xie_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xie_yuan@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
