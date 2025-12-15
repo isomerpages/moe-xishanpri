@@ -284,7 +284,7 @@ variant: tiptap
 <p>Ms P V Kanmani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science (int)</p>
+<p>Science (internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:p_v_kanmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">p_v_kanmani@moe.edu.sg</a>
@@ -329,7 +329,7 @@ variant: tiptap
 <p>Ms Yvonne Lin Cui Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Physical &amp; Health Education and CCA (Internal)</p>
+<p>Physical &amp; Health Education and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lin_cuiwen_yvonne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_cuiwen_yvonne@moe.edu.sg</a>
@@ -574,7 +574,7 @@ variant: tiptap
 <p>Ms Koh Han Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Leadership (int)</p>
+<p>Student Leadership (internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamad_narul_azrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_yan_koh@moe.edu.sg</a>
