@@ -113,12 +113,12 @@ third_nav_title: Staff
 <p>1 Share</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Yin Peng</p>
-<p><a href="mailto:tan_yin_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yin_peng@moe.edu.sg</a>
+<p>Ms Wee Sze Yi Amanda</p>
+<p><a href="mailto:amanda_wee_sze_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amanda_wee_sze_yi@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Nur Quraisyah Bte Fisall</p>
-<p><a href="mailto:nur_quraisyah_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_quraisyah_fisall@moe.edu.sg</a>
+<p>Mdm Siti Zahirah Binte Hidzir</p>
+<p><a href="mailto:siti_zahirah_hidzir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zahirah_hidzir@moe.edu.sg</a>
 </p>
 <p></p>
 <p></p>
