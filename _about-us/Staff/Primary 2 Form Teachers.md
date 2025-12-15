@@ -58,12 +58,12 @@ third_nav_title: Staff
 <p>2 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chew Liang Liang</p>
-<p><a href="mailto:khoo-chew_liang_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo-chew_liang_liang@moe.edu.sg</a>
+<p>Mr Muhammad Nasiruddin Bin Jumari</p>
+<p><a href="mailto:muhd_nasiruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhd_nasiruddin@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Jeslyn Goh</p>
-<p><a href="mailto:goh_sock_cheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_sock_cheng_a@moe.edu.sg</a>
+<p>Ms Koh Han Yan</p>
+<p><a href="mailto:han_yan_koh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_yan_koh@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -73,13 +73,18 @@ third_nav_title: Staff
 <p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Adeline Yan</p>
-<p><a href="mailto:yan_peiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yan_peiyun@moe.edu.sg</a>
+<p>Ms Choo Mei Fang</p>
+<p><a href="mailto:choo_mei_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_mei_fang@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mr Muhammad Nasiruddin</p>
-<p><a href="mailto:muhd_nasiruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhd_nasiruddin@moe.edu.sg</a>
+<p>Mr Poh Miing Shan, Mark Lester</p>
+<p><a href="mailto:poh_ming_shan_mark@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_ming_shan_mark@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Ms Liu Yutian</p>
+<p><a href="mailto:liu_yutian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yutian@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
