@@ -53,12 +53,12 @@ third_nav_title: Staff
 <p>1 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Christine Ong</p>
-<p><a href="mailto:ong_guat_yeng_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_guat_yeng_christine@moe.edu.sg</a>
+<p>Ms Priya Gopal</p>
+<p><a href="mailto:priya_gopalakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priya_gopalakrishnan@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Koh Han Yan</p>
-<p><a href="mailto:han_yan_koh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_yan_koh@moe.edu.sg</a>
+<p>Mdm Magdalene Khoo Lyn Wen</p>
+<p><a href="mailto:magdalene_khoo_lyn_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magdalene_khoo_lyn_wen@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
