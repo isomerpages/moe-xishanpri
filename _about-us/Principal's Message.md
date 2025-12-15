@@ -4,45 +4,52 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Principal's Message 2025</strong></h1>
+<h1><strong>Principal's Message 2026</strong></h1>
 <p></p>
-<p><strong><u>Growing from Legacy, Creating New Possibilities Together</u></strong>
+<p><strong><u>iCare Leaders: Shaping Tomorrow Today</u></strong>
 </p>
-<p>Welcome back to school! On behalf of the Xishan community, I thank Mrs
-Anne Quek for her outstanding leadership and commitment to our school's
-growth. Together with our past Principals, Mrs Quek has nurtured Xishan
-Primary into a vibrant community while staying true to our school motto
-of <em>Love, Care, Share</em>.</p>
-<p>This year is particularly special, as we celebrate <strong>88 remarkable years of education</strong> at
-Xishan. Our rich legacy is a testament to the hard work, perseverance,
-and vision of those who have come before us. It is with great pride that
-I also share our school’s achievement of being awarded the Lee Hsien Loong
-Award for Innovations in Uplifting Students in 2024, a reflection of how
-far we’ve come in nurturing and empowering every Xishanite through a strong
-culture of care and inclusivity.</p>
-<p>As we look forward, I am excited to introduce our school theme for 2025: <strong>Growing from Legacy, Creating New Possibilities Together</strong>.
-This theme not only highlights the growth we have experienced over the
-years but also points us toward the exciting opportunities that lie ahead.
-Together, as one community, we will continue to build on our strengths
-and explore new ways to learn and grow.</p>
-<p>At Xishan Primary, our commitment to holistic well-being remains central.
-Through our <strong>Keep C.A.L.M. and Give</strong> approach, we will continue
-to nurture our students to become <strong>lifelong learners and contributing citizens </strong>who
-are both anchored in character values and developed in 21<sup>st</sup> Century
-Competencies (E21CC).</p>
+<p>As we welcome the new academic year, we are delighted to share our school's
+focus for 2026, which builds meaningfully upon the foundation established
+last year with our 'Start With Me' theme.</p>
+<p>This year marks an exciting milestone as we launch our refreshed Learn
+for Life Programme centred on student leadership development. Our theme,<strong> 'Shaping Tomorrow Today',</strong> calls
+upon every Xishanite to become a Pioneer of tomorrow by developing self-management
+skills, relationship-building capabilities and responsible decision-making
+habits that enable them to make positive contributions to their families,
+classes, school community and nation.</p>
+<p>Just as Singapore's pioneers worked tirelessly to build our nation from
+humble beginnings, demonstrating courage, resilience and commitment to
+the collective good, we encourage our students to embody this pioneering
+spirit by taking initiative, embracing challenges and working towards becoming
+better versions of themselves for the benefit of all.</p>
+<p>At the heart of this initiative is our<strong> iCARE Student Leadership Framework,</strong> which
+nurtures Xishanites to become leaders who innovate creatively, <strong>c</strong>onnect
+meaningfully with others, <strong>a</strong>dvocate responsibly for positive
+change, <strong>r</strong>ole-model excellence, and lead with <strong>e</strong>mpathy.
+This approach aligns closely with our school's vision to develop Lifelong
+Learners and Contributing Citizens, firmly anchored in our school values
+of Self-Discipline, Integrity, Respect and Resilience, and our school motto
+of Love, Care, Share.</p>
+<p>Building on last year's 'Start With Me' theme, the lowercase 'i' in <strong>i</strong>CARE
+emphasises that <strong>leadership begins with the individual. </strong>Each
+Xishanite's journey as an iCARE leader starts with personal growth and
+self-management, which then ripples outward to positively impact their
+peers, school community and beyond.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Growing_legacy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Student Leadership Framework 2026" src="/images/student_leadership_framework.png">
 </div>
-<p>As we embark on this new chapter, I invite our entire Xishan community
-- staff, students, parents, and partners - to join me and my Vice-Principals,
-Ms Latha and Mdm Lee, in<strong> reimagining the possibilities of learning together</strong>.
-The future of education, enabled by EdTech, is evolving, and with creativity,
-collaboration, and a shared vision, the possibilities before us are truly
-infinite. We have created a logo, which encapsulates the key ideas of our
-school theme for 2025, with the assistance of DALL-E. This is how we want
-to leverage technology to create new pathways together, explore new horizons,
-and push the boundaries of what we can achieve. Join us on our transformational
-journey!&nbsp;</p>
-<p>Mrs Jane Chng</p>
-<p>Principal</p>
+<p>We believe that leadership is not confined to those holding formal positions.
+Rather, it is about the influence and impact each student can make through
+their daily choices and actions. Whether it is finding creative solutions
+to everyday challenges, reaching out to support a peer, speaking up for
+what is right, choosing to do the right thing when no one is watching,
+or taking time to understand different perspectives, <strong>every Xishanite can lead, serve and make a difference.</strong>
+</p>
+<p>Through this refreshed student leadership curriculum, <strong>we aim to empower every student to become a better version of themselves, equipped with the skills and values to contribute meaningfully to building a caring and enabling school community where everyone can thrive.</strong>
+</p>
+<p>We look forward to partnering with parents and the wider community on
+this journey as we collectively shape tomorrow, today.</p>
+<p>Mrs Jane Chng
+<br>Principal</p>

@@ -33,13 +33,13 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chia Hwa Tong</p>
+<p>Mdm Lim Seok Lian, Regina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
+<p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_hwa_tong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_hwa_tong@moe.edu.sg</a>
+<p><a href="mailto:lim_seok_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_seok_lian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -48,13 +48,13 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Seok Lian, Regina</p>
+<p>Mr Chia Hwa Tong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager</p>
+<p>Operation Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_seok_lian_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_seok_lian_a@moe.edu.sg</a>
+<p><a href="mailto:chia_hwa_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_hwa_tong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -63,13 +63,13 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Lee Lian</p>
+<p>Ms Toh Cian Pheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
+<p>Adjunct Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_lee_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_lee_lian@moe.edu.sg</a>
+<p><a href="mailto:toh_cian_pheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_cian_pheng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -78,13 +78,13 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Farekha Binte Dollah</p>
+<p>Mdm Ong Wei Nee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
+<p>Adjunct Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:farekha_dollah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farekha_dollah@moe.edu.sg</a>
+<p><a href="mailto:ong_wei_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wei_nee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -93,13 +93,13 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Marlina Binte Mohamed Ali</p>
+<p>Mdm Teo Lee Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:marlina_mohamed_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marlina_mohamed_ali@moe.edu.sg</a>
+<p><a href="mailto:teo_lee_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_lee_lian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -108,13 +108,13 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nicole Yeow Lin Kai</p>
+<p>Mdm Farekha Binte Dollah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Assistant</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nicole_yeow_lin_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_yeow_lin_kai@moe.edu.sg</a>
+<p><a href="mailto:farekha_dollah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farekha_dollah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -123,13 +123,13 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rohanah Bte Ahmad</p>
+<p>Mdm Marlina Binte Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct Corporate Support Officer</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rohanah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rohanah_ahmad@moe.edu.sg</a>
+<p><a href="mailto:farekha_dollah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">marlina_mohamed_ali@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -138,20 +138,35 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Cian Pheng</p>
+<p>Mdm Rohanah Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Assistant</p>
+<p>Adjunct Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_cian_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_cian_pheng@moe.edu.sg</a>
+<p><a href="mailto:rohanah_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rohanah_ahmad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Azmi Bin Ajis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:azmi_ajis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azmi_ajis@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tee Siew Cheng</p>
@@ -165,7 +180,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ang Sue Tin</p>
@@ -179,13 +194,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Siew Mui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p>Adjunct Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Chen Yam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjunct Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -217,7 +246,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Bryan Ho Jun Wei</p>
+<p>Ms Padmanathan Bhuvaneswari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -228,7 +257,7 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Padmanathan Bhuvaneswari</p>
+<p>Mr Danial Syahmi Bin Dzulfaqar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
