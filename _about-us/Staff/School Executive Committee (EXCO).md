@@ -451,6 +451,21 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rachel Chee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA (internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Rachel_Chee_Wan_Lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rachel_Chee_Wan_Lin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Subject Heads</h3>
@@ -533,21 +548,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chiu_xin_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiu_xin_yan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Seow Qi En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Project (Environmental Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:seow_qi_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_qi_en@moe.edu.sg</a>
 </p>
 </td>
 </tr>
