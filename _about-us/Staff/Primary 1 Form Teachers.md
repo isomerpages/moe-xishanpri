@@ -98,12 +98,12 @@ third_nav_title: Staff
 <p>1 Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Lee Ying</p>
-<p><a href="mailto:teo_lee_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_lee_ying@moe.edu.sg</a>
+<p>Ms Aw Rui Shan Eugenia</p>
+<p><a href="mailto:aw_rui_shan_eugenia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aw_rui_shan_eugenia@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Mahalakshmi</p>
-<p><a href="mailto:mahalakshmi_alaghimanvalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahalakshmi_alaghimanvalan@moe.edu.sg</a>
+<p>Mdm Norizawaty Bte Sulaiman</p>
+<p><a href="mailto:norizawaty_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norizawaty_sulaiman@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
