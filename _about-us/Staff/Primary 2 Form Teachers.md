@@ -24,12 +24,12 @@ third_nav_title: Staff
 <p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Wee</p>
-<p><a href="mailto:amanda_wee_sze_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amanda_wee_sze_yi@moe.edu.sg</a>
+<p>Ms Sheralin See</p>
+<p><a href="mailto:see_kai_li_sheralin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_kai_li_sheralin_a@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mr Leslie Gwee</p>
-<p><a href="mailto:gwee_cher_siang_leslie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gwee_cher_siang_leslie@moe.edu.sg</a>
+<p>Mdm Peng Chia Hui</p>
+<p><a href="mailto:peng_chia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peng_chia_hui@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
