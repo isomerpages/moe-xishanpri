@@ -69,12 +69,12 @@ third_nav_title: Staff
 <p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joseph Loke</p>
-<p><a href="mailto:loke_peng_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_peng_kuan@moe.edu.sg</a>
+<p>Ms Jin Jing</p>
+<p><a href="mailto:jin_jing_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jin_jing_a@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Kayla Loh</p>
-<p><a href="mailto:loh_hui_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_hui_ming@moe.edu.sg</a>
+<p>Mr Teo Chia Chuan</p>
+<p><a href="mailto:teo_chia_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chia_chuan@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
