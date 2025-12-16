@@ -122,16 +122,12 @@ third_nav_title: Staff
 <p>2 Share</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jolene Cheng</p>
-<p><a href="mailto:cheng_pei_fern_jolene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_pei_fern_jolene@moe.edu.sg</a>
+<p>Mdm Tan Yin Peng</p>
+<p><a href="mailto:tan_yin_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yin_peng@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mr Anand Kumar</p>
-<p><a href="mailto:anand_kumar_manivanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anand_kumar_manivanan@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Ms Siti Horrianie</p>
-<p><a href="mailto:siti_horrianie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_horrianie@moe.edu.sg</a>
+<p>Ms Nur Quraisyah Bte Fisall</p>
+<p><a href="mailto:nur_quraisyah_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_quraisyah_fisall@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
