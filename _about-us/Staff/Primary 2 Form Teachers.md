@@ -92,12 +92,12 @@ third_nav_title: Staff
 <p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Rashidah</p>
-<p><a href="mailto:nur_rashidah_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_rashidah_abdullah@moe.edu.sg</a>
+<p>Ms Rachel Chee Wan Lin</p>
+<p><a href="mailto:rachel_chee_wan_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rachel_chee_wan_lin@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mr Ang Zi Jie</p>
-<p><a href="mailto:Ang_Zi_Jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_zi_jie@moe.edu.sg</a>
+<p>Ms Diyanah Zahirah binte Amiral</p>
+<p><a href="mailto:diyanah_zahirah_amiral@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">diyanah_zahirah_amiral@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -107,17 +107,14 @@ third_nav_title: Staff
 <p>2 Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Natasha Lin Kleinman</p>
-<p><a href="mailto:natasha_lin_kleinman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_lin_kleinman@moe.edu.sg</a>
+<p>Mdm Teo Lee Ying</p>
+<p><a href="mailto:teo_lee_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_lee_ying@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Norizawaty</p>
-<p><a href="mailto:norizawaty_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norizawaty_sulaiman@moe.edu.sg</a>
+<p>Ms Mahalakshmi</p>
+<p><a href="mailto:mahalakshmi_alaghimanvalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahalakshmi_alaghimanvalan@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Brenda ONg</p>
-<p><a href="mailto:Ong_Shi_Min_Brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shi_min_brenda@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
