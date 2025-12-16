@@ -24,12 +24,12 @@ third_nav_title: Staff
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liz Alfreda</p>
-<p><a href="mailto:liz_alfreda_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liz_alfreda_selamat@moe.edu.sg</a>
+<p>Ms Karliana Ahmad</p>
+<p><a href="mailto:karliana_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karliana_ahmad@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Rosalind Teo</p>
-<p><a href="mailto:teo_teng_li_rosalind@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_teng_li_rosalind@moe.edu.sg</a>
+<p>Ms Kokoro Choda</p>
+<p><a href="mailto:teo_teng_li_rosalind@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kokoro_choda@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -39,12 +39,12 @@ third_nav_title: Staff
 <p>3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yvette Lai</p>
-<p><a href="mailto:yvette_lye_hei_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yvette_lye_hei_mun@moe.edu.sg</a>
+<p>Mdm Nisha Ling</p>
+<p><a href="mailto:nisha_keshyiap_ram_putre@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nisha_keshyiap_ram_putre@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Brenda Tan</p>
-<p><a href="mailto:tan_geok_hong_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_geok_hong_brenda@moe.edu.sg</a>
+<p>Mr Liew Siu Chen</p>
+<p><a href="mailto:liew_siu_chen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_siu_chen@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -54,12 +54,12 @@ third_nav_title: Staff
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Yu Xin</p>
-<p><a href="mailto:lee_yu_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_xin@moe.edu.sg</a>
+<p>Mr Choo Chang Choon</p>
+<p><a href="mailto:choo_chang_joon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_chang_joon@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mdm Gong Yaqin</p>
-<p><a href="mailto:gong_yaqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gong_yaqin@moe.edu.sg</a>
+<p>Mdm Siti Horrianie Binte Osman</p>
+<p><a href="mailto:siti_horrianie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_horrianie@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
