@@ -305,18 +305,6 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ting Tiong Hin, Wilson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ting_tiong_hin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ting_tiong_hin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Nur 'Adilah Binte Mohammad Sulaimun</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -326,13 +314,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Fadzil Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Fadzil_Ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Fadzil_Ismail@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Yi Qing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lim_Yi_Qing_C@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Yi_Qing_C@moe.edu.sg</a>
 </p>
 </td>
 </tr>
