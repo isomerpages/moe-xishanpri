@@ -411,7 +411,7 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yu Lu</p>
+<p>Mdm Yu Lu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Language &amp; ALP - IPW</p>
@@ -453,7 +453,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rachel Chee</p>
@@ -463,6 +463,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Rachel_Chee_Wan_Lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rachel_Chee_Wan_Lin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Choo Mei Fang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language (internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:choo_mei_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_mei_fang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
