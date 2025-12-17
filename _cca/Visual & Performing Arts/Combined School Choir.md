@@ -44,7 +44,7 @@ third_nav_title: Visual & Performing Arts
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Dayna Wang Xiao</p>
+<p>Ms Dayna Wang Xiao Dan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dayna_wang_xiao_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dayna_wang_xiao_dan@moe.edu.sg</a>
