@@ -21,6 +21,16 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Phua Zhi Yu Joanna</p>
+<p><a href="mailto:phua_zhi_yu_joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_zhi_yu_joanna@moe.edu.s</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
