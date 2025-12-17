@@ -37,7 +37,7 @@ variant: tiptap
 <p>Ms Li Wenling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_wenling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gong_yaqin@moe.edu.sg</a>
+<p><a href="mailto:li_wenling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_wenling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
