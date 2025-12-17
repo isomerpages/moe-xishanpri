@@ -25,7 +25,11 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Phua Zhi Yu Joanna</p>
-<p><a href="mailto:phua_zhi_yu_joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_zhi_yu_joanna@moe.edu.s</a>
+<p><a href="mailto:phua_zhi_yu_joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_zhi_yu_joanna@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mdm Isabelle Chan Poey Cassandra</p>
+<p><a href="mailto:isabelle_chan_poey_cassandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">isabelle_chan_poey_cassandra@moe.edu.sg</a>
 </p>
 </td>
 </tr>
