@@ -34,10 +34,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chiu Xin Yan</p>
+<p>Mr Ahmad Farkhan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chiu_xin_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiu_xin_yan@moe.edu.sg</a>
+<p><a href="mailto:ahmad_farkhan_mohd_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_farkhan_mohd_nasir@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -52,19 +52,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Nasiruddin</p>
+<p>Mr Poh Ming Shan, Mark Lester</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhd_nasiruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhd_nasiruddin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Brenda Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_shi_min_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_shi_min_brenda@moe.edu.sg</a>
+<p><a href="mailto:poh_ming_shan_mark@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_ming_shan_mark@moe.edu.sg</a>
 </p>
 </td>
 </tr>
