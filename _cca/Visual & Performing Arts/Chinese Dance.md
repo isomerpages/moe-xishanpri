@@ -23,7 +23,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Natalie Lam</p>
+<p>Ms Natalie Lam (Teacher I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Lam_Lai_Fong_Natalie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lam_lai_fong_natalie@moe.edu.sg</a>
