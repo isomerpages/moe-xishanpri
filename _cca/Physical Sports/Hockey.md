@@ -34,6 +34,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chiu Xin Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chiu_xin_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiu_xin_yan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Christopher Martin Philix</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,19 +52,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mahalakshmi</p>
+<p>Mr Teo Chia Chuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mahalakshmi_alaghimanvalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mahalakshmi_alaghimanvalan@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jude Anthony</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Jude_Anthony_Roland@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jude_anthony_roland@moe.edu.sg</a>
+<p><a href="mailto:teo_chia_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_chia_chuan@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
