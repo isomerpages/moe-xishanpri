@@ -190,7 +190,8 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:y_asaithamby@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">y_asaithamby@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
