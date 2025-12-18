@@ -43,10 +43,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mabel Feng Li Ting</p>
+<p>Mdm Balakrishnan Vijayasaraswathi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:feng_li_ting_mabel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">feng_li_ting_mabel@moe.edu.sg</a>
+<p><a href="mailto:balakrishnan_vijayasaraswathi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">balakrishnan_vijayasaraswathi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
