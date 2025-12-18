@@ -37,36 +37,6 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kamalam Govindasamy (Mrs Venugoal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kamalam_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamalam_govindasamy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Gong Ya Qin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:gong_ya_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gong_ya_qin@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Nur Shafiqah Bte Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,7 +49,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Lai Sim, Patricia</p>
@@ -94,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chia Pei Ying, Hazel</p>
@@ -109,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Salyna Mohd Sahir</p>
@@ -124,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joanne Yeow Wen Lin</p>
@@ -138,7 +108,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kuah Kim Geok (Mrs Ho)</p>
@@ -153,7 +123,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shariffa Zubaidah Begum Chishty&nbsp;</p>
@@ -162,52 +132,22 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shariffa_zubaidah_begum_chishty@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shariffa_zubaidah_begum_chishty@moe.edu.sg</a>
+<p><a href="mailto:shariffa_zubaidah_begum_chishty@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shariffa_zubaidah_begum_chishty@moe.edu.CAsg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hazlinda Bte Mohammed Lahir</p>
+<p>Mr Grady Ho Eng Gay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FAJT</p>
+<p>CAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rose_ng_jia_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hazlinda_mohammed_lahir@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jeslyn Goh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_sock_cheng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_sock_cheng_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Siti Horrianie Binte Osman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_horrianie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_horrianie@moe.edu.sg</a>
+<p><a href="mailto:ho_eng_gay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_eng_gay@moe.edu.sg</a>
 </p>
 </td>
 </tr>
