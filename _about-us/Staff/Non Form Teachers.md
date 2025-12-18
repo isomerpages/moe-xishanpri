@@ -151,6 +151,48 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mariam Natchiar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Suppiah Chandra Sagaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Y Asaithamby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>School Counsellors</h3>
