@@ -25,7 +25,7 @@ third_nav_title: Physical Sports
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Hui Min (IC)</p>
+<p>Mdm Soh Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soh_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_hui_min@moe.edu.sg</a>
@@ -34,10 +34,46 @@ third_nav_title: Physical Sports
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muhammad Nasiruddin (2 IC)</p>
+<p>Mr Muhammad Nasiruddin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhd_nasiruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhd_nasiruddin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Shahidah Bte Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_shahidah_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shahidah_ismail@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Lee Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_yee_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_yee_lin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Suppiah Chandra Sagaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chandra_sagaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chandra_sagaran@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Xin Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_xin_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
