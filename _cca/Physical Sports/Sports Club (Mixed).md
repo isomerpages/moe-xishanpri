@@ -62,7 +62,6 @@ third_nav_title: Physical Sports
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Sarah Bte Sokran</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_sarah_sokran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_sarah_sokran@moe.edu.sg</a>
@@ -76,7 +75,6 @@ third_nav_title: Physical Sports
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_rashidah_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_rashidah_abdullah@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
