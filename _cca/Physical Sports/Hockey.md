@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Joanna Phua</p>
+<p>Ms Joanna Phua (Teacher I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:phua_zhi_yu_joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_zhi_yu_joanna@moe.edu.sg</a>
