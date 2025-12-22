@@ -25,7 +25,7 @@ third_nav_title: Physical Sports
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Hui Min</p>
+<p>Mdm Soh Hui Min (Teacher I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soh_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_hui_min@moe.edu.sg</a>
@@ -66,7 +66,8 @@ third_nav_title: Physical Sports
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:siti_sarah_sokran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_sarah_sokran@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -74,6 +75,8 @@ third_nav_title: Physical Sports
 <p>Mdm Nur Rashidah Bte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:nur_rashidah_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_rashidah_abdullah@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
