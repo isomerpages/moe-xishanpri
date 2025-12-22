@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Chee</p>
+<p>Ms Rachel Chee (Teacher I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chee_wan_lin_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_wan_lin_rachel@moe.edu.sg</a>
