@@ -43,11 +43,38 @@ third_nav_title: Physical Sports
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Goh Xin Yi</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_xin_yi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Nur Shahidah Bte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_shahidah_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shahidah_ismail@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Sarah Bte Sokran</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Rashidah Bte Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
