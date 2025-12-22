@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Choo Chang Joon</p>
+<p>Mr Choo Chang Joon (Teacher I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:choo_chang_joon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_chang_joon@moe.edu.sg</a>
