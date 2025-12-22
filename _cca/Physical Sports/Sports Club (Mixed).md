@@ -70,10 +70,10 @@ third_nav_title: Physical Sports
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Xin Yi</p>
+<p>Mdm Magdalene Khoo Lyn Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_xin_yi@moe.edu.sg</a>
+<p><a href="mailto:magdalene_khoo_lyn_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magdalene_khoo_lyn_wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
