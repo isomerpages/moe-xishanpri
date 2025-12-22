@@ -44,7 +44,6 @@ third_nav_title: Physical Sports
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Xin Yi</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_xin_yi@moe.edu.sg</a>
