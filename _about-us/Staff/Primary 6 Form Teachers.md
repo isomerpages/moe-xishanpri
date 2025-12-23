@@ -21,30 +21,15 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Soh Hui Min</p>
-<p><a href="mailto:soh_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_hui_min@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Ms Mabel Feng</p>
-<p><a href="mailto:feng_li_ting_mabel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">feng_li_ting_mabel@moe.edu.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joanna Phua</p>
-<p><a href="mailto:phua_zhi_yu_joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_zhi_yu_joanna@moe.edu.sg</a>
+<p>Ms Low Shimin Ivy</p>
+<p><a href="mailto:low_shimin_ivy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_shimin_ivy@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mr Ahmad Farkhan</p>
-<p><a href="mailto:ahmad_farkhan_mohd_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_farkhan_mohd_nasir@moe.edu.sg</a>
+<p>Ms Tan Li Ting</p>
+<p><a href="mailto:tan_li_ting_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_ting_a@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -54,16 +39,12 @@ third_nav_title: Staff
 <p>6 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Seow Qi En</p>
-<p><a href="mailto:seow_qi_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_qi_en@moe.edu.sg</a>
+<p>Mdm Yu Lu</p>
+<p><a href="mailto:yu_lu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_lu@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mrs Venu</p>
-<p><a href="mailto:kamalam_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamalam_govindasamy@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Ms Hazlinda</p>
-<p><a href="mailto:hazlinda_mohamed_lahir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hazlinda_mohamed_lahir@moe.edu.sg</a>
+<p>Mdm Nurfarazila Abdul Azman</p>
+<p><a href="mailto:nurfarazila_abdul_azman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurfarazila_abdul_azman@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -73,12 +54,12 @@ third_nav_title: Staff
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nisha Ling</p>
-<p><a href="mailto:nisha_keshyiap_ram_putre@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nisha_keshyiap_ram_putre@moe.edu.sg</a>
+<p>Ms Dayna Wang Xiao Dan</p>
+<p><a href="mailto:dayna_wang_xiao_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dayna_wang_xiao_dan@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Jin Jing</p>
-<p><a href="mailto:jin_jing_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jin_jing_a@moe.edu.sg</a>
+<p>Mr Ahmad Farkhan Bin Mohd Nasir</p>
+<p><a href="mailto:ahmad_farkhan_mohd_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_farkhan_mohd_nasir@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -88,12 +69,12 @@ third_nav_title: Staff
 <p>6 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fadzlina Malik</p>
-<p><a href="mailto:fadzlina_malik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fadzlina_malik@moe.edu.sg</a>
+<p>Mdm Siti Sarah Bte Sokran</p>
+<p><a href="mailto:siti_sarah_sokran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_sarah_sokran@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mr Kum Chee Fai</p>
-<p><a href="mailto:kum_chee_fai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kum_chee_fai@moe.edu.sg</a>
+<p>Mdm Liu Zengjiao</p>
+<p><a href="mailto:iu_zengjiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iu_zengjiao@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -103,12 +84,12 @@ third_nav_title: Staff
 <p>6 Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liu ZengJiao</p>
-<p><a href="mailto:liu_zengjiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_zengjiao@moe.edu.sg</a>
+<p>Ms Goh Xin Yi</p>
+<p><a href="mailto:goh_xin_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_xin_yi_a@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Tan Hong Kai</p>
-<p><a href="mailto:tan_hong_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_kai@moe.edu.sg</a>
+<p>Mr Anand Kumar s/o Manivanan</p>
+<p><a href="mailto:anand_kumar_manivanan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anand_kumar_manivanan_a@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
