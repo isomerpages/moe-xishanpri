@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Kayla Ng</p>
+<p>Mdm Loh Hui Ming Kayla (Teacher I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loh_hui_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_hui_ming@moe.edu.sg</a>
@@ -34,20 +34,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Hong Kai</p>
+<p>Ms Amanda Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Hong_Kai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_kai</a>
-<a href="mailtoTan_Hong_Kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:amanda_wee_sze_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amanda_wee_sze_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Natasha Lin Kleinman</p>
+<p>Ms Mahalakshmi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:natasha_lin_kleinman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_lin_kleinman@moe.edu.sg</a>
+<p><a href="mailto:mahalakshmi_alaghimanvalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahalakshmi_alaghimanvalan@moe.edu.sg</a>
 </p>
 </td>
 </tr>

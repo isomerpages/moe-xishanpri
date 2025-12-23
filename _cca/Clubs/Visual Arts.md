@@ -25,23 +25,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheng Pei Fern Jolene</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_pei_fern_jolene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_pei_fern_jolene@moe.edu.sg</a> &nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Shafiqah Binte Abdul Aziz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Nur_Shafiqah_Abdul_Aziz@schools.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shafiqah_abdul_aziz@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Quraisyah Fisall</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,6 +38,33 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Aw_Rui_Shan_Eugenia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aw_rui_shan_eugenia@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lu Baoyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lu_baoyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lu_baoyan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sarina Banu Noordin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sarina_banu_mohaideen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_banu_mohaideen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Shafiqah Binte Abdul Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nur_Shafiqah_Abdul_Aziz@schools.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shafiqah_abdul_aziz@moe.edu.sg</a>
 </p>
 </td>
 </tr>

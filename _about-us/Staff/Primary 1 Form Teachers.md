@@ -53,12 +53,12 @@ third_nav_title: Staff
 <p>1 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Christine Ong</p>
-<p><a href="mailto:ong_guat_yeng_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_guat_yeng_christine@moe.edu.sg</a>
+<p>Ms Priya Gopal</p>
+<p><a href="mailto:priya_gopalakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priya_gopalakrishnan@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Koh Han Yan</p>
-<p><a href="mailto:han_yan_koh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_yan_koh@moe.edu.sg</a>
+<p>Mdm Magdalene Khoo Lyn Wen</p>
+<p><a href="mailto:magdalene_khoo_lyn_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magdalene_khoo_lyn_wen@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -68,16 +68,12 @@ third_nav_title: Staff
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Choo Mei Fang</p>
-<p><a href="mailto:choo_mei_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_mei_fang@moe.edu.sg</a>
+<p>Mdm Chew Liang Liang</p>
+<p><a href="mailto:khoo-chew_liang_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo-chew_liang_liang@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Priya Gopalakrishnan</p>
-<p><a href="mailto:priya_gopalakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priya_gopalakrishnan@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Ms Liu Yutian</p>
-<p><a href="mailto:Liu_Yutian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yutian@moe.edu.sg</a>
+<p>Mdm Sarina Banu Noordin</p>
+<p><a href="mailto:sarina_banu_mohaideen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_banu_mohaideen@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -87,12 +83,12 @@ third_nav_title: Staff
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dewi Lee</p>
-<p><a href="mailto:lee_jia_hui_dewi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jia_hui_dewi@moe.edu.sg</a>
+<p>Ms Sutha Therumalai</p>
+<p><a href="mailto:sutha_therumalai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sutha_therumalaii@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Diyanah Zahirah</p>
-<p><a href="mailto:diyanah_zahirah_amiral@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">diyanah_zahirah_amiral@moe.edu.sg</a>
+<p>Ms Li Wenling</p>
+<p><a href="mailto:li_wenling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_wenling@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -102,12 +98,12 @@ third_nav_title: Staff
 <p>1 Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Lee Ying</p>
-<p><a href="mailto:teo_lee_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_lee_ying@moe.edu.sg</a>
+<p>Ms Aw Rui Shan Eugenia</p>
+<p><a href="mailto:aw_rui_shan_eugenia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aw_rui_shan_eugenia@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Mahalakshmi</p>
-<p><a href="mailto:mahalakshmi_alaghimanvalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahalakshmi_alaghimanvalan@moe.edu.sg</a>
+<p>Mdm Norizawaty Bte Sulaiman</p>
+<p><a href="mailto:norizawaty_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norizawaty_sulaiman@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -117,12 +113,12 @@ third_nav_title: Staff
 <p>1 Share</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Yin Peng</p>
-<p><a href="mailto:tan_yin_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yin_peng@moe.edu.sg</a>
+<p>Ms Wee Sze Yi Amanda</p>
+<p><a href="mailto:amanda_wee_sze_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amanda_wee_sze_yi@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Nur Quraisyah Bte Fisall</p>
-<p><a href="mailto:nur_quraisyah_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_quraisyah_fisall@moe.edu.sg</a>
+<p>Mdm Siti Zahirah Binte Hidzir</p>
+<p><a href="mailto:siti_zahirah_hidzir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zahirah_hidzir@moe.edu.sg</a>
 </p>
 <p></p>
 <p></p>

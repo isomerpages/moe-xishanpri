@@ -23,10 +23,10 @@ third_nav_title: Clubs
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Adeline Yan</p>
+<p>Mdm Tan Hong Kai (Teacher I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yan_peiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yan_peiyun@moe.edu.sg</a>
+<p><a href="mailto:tan_hong_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_kai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -41,10 +41,10 @@ third_nav_title: Clubs
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Eileen Tan</p>
+<p>Mdm Gerine Sng Yi Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Eileen_TAN@moe.edu.sg" rel="noopener nofollow" target="_blank">eileen_tan@moe.edu.sg</a>
+<p><a href="mailto:sng_yi_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sng_yi_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>

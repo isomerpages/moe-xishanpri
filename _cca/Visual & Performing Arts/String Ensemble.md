@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Zengjiao</p>
+<p>Mdm Liu Zengjiao (Teacher I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liu_zengjiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_zengjiao@moe.edu.sg</a>
@@ -47,6 +47,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:khoo-chew_liang_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo-chew_liang_liang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Samuel Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:samuel_loh_chee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_loh_chee_yong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
