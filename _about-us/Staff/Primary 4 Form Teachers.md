@@ -39,12 +39,12 @@ third_nav_title: Staff
 <p>4 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eileen Tan</p>
-<p><a href="mailto:eileen_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eileen_tan@moe.edu.sg</a>
+<p>Mrs Brenda Tan Geok Hong</p>
+<p><a href="mailto:tan_geok_hong_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_geok_hong_brenda@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mr Jude Anthony</p>
-<p><a href="mailto:jude_anthony_roland@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jude_anthony_roland@moe.edu.sg</a>
+<p>Mrs Venu</p>
+<p><a href="mailto:kamalam_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamalam_govindasamy@moe.edu.sg</a>
 </p>
 <p></p>
 <p></p>
@@ -56,12 +56,12 @@ third_nav_title: Staff
 <p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kanmani</p>
-<p><a href="mailto:P_v_kanmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">P_v_kanmani@moe.edu.sg</a>
+<p>Ms Lee Yu Xin</p>
+<p><a href="mailto:P_v_kanmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_xin@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Magdalene Khoo</p>
-<p><a href="mailto:Magdalene_Khoo_Lyn_Wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Magdalene_Khoo_Lyn_Wen@moe.edu.sg</a>
+<p>Ms Ms Goh Sock Cheng Jeslyn</p>
+<p><a href="mailto:goh_sock_cheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_sock_cheng_a@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -71,12 +71,12 @@ third_nav_title: Staff
 <p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jamie Ng</p>
-<p><a href="mailto:ng_tai_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_tai_mui@moe.edu.sg</a>
+<p>Mdm Loh Hui Ming Kayla</p>
+<p><a href="mailto:ng_tai_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_hui_ming@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Liew Siu Chen</p>
-<p><a href="mailto:liew_siu_chen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_siu_chen@moe.edu.sg</a>
+<p>Mr Ang Zi Jie</p>
+<p><a href="mailto:ang_zi_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_zi_jie@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
