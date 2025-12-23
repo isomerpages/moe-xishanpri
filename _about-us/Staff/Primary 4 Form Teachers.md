@@ -21,30 +21,15 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Karliana</p>
-<p><a href="mailto:karliana_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karliana_ahmad@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Ms Rachel Chee</p>
-<p><a href="mailto:chee_wan_lin_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_wan_lin_rachel@moe.edu.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Loy Li Siah</p>
-<p><a href="mailto:loy_li_siah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loy_li_siah@moe.edu.sg</a>
+<p>Mdm Teo Teng Li Rosalind</p>
+<p><a href="mailto:teo_teng_li_rosalind@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_teng_li_rosalind@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Balakrishnan Vijayasaraswathi</p>
-<p><a href="mailto:balakrishnan_vijayasaraswathi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">balakrishnan_vijayasaraswathi@moe.edu.sg</a>
+<p>Mr Samuel Loh Chee Yong</p>
+<p><a href="mailto:samuel_loh_chee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_loh_chee_yong@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
