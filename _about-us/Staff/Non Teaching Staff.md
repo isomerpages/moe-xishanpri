@@ -159,7 +159,7 @@ variant: tiptap
 <p>Adjunct Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rohanah_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rohanah_ahmad@moe.edu.sg</a>
+<p><a href="mailto:rohanah_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rohanah_ahmad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
