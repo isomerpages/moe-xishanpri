@@ -43,7 +43,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_shafiqah_abdul_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shafiqah_abdul_aziz@moe.edu.sg</a>
+<p><a href="mailto:nur_shafiqah_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shafiqah_abdul_aziz@moe.edu.sg</a>
 </p>
 </td>
 </tr>
