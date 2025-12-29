@@ -641,6 +641,21 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Mabel Feng Li Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:feng_li_ting_mabel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">feng_li_ting_mabel@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Chia Hwa Tong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -653,7 +668,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Azmi bin Ajis</p>
