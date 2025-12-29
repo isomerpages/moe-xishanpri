@@ -299,7 +299,7 @@ variant: tiptap
 <p>Ms Mavis Lim Ai Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Management &amp; Educational Support</p>
+<p>Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_ai_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ai_lian@moe.edu.sg</a>
@@ -414,7 +414,7 @@ variant: tiptap
 <p>Mdm Yu Lu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Language &amp; ALP - IPW</p>
+<p>Chinese Language &amp; Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yu_lu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_lu@moe.edu.sg</a>
@@ -447,7 +447,7 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yu_xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_xin@schools.gov.sg</a>
+<p><a href="mailto:lee_yu_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_xin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -462,7 +462,7 @@ variant: tiptap
 <p>CCA (&amp; PAL) (internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Rachel_Chee_Wan_Lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rachel_Chee_Wan_Lin@schools.gov.sg</a>
+<p><a href="mailto:chee_wan_lin_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_wan_lin_rachel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
