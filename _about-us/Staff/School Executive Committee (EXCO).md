@@ -544,7 +544,7 @@ variant: tiptap
 <p>Mr Mohamad Narul Azrin Bin Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Well-Being</p>
+<p>Student Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamad_narul_azrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_narul_azrin@moe.edu.sg</a>
