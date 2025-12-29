@@ -127,7 +127,7 @@ variant: tiptap
 <p>Year Head (P1 &amp; P4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lau_tyng_tyng_mandy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_tyng_tyng_mandy@moe.edu.sg</a>
+<p><a href="mailto:wong_mei_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_mei_li@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -459,7 +459,7 @@ variant: tiptap
 <p>Ms Rachel Chee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA (&amp; PAL) (internal)</p>
+<p>CCA &amp; PAL (internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chee_wan_lin_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_wan_lin_rachel@moe.edu.sg</a>
