@@ -284,7 +284,7 @@ variant: tiptap
 <p>Ms P V Kanmani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>Science (internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:p_v_kanmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">p_v_kanmani@moe.edu.sg</a>
