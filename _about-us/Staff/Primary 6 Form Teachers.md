@@ -74,7 +74,7 @@ third_nav_title: Staff
 </p>
 <p></p>
 <p>Mdm Liu Zengjiao</p>
-<p><a href="mailto:iu_zengjiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_zengjiao@moe.edu.sg</a>
+<p><a href="mailto:liu_zengjiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_zengjiao@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
