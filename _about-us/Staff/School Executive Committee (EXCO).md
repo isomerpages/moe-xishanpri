@@ -127,7 +127,7 @@ variant: tiptap
 <p>Year Head (P1 &amp; P4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lau_tyng_tyng_mandy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_tyng_tyng_mandy@moe.edu.sg</a>
+<p><a href="mailto:wong_mei_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_mei_li@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -284,7 +284,7 @@ variant: tiptap
 <p>Ms P V Kanmani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science (int)</p>
+<p>Science (internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:p_v_kanmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">p_v_kanmani@moe.edu.sg</a>
@@ -299,7 +299,7 @@ variant: tiptap
 <p>Ms Mavis Lim Ai Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Management &amp; Educational Support</p>
+<p>Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_ai_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ai_lian@moe.edu.sg</a>
@@ -329,7 +329,7 @@ variant: tiptap
 <p>Ms Yvonne Lin Cui Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Physical &amp; Health Education and CCA (Internal)</p>
+<p>Physical &amp; Health Education and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lin_cuiwen_yvonne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_cuiwen_yvonne@moe.edu.sg</a>
@@ -411,10 +411,10 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yu Lu</p>
+<p>Mdm Yu Lu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Language &amp; ALP - IPW</p>
+<p>Chinese Language &amp; Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yu_lu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_lu@moe.edu.sg</a>
@@ -447,7 +447,37 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yu_xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_xin@schools.gov.sg</a>
+<p><a href="mailto:lee_yu_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_xin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rachel Chee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA (&amp; PAL) (internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chee_wan_lin_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_wan_lin_rachel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Choo Mei Fang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language (internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:choo_mei_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_mei_fang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -514,7 +544,7 @@ variant: tiptap
 <p>Mr Mohamad Narul Azrin Bin Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Well-Being</p>
+<p>Student Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamad_narul_azrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_narul_azrin@moe.edu.sg</a>
@@ -533,21 +563,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chiu_xin_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiu_xin_yan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Seow Qi En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Project (Environmental Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:seow_qi_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_qi_en@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -574,7 +589,7 @@ variant: tiptap
 <p>Ms Koh Han Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Leadership (int)</p>
+<p>Student Leadership (internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamad_narul_azrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_yan_koh@moe.edu.sg</a>
@@ -626,6 +641,21 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Mabel Feng Li Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:feng_li_ting_mabel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">feng_li_ting_mabel@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Chia Hwa Tong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -638,7 +668,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Azmi bin Ajis</p>

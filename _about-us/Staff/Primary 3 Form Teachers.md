@@ -21,15 +21,29 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Phua Zhi Yu Joanna</p>
+<p><a href="mailto:phua_zhi_yu_joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_zhi_yu_joanna@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mdm Isabelle Chan Poey Cassandra</p>
+<p><a href="mailto:isabelle_chan_poey_cassandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">isabelle_chan_poey_cassandra@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liz Alfreda</p>
-<p><a href="mailto:liz_alfreda_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liz_alfreda_selamat@moe.edu.sg</a>
+<p>Ms Karliana Ahmad</p>
+<p><a href="mailto:karliana_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karliana_ahmad@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Rosalind Teo</p>
-<p><a href="mailto:teo_teng_li_rosalind@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_teng_li_rosalind@moe.edu.sg</a>
+<p>Ms Kokoro Choda</p>
+<p><a href="mailto:teo_teng_li_rosalind@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kokoro_choda@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -39,12 +53,12 @@ third_nav_title: Staff
 <p>3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yvette Lai</p>
-<p><a href="mailto:yvette_lye_hei_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yvette_lye_hei_mun@moe.edu.sg</a>
+<p>Mdm Nisha Ling</p>
+<p><a href="mailto:nisha_keshyiap_ram_putre@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nisha_keshyiap_ram_putre@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Brenda Tan</p>
-<p><a href="mailto:tan_geok_hong_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_geok_hong_brenda@moe.edu.sg</a>
+<p>Mr Liew Siu Chen</p>
+<p><a href="mailto:liew_siu_chen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_siu_chen@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -54,12 +68,12 @@ third_nav_title: Staff
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Yu Xin</p>
-<p><a href="mailto:lee_yu_xin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_xin@moe.edu.sg</a>
+<p>Mr Choo Chang Choon</p>
+<p><a href="mailto:choo_chang_joon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_chang_joon@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mdm Gong Yaqin</p>
-<p><a href="mailto:gong_yaqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gong_yaqin@moe.edu.sg</a>
+<p>Mdm Siti Horrianie Binte Osman</p>
+<p><a href="mailto:siti_horrianie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_horrianie@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -69,12 +83,12 @@ third_nav_title: Staff
 <p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joseph Loke</p>
-<p><a href="mailto:loke_peng_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_peng_kuan@moe.edu.sg</a>
+<p>Ms Jin Jing</p>
+<p><a href="mailto:jin_jing_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jin_jing_a@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Kayla Loh</p>
-<p><a href="mailto:loh_hui_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_hui_ming@moe.edu.sg</a>
+<p>Mr Teo Chia Chuan</p>
+<p><a href="mailto:teo_chia_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chia_chuan@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -84,12 +98,12 @@ third_nav_title: Staff
 <p>3 Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Zhaoli</p>
-<p><a href="mailto:chan_zhaoli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_zhaoli@moe.edu.sg</a>
+<p>Mdm Ng Tai Mui Jamie</p>
+<p><a href="mailto:ng_tai_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_tai_mui@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Huang Suhui</p>
-<p><a href="mailto:huang_suhui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_suhui@moe.edu.sg</a>
+<p>Mdm Gerine Sng Yi Hui</p>
+<p><a href="mailto:sng_yi_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_yi_hui@moe.edu.sg</a>
 </p>
 <p></p>
 </td>

@@ -25,25 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Karliana Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:karliana_ahmad@moe.edu.sg" rel="noopener nofollow" target="_blank">karliana_ahmad@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Seow Qi En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:seow_qi_en@moe.edu.sg" rel="noopener nofollow" target="_blank">seow_qi_en@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Yu Xin</p>
+<p>Ms Lee Yu Xin (Teacher I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_yu_xin@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_yu_xin@moe.edu.sg</a>
@@ -56,6 +38,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_geok_hong_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_geok_hong_brenda@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms P V Kanmani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:p_v_kanmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">p_v_kanmani@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Xie Yuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xie_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xie_yuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
