@@ -104,6 +104,15 @@ third_nav_title: Physical Sports
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chang Ker Xing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chang_ker_xing@moe.edu.sg" rel="noopener nofollow" target="_blank">chang_ker_xing@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
