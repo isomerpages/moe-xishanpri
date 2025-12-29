@@ -162,6 +162,8 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:mariam_natchiar@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mariam_natchiar@moe.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -176,7 +178,8 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chandra_sagaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chandra_sagaran@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -305,6 +308,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fadzil_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fadzil_ismail@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -317,6 +321,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yi_qing_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yi_qing_c@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 </tbody>
