@@ -459,7 +459,7 @@ variant: tiptap
 <p>Ms Rachel Chee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA &amp; PAL (internal)</p>
+<p>CCA (&amp; PAL) (internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chee_wan_lin_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_wan_lin_rachel@moe.edu.sg</a>
