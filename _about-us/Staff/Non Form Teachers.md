@@ -303,7 +303,7 @@ variant: tiptap
 <p>Mr Fadzil Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Fadzil_Ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Fadzil_Ismail@moe.edu.sg</a>
+<p><a href="mailto:fadzil_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fadzil_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -315,7 +315,7 @@ variant: tiptap
 <p>Ms Lim Yi Qing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_Yi_Qing_C@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Yi_Qing_C@moe.edu.sg</a>
+<p><a href="mailto:lim_yi_qing_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yi_qing_c@moe.edu.sg</a>
 </p>
 </td>
 </tr>
