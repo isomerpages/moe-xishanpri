@@ -321,4 +321,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Special</p>
+<p></p>
