@@ -132,7 +132,7 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shariffa_zubaidah_begum_chishty@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shariffa_zubaidah_begum_chishty@moe.edu.CAsg</a>
+<p><a href="mailto:shariffa_zubaidah_begum_chishty@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shariffa_zubaidah_begum_chishty@moe.edu.sg</a>
 </p>
 </td>
 </tr>
