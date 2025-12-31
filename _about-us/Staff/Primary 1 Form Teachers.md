@@ -121,9 +121,16 @@ third_nav_title: Staff
 <p><a href="mailto:siti_zahirah_hidzir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zahirah_hidzir@moe.edu.sg</a>
 </p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Lay Koon</p>
 <p></p>
-<p></p>
-<p></p>
+<p>Ms Jolene Cheng</p>
 <p></p>
 </td>
 </tr>
