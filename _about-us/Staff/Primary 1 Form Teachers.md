@@ -130,8 +130,9 @@ third_nav_title: Staff
 <td rowspan="1" colspan="1">
 <p>Ms Lim Lay Koon</p>
 <p></p>
-<p>Ms Jolene Cheng</p>
-<p></p>
+<p>Ms Cheng Pei Fern Jolene</p>
+<p><a href="mailto:cheng_pei_fern_jolene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_pei_fern_jolene@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
