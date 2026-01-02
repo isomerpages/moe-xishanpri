@@ -53,10 +53,11 @@ to our terms and conditions in the website.</p>
 </tr>
 </tbody>
 </table>
-<h3></h3>
+<h3>Sale of Uniforms</h3>
 <p>The school has arranged for our uniform vendor to be in school on the
-following days&nbsp;<strong>from 9am to 3pm (Lunch break: 12noon to 1pm):</strong>
+following days&nbsp;from<strong> 1.15 pm to 3pm :</strong>
 </p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -65,16 +66,48 @@ following days&nbsp;<strong>from 9am to 3pm (Lunch break: 12noon to 1pm):</stron
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<p>28 Nov 2025</p>
+<td rowspan="1" colspan="1">
+<p>Jan 2, 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jan 8, 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Feb 12, 2026</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p>3, 4, 8, 12, 15, 16 Dec 2025</p>
+<td rowspan="1" colspan="1">
+<p>Mar 12, 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 16, 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May 21, 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jul 16, 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 20, 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sep 17, 2026</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Mode of payment: Cash, PayNow, Paylah!</strong>
+<p></p>
+<p>Parents who would like to purchase school uniform and name tags in person
+are required to book an appointment slovt via link: <a href="https://bit.ly/3zjTKuC" rel="noopener nofollow" target="_blank">https://bit.ly/3zjTKuC.  </a>Please Kindly
+note that the appoinment slot will be <strong>open for booking on the same week as the sales date.</strong>
 </p>
+<p>For the safety of the students, we will only admit <strong>1 adult </strong>per
+student and will not be able to accommodate any walk-in without appointment.
+Thank you for your kind understanding.</p>
+<p></p>
+<p></p>
+<p></p>

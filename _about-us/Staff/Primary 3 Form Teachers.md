@@ -28,7 +28,7 @@ third_nav_title: Staff
 <p><a href="mailto:phua_zhi_yu_joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_zhi_yu_joanna@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mdm Isabelle Chan Poey Cassandra</p>
+<p>Ms Isabelle Chan Poey Cassandra</p>
 <p><a href="mailto:isabelle_chan_poey_cassandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">isabelle_chan_poey_cassandra@moe.edu.sg</a>
 </p>
 </td>
@@ -53,11 +53,11 @@ third_nav_title: Staff
 <p>3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nisha Ling</p>
+<p>Mrs Nisha Ling</p>
 <p><a href="mailto:nisha_keshyiap_ram_putre@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nisha_keshyiap_ram_putre@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mr Liew Siu Chen</p>
+<p>Mdm Liew Siu Chen</p>
 <p><a href="mailto:liew_siu_chen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_siu_chen@moe.edu.sg</a>
 </p>
 <p></p>
