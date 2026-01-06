@@ -72,7 +72,7 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Loh Hui Ming Kayla</p>
-<p><a href="mailto:ng_tai_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_hui_ming@moe.edu.sg</a>
+<p><a href="mailto:loh_hui_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_hui_ming@moe.edu.sg</a>
 </p>
 <p></p>
 <p>Mr Ang Zi Jie</p>
