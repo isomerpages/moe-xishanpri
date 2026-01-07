@@ -39,7 +39,7 @@ third_nav_title: Staff
 <p>4 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Brenda Tan Geok Hong</p>
+<p>Mrs Brenda Chew</p>
 <p><a href="mailto:tan_geok_hong_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_geok_hong_brenda@moe.edu.sg</a>
 </p>
 <p></p>
