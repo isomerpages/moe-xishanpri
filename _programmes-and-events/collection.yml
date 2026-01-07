@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Applied Learning Programme/.keep
-      - Applied Learning Programme/Applied Learning Programme (ALP).md
       - Applied Learning Programme/Substainability@Xishan.md
       - Applied Learning Programme/Reading and NLB activities.md
       - Applied Learning Programme/Curated Performances.md
