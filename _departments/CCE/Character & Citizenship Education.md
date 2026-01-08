@@ -19,7 +19,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/education%20and%20career%20advising%20resources%20(for%20parents).jpg">
 </div>
-<h2>2025 Lesson Units in CCE</h2>
+<h2>2026 Lesson Units in CCE</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -39,7 +39,7 @@ variant: tiptap
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P1_T1_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P1 T1</a>
+<p><a href="/files/2025_CCE_SOW_P1_T1_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P1 T1</a>
 </p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ variant: tiptap
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P2_T1_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P2 T1</a>
+<p><a href="/files/2025_CCE_SOW_P2_T1_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P2 T1</a>
 </p>
 </td>
 </tr>
@@ -57,7 +57,7 @@ variant: tiptap
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P3_T1_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P3 T1</a>
+<p><a href="/files/2025_CCE_SOW_P3_T1_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P3 T1</a>
 </p>
 </td>
 </tr>
@@ -66,7 +66,7 @@ variant: tiptap
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P4_T1_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P4 T1</a>
+<p><a href="/files/2025_CCE_SOW_P4_T1_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P4 T1</a>
 </p>
 </td>
 </tr>
@@ -75,7 +75,7 @@ variant: tiptap
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P5_T1_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P5 T1</a>
+<p><a href="/files/2025_CCE_SOW_P5_T1_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P5 T1</a>
 </p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ variant: tiptap
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P6_T1_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P6 T1</a>
+<p><a href="/files/2025_CCE_SOW_P6_T1_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P6 T1</a>
 </p>
 </td>
 </tr>
@@ -112,7 +112,7 @@ variant: tiptap
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P1_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P1 T2</a>
+<p><a href="/files/2025_CCE_SOW_P1_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P1 T2</a>
 </p>
 </td>
 </tr>
@@ -121,7 +121,7 @@ variant: tiptap
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P2_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P2 T2</a>
+<p><a href="/files/2025_CCE_SOW_P2_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P2 T2</a>
 </p>
 </td>
 </tr>
@@ -130,7 +130,7 @@ variant: tiptap
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P3_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P3 T2</a>
+<p><a href="/files/2025_CCE_SOW_P3_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P3 T2</a>
 </p>
 </td>
 </tr>
@@ -139,7 +139,7 @@ variant: tiptap
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P4_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P4 T2</a>
+<p><a href="/files/2025_CCE_SOW_P4_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P4 T2</a>
 </p>
 </td>
 </tr>
@@ -148,7 +148,7 @@ variant: tiptap
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P5_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P5 T2</a>
+<p><a href="/files/2025_CCE_SOW_P5_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P5 T2</a>
 </p>
 </td>
 </tr>
@@ -157,7 +157,7 @@ variant: tiptap
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P6_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P6 T2</a>
+<p><a href="/files/2025_CCE_SOW_P6_T2_for_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P6 T2</a>
 </p>
 </td>
 </tr>
@@ -177,7 +177,7 @@ variant: tiptap
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P1_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P1 T3</a>
+<p><a href="/files/2025_CCE_SOW_P1_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P1 T3</a>
 </p>
 </td>
 </tr>
@@ -186,7 +186,7 @@ variant: tiptap
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P2_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P2 T3</a>
+<p><a href="/files/2025_CCE_SOW_P2_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P2 T3</a>
 </p>
 </td>
 </tr>
@@ -195,7 +195,7 @@ variant: tiptap
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P3_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P3 T3</a>
+<p><a href="/files/2025_CCE_SOW_P3_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P3 T3</a>
 </p>
 </td>
 </tr>
@@ -204,7 +204,7 @@ variant: tiptap
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P4_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P4 T3</a>
+<p><a href="/files/2025_CCE_SOW_P4_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P4 T3</a>
 </p>
 </td>
 </tr>
@@ -213,7 +213,7 @@ variant: tiptap
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P5_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P5 T3</a>
+<p><a href="/files/2025_CCE_SOW_P5_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P5 T3</a>
 </p>
 </td>
 </tr>
@@ -222,7 +222,7 @@ variant: tiptap
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P6_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P6 T3</a>
+<p><a href="/files/2025_CCE_SOW_P6_T3_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P6 T3</a>
 </p>
 </td>
 </tr>
@@ -250,7 +250,7 @@ variant: tiptap
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P1_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE S0W P1 T4</a>
+<p><a href="/files/2025_CCE_SOW_P1_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE S0W P1 T4</a>
 </p>
 </td>
 </tr>
@@ -259,7 +259,7 @@ variant: tiptap
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P2_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P2 T4</a>
+<p><a href="/files/2025_CCE_SOW_P2_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P2 T4</a>
 </p>
 </td>
 </tr>
@@ -268,7 +268,7 @@ variant: tiptap
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P3_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P3 T4</a>
+<p><a href="/files/2025_CCE_SOW_P3_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P3 T4</a>
 </p>
 </td>
 </tr>
@@ -277,7 +277,7 @@ variant: tiptap
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P4_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P4 T4</a>
+<p><a href="/files/2025_CCE_SOW_P4_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P4 T4</a>
 </p>
 </td>
 </tr>
@@ -286,7 +286,7 @@ variant: tiptap
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P5_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P5 T4</a>
+<p><a href="/files/2025_CCE_SOW_P5_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P5 T4</a>
 </p>
 </td>
 </tr>
@@ -295,7 +295,7 @@ variant: tiptap
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P6_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCE SOW P6 T4</a>
+<p><a href="/files/2025_CCE_SOW_P6_T4_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P6 T4</a>
 </p>
 </td>
 </tr>
