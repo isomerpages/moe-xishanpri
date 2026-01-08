@@ -39,7 +39,7 @@ variant: tiptap
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_CCE_SOW_P1_T1_For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 CCE SOW P1 T1</a>
+<p><a href="/files/2026_CCE_SOW_P1_T1_For_school_website.pdf" rel="noopener nofollow" target="_blank">2026 CCE S0W P1 T1</a>
 </p>
 </td>
 </tr>
