@@ -39,7 +39,7 @@ marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h1><strong>Overview of Xishan Primary School’s Sexuality Education Programme for 2025</strong></h1>
+<h1><strong>Overview of Xishan Primary School’s Sexuality Education Programme for 2026</strong></h1>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -69,22 +69,18 @@ years. They learn to build healthy and rewarding relationships with others,
 including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
-<p><strong>At Xishan Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At Xishan Primary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1736230911081_af3c9346_3e90_4cef_9855_4b740658bc96_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_09_225602.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_09_225636.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1736230911081_af3c9346_3e90_4cef_9855_4b740658bc96_4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1736230911081_af3c9346_3e90_4cef_9855_4b740658bc96_5.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1736230911081_af3c9346_3e90_4cef_9855_4b740658bc96_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_09_224454.png">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
@@ -92,9 +88,8 @@ from sexuality-related risks.</p>
 supplementary Sexuality Education programmes by MOE-approved external providers.</p>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="https://forms.moe.edu.sg/forms/JqpRPg" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by Wednesday, 15 January
-2025.</p>
+to parents at the start of the year and is also downloadable <a href="https://forms.moe.edu.sg/forms/JAzj50" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by Monday, 19 January 2026.</p>
 <p>Parents can contact the school via phone at 67588837 or email at <a href="mailto:xishan_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xishan_ps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
