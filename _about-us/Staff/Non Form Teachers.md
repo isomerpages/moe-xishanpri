@@ -111,21 +111,6 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kuah Kim Geok (Mrs Ho)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kuah_kim_geok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kuah_kim_geok@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Shariffa Zubaidah Begum Chishty&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,7 +123,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Grady Ho Eng Gay</p>
@@ -153,7 +138,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mariam Natchiar</p>
@@ -169,7 +154,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Suppiah Chandra Sagaran</p>
@@ -184,7 +169,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Y Asaithamby</p>
