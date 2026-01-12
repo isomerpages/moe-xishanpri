@@ -147,7 +147,7 @@ variant: tiptap
 <p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mariam_natchiar@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mariam_natchiar@moe.gov.sg</a>
+<p><a href="mailto:mariam_natchiar_a@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mariam_natchiar_a@moe.gov.sg</a>
 </p>
 <p></p>
 </td>
