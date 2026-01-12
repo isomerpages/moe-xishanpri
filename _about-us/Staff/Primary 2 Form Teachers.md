@@ -44,7 +44,7 @@ third_nav_title: Staff
 </p>
 <p></p>
 <p>Ms Teng Sing Kwan Natalie</p>
-<p><a href="mailto:lam_lai_fong_natalie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_lai_fong_natalie@moe.edu.sg</a>
+<p><a href="mailto:teng_sing_kwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_sing_kwan@moe.edu.sg</a>
 </p>
 <p></p>
 <p>Ms Xie Yuan</p>
