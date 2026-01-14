@@ -214,7 +214,7 @@ description: ""
 <p>Primary 6 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist_2026_XPS_P6_Standard.pdf" rel="noopener nofollow" target="_blank">P6 Standard Booklist</a>
+<p><a href="/files/Booklist_2026_XPS_P6_Standard_R1.pdf" rel="noopener nofollow" target="_blank">Primary 6 Standard</a>
 </p>
 </td>
 </tr>
