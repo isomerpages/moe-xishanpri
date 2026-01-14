@@ -10,8 +10,8 @@ third_nav_title: Student Services
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">sch2@btntan.com</a>
 </p>
 <p>Tel: 6483 7260, WhatsApp: 8484 1266</p>
-<p>To request for school bus services in 2026, please refer to link for registration <strong>by 28 Nov 2025</strong>:
-<a rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/tzBp6pt87fAFckTx7</a>
+<p>To request for school bus services in 2026, please refer to link for registration
+: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/tzBp6pt87fAFckTx7</a>
 </p>
 <p></p>
 <p><strong>A. <u>Not to Exceed Price</u> </strong>(per month)</p>
