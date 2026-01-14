@@ -250,7 +250,7 @@ description: ""
 <p>Primary 6 (3 Standard Subjects &amp; 1 Foundation Mathematic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist_2026_XPS_P6_3S_1F_MA__R1.pdf" rel="noopener nofollow" target="_blank">P6 3S-1F(MT) Booklist</a>
+<p><a href="/files/Booklist_2026_XPS_P6_3S_1F_MA__R1.pdf" rel="noopener nofollow" target="_blank">P6 3S-1F(MA) Booklist</a>
 </p>
 </td>
 </tr>
