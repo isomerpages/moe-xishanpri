@@ -157,30 +157,15 @@ the mobile phone/smart watch.</p>
 </li>
 </ul>
 <h3>Anti-Bullying Policy</h3>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Bullying is defined as the deliberate and repeated behaviours intended
-to cause hurt, distress or humiliation. It can be physical, verbal, social
-and/or cyber in nature.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Anti Bullying" src="/images/anti_bullying.jpg">
+</div>
 </li>
 </ol>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Physical</strong> - persistent in hitting someone or damaging someone
-else’s belongings</p>
-</li>
-<li>
-<p><strong>Verbal</strong> - repeated name-calling, spreading rumours or making
-threats</p>
-</li>
-<li>
-<p><strong>Social</strong> - leaving someone out of a group or things on purpose</p>
-</li>
-<li>
-<p><strong>Cyber</strong> - using online messages, images or videos to hurt
-someone</p>
-</li>
-</ul>
 <ol start="2">
 <li>
 <p>The school maintains a zero-tolerance approach to bullying in all its
