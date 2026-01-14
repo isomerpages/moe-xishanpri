@@ -214,7 +214,7 @@ description: ""
 <p>Primary 6 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist_2026_XPS_P6_Standard_R1.pdf" rel="noopener nofollow" target="_blank">Primary 6 Standard</a>
+<p><a href="/files/Booklist_2026_XPS_P6_Standard_R1.pdf" rel="noopener nofollow" target="_blank">Primary 6 Standard Booklist</a>
 </p>
 </td>
 </tr>
@@ -226,7 +226,7 @@ description: ""
 <p>Primary 6 Foundation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist_2026_XPS_P6_Foundation.pdf" rel="noopener nofollow" target="_blank">Primary 6 Foundation</a>
+<p><a href="/files/Booklist_2026_XPS_P6_Foundation.pdf" rel="noopener nofollow" target="_blank">Primary 6 Foundation Booklist</a>
 </p>
 </td>
 </tr>
@@ -238,7 +238,7 @@ description: ""
 <p>Primary 6 (3 Foundation Subjects &amp; 1 Standard Mother Tongue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist_2026_XPS_P6_3F_1S_MT_.pdf" rel="noopener nofollow" target="_blank">P6 3F-1S file(MT)</a>
+<p><a href="/files/Booklist_2026_XPS_P6_3F_1S_MT_.pdf" rel="noopener nofollow" target="_blank">P6 3F-1S (MT) Booklist</a>
 </p>
 </td>
 </tr>
