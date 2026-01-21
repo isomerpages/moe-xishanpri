@@ -126,7 +126,7 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Grady Ho Eng Gay</p>
+<p>Mr Gadry Ho Eng Gay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CAJT</p>
