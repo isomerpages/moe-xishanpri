@@ -10,7 +10,6 @@ variant: tiptap
 <p>To develop active and resilient students by building their confidence
 in leading an active and healthy lifestyle.</p>
 <h3>Physical and Sports Development Framework</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Physical and Sports Development Framework" src="/images/physical_n_sport_dev_framwork.jpg">
 </div>
@@ -36,7 +35,6 @@ such as teamwork, respect, and fair play.</p>
 <p>• Physical and Health Fitness</p>
 <p>• Swimming (Primary 4)</p>
 <p>• Outdoor Education</p>
-<p></p>
 <h3>Key Programmes</h3>
 <p>Unstructured play supports cognitive development, promotes social growth
 through peer interaction, and contributes to emotional well-being by helping
@@ -202,7 +200,6 @@ Run</p>
 <p>The Sports Carnival is an annual event where students come together to
 enjoy a fun day of sports and activities, building friendships and school
 spirit.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students participating in the station games during our annual Sports Carnival" src="/images/SP1.jpg">
 </div>
