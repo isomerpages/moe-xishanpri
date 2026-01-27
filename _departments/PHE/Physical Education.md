@@ -5,134 +5,115 @@ description: ""
 third_nav_title: PHE
 variant: tiptap
 ---
-<h1><strong>PHE</strong></h1>
+<h1><strong>Physical and Health Education</strong></h1>
 <h3>Objectives</h3>
-<p>To develop active and resilient students, by increasing students’ confidence
+<p>To develop active and resilient students by building their confidence
 in leading an active and healthy lifestyle.</p>
-<h3>Syllabus / Framework</h3>
-<p></p>
+<h3>Physical and Sports Development Framework</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Physical and Sports Development Framework" src="/images/physical_n_sport_dev_framwork.jpg">
 </div>
-<p>The primary physical education program aims to give students a variety
-of movement experiences to enhance their overall development and set a
-foundation for an active lifestyle.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lower primary level: Focuses on mastering
-basic motor skills and applying movement concepts for improved performance.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upper primary level: Builds on discrete
-skills to tackle complex movements, sequences, and skills application in
-various activities and games.</p>
-<p>The curriculum offers a diverse range of learning areas to help schools
-design a comprehensive physical education program for primary students.
-In accordance with the Emerging 21st Century Competencies framework, our
-goal is to ensure that every student possesses these essential skills.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; Athletics ( from Primary 4)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; Dance</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; Games &amp; Sports</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; Gymnastics</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; Physical Health &amp; Fitness</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; Swimming (by the end of Primary 6)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; Outdoor Education</p>
-<p></p>
-<h3>Key Program</h3>
-<h4>Unstructured Play</h4>
-<p>Unstructured play—spontaneous and child-led activities without adult rules—is
-crucial for primary school children. It boosts cognitive skills like problem-solving
-and decision-making, fosters social skills through peer interaction, enhances
-physical fitness and coordination, and supports emotional well-being by
-allowing kids to manage stress and build resilience. Embracing this free
-play nurtures well-rounded development, setting the stage for academic
-success and lifelong health.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; Rise to Shine -&nbsp;With the intention to get
-students to rise early to shine for the rest of the day with enthusiasm
-and motivation, the ‘Rise to Shine’ program is put in place to encourage
-students to embrace the opportunities to shine and succeed. It's a program
-that aims to empower students and help them unlock their full potential
-each morning. The students are rotated between the Parade Square, School
-Field and Sheltered Basketball Court throughout the week.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; Recess Play - During recess, students can engage
-in a variety of activities, socializing with peers. It's a time for them
-to have fun, stay active, and develop important social skills through interaction
-and play. The Playground (only for P1 to P3), Parade Square and School
-Field is available during Recess Play.</p>
-<p></p>
+<p><sup>Adapted from 2024 Physical Education Syllabus</sup>
+</p>
+<p>The Primary Physical Education programme provides students with a broad
+range of movement experiences to support holistic development and lay a
+strong foundation for lifelong physical activity.</p>
+<p>• <strong>Lower Primary:</strong> Emphasises the development of fundamental
+motor skills and the understanding of basic movement concepts to improve
+movement performance.</p>
+<p>• <strong>Upper Primary:</strong> Builds on these foundations by challenging
+students with more complex movements, sequences, and the application of
+skills across a variety of activities and games.</p>
+<p>Beyond physical skills and game understanding, Physical Education lessons
+also offer rich opportunities for students to develop sportsmanship values
+such as teamwork, respect, and fair play.</p>
+<h3><strong>Learning Areas</strong></h3>
+<p>• Athletics (From Primary 4)</p>
+<p>• Dance</p>
+<p>• Games and Sports</p>
+<p>• Gymnastics</p>
+<p>• Physical and Health Fitness</p>
+<p>• Swimming (Primary 4)</p>
+<p>• Outdoor Education</p>
+<h3>Key Programmes</h3>
+<p>Unstructured play supports cognitive development, promotes social growth
+through peer interaction, and contributes to emotional well-being by helping
+children manage stress and build resilience.</p>
+<p>• <strong>Rise- to-Shine:</strong> Designed to help students start the day
+with energy, motivation, and a positive mindset. The programme encourages
+students to start each morning, with them engaging in different sports
+activities at the School Field and Sheltered Basketball Court across the
+week.</p>
+<p>•<strong> Recess Play:</strong> Recess play provides students with opportunities
+to engage in physical activities and interact with their peers.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Students playing Football during Morning Rise-to-Shine" src="/images/key_program_1.jpg">
 </div>
-<p></p>
+<p>Students playing Football during Morning Rise-to-Shine</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PHE_Picture5.jpg">
 </div>
-<p></p>
+<p>Students enjoyed shooting hoops at our Morning Rise-to-Shine</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Students playing Badminton during Recess Play" src="/images/key_program_3.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture5.jpg">
-</div>
-<p></p>
+<p>Students playing Badminton during Recess Play</p>
 <h3><strong>Sports Education Program (SEP)</strong></h3>
+<p>The Sports Education Programme (SEP) is a collaborative initiative by
+Sport Singapore and the Ministry of Education aimed at strengthening sports
+education, cultivating a positive sporting culture in schools, and expanding
+opportunities for students to participate in a variety of sports.</p>
+<p>• Primary 1 – Samba Dance</p>
+<p>• Primary 2 – Taekwondo</p>
+<p>• Primary 3 – Inline Skating</p>
+<p>• Primary 5 – Golf</p>
+<p>• Primary 6 – Modern Pentathlon</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Our Primary 1 students participating in the Samba Dance Sports Education Programme" src="/images/sep1.jpg">
+</div>
+<p>Our Primary 1 students participating in the Samba Dance Sports Education
+Programme</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Our Primary 2 tudents participating in the Taekwondo Sports Education Programme" src="/images/sep2.jpg">
+</div>
+<p>Our Primary 2 students participating in the Taekwondo Sports Education
+Programme</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Our Primary 3 tudents participating in the Inline Skating Sports Education Programme" src="/images/sep3.jpg">
+</div>
+<p>Our Primary 3 students participating in the Inline Skating Sports Education
+Programme</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Our Primary 5 students participating in the Golf Sports Education Programme" src="/images/sep4.jpg">
+</div>
+<p>Our Primary 5 students participating in the Golf Sports Education Programme</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture6.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Our Primary 5 students participating in the Golf Sports Education Programme (Fencing)" src="/images/sep5.jpg">
 </div>
-<p></p>
+<p>Our Primary 5 students participating in the Golf Sports Education Programme
+(Fencing)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture7.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Our Primary 6 students  (Laser Shooting)" src="/images/sep6.jpg">
 </div>
-<p></p>
+<p>Our Primary 6 students participating in the Modern Pentathlon Sports Education
+Programme (Laser Shooting)</p>
+<h3><strong>Primary 4 SwimSafer 2.0 Programme</strong></h3>
+<p>Our Primary 4 students had a fun and fulfilling time during their cohort
+swimming programme — learning essential water safety skills and building
+confidence in the pool!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture8.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Our Primary 4 students building water confidence" src="/images/swimsafer1.jpg">
 </div>
-<p></p>
+<p>Our Primary 4 students building water confidence</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture9.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Students bonding with one another during the SwimSafer 2.0 Programme" src="/images/swimsafer2.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture10.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture11.jpg">
-</div>
-<p>The Sports Education Programme (SEP) is a joint initiative between Sport
-Singapore and the Ministry of Education, working together to promote the
-value of sports education, foster a culture of sports participation in
-schools, and provide expanded opportunities for young people to engage
-in sports.</p>
-<p>In Xishan Primary School, we offer the following SEPs. SEPs for Primary
-1-3 students are held in school while SEPs for Primary 4-6 students are
-hosted outside of school:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; Primary 1 - Samba Dance</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; Primary 2 - Taekwondo</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; Primary 3 - Inline Skating</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; Primary 4 - Bowling</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; Primary 5 - Golf</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp; Primary 6 - Indoor Skydiving</p>
-<p></p>
-<h3><strong>Camp G.R.I.T - </strong>Growing Resilient &amp; Independent Together</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture12.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture13.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture14.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture15.jpg">
-</div>
+<p>Students bonding with one another during the SwimSafer 2.0 Programme</p>
+<h3><strong>P5 Outdoor Adventure Camp (G.R.I.T)</strong> - Growing Resilient and Independent Together</h3>
 <p>Camp G.R.I.T. is without a doubt the highlight of any P5 student in Xishan
-Primary School. This 3D2N camp is usually conducted at MOE Outdoor Adventure
-Learning Centres and facilitated by MOE Outdoor Adventure Educators and
-Teachers.</p>
+Primary School. This 3D2N camp is conducted at MOE Outdoor Adventure Learning
+Centres and facilitated by qualified Outdoor Adventure Educators and Teachers.</p>
 <p>During the camp, the students will get a chance to grow, be resilient
 and independent while experiencing the following activities:</p>
 <ul data-tight="true" class="tight">
@@ -162,58 +143,71 @@ and independent while experiencing the following activities:</p>
 </li>
 <li>
 <p>Rock Climbing</p>
+<p></p>
 </li>
 </ul>
-<p></p>
-<h3><strong>P6 Grat-uation Run</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture16.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Our Primary 5 students doing Abseiling at the Outdoor Adventure Camp" src="/images/camp_grit1.jpg">
 </div>
-<p></p>
+<p>Our Primary 5 students doing Abseiling at the Outdoor Adventure Camp</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture17.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Our Primary 5 students on their outdoor adventure hike" src="/images/camp_grit2.jpg">
 </div>
-<p></p>
+<p>Our Primary 5 students on their outdoor adventure hike</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture18.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Students working on their communication and collaboration skills through teambuilding games" src="/images/camp_grit3.jpg">
 </div>
-<p></p>
+<p>Students working on their communication and collaboration skills through
+teambuilding games</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture19.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Our P5 students taking turns to serve food to their peers during mealtimes" src="/images/camp_grit4.jpg">
 </div>
-<p>In 2019, our Principal, Mrs. Quek, launched the Grat-uation Run, a meaningful
-event that marks a significant milestone for our graduating students.</p>
-<p>This initiative aims to impart valuable lessons to our students, emphasizing
-that it's not about the speed at which we progress or how well we start,
-nor is it about comparing ourselves to others. Rather, it's about finding
-purpose and meaning in our journey.</p>
+<p>Our P5 students taking turns to serve food to their peers during mealtimes</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Students having fun and overcoming their fear of heights at the tower circuit" src="/images/camp_grit5.jpg">
+</div>
+<p>Students having fun and overcoming their fear of heights at the tower
+circuit</p>
+<h3><strong>P6 Graduation Run</strong></h3>
+<p>The Graduation Run aims to impart valuable lessons to our students, emphasising
+that it's not about the speed at which they progress or how well they start.
+Rather, it's about finding purpose and meaning in their journey.</p>
 <p>During the run, which takes place within our school compound, students
 jog down memory lane alongside their peers, reflecting on their time at
-Xishan Primary School and feeling grateful for the experiences and memories
-they've shared.</p>
-<p></p>
+Xishan Primary School and memories they have shared.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Our Principal, Mrs Chng, addressing the students before their Graduation Run" src="/images/GR_run_1.jpg">
+</div>
+<p>Our Principal, Mrs Chng, addressing the students before their Graduation
+Run</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Our PE teacher, Mr Azrin, leading everyone in the warm-up" src="/images/GR_run_2.jpg">
+</div>
+<p>Our PE teacher, Mr Azrin, leading everyone in the warm-up</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Students taking a walk down memory lane during the Graduation Run" src="/images/GR_run_3.jpg">
+</div>
+<p>Students taking a walk down memory lane during the Graduation Run</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Students running alongside their peers" src="/images/GR_run_4.jpg">
+</div>
+<p>Students running alongside their peers</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Our 2025 Graduands" src="/images/GR_run_5.jpg">
+</div>
+<p>Our 2025 Graduands</p>
 <h3><strong>Sports Carnival</strong></h3>
-<p></p>
+<p>The Sports Carnival is an annual event where students come together to
+enjoy a fun day of sports and activities, building friendships and school
+spirit.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture20.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Students participating in the station games during our annual Sports Carnival" src="/images/SP1.jpg">
 </div>
-<p></p>
+<p>Students participating in the station games during our annual Sports Carnival</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture21.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Students having fun at the carnival booths during Sports Carnival" src="/images/SP2.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture22.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture23.jpg">
-</div>
-<p>The Sports Carnival is an annual event that brings together students,
-their families, and the school community to celebrate and bond over a fun-filled
-day of sports and activities. This festive occasion provides a wonderful
-opportunity for everyone to come together and create lasting memories.</p>
+<p>Students having fun at the carnival booths during Sports Carnival</p>
 <p></p>
 <p></p>
 <p></p>
