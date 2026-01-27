@@ -19,10 +19,10 @@ in leading an active and healthy lifestyle.</p>
 <p>The Primary Physical Education programme provides students with a broad
 range of movement experiences to support holistic development and lay a
 strong foundation for lifelong physical activity.</p>
-<p>•	<strong>Lower Primary:</strong> Emphasises the development of fundamental
+<p>• <strong>Lower Primary:</strong> Emphasises the development of fundamental
 motor skills and the understanding of basic movement concepts to improve
 movement performance.</p>
-<p>•	<strong>Upper Primary:</strong> Builds on these foundations by challenging
+<p>• <strong>Upper Primary:</strong> Builds on these foundations by challenging
 students with more complex movements, sequences, and the application of
 skills across a variety of activities and games.</p>
 <p>Beyond physical skills and game understanding, Physical Education lessons
@@ -192,54 +192,46 @@ Rather, it's about finding purpose and meaning in their journey.</p>
 jog down memory lane alongside their peers, reflecting on their time at
 Xishan Primary School and memories they have shared.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Principal, Mrs Chng, addressing the students before their Graduation Run" src="/images/GR_run_1.jpg">
+</div>
+<p>Our Principal, Mrs Chng, addressing the students before their Graduation
+Run</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture16.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Our PE teacher, Mr Azrin, leading everyone in the warm-up" src="/images/GR_run_2.jpg">
 </div>
+<p>Our PE teacher, Mr Azrin, leading everyone in the warm-up</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture17.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students taking a walk down memory lane during the Graduation Run" src="/images/GR_run_3.jpg">
 </div>
+<p>Students taking a walk down memory lane during the Graduation Run</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture18.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students running alongside their peers" src="/images/GR_run_4.jpg">
 </div>
+<p>Students running alongside their peers</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture19.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Our 2025 Graduands" src="/images/GR_run_5.jpg">
 </div>
-<p>In 2019, our Principal, Mrs. Quek, launched the Grat-uation Run, a meaningful
-event that marks a significant milestone for our graduating students.</p>
-<p>This initiative aims to impart valuable lessons to our students, emphasizing
-that it's not about the speed at which we progress or how well we start,
-nor is it about comparing ourselves to others. Rather, it's about finding
-purpose and meaning in our journey.</p>
-<p>During the run, which takes place within our school compound, students
-jog down memory lane alongside their peers, reflecting on their time at
-Xishan Primary School and feeling grateful for the experiences and memories
-they've shared.</p>
+<p>Our 2025 Graduands</p>
 <p></p>
 <h3><strong>Sports Carnival</strong></h3>
+<p>The Sports Carnival is an annual event where students come together to
+enjoy a fun day of sports and activities, building friendships and school
+spirit.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture20.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students participating in the station games during our annual Sports Carnival" src="/images/SP1.jpg">
 </div>
+<p>Students participating in the station games during our annual Sports Carnival</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture21.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students having fun at the carnival booths during Sports Carnival" src="/images/SP2.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture22.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHE_Picture23.jpg">
-</div>
-<p>The Sports Carnival is an annual event that brings together students,
-their families, and the school community to celebrate and bond over a fun-filled
-day of sports and activities. This festive occasion provides a wonderful
-opportunity for everyone to come together and create lasting memories.</p>
+<p>Students having fun at the carnival booths during Sports Carnival</p>
 <p></p>
 <p></p>
 <p></p>
