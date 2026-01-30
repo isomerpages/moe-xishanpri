@@ -8,9 +8,6 @@ variant: tiptap
 <h2><strong>Character &amp; Citizenship Education</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCE TEAM MEMBER SEPT 2025" src="/images/CCE_TEAM_MEMBER_22_Sep_2025.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width:100 %" height="auto" width="100%" src="/images/slide2cce.JPG">
 </div>
 <div class="isomer-image-wrapper">
