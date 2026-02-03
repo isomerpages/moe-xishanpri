@@ -70,7 +70,7 @@ analytical thinking, text comprehension, and meaningful interaction with
 sophisticated literature and contemporary issues.
 <br>
 </p>
-<p><strong>1.	Learning Support Programme (LSP)</strong>
+<p><strong>1. Learning Support Programme (LSP)</strong>
 </p>
 <p>Founded on the principle that every child can achieve success at their
 individual learning pace, the Learning Support Programme offers additional
@@ -88,7 +88,7 @@ are selected through a thorough dyslexia screening procedure conducted
 at the end of Primary 2. Trained school staff facilitate the programme
 in small group settings, utilising a specialised remediation curriculum
 developed by MOE Reading Specialists.</p>
-<p><strong>3.	Reading Remediation Programme (RRP)</strong>
+<p><strong>3. Reading Remediation Programme (RRP)</strong>
 </p>
 <p>The Reading Remediation Programme supports Primary 3, 4 and 5 students
 requiring additional reading assistance in English Language. This initiative
@@ -103,7 +103,58 @@ engaging post-reading activities that build critical thinking skills and
 celebrate literary achievements. This motivational framework encourages
 consistent reading habits and fosters a genuine love for reading that extends
 beyond classroom requirements, creating lifelong readers.</p>
-<h4></h4>
-<h4></h4>
-<h4></h4>
+<p><strong><u>The Straits Times Little Red Dot Subscription for P5 and P6 students</u></strong>
+</p>
+<p>This publication exposes students to current affairs through age-appropriate
+journalism, fostering informed citizenship and analytical thinking. Classroom
+discussions following these readings develop students' ability to articulate
+opinions and understand the relevance of current events to their lives.</p>
+<p><strong><u>Termly Library Visits and NLB Book Buzz Sessions</u></strong>
+</p>
+<p>Regular library visits help students explore diverse genres and develop
+independent book selection skills. NLB Book Buzz sessions bring professional
+librarians who introduce new authors, genres, and reading strategies through
+interactive presentations.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Termly Library Visit and NLB Book Buzz Sessions" src="/images/IMG_0070.jpg">
+</div>
+<p><strong><u>Book-to-Movie Adaptation Parent-Child Bonding Workshop for P1 students </u></strong>
+</p>
+<p>This workshop demonstrates effective reading engagement strategies as
+parents observe storytelling sessions followed by film adaptations. Parents
+gain practical insights into pre-reading, active reading, and post-reading
+discussion techniques, equipping them to support their children's reading
+journey at home.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book-to-Movie Adaptation" src="/images/5e09d470_50c3_459d_94f9_695305b4c077.png">
+</div>
+<p><strong>Reading Circles</strong> is provision for advanced readers, specifically
+designed to encourage students to take an active role in their reading
+experience, foster a love for reading and enhance critical thinking skills
+among our students. Additionally, the programme encourages independent
+reading habits and cultivates a commitment to lifelong learning.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Reading Circles" src="/images/IMG_0183.jpg">
+</div>
+<p><strong><u>P1 Garden Learning Trail</u></strong>
+</p>
+<p>The P1 Garden Learning Trail, organised for Primary 1 students, is a Field-Based
+Learning experience featuring a collaborative initiative between the Social
+Studies, Green Movement, and English departments.</p>
+<p>This interdisciplinary experience aims to help students understand their
+relationship with places and develop care for shared spaces whilst building
+essential values such as respect, care, and responsibility through Social
+Studies learning. This programme raises awareness about sustainability
+and supporting biodiversity, encouraging eco-conscious behaviour and fostering
+respectful treatment of plants and animals. Students develop their oral
+and written language skills through careful observation and description
+activities, expanding their vocabulary related to plants, animals, and
+emotions while engaging in reflective writing or drawing exercises that
+capture their learning experience within the school environment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Gardening Trail" src="/images/gardening_trail_3.jpg">
+</div>
 <p></p>
