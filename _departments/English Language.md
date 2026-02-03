@@ -41,7 +41,6 @@ and are able to distinguish fact from falsehood</p>
 explore ideas deeply and evaluate real-world issues from multiple perspectives.</p>
 </li>
 </ul>
-<p></p>
 <h4>MOE PROGRAMMES AND INITIATIVES</h4>
 <p><u>Lower Primary STELLAR Programme:</u>
 </p>
@@ -55,9 +54,7 @@ Modified Language Experience Approach (MLEA), as well as the use of Learning
 Centres (LC). Students have the opportunity to re-learn, revisit or extend
 what they have learnt at their own pace and in differentiated ability groups.</p>
 <p>
-<br>
-</p>
-<p><u>Upper Primary STELLAR Programme:</u>
+<br><u>Upper Primary STELLAR Programme:</u>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/08EL_Department.png">
@@ -67,9 +64,7 @@ writing competencies through inquiry-driven approaches including Supported
 Reading (SR), KWL (Know-Want to know-Learnt), and the Writing Process Cycle
 (WPC). The programme transitions from basic literacy development to cultivating
 analytical thinking, text comprehension, and meaningful interaction with
-sophisticated literature and contemporary issues.
-<br>
-</p>
+sophisticated literature and contemporary issues.</p>
 <p><strong>1. Learning Support Programme (LSP)</strong>
 </p>
 <p>Founded on the principle that every child can achieve success at their
@@ -95,7 +90,7 @@ requiring additional reading assistance in English Language. This initiative
 introduces students to various strategies for reading comprehension, word
 identification and oral reading fluency, equipping them with skills to
 navigate their daily academic requirements more effectively.</p>
-<h4><br>XISHAN PROGRAMMES AND INITIATIVES</h4>
+<h4>XISHAN PROGRAMMES AND INITIATIVES</h4>
 <p><strong><u>Reading Passport</u></strong>
 </p>
 <p>The reading passport transforms reading into an exciting journey through
@@ -115,18 +110,16 @@ opinions and understand the relevance of current events to their lives.</p>
 independent book selection skills. NLB Book Buzz sessions bring professional
 librarians who introduce new authors, genres, and reading strategies through
 interactive presentations.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Termly Library Visit and NLB Book Buzz Sessions" src="/images/IMG_0070.jpg">
 </div>
-<p><strong><u>Book-to-Movie Adaptation Parent-Child Bonding Workshop for P1 students </u></strong>
+<p><strong><u>Book-to-Movie Adaptation Parent-Child Bonding Workshop for P1 students</u></strong>
 </p>
 <p>This workshop demonstrates effective reading engagement strategies as
 parents observe storytelling sessions followed by film adaptations. Parents
 gain practical insights into pre-reading, active reading, and post-reading
 discussion techniques, equipping them to support their children's reading
 journey at home.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Book-to-Movie Adaptation" src="/images/5e09d470_50c3_459d_94f9_695305b4c077.png">
 </div>
@@ -153,7 +146,6 @@ and written language skills through careful observation and description
 activities, expanding their vocabulary related to plants, animals, and
 emotions while engaging in reflective writing or drawing exercises that
 capture their learning experience within the school environment.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gardening Trail" src="/images/gardening_trail_3.jpg">
 </div>
