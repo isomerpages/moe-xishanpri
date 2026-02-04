@@ -56,9 +56,8 @@ activity during AMW.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -71,13 +70,7 @@ during AMW</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="amv activity 2" src="/images/amv_activity_2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AMW activities 2" src="/images/WhatsApp_Image_2026_02_03_at_15_13_41.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="AMV activity" src="/images/amv_activity.png">
 </div>
 </th>
 </tr>
