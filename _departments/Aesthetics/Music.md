@@ -68,11 +68,123 @@ their creativity and musical achievements.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="youtube songs" src="/images/youtube_song.png">
+<img style="width: 100%" height="auto" width="100%" alt="youtube song list" src="/images/youtube_song_2.png">
 </div>
 </th>
 </tr>
 </tbody>
 </table>
 <p></p>
+<p>You can listen to their songs here:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 (Ashley)</p>
+</td>
+<th rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=wjxzu47UdFU&amp;list=PLRGFo1hZVPDkqIjcL4Z6nYdt985EXe8lL&amp;index=22" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=wjxzu47UdFU&amp;list=PLRGFo1hZVPDkqIjcL4Z6nYdt985EXe8lL&amp;index=22</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 (Heidi)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=_PELEbag_tA&amp;list=PLRGFo1hZVPDkqIjcL4Z6nYdt985EXe8lL&amp;index=23" rel="noopener nofollow" target="_blank">https://www.youtube.com/watch?v=_PELEbag_tA&amp;list=PLRGFo1hZVPDkqIjcL4Z6nYdt985EXe8lL&amp;index=23</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 (Kiersten)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=j3Rg6CGfOmg&amp;list=PLRGFo1hZVPDkqIjcL4Z6nYdt985EXe8lL&amp;index=10" rel="noopener nofollow" target="_blank">https://www.youtube.com/watch?v=j3Rg6CGfOmg&amp;list=PLRGFo1hZVPDkqIjcL4Z6nYdt985EXe8lL&amp;index=10</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 (Emmie &amp; Ellie)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=gzC6LuG8ps0&amp;list=PLRGFo1hZVPDnnyPV3PPrjAkrZ74DvvFvn&amp;index=11" rel="noopener nofollow" target="_blank">https://www.youtube.com/watch?v=gzC6LuG8ps0&amp;list=PLRGFo1hZVPDnnyPV3PPrjAkrZ74DvvFvn&amp;index=11</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 (Emmie, Wynona &amp; Natasha)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=pqw3z5QDXqw&amp;list=PLRGFo1hZVPDmlhAUmvfz58yxE9jMQyHXv&amp;index=12" rel="noopener nofollow" target="_blank">https://www.youtube.com/watch?v=pqw3z5QDXqw&amp;list=PLRGFo1hZVPDmlhAUmvfz58yxE9jMQyHXv&amp;index=12</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><u>Music Concerts</u></h4>
+<p><strong>Xishan Got Talent</strong> is an annual programme that provides
+students with opportunities to showcase their abilities and affirm their
+strengths in their chosen talent areas. Through performance, students build
+confidence, celebrate their unique talents, and develop a strong sense
+of self-belief.</p>
+<p><strong>Music Fiesta</strong> is a performance platform where selected
+students showcase their musical learning from the music classroom. Students
+demonstrate their skills on instruments such as the cajon, ukulele, recorder,
+drums, and xylophones, as well as through singing. These performances are
+presented on stage during <strong>Xishan Celebrates,</strong> allowing students
+to share their learning with the school community.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students above rehearsing for music fiesta" src="/images/student_rehearsal.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students above rehearsing for music fiesta.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Recess Concert</strong> is another platform where students showcase
+their musical talents by playing instruments or singing on our very own
+library stage during recess. Peers and students from the same recess period
+gather to support the performers, often singing along and creating a lively
+and encouraging atmosphere.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Recess Concert" src="/images/recess_concert_3.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students showcasing their talent in playing instruments and/or singing
+during recess concert.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
