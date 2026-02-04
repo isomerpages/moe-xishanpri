@@ -175,7 +175,7 @@ and encouraging atmosphere.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student rehersal" src="/images/student_rehersal_6.png">
+<img style="width: 100%" height="auto" width="100%" alt="student showcase" src="/images/showcase_combine.png">
 </div>
 </th>
 </tr>
