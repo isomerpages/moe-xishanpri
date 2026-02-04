@@ -110,4 +110,25 @@ an artwork.</p>
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hands on learning" src="/images/hands_on_learnig.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The pictures above illustrate students engaging in hands-on learning through
+manipulatives and interactive digital art experiences.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
