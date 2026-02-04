@@ -38,6 +38,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCE Main Page 4" src="/images/CCE_Main_Page_pg_4.png">
+</div>
 </td>
 </tr>
 </tbody>
