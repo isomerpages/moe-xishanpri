@@ -54,24 +54,17 @@ activities are carried out to celebrate students’ learning in art and music.</
 activity during AMW.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>The pictures on the right show students engaging in classroom activities
+<td rowspan="1" colspan="1">
+<p>The picture on the right show students engaging in classroom activities
 during AMW.</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AMV activity" src="/images/amv_activity.png">
+<img style="width: 100%" height="auto" width="100%" alt="AMW classroom activity" src="/images/amv_activity.png">
 </div>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
