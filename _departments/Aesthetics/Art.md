@@ -91,7 +91,7 @@ and dispositions of an Audience.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student using viewfinders" src="/images/WhatsApp_Image_2026_02_03_at_15_13_43.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="student using viewfinders" src="/images/student_using_viewfinders.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
