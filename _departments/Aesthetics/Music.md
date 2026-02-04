@@ -22,8 +22,6 @@ as well as on platforms beyond the classroom. Through these performance
 experiences, students develop musical communication skills. Working in
 ensembles also allows students to collaborate and build strong interpersonal
 skills.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="student performance" src="/images/student_performance_combine_rev_4.png">
 </div>
