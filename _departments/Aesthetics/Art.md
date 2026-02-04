@@ -62,7 +62,7 @@ during AMW.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AMW classroom activity" src="/images/amv_activity.png">
+<img style="width: 100%" height="auto" width="100%" alt="student engaging in classroom" src="/images/student_engaging_in_classroom.png">
 </div>
 </td>
 </tr>
