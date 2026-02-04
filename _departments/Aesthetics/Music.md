@@ -22,9 +22,8 @@ as well as on platforms beyond the classroom. Through these performance
 experiences, students develop musical communication skills. Working in
 ensembles also allows students to collaborate and build strong interpersonal
 skills.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student performance" src="/images/performance_combine_rev_5.png">
+<img style="width: 100%" height="auto" width="100%" alt="student activity" src="/images/student_activity_1.png">
 </div>
 <h4><u>Experiences beyond the classroom</u></h4>
 <p>Art and Music Week (AMW) is a week-long celebration of students’ learning
@@ -41,7 +40,7 @@ video below to see our music teachers in action during an assembly talk.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AMW assembly" src="/images/amw_assembly_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="AMW assembly" src="/images/amw_assembly_5.png">
 </div>
 </th>
 </tr>
@@ -87,10 +86,10 @@ their creativity and musical achievements.</p>
 <td rowspan="1" colspan="1">
 <p>2023 (Ashley)</p>
 </td>
-<th rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/watch?v=wjxzu47UdFU&amp;list=PLRGFo1hZVPDkqIjcL4Z6nYdt985EXe8lL&amp;index=22" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=wjxzu47UdFU&amp;list=PLRGFo1hZVPDkqIjcL4Z6nYdt985EXe8lL&amp;index=22</a>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.youtube.com/watch?v=wjxzu47UdFU&amp;list=PLRGFo1hZVPDkqIjcL4Z6nYdt985EXe8lL&amp;index=22" rel="noopener nofollow" target="_blank">https://www.youtube.com/watch?v=wjxzu47UdFU&amp;list=PLRGFo1hZVPDkqIjcL4Z6nYdt985EXe8lL&amp;index=22</a>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -176,7 +175,7 @@ and encouraging atmosphere.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Recess Concert" src="/images/recess_concert_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Student rehersal" src="/images/student_rehersal_6.png">
 </div>
 </th>
 </tr>
