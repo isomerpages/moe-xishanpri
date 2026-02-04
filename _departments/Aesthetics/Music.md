@@ -40,7 +40,7 @@ video below to see our music teachers in action during an assembly talk.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AMW assembly" src="/images/amw_assembly.png">
+<img style="width: 100%" height="auto" width="100%" alt="AMW assembly" src="/images/amw_assembly_1.png">
 </div>
 </th>
 </tr>
