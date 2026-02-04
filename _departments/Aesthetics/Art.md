@@ -119,7 +119,7 @@ an artwork.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hands on learning" src="/images/hands_on_learnig.png">
+<img style="width: 100%" height="auto" width="100%" alt="hands on learning" src="/images/hands_on_learning_1.png">
 </div>
 </th>
 </tr>
