@@ -22,8 +22,9 @@ as well as on platforms beyond the classroom. Through these performance
 experiences, students develop musical communication skills. Working in
 ensembles also allows students to collaborate and build strong interpersonal
 skills.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student performance" src="/images/student_performance_combine_rev_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="Student performance" src="/images/performance_combine_rev_5.png">
 </div>
 <h4><u>Experiences beyond the classroom</u></h4>
 <p>Art and Music Week (AMW) is a week-long celebration of students’ learning
@@ -40,7 +41,7 @@ video below to see our music teachers in action during an assembly talk.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AMW assembly" src="/images/amw_assembly_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="AMW assembly" src="/images/amw_assembly_2.png">
 </div>
 </th>
 </tr>
@@ -150,7 +151,7 @@ to share their learning with the school community.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students above rehearsing for music fiesta" src="/images/student_rehearsal.png">
+<img style="width: 100%" height="auto" width="100%" alt="student rehersal" src="/images/student_rehearsal_2.png">
 </div>
 </th>
 </tr>
