@@ -91,7 +91,7 @@ video below to see our music teachers in action during an assembly talk.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AMW assembly" src="/images/amw_assembly_5.png">
+<img style="width: 100%" height="auto" width="100%" alt="AMW assembly" src="/images/amw_combine_rev1.png">
 </div>
 </th>
 </tr>
@@ -201,7 +201,7 @@ to share their learning with the school community.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student rehersal" src="/images/student_rehearsal_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Student Rehersal" src="/images/student_rehersal_combine.png">
 </div>
 </th>
 </tr>
@@ -226,7 +226,7 @@ and encouraging atmosphere.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student showcase" src="/images/showcase_combine.png">
+<img style="width: 100%" height="auto" width="100%" alt="student showcase" src="/images/student_showcase_combine_rev_1.png">
 </div>
 </th>
 </tr>
