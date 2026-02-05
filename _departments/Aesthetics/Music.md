@@ -22,9 +22,60 @@ as well as on platforms beyond the classroom. Through these performance
 experiences, students develop musical communication skills. Working in
 ensembles also allows students to collaborate and build strong interpersonal
 skills.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student performance combine" src="/images/student_performance_combine_rev_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/music_1.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/music_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students performing as a group to music from other cultures.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students learning and performing together while following a music using
+ukulele.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/music_3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/music_4_1.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students creating their own musical composition and performing together
+as a group.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students learning musical concepts through experiencing and movement.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><u>Experiences beyond the classroom</u></h4>
 <p>Art and Music Week (AMW) is a week-long celebration of students’ learning
 in Art and Music. A variety of activities are organised to showcase and
