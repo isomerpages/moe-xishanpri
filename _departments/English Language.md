@@ -74,7 +74,7 @@ them to participate effectively in mainstream classroom learning. This
 specialised early intervention initiative targets students who begin Primary
 1 with limited English language and literacy abilities. Student selection
 for LSP occurs through a comprehensive screening methodology implemented
-at the start of Primary</p>
+at the start of Primary 1.</p>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp; School-based Dyslexia Remediation Programme (SDR)</strong>
 </p>
 <p>The School-based Dyslexia Remediation Programme represents a two-year
