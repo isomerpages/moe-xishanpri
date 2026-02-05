@@ -25,6 +25,7 @@ skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="student activity" src="/images/student_activity_1.png">
 </div>
+<p></p>
 <h4><u>Experiences beyond the classroom</u></h4>
 <p>Art and Music Week (AMW) is a week-long celebration of students’ learning
 in Art and Music. A variety of activities are organised to showcase and
