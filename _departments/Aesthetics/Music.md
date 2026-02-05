@@ -23,7 +23,7 @@ experiences, students develop musical communication skills. Working in
 ensembles also allows students to collaborate and build strong interpersonal
 skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student activity" src="/images/student_activity_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="student performance combine" src="/images/student_performance_combine_rev_7.jpg">
 </div>
 <h4><u>Experiences beyond the classroom</u></h4>
 <p>Art and Music Week (AMW) is a week-long celebration of students’ learning
