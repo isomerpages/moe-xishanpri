@@ -138,7 +138,7 @@ their creativity and musical achievements.</p>
 <p>2023 (Ashley)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/watch?v=wjxzu47UdFU&amp;list=PLRGFo1hZVPDkqIjcL4Z6nYdt985EXe8lL&amp;index=22" rel="noopener nofollow" target="_blank">https://www.youtube.com/watch?v=wjxzu47UdFU&amp;list=PLRGFo1hZVPDkqIjcL4Z6nYdt985EXe8lL&amp;index=22</a>
+<p><a href="http://y2u.be/wjxzu47UdFU" rel="noopener nofollow" target="_blank">End of the day</a>
 </p>
 </td>
 </tr>
@@ -147,7 +147,7 @@ their creativity and musical achievements.</p>
 <p>2023 (Heidi)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/watch?v=_PELEbag_tA&amp;list=PLRGFo1hZVPDkqIjcL4Z6nYdt985EXe8lL&amp;index=23" rel="noopener nofollow" target="_blank">https://www.youtube.com/watch?v=_PELEbag_tA&amp;list=PLRGFo1hZVPDkqIjcL4Z6nYdt985EXe8lL&amp;index=23</a>
+<p><a href="http://y2u.be/_PELEbag_tA" rel="noopener nofollow" target="_blank">Flowers through the window</a>
 </p>
 </td>
 </tr>
@@ -156,7 +156,7 @@ their creativity and musical achievements.</p>
 <p>2023 (Kiersten)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/watch?v=j3Rg6CGfOmg&amp;list=PLRGFo1hZVPDkqIjcL4Z6nYdt985EXe8lL&amp;index=10" rel="noopener nofollow" target="_blank">https://www.youtube.com/watch?v=j3Rg6CGfOmg&amp;list=PLRGFo1hZVPDkqIjcL4Z6nYdt985EXe8lL&amp;index=10</a>
+<p><a href="http://y2u.be/j3Rg6CGfOmg" rel="noopener nofollow" target="_blank">See Beyond</a>
 </p>
 </td>
 </tr>
@@ -165,7 +165,7 @@ their creativity and musical achievements.</p>
 <p>2024 (Emmie &amp; Ellie)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/watch?v=gzC6LuG8ps0&amp;list=PLRGFo1hZVPDnnyPV3PPrjAkrZ74DvvFvn&amp;index=11" rel="noopener nofollow" target="_blank">https://www.youtube.com/watch?v=gzC6LuG8ps0&amp;list=PLRGFo1hZVPDnnyPV3PPrjAkrZ74DvvFvn&amp;index=11</a>
+<p><a href="http://y2u.be/gzC6LuG8ps0" rel="noopener nofollow" target="_blank">Reach for the stars</a>
 </p>
 </td>
 </tr>
@@ -174,16 +174,7 @@ their creativity and musical achievements.</p>
 <p>2025 (Emmie, Wynona &amp; Natasha)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/watch?v=pqw3z5QDXqw&amp;list=PLRGFo1hZVPDmlhAUmvfz58yxE9jMQyHXv&amp;index=12" rel="noopener nofollow" target="_blank">https://www.youtube.com/watch?v=pqw3z5QDXqw&amp;list=PLRGFo1hZVPDmlhAUmvfz58yxE9jMQyHXv&amp;index=12</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://y2u.be/wjxzu47UdFU" rel="noopener nofollow" target="_blank">End of the day</a>
+<p><a href="http://y2u.be/pqw3z5QDXqw" rel="noopener nofollow" target="_blank">This moment</a>
 </p>
 </td>
 </tr>
