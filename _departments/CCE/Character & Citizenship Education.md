@@ -6,13 +6,45 @@ third_nav_title: CCE
 variant: tiptap
 ---
 <h2><strong>Character &amp; Citizenship Education</strong></h2>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100 %" height="auto" width="100%" src="/images/slide2cce.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="CCE Main Page 1" src="/images/CCE_Main_Page_pg_1.png">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100 %" height="auto" width="100%" src="/images/cce2023slide3.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="CCE Main Page 2" src="/images/CCE_Main_Page_pg_2.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCE Main Page 3" src="/images/CCE_Main_Page_pg_3.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCE Main Page 4" src="/images/CCE_Main_Page_pg_4.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/education%20and%20career%20advising%20resources%20(for%20parents).jpg">
 </div>
