@@ -225,13 +225,14 @@ and encouraging atmosphere.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student showcase" src="/images/student_showcase_combine_rev_1.png">
-</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="student showcase" src="/images/student_showcase_combine_rev_2b.png">
+</div>
 <p>Students showcasing their talent in playing instruments and/or singing
 during recess concert.</p>
 </td>
