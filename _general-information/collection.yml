@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Parents Engagement Sessions 2026.md
       - School Rules and Regulations.md
       - Discipline/.keep
       - Discipline/Joint Mid Year School Holidays Advisory.md
@@ -18,6 +17,7 @@ collections:
       - Student Services/School Bus.md
       - Student Services/School Uniform.md
       - BookList 2026.md
+      - Parents Engagement Sessions 2026.md
       - P1 Orientation.md
       - Student Transfer Wait List.md
       - Appreciation and Feedback.md
