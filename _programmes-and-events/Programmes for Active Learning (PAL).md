@@ -6,14 +6,20 @@ variant: tiptap
 ---
 <h1><strong>Programmes for Active Learning (PAL)</strong></h1>
 <h3>Objectives of PAL</h3>
-<p>1) A curriculum for Primary 1 &amp; 2 students focusing on fun, hands-on
+<ol data-tight="true" class="tight">
+<li>
+<p>A curriculum for Primary 1 &amp; 2 students focusing on fun, hands-on
 non-academic activities to develop social-emotional skills (i.e. confidence,
 teamwork, values) and holistic growth, complementing core subjects with
 experiential learning for well-rounded development.</p>
-<p>2) The teaching and practicing of self-management skills (SMS) are infused
+<p></p>
+</li>
+<li>
+<p>The teaching and practicing of self-management skills (SMS) are infused
 in the lessons across the 4 PAL domains (i.e. games and sports, outdoor
 education, visual art, performing arts).</p>
-<p></p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Learning how to organise their play" src="/images/learning_how.png">
 </div>
@@ -21,7 +27,7 @@ education, visual art, performing arts).</p>
 for Goldilocks and the three bears</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Creating magazine cover" src="/images/creating_magazine_cover_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="creating magazine cover" src="/images/creating_magazine_cover_png.jpg">
 </div>
 <p>Expressing joy through art—creating a magazine cover that reflects what
 makes them feel happy and confident.</p>
@@ -32,7 +38,7 @@ makes them feel happy and confident.</p>
 <p>Students paint gratitude pebbles, expressing thanks through art and reflection.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Planning and enacting" src="/images/planning_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Through planning and enacting" src="/images/thru_planning_.png">
 </div>
 <p>Through planning and enacting a picnic, students develop cooperation,
 communication and decision-making skills.</p>
