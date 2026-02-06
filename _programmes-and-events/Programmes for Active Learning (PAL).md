@@ -15,7 +15,7 @@ in the lessons across the 4 PAL domains (i.e. games and sports, outdoor
 education, visual art, performing arts).</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Learning to organise" src="/images/learn_to_organise_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Learning how to organise their play" src="/images/learning_how.png">
 </div>
 <p>Learning how to organise their play area while making mini furnitures
 for Goldilocks and the three bears</p>
@@ -27,7 +27,7 @@ for Goldilocks and the three bears</p>
 makes them feel happy and confident.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student paint gratitude pebbles" src="/images/student_paint_gratitude_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="student paint gratitude" src="/images/student_paint_gratitude.png">
 </div>
 <p>Students paint gratitude pebbles, expressing thanks through art and reflection.</p>
 <p></p>
@@ -38,7 +38,7 @@ makes them feel happy and confident.</p>
 communication and decision-making skills.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Discovering new instruments" src="/images/discovering_instrument_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Discovering new instrument" src="/images/discovering_new_instrument.png">
 </div>
 <p>Discovering new instruments while expressing feelings through performance.</p>
 <p></p>
