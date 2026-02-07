@@ -3,6 +3,7 @@ title: Science
 permalink: /departments/science/
 description: ""
 variant: tiptap
+third_nav_title: Science
 ---
 <h1><strong>Science</strong></h1>
 <h4><strong>Vision</strong><br></h4>
