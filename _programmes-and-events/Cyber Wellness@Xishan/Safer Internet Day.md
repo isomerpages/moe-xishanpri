@@ -6,16 +6,45 @@ third_nav_title: Cyber Wellness@Xishan
 variant: tiptap
 ---
 <h1><strong>Safer Internet Day</strong></h1>
-<p><strong>Safer Internet Day (SID) 2025</strong> took place on <strong>11 February 2025</strong> under
-the global theme <strong>“Empowering a Safe and Resilient Online Community”</strong>.</p>
-<p><strong>Screen-Healthy Weekend (22–23 February 2025):</strong>
+<p><strong>Safer Internet Day</strong> is an annual global initiative that
+promotes the safe, responsible, and positive use of online technology and
+mobile devices among children and young people.</p>
+<h3>Theme for Safer Internet Day 2026</h3>
+<p><strong>Practise Healthy Digital Habits Together</strong>
 </p>
-<p>As part of <strong>SID 2025</strong>, we encourage students and families
-to commit to a <strong>Screen-Free Weekend</strong> by limiting screen use
-and engaging in <strong>offline activities</strong> such as sports, outdoor
-fun, or family bonding.</p>
+<p>The national theme highlights the importance of building healthy digital
+habits as a community. Students will be guided to practise the following <strong>four healthy digital habits</strong>:</p>
+<ul>
+<li>
+<p><strong>Set boundaries</strong> to manage screen use and online interactions</p>
+</li>
+<li>
+<p><strong>Think before you act</strong> to safeguard their digital footprint</p>
+</li>
+<li>
+<p><strong>Report inappropriate content</strong> to keep themselves and others
+safe</p>
+</li>
+<li>
+<p><strong>Engage a trusted person</strong> and seek support proactively</p>
+</li>
+</ul>
+<p>These habits help students develop self-control, responsibility, and care
+for others in the digital space.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_09_16_161913.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/practise_health_difgital_habit.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SID_poster.jpg">
+</div>
+<p>Students can access this link for more information about Healthy Digital
+Habits. <a href="https://go.gov.sg/scroll-smart-surf-safe-moe" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/scroll-smart-surf-safe-moe</a>
+</p>
+<h3>Partnering Parents</h3>
+<p>Parents play an important role in guiding children’s digital habits. Families
+are encouraged to have open conversations at home about screen use, online
+behaviour, and seeking help when something online feels uncomfortable.
+Working together, we can support our students in becoming safe, responsible,
+and confident digital users.</p>
