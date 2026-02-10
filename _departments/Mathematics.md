@@ -321,4 +321,16 @@ foundation in Mathematics.</p>
 </div>
 </details>
 </div>
-<p>&nbsp;</p>
+<h3>&nbsp;<strong>Happenings@Xishan Primary School</strong></h3>
+<p>Discover how Xishan Primary School teachers use Microsoft Excel to make
+mathematics graphing concepts more engaging and relevant for Primary 5
+students. Students learn to create bar charts and line graphs using real
+data while developing their Digital Literacy and Technological Skills (DLTS).
+See how this innovative approach helps students connect mathematical concepts
+to practical applications while building both computational thinking and
+data interpretation abilities. Perfect for educators and anyone interested
+in how technology can be meaningfully integrated into mathematics lessons.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ENYrnyC_Vr4?si=Q6ELiIO4q0V6Vfnw"></iframe>
+</div>
+<p></p>
