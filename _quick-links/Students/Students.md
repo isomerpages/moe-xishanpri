@@ -70,7 +70,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses" rel="noopener noreferrer nofollow" target="_blank">Syllabuses</a>
+<p><a href="https://www.moe.gov.sg/primary/curriculum/syllabus" rel="noopener noreferrer nofollow" target="_blank">Syllabuses</a>
 </p>
 </td>
 </tr>
