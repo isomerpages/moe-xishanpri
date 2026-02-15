@@ -11,3 +11,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="sac" src="/images/sac_members_new_.jpg">
+</div>
+<p></p>
