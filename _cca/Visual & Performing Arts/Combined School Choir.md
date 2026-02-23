@@ -94,6 +94,29 @@ Polytechnic (2025)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1A__Choir_Performance_and_CCA_Booth_at_Xishan_Primary_School_CCA_Bazaar___Open_House_edited.jpg">
 </div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="1A Choir Performance" src="/images/1A__Choir_Performance_and_CCA_Booth_at_Xishan_Primary_School_CCA_Bazaar___Open_House_edited.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="1B Choir Performance" src="/images/1B__Choir_Performance_and_CCA_Booth_at_Xishan_Primary_School_CCA_Bazaar___Open_House_edited.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>(1A) Choir Performance and CCA Booth at Xishan Primary School CCA Bazaar
 &amp; Open House</p>
 <p></p>
