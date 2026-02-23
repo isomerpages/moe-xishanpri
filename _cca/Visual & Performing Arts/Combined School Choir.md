@@ -90,18 +90,19 @@ Choir</p>
 (2024 &amp; 2025)</p>
 <p>• Performance in Northland Primary School’s Musical Applause at Republic
 Polytechnic (2025)</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Choir Performance" src="/images/choir_performance_edited.png">
 </div>
 <p>Choir Performance and CCA Booth at Xishan Primary School CCA Bazaar &amp;
 Open House</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="team bonding" src="/images/team_bonding2.png">
+</div>
 <p>Team Bonding and CCA Sessions</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024 SYF Presentation" src="/images/2024_syf_present1.png">
+<img style="width: 100%" height="auto" width="100%" alt="2024 SYF" src="/images/2024_syf.png">
 </div>
 <p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 <p></p>
@@ -110,6 +111,5 @@ Open House</p>
 </div>
 <p>Students performing at Northland Primary School Musical</p>
 <p></p>
-<p>(4B) Students performing at Northland Primary School Musical</p>
 <p></p>
 <p></p>
