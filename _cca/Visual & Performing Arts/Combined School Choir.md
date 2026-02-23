@@ -91,75 +91,25 @@ Choir</p>
 <p>• Performance in Northland Primary School’s Musical Applause at Republic
 Polytechnic (2025)</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1A__Choir_Performance_and_CCA_Booth_at_Xishan_Primary_School_CCA_Bazaar___Open_House_edited.jpg">
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="1A Choir Performance" src="/images/1A__Choir_Performance_and_CCA_Booth_at_Xishan_Primary_School_CCA_Bazaar___Open_House_edited.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Choir Performance" src="/images/choir_performance_edited.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+<p>Choir Performance and CCA Booth at Xishan Primary School CCA Bazaar &amp;
+Open House</p>
+<p></p>
+<p>Team Bonding and CCA Sessions</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="1B Choir Performance" src="/images/1B__Choir_Performance_and_CCA_Booth_at_Xishan_Primary_School_CCA_Bazaar___Open_House_edited.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2024 SYF Presentation" src="/images/2024_syf_present1.png">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p>(1A) Choir Performance and CCA Booth at Xishan Primary School CCA Bazaar
-&amp; Open House</p>
+<p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="1B Choir Performance and CCA Booth at Xishan Primary School CCA Bazaar Open House" src="/images/1B__Choir_Performance_and_CCA_Booth_at_Xishan_Primary_School_CCA_Bazaar___Open_House_edited.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students performing at Northland Primary School" src="/images/student_performing1.png">
 </div>
-<p>(1B) Choir Performance and CCA Booth at Xishan Primary School CCA Bazaar
-&amp; Open House</p>
+<p>Students performing at Northland Primary School Musical</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2A Team Bonding and CCA Sessions" src="/images/2A__Team_Bonding_and_CCA_Sessions_edited.jpg">
-</div>
-<p>(2A) Team Bonding and CCA Sessions</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2B Team Bonding and CCA Sessions" src="/images/2B__Team_Bonding_and_CCA_Sessions_edited.jpg">
-</div>
-<p>(2B) Team Bonding and CCA Sessions</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2C Team Bonding and CCA Sessions" src="/images/2C__Team_Bonding_and_CCA_Sessions_edited.jpg">
-</div>
-<p>(2C) Team Bonding and CCA Sessions</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="3A 2024 Singapore Youth Festival Arts Presentation Certificate of Accomplishment" src="/images/3A__2024_Singapore_Youth_Festival_Arts_Presentation___Certificate_of_Accomplishment_edited.jpg">
-</div>
-<p>(3A) 2024 Singapore Youth Festival Arts Presentation - Certificate of
-Accomplishment</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="3B 2024 Singapore Youth Festival Arts Presentation Certificate of Accomplishment" src="/images/3B__2024_Singapore_Youth_Festival_Arts_Presentation___Certificate_of_Accomplishment_edited.jpg">
-</div>
-<p>(3B) 2024 Singapore Youth Festival Arts Presentation - Certificate of
-Accomplishment</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="4A Students performing at Northland Primary School Musical" src="/images/4A__Students_performing_at_Northland_Primary_School_Musical_edited.jpg">
-</div>
-<p>(4A) Students performing at Northland Primary School Musical</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="4B Students performing at Northland Primary School Musical" src="/images/4B__Students_performing_at_Northland_Primary_School_Musical_edited.jpg">
-</div>
 <p>(4B) Students performing at Northland Primary School Musical</p>
 <p></p>
 <p></p>
