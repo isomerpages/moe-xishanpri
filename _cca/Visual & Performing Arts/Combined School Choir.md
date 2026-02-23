@@ -118,5 +118,25 @@ Polytechnic (2025)</p>
 </div>
 <p>(2C) Team Bonding and CCA Sessions</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="3A 2024 Singapore Youth Festival Arts Presentation Certificate of Accomplishment" src="/images/3A__2024_Singapore_Youth_Festival_Arts_Presentation___Certificate_of_Accomplishment_edited.jpg">
+</div>
+<p>(3A) 2024 Singapore Youth Festival Arts Presentation - Certificate of
+Accomplishment</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="3B 2024 Singapore Youth Festival Arts Presentation Certificate of Accomplishment" src="/images/3B__2024_Singapore_Youth_Festival_Arts_Presentation___Certificate_of_Accomplishment_edited.jpg">
+</div>
+<p>(3B) 2024 Singapore Youth Festival Arts Presentation - Certificate of
+Accomplishment</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="4A Students performing at Northland Primary School Musical" src="/images/4A__Students_performing_at_Northland_Primary_School_Musical_edited.jpg">
+</div>
+<p>(4A) Students performing at Northland Primary School Musical</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="4B Students performing at Northland Primary School Musical" src="/images/4B__Students_performing_at_Northland_Primary_School_Musical_edited.jpg">
+</div>
+<p>(4B) Students performing at Northland Primary School Musical</p>
 <p></p>
 <p></p>
