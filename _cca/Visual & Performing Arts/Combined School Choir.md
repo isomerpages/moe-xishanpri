@@ -53,4 +53,63 @@ third_nav_title: Visual & Performing Arts
 </tr>
 </tbody>
 </table>
+<p>Our Choir is a distinctive combined-school Performing Arts CCA that brings
+together students from Xishan Primary School and Northland Primary School.
+This meaningful partnership provides students with the opportunity to learn,
+rehearse, and perform alongside peers from another school, fostering camaraderie
+and a shared sense of purpose.</p>
+<p>Together, the choir has proudly represented both schools at the Singapore
+Youth Festival (SYF) 2024. They have also performed annually at Xishan
+Primary School’s CCA Bazaar and Open House since 2024, and most recently
+showcased their talents in Northland Primary School’s 2025 musical production,
+Applause, held at Republic Polytechnic</p>
+<h3><strong>Our Focus: V.O.I.C.E.</strong></h3>
+<p>Through structured vocal training, sectional practices, and full choir
+rehearsals, members develop strong foundational singing techniques, musical
+expression, and stage confidence. Our programme is guided by the V.O.I.C.E.
+framework:</p>
+<h4><strong>V – Vocal Excellence</strong></h4>
+<p>Developing strong vocal techniques, musical accuracy, and expressive singing.</p>
+<h4><strong>O – Ownership &amp; Discipline</strong></h4>
+<p>Demonstrating commitment, responsibility, and consistent effort in rehearsals
+and performances.</p>
+<h4><strong>I – Inclusion &amp; Teamwork</strong></h4>
+<p>Blending voices harmoniously and fostering unity across two schools as
+one choir.</p>
+<h4><strong>C – Confidence &amp; Character</strong></h4>
+<p>Building self-assurance, resilience, respect, and positive stage presence.</p>
+<h4><strong>E – Empowered Leadership</strong></h4>
+<p>Providing opportunities for student and sectional leaders to guide, mentor,
+and inspire others.</p>
+<h4><strong>Key Learning Experiences</strong></h4>
+<p>• Participation in Singapore Youth Festival 2024 as a Combined School
+Choir</p>
+<p>• Choir Exchange Programme with two schools at North Vista Primary School
+(2024)</p>
+<p>• Performances at Xishan Primary School’s CCA Bazaar &amp; Open House
+(2024 &amp; 2025)</p>
+<p>• Performance in Northland Primary School’s Musical Applause at Republic
+Polytechnic (2025)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Choir Performance" src="/images/choir_performance_edited.png">
+</div>
+<p>Choir Performance and CCA Booth at Xishan Primary School CCA Bazaar &amp;
+Open House</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="team bonding" src="/images/team_bonding2.png">
+</div>
+<p>Team Bonding and CCA Sessions</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024 SYF" src="/images/2024_syf.png">
+</div>
+<p>2024 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students performing at Northland Primary School" src="/images/student_performing1.png">
+</div>
+<p>Students performing at Northland Primary School Musical</p>
+<p></p>
+<p></p>
 <p></p>
