@@ -76,4 +76,9 @@ cultural traditions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Makeup" src="/images/makeup_combine_edited.png">
 </div>
 <p></p>
+<p><em>Through their hard work, dedication, and passion, our dancers made the school proud by clinching the Distinction Award at the Singapore Youth Festival (SYF) 2024, a testament to their commitment to excellence in the arts.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYF 2024" src="/images/SYF_edited.jpg">
+</div>
 <p></p>
