@@ -96,3 +96,12 @@ cultural traditions.</p>
 <p><em>Through dedication, perseverance, and exceptional talent, our dancers clinched the championship at the Mutiara Tari Dance Competition, proudly celebrating Malay cultural heritage and showcasing the results of their hard work.</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mutiara Tari 2" src="/images/Mutiara_Tari_2025_2_edited.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mutiara Tari 2025 1" src="/images/Mutiara_Tari_2025_1_edited.jpg">
+</div>
+<p></p>
+<p></p>
