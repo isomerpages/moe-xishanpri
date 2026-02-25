@@ -53,9 +53,18 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4>Malay Dance - SYF Accomplishment</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MalayDance1.jpeg">
-</div>
-<h4></h4>
+<h3>Malay Dance CCA – Si Anak Tari</h3>
+<p>The Malay Dance CCA, proudly known as Si Anak Tari, provides students
+with the opportunity to explore and appreciate the rich heritage of traditional
+and contemporary Malay dance. Through structured training, members develop
+rhythm, coordination, stage confidence, and teamwork while learning the
+cultural stories behind each performance. Si Anak Tari actively participates
+in school events and national platforms such as the Singapore Youth Festival
+(SYF), representing the school with pride and excellence. The CCA nurtures
+discipline, resilience, and a deep appreciation for the arts and Malay
+cultural traditions.</p>
+<p><em>CCA leaders conducting a warm-up session to cultivate discipline, strengthen coordination and prepare dancers for an effective and focused practice.</em>
+</p>
+<p></p>
+<h3></h3>
 <p></p>
