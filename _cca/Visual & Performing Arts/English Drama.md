@@ -61,5 +61,46 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4></h4>
+<p>The English Drama Programme at Xishan Primary School provides students
+with an engaging and creative platform to learn and use English confidently.
+Through role-play, script reading and stage performances, students develop
+their speaking skills, pronunciation, and expressive communication in a
+fun environment. The programme also builds teamwork, creativity, and self-confidence,
+culminating in performances that showcase students’ growth and talent.
+By combining language learning with drama, we empower our students to become
+confident and effective communicators both on and off the stage.</p>
+<p><em>Drama Club Members helping out at the CCA booth during the annual CCA Bazaar</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eng club photo 1" src="/images/Photo_1_edited.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eng club photo 2" src="/images/Photo_2_edited.jpg">
+</div>
+<p></p>
+<p><em>Drama Club members acting out a skit on Racial Harmony Day </em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eng drama photo 3" src="/images/Photo_3_edited.jpg">
+</div>
+<p></p>
+<p><em>Drama Club members conducting a storytelling session with the P1 students </em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eng drama photo 4" src="/images/Photo_4_edited.jpg">
+</div>
+<p></p>
+<p><em>Drama Club members engaging in drama activities during CCA</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eng drama photo 5" src="/images/Photo_5_edited.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eng drama photo 6" src="/images/Photo_6_edited.jpg">
+</div>
 <p></p>
