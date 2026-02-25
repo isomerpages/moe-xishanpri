@@ -69,8 +69,9 @@ fun environment. The programme also builds teamwork, creativity, and self-confid
 culminating in performances that showcase students’ growth and talent.
 By combining language learning with drama, we empower our students to become
 confident and effective communicators both on and off the stage.</p>
-<p><em>Drama Club Members helping out at the CCA booth during the annual CCA Bazaar</em>
-</p>
+<p></p>
+<p>Drama Club Members helping out at the CCA booth during the annual CCA
+Bazaar</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eng club photo 1" src="/images/Photo_1_edited.jpg">
 </div>
@@ -79,20 +80,17 @@ confident and effective communicators both on and off the stage.</p>
 <img style="width: 100%" height="auto" width="100%" alt="eng club photo 2" src="/images/Photo_2_edited.jpg">
 </div>
 <p></p>
-<p><em>Drama Club members acting out a skit on Racial Harmony Day</em>
-</p>
+<p>Drama Club members acting out a skit on Racial Harmony Day</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eng drama photo 3" src="/images/Photo_3_edited.jpg">
 </div>
 <p></p>
-<p><em>Drama Club members conducting a storytelling session with the P1 students</em>
-</p>
+<p>Drama Club members conducting a storytelling session with the P1 students</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eng drama photo 4" src="/images/Photo_4_edited.jpg">
 </div>
 <p></p>
-<p><em>Drama Club members engaging in drama activities during CCA</em>
-</p>
+<p>Drama Club members engaging in drama activities during CCA</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="eng drama photo 5" src="/images/Photo_5_edited.jpg">
 </div>
