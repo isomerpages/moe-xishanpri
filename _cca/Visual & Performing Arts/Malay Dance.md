@@ -104,4 +104,14 @@ cultural traditions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Mutiara Tari 2025 1" src="/images/Mutiara_Tari_2025_1_edited.jpg">
 </div>
 <p></p>
+<p><em>Our dancers showcased their talent in school events such as the Hari Raya Concert, Open House, and CCA Teachers’ Day Concert, as well as an external performance at Wisma Geylang Serai in conjunction with Malay Language Month. These performances provide students with valuable opportunities to develop confidence, teamwork and stage presence, while promoting cultural appreciation and community engagement.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Wisma Geylang Serai" src="/images/Wisma_Geylang_Serai_edited.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Open House CCA" src="/images/Open_House_CCA_edited.jpg">
+</div>
 <p></p>
