@@ -65,6 +65,15 @@ discipline, resilience, and a deep appreciation for the arts and Malay
 cultural traditions.</p>
 <p><em>CCA leaders conducting a warm-up session to cultivate discipline, strengthen coordination and prepare dancers for an effective and focused practice.</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="warm-up" src="/images/warmup_combine_edited.png">
+</div>
 <p></p>
-<h3></h3>
+<p><em>In the spirit of collaboration, student alumni, parent volunteers, teachers and make-up artists came together to support and prepare the dancers for their performances.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Makeup" src="/images/makeup_combine_edited.png">
+</div>
+<p></p>
 <p></p>
