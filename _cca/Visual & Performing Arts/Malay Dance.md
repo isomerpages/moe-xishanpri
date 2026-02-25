@@ -82,3 +82,17 @@ cultural traditions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="SYF 2024" src="/images/SYF_edited.jpg">
 </div>
 <p></p>
+<p><em>Dancers showcased their talents at the SYF 2024 Celebrations (Dance Xtravaganza), gaining opportunities to learn, grow and engage with the community through the arts.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dance Xtravaganza" src="/images/Dance_Xtravaganza_1_edited.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dance Xtravaganza 2" src="/images/Dance_Xtravaganza_2_edited.jpg">
+</div>
+<p></p>
+<p><em>Through dedication, perseverance, and exceptional talent, our dancers clinched the championship at the Mutiara Tari Dance Competition, proudly celebrating Malay cultural heritage and showcasing the results of their hard work.</em>
+</p>
+<p></p>
