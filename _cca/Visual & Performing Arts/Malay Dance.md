@@ -63,27 +63,32 @@ in school events and national platforms such as the Singapore Youth Festival
 (SYF), representing the school with pride and excellence. The CCA nurtures
 discipline, resilience, and a deep appreciation for the arts and Malay
 cultural traditions.</p>
-<p><em>CCA leaders conducting a warm-up session to cultivate discipline, strengthen coordination and prepare dancers for an effective and focused practice.</em>
-</p>
+<p>CCA leaders conducting a warm-up session to cultivate discipline, strengthen
+coordination and prepare dancers for an effective and focused practice.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="warm-up" src="/images/warmup_combine_edited.png">
 </div>
 <p></p>
-<p><em>In the spirit of collaboration, student alumni, parent volunteers, teachers and make-up artists came together to support and prepare the dancers for their performances.</em>
-</p>
+<p>In the spirit of collaboration, student alumni, parent volunteers, teachers
+and make-up artists came together to support and prepare the dancers for
+their performances.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Makeup" src="/images/makeup_combine_edited.png">
 </div>
 <p></p>
-<p><em>Through their hard work, dedication, and passion, our dancers made the school proud by clinching the Distinction Award at the Singapore Youth Festival (SYF) 2024, a testament to their commitment to excellence in the arts.</em>
-</p>
+<p>Through their hard work, dedication, and passion, our dancers made the
+school proud by clinching the Distinction Award at the Singapore Youth
+Festival (SYF) 2024, a testament to their commitment to excellence in the
+arts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SYF 2024" src="/images/SYF_edited.jpg">
 </div>
 <p></p>
-<p><em>Dancers showcased their talents at the SYF 2024 Celebrations (Dance Xtravaganza), gaining opportunities to learn, grow and engage with the community through the arts.</em>
-</p>
+<p></p>
+<p>Dancers showcased their talents at the SYF 2024 Celebrations (Dance Xtravaganza),
+gaining opportunities to learn, grow and engage with the community through
+the arts.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dance Xtravaganza" src="/images/Dance_Xtravaganza_1_edited.jpg">
@@ -93,8 +98,11 @@ cultural traditions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Dance Xtravaganza 2" src="/images/Dance_Xtravaganza_2_edited.jpg">
 </div>
 <p></p>
-<p><em>Through dedication, perseverance, and exceptional talent, our dancers clinched the championship at the Mutiara Tari Dance Competition, proudly celebrating Malay cultural heritage and showcasing the results of their hard work.</em>
-</p>
+<p></p>
+<p>Through dedication, perseverance, and exceptional talent, our dancers
+clinched the championship at the Mutiara Tari Dance Competition, proudly
+celebrating Malay cultural heritage and showcasing the results of their
+hard work.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mutiara Tari 2" src="/images/Mutiara_Tari_2025_2_edited.jpg">
@@ -104,8 +112,13 @@ cultural traditions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Mutiara Tari 2025 1" src="/images/Mutiara_Tari_2025_1_edited.jpg">
 </div>
 <p></p>
-<p><em>Our dancers showcased their talent in school events such as the Hari Raya Concert, Open House, and CCA Teachers’ Day Concert, as well as an external performance at Wisma Geylang Serai in conjunction with Malay Language Month. These performances provide students with valuable opportunities to develop confidence, teamwork and stage presence, while promoting cultural appreciation and community engagement.</em>
-</p>
+<p></p>
+<p>Our dancers showcased their talent in school events such as the Hari Raya
+Concert, Open House, and CCA Teachers’ Day Concert, as well as an external
+performance at Wisma Geylang Serai in conjunction with Malay Language Month.
+These performances provide students with valuable opportunities to develop
+confidence, teamwork and stage presence, while promoting cultural appreciation
+and community engagement.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Wisma Geylang Serai" src="/images/Wisma_Geylang_Serai_edited.jpg">
