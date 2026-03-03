@@ -156,28 +156,7 @@ would need to come to the school <strong>on the same day</strong> to collect
 the mobile phone/smart watch.</p>
 </li>
 </ul>
-<h3>Anti-Bullying Policy</h3>
 <p></p>
-<ol data-tight="true" class="tight">
-<li>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Anti Bullying" src="/images/anti_bullying.jpg">
-</div>
-</li>
-</ol>
-<ol start="2">
-<li>
-<p>The school maintains a zero-tolerance approach to bullying in all its
-forms. Anchored in our school motto of Love, Care, Share, we strongly believe
-that every member of our school community has the right to feel safe, respected,
-and valued. No one should be bullied, and no one should engage in bullying
-behaviour.</p>
-</li>
-<li>
-<p><strong>Reporting Procedure:</strong> Students and parents/guardians may
-report bullying directly to teachers, school counsellors, or School Leaders.
-All reports will be taken seriously and treated confidentially.</p>
-</li>
-</ol>
+<p></p>
 <p></p>
