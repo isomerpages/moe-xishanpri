@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Rules and Regulations.md
+      - Discipline/Student Discipline Framework.md
       - Discipline/.keep
       - Discipline/I Can ACT Against Scams.md
       - Discipline/Harmful effects of vaping.md
