@@ -25,4 +25,6 @@ and grow.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Disciplinary Consequences for Minor Offences" src="/images/disciplinary_consequences.png">
 </div>
+<h3>Serious and Very Serious Offences </h3>
+<p></p>
 <p></p>
