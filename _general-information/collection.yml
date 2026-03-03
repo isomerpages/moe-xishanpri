@@ -2,14 +2,14 @@ collections:
   general-information:
     output: true
     order:
-      - Canteen Information.md
       - School Rules and Regulations.md
-      - Discipline/Student Discipline Framework.md
       - Discipline/.keep
+      - Discipline/Student Discipline Framework.md
       - Discipline/I Can ACT Against Scams.md
       - Discipline/Harmful effects of vaping.md
       - Discipline/Keep Your Child Vape Free.md
       - Homework Policy.md
+      - Canteen Information.md
       - Student Services/.keep
       - Student Services/Student Care.md
       - Student Services/Bookshop.md
