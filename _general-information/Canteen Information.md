@@ -4,7 +4,6 @@ permalink: /canteen-information/
 variant: tiptap
 description: ""
 ---
-<h1>Canteen Information</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/general_information.png">
