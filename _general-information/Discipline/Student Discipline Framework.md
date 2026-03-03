@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Discipline
 ---
-<h1>Student Discipline Framework </h1>
+<h1>Student Discipline Framework</h1>
 <p>At Xishan Primary School, we are committed to providing a safe, respectful,
 and supportive learning environment for every student. Clear expectations
 and consistent responses help students understand boundaries, take responsibility
