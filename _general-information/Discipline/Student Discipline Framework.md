@@ -39,5 +39,44 @@ substance abuse, vaping, sexual misconduct, possession of weapons, scams
 or fraud), the school will report the matter promptly to the relevant law
 enforcement agencies. School-based disciplinary consequences will apply <strong>in addition</strong> to
 any action taken by the authorities.</p>
+<h3>Types of Serious and Very Serious Offences</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Types of serious and very serious offences" src="/images/types_of_serious_and_very_serious_offences.png">
+</div>
+<p><strong>Very serious offences</strong> can include Arson, Assault, Drug
+Abuse, Fighting, Gangsterism, Vaping (with etomidate), Sexual Misconduct,
+Severe Bullying and other illegal/criminal offences which result in grievous
+hurt.</p>
+<h3>Baseline Disciplinary Consequences for Serious and Very Serious Offences**</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Baseline Disciplinary Consequences for Serious and Very Serious Offences" src="/images/baseline_disciplinary_consequences.png">
+</div>
+<h3>Vaping and Substance Enforcement</h3>
+<p>Electronic vaporisers (e-cigarettes or vapes) are illegal in Singapore.
+From <strong>1 February 2018,</strong> the purchase, possession, and use
+of such devices have been prohibited.</p>
+<p>From <strong>1 September 2025, etomidate and its analogues</strong> are
+classified as <strong>Class C controlled drugs</strong> under the Misuse
+of Drugs Act.</p>
+<p>Students involved in such cases will face <strong>legal consequences</strong> as
+well as <strong>school-based disciplinary actions.</strong>
+</p>
+<h4><strong>School-based Consequences for Vaping Offences </strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="School-based Consequences for Vaping Offences" src="/images/school_based_consequences_vaping.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Notes" src="/images/notes_2.png">
+</div>
+<h3>Zero Tolerance Approach Against Bullying </h3>
+<p>Every student has a responsibility to treat others with respect. Bullying
+has no place in our school community—no student should experience bullying,
+and no student should engage in bullying behaviour.</p>
+<p>Guided by our school motto, Love, Care, Share, we uphold a <strong>zero-tolerance approach towards bullying</strong> in
+all its forms. We believe that every member of our school community has
+the right to feel safe, respected, and valued, and we work together to
+create a caring and inclusive environment for all.</p>
 <p></p>
