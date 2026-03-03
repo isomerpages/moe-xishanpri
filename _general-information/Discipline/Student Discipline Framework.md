@@ -26,5 +26,18 @@ and grow.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Disciplinary Consequences for Minor Offences" src="/images/disciplinary_consequences.png">
 </div>
 <h3>Serious and Very Serious Offences</h3>
+<p>An offence is considered <strong>serious</strong> when a student:</p>
+<p>a) causes <strong>serious harm and/or disruption to self,</strong> whether
+physical, psychological or social, and/or</p>
+<p>b) causes <strong>serious harm and/or disruption to others,</strong> whether
+physical, psychological or social, and/or</p>
+<p>c) causes <strong>serious damage to property or resources,</strong> and/or</p>
+<p>d) shows <strong>defiance against authorities.</strong>
+</p>
+<p>If a serious offence involves a <strong>breach of the law</strong> (e.g.
+substance abuse, vaping, sexual misconduct, possession of weapons, scams
+or fraud), the school will report the matter promptly to the relevant law
+enforcement agencies. School-based disciplinary consequences will apply <strong>in addition</strong> to
+any action taken by the authorities.</p>
 <p></p>
 <p></p>
