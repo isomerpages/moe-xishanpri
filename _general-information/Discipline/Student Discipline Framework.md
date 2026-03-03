@@ -16,12 +16,10 @@ the consequences of poor choices made. All interventions are applied fairly,
 firmly, and appropriately, with the aim of helping students learn, reflect,
 and grow.</p>
 <h3>Types of Offences</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Types of offences" src="/images/type_of_offences.png">
 </div>
 <h3>Disciplinary Consequences for Minor Offences</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Disciplinary Consequences for Minor Offences" src="/images/disciplinary_consequences.png">
 </div>
@@ -40,7 +38,6 @@ or fraud), the school will report the matter promptly to the relevant law
 enforcement agencies. School-based disciplinary consequences will apply <strong>in addition</strong> to
 any action taken by the authorities.</p>
 <h3>Types of Serious and Very Serious Offences</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Types of serious and very serious offences" src="/images/types_of_serious_and_very_serious_offences.png">
 </div>
@@ -49,7 +46,6 @@ Abuse, Fighting, Gangsterism, Vaping (with etomidate), Sexual Misconduct,
 Severe Bullying and other illegal/criminal offences which result in grievous
 hurt.</p>
 <h3>Baseline Disciplinary Consequences for Serious and Very Serious Offences**</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Baseline Disciplinary Consequences for Serious and Very Serious Offences" src="/images/baseline_disciplinary_consequences.png">
 </div>
@@ -63,15 +59,14 @@ of Drugs Act.</p>
 <p>Students involved in such cases will face <strong>legal consequences</strong> as
 well as <strong>school-based disciplinary actions.</strong>
 </p>
-<h4><strong>School-based Consequences for Vaping Offences </strong></h4>
+<h4><strong>School-based Consequences for Vaping Offences</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="School-based Consequences for Vaping Offences" src="/images/school_based_consequences_vaping.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Notes" src="/images/notes_2.png">
 </div>
-<h3>Zero Tolerance Approach Against Bullying </h3>
+<h3>Zero Tolerance Approach Against Bullying</h3>
 <p>Every student has a responsibility to treat others with respect. Bullying
 has no place in our school community—no student should experience bullying,
 and no student should engage in bullying behaviour.</p>
@@ -79,4 +74,18 @@ and no student should engage in bullying behaviour.</p>
 all its forms. We believe that every member of our school community has
 the right to feel safe, respected, and valued, and we work together to
 create a caring and inclusive environment for all.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bullying" src="/images/bullying.png">
+</div>
+<h3>Reporting Procedure: Student well-being is at the heart of how we manage all incidents. </h3>
+<p>We work in close partnership with parents and guardians and are committed
+to open, respectful, and timely communication throughout the process.</p>
+<p>For straightforward cases, the school will respond within <strong>3 working days. </strong>For
+cases requiring further investigation, a response will be provided within<strong> 7 working days.</strong> In
+more complex situations involving multiple parties, parents can expect
+a response or update within <strong>21 working days.</strong> 
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Response time guidelines" src="/images/response_time_guidlines.png">
+</div>
 <p></p>
