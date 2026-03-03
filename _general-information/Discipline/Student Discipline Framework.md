@@ -77,13 +77,13 @@ create a caring and inclusive environment for all.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bullying" src="/images/bullying.png">
 </div>
-<h3>Reporting Procedure: Student well-being is at the heart of how we manage all incidents. </h3>
+<h3>Reporting Procedure: Student well-being is at the heart of how we manage all incidents.</h3>
 <p>We work in close partnership with parents and guardians and are committed
 to open, respectful, and timely communication throughout the process.</p>
 <p>For straightforward cases, the school will respond within <strong>3 working days. </strong>For
 cases requiring further investigation, a response will be provided within<strong> 7 working days.</strong> In
 more complex situations involving multiple parties, parents can expect
-a response or update within <strong>21 working days.</strong> 
+a response or update within <strong>21 working days.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Response time guidelines" src="/images/response_time_guidlines.png">
