@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Canteen Information.md
       - School Rules and Regulations.md
       - Discipline/Student Discipline Framework.md
       - Discipline/.keep
