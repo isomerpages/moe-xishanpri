@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/mission.gif
+      background: /images/School_Website_GIF__5_.gif
       key_highlights:
         - title: Useful Links
           description: ""
