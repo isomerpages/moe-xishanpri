@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Xishan_Banner_2026_rv_3.gif
+      background: /images/Xishan_banner_2026_rv_4.gif
       key_highlights:
         - title: Useful Links
           description: ""
