@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero_banner_expanded_2026.gif
+      background: /images/School_Website_GIF__5_.gif
       key_highlights:
         - title: Useful Links
           description: ""
