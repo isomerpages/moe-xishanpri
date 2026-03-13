@@ -70,44 +70,33 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Scouts Founder’s Day</h3>
-<p>Cub scouts commemorating Founder’s Day today (22 February) during the
-morning assembly with Ms Soh Hui Min in command, Mrs Quek our Principal
-delivering the speech and Mr Chan leading the Adiji cheers.</p>
+<h3>CCA Overview</h3>
+<p>Xishan Primary Cub Scouts aim to foster holistic development—physical,
+mental, spiritual, and social—by instilling values of duty to God, country,
+and community. Based on the Scout Law, the program builds character, leadership,
+and teamwork through adventure, skill-building, and badge-earning activities
+in a nurturing environment.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scouts%20Founder's%20Day%201.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Our P5 Cub Scouts getting to know more about the birds that they have seen in the school." src="/images/scout_pic_1_edited.jpg">
 </div>
+<p>Our P5 Cub Scouts getting to know more about the birds that they have
+seen in the school.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scouts%20Founder's%20Day%202.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Our Cub Scouts learning to cook their noodles and enjoying their fruits of their labour." src="/images/scout_pic_2_edited.jpg">
 </div>
+<p>Our Cub Scouts learning to cook their noodles and enjoying their fruits
+of their labour.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scouts%20Founder's%20Day%203.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scout_pic_3_edited.jpg">
 </div>
+<p>Our Cub Scouts learning to make scones enjoying their creations during
+one of their sessions.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scouts%20Founder's%20Day%204.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Our Our senior Cub Scouts organizing events for our younger Cub Scouts during Founder’s Day ." src="/images/scout_pic_4_edited.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scouts%20Founder's%20Day%205.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scouts%20Founder's%20Day%206.jpeg">
-</div>
-<p><strong>FRANK COOPER SANDS AWARDS 2017 - GOLD</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scouts.jpg">
-</div>
-<p><strong>NATIONAL CUB SCOUT MIND QUIZ - BRONZE AWARD</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National%20Cub%20Scout%20Mind%20Quiz%20%E2%80%93%20Bronze%20Award.jpeg">
-</div>
-<p>Vo Hai Thien An (5 Self-Discipline), Lim Jun Hao (5 Resilience), Suasi
-Kyle Elderick (5 Integrity), Chin Ip, Ong Gia Lac and Hamza Asadullah (4
-Resilience)</p>
-<p><strong>FRANK COOPER SANDS AWARDS 2018 - UNIT EXCELLENCE</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frank%20Cooper%20Sands%20Gold%20Award%202018.jpeg">
-</div>
+<p>Our senior Cub Scouts organizing events for our younger Cub Scouts during
+Founder’s Day .</p>
 <p></p>
