@@ -34,15 +34,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:amanda_wee_sze_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amanda_wee_sze_yi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Mahalakshmi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,23 +41,66 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Amanda Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:amanda_wee_sze_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amanda_wee_sze_yi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-<h3>Singapore Youth Festival Arts Presentation 2022&nbsp;</h3>
-<p>Our Indian Dancers took part in the Singapore Youth Festival Arts Presentation
-2022 at Gateway Theatre. Our Primary 3 to 6 dancers exhibited confidence
-and resilience as they worked together as a team to put up their best performance.</p>
-<p>A heartfelt gratitude to all parents, teachers and the Indian Dance instructor
-for supporting our girls to showcase their talents.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/indiandancesyf3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/indiandancesyf4.jpg">
-</div>
-<h3>Achieved Distinction at SYF in 2018</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp%20Image%202021-01-20.jpeg">
-</div>
-<h4></h4>
+<h3>CCA Overview</h3>
+<p>The Indian Dance CCA at Xishan Primary School provides students with a
+platform to explore the rich cultural heritage and vibrant art form of
+Indian dance. Through regular practices and performances, students learn
+a variety of dance styles.</p>
+<p>Beyond developing dance techniques, students cultivate important values
+such as self-discipline, respect and resilience as they practise movements,
+master choreography and work together as a team. Guided by dedicated instructors
+and teachers, students are encouraged to express themselves creatively
+while building confidence on stage.</p>
+<h3>Key Learning Experiences</h3>
+<p>Students in the Indian Dance CCA participate in a variety of enriching
+experiences that allow them to develop both artistically and personally.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYF 2024 P1" src="/images/1__Indian_Dance___SYF_2024__1__edited_resize.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYF 2024 P2" src="/images/2__Indian_Dance___SYF_2024__2__edited.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prize Giving Day 2025" src="/images/3__Indian_Dance___Prize_Giving_Day_2025_edited.png">
+</div>
+<p>Showcasing their talents at <strong>school events and celebrations</strong>,
+such as the school’s Prize-Giving Day celebration, where they demonstrate
+teamwork, discipline and dedication.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nee Soon East 2025" src="/images/4__Indian_Dance___Nee_Soon_East_2025_edited.jpg">
+</div>
+<p>As part of their Values-in-Action efforts, our dancers performed at the
+Nee Soon East National Day Celebration, sharing the joy of dance with the
+community and embodying the school motto of Love, Care, Share.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Open house and Bazaar 2025" src="/images/indian_dance_pic_5n6.png">
+</div>
+<p>The Indian Dance CCA welcomed prospective students and parents during
+the school’s <strong>Open House and CCA Bazaar.</strong> Through performances
+and interactions, our dancers shared their passion for the art form and
+inspired others to join.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Training Session" src="/images/7__Indian_Dance___Training_Session_edited.png">
+</div>
+<p>During <strong>weekly training sessions,</strong> our dancers practise techniques,
+refine choreography and support one another in their learning journey,
+building self-discipline, resilience and strong teamwork.</p>
+<p>Through these experiences, students learn to persevere through challenges,
+demonstrate resilience and respect, while taking pride in representing
+the school and contributing to the community through their performances.</p>
