@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Student Wellbeing
 ---
-<h3>Peer Support Leaders</h3>
+<h1>Peer Support Leaders</h1>
 <p>A caring and enabling school helps students feel safe, accepted, and confident.
 Positive peer relationships foster belonging and build resilience, while
 encouraging socially responsible behaviours through mutual influence.</p>
@@ -24,7 +24,7 @@ kindness.</p>
 <p>Through termly training and guidance from PSL teachers and School Counsellors,
 they are equipped to lead peer support initiatives effectively and be exemplary
 role models for their peers.</p>
-<h4>Buddy Bench</h4>
+<h3>Buddy Bench</h3>
 <p>Buddy Bench is a student-led initiative where PSLs plan recess activities
 that promote peer bonding and inclusion. They take full ownership of the
 process, from brainstorming ideas, to preparing resources, and facilitating
