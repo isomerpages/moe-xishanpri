@@ -13,11 +13,10 @@ and no student should engage in bullying behaviour.</p>
 all its forms. We believe that every member of our school community has
 the right to feel safe, respected, and valued, and we work together to
 create a caring and inclusive environment for all.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/bullying.png">
 </div>
-<p>Reporting Procedure:</p>
+<h3>Reporting Procedure:</h3>
 <p><strong>Student well-being is at the heart of how we manage all incidents.</strong> We
 work in close partnership with parents and guardians and are committed
 to open, respectful, and timely communication throughout the process.</p>
