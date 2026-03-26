@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Discipline
 ---
-<h3>Anti-Bullying Policy</h3>
+<h1>Anti-Bullying Policy</h1>
 <p>Every student has a responsibility to treat others with respect. Bullying
 has no place in our school community—no student should experience bullying,
 and no student should engage in bullying behaviour.</p>
