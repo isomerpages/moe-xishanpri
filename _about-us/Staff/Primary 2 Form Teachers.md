@@ -77,7 +77,7 @@ third_nav_title: Staff
 <p><a href="mailto:choo_mei_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_mei_fang@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mr Poh Miing Shan, Mark Lester</p>
+<p>Mr Poh Ming Shan, Mark Lester</p>
 <p><a href="mailto:poh_ming_shan_mark@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_ming_shan_mark@moe.edu.sg</a>
 </p>
 <p></p>
