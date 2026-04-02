@@ -1,7 +1,8 @@
 ---
 title: School History
-permalink: /about-us/school-history
+permalink: /about-us/school-history/
 description: ""
+variant: markdown
 ---
 # **School History**
 
@@ -37,3 +38,7 @@ In 2017, the school completed its PERI upgrading, which saw the addition of a ne
 
 
 ![](/images/History%2002.jpg)
+
+The Mindful Blooms (静思园) - featuring 85 species of orchids, was officially opened by Minister for Education Mr Chan Chun Sing in April 2022. The Papilionanda Xishan Mindful 85, named after the school, is one of the 85 species of orchids that can be found in the Mindful Blooms. The school’s 85th anniversary celebration culminated in a musical production – The Xishan Story, A Journey of Mindful Transformation.
+
+Moving forward, the school endeavours to cherish, celebrate and continue with the same community spirit of giving that has propelled the school towards excellence.
