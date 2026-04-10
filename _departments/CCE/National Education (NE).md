@@ -1,5 +1,5 @@
 ---
-title: National Education
+title: National Education (NE)
 permalink: /departments/cce/nationaleducation/
 description: ""
 third_nav_title: CCE

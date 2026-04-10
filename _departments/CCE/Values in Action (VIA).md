@@ -1,5 +1,5 @@
 ---
-title: Values in Action
+title: Values in Action (VIA)
 permalink: /departments/cce/valuesinaction/
 description: ""
 third_nav_title: CCE
