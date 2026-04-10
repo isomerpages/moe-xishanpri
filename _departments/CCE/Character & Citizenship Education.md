@@ -6,48 +6,27 @@ third_nav_title: CCE
 variant: tiptap
 ---
 <h2><strong>Character &amp; Citizenship Education</strong></h2>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCE Main Page 1" src="/images/CCE_Main_Page_pg_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Vision and Mission" src="/images/Main_Page_1.jpg">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCE Main Page 2" src="/images/CCE_Main_Page_pg_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Building Strong Bonds" src="/images/Main_Page_2.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCE Main Page 3" src="/images/CCE_Main_Page_pg_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Our Commitment to Every Xishanite" src="/images/Main_Page_3.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCE Main Page 4" src="/images/CCE_Main_Page_pg_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="CCE Roadmap in Xishan" src="/images/Main_Page_4.jpg">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/education%20and%20career%20advising%20resources%20(for%20parents).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Key CCE Programmes" src="/images/Main_Page_5.jpg">
 </div>
+<p></p>
 <h2>2026 Lesson Units in CCE</h2>
 <table style="minWidth: 50px">
 <colgroup>
