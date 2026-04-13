@@ -13,7 +13,7 @@ third_nav_title: CCE
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Please click link here </strong>
+<p><strong>Please click here</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
