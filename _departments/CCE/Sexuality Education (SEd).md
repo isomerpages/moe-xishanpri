@@ -24,3 +24,7 @@ third_nav_title: CCE
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="sex education link" src="/images/sex_education_link.jpg">
+</div>
+<p></p>
