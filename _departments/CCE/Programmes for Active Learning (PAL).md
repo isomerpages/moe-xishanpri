@@ -12,10 +12,7 @@ third_nav_title: CCE
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pal_link.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.xishanpri.moe.edu.sg/programmes-n-events/programmes-for-active-learning-pal/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/pal_link.jpg"></a>
 </td>
 </tr>
 </tbody>
