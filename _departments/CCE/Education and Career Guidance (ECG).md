@@ -5,4 +5,25 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<p>Education and Career Guidance (ECG)</p>
+<h3>Education and Career Guidance (ECG)</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ECG Purpose" src="/images/Sub_Page_ECG_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="How ECG is carried out" src="/images/Sub_Page_ECG_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Key Learnig Experiences" src="/images/Sub_Page_ECG_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student Outcomes" src="/images/Sub_Page_ECG_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ECG Resources for Parents" src="/images/Sub_Page_ECG_5.jpg">
+</div>
+<p></p>
