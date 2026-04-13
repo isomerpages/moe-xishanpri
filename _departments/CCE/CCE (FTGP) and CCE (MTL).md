@@ -5,8 +5,7 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<h2><strong>Character &amp; Citizenship Education</strong></h2>
-<p></p>
+<h2><strong>CCE (FTGP) and CCE (MTL)</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Vision and Mission" src="/images/Main_Page_1.jpg">
 </div>
