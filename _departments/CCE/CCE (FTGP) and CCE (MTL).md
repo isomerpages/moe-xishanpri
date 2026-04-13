@@ -7,25 +7,44 @@ variant: tiptap
 ---
 <h2><strong>CCE (FTGP) and CCE (MTL)</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Vision and Mission" src="/images/Main_Page_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CCE (FTGP) &amp; (MTL)" src="/images/Sub_Page_CCE__FTGP_____MTL__1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Building Strong Bonds" src="/images/Main_Page_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Coherence between CCE (FTGP) &amp; CCE (MTL)" src="/images/Sub_Page_CCE__FTGP_____MTL__2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our Commitment to Every Xishanite" src="/images/Main_Page_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CCE (Form Teacher Guidance Period)" src="/images/Sub_Page_CCE__FTGP_____MTL__3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCE Roadmap in Xishan" src="/images/Main_Page_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="How CCE (FTGP) is Enacted" src="/images/Sub_Page_CCE__FTGP_____MTL__4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Key CCE Programmes" src="/images/Main_Page_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CCE  (Key Learning Experiences)" src="/images/Sub_Page_CCE__FTGP_____MTL__5.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCE (Student Outcomes)" src="/images/Sub_Page_CCE__FTGP_____MTL__6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCE (MTL)" src="/images/Sub_Page_CCE__FTGP_____MTL__7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="How CCE (MTL) is Enacted" src="/images/Sub_Page_CCE__FTGP_____MTL__8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Key Learning Experiences" src="/images/Sub_Page_CCE__FTGP_____MTL__9.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCE (Student Outcomes)" src="/images/Sub_Page_CCE__FTGP_____MTL__10.jpg">
+</div>
 <h2>2026 Lesson Units in CCE</h2>
 <table style="minWidth: 50px">
 <colgroup>
