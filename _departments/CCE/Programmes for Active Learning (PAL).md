@@ -5,20 +5,17 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Please click here</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.xishanpri.moe.edu.sg/programmes-n-events/programmes-for-active-learning-pal/" rel="noopener nofollow" target="_blank">Programmes for Active Learning (PAL)</a>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pal_link.jpg">
+</div>
 </td>
 </tr>
 </tbody>
