@@ -16,7 +16,8 @@ third_nav_title: CCE
 <p>Please refer to Link</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.xishanpri.moe.edu.sg/programmes-n-events/moe-sexuality-education-in-schools/" rel="noopener nofollow" target="_blank">Sexuality Education (SEd)</a>
+</p>
 </th>
 </tr>
 </tbody>
