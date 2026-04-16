@@ -11,20 +11,21 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Connecting with Parents" src="/images/Sub_Page_Connecting_with_Parents_1_enhance.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Managing Screen Time" src="/images/Sub_Page_Connecting_with_Parents_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub_Page_Connecting_with_Parents_2_Updated.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Strengthening communications with your child" src="/images/Sub_Page_Connecting_with_Parents_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub_Page_Connecting_with_Parents_3_Updated.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Coping with schoolwork" src="/images/Sub_Page_Connecting_with_Parents_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub_Page_Connecting_with_Parents_4_Updated.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sleep Hygiene" src="/images/Sub_Page_Connecting_with_Parents_5.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
