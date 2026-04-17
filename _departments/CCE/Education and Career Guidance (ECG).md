@@ -22,8 +22,19 @@ third_nav_title: CCE
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Student Outcomes" src="/images/Sub_Page_ECG_4.jpg">
 </div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ECG Resources for Parents" src="/images/Sub_Page_ECG_5.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
