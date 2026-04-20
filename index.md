@@ -11,6 +11,6 @@ sections:
       key_highlights:
         - title: Useful Links
           description: ""
-          url: https://staging.d2cn58n03qfljc.amplifyapp.com/quick-links/students
+          url: https://xishanpri.moe.edu.sg/quick-links/students/
       variant: center
 ---
