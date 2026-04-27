@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<h2>National Education (NE)</h2>
+<h2><strong>National Education (NE)</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Raising young singaporeans" src="/images/NE_1_edited.png">
 </div>
