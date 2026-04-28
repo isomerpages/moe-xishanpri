@@ -32,6 +32,8 @@ parents can expect a response or update within <strong>21 working days.</strong>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cyber Bullying" src="/images/SAFE_cyberbullying.jpg">
 </div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Hurtful Behaviour" src="/images/SAFE_hurtfulbehaviour.jpg">
 </div>
