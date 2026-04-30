@@ -47,10 +47,6 @@ third_nav_title: Staff
 <p><a href="mailto:teng_sing_kwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_sing_kwan@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Xie Yuan</p>
-<p><a href="mailto:xie_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xie_yuan@moe.edu.sg</a>
-</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -80,11 +76,6 @@ third_nav_title: Staff
 <p>Mr Poh Ming Shan, Mark Lester</p>
 <p><a href="mailto:poh_ming_shan_mark@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_ming_shan_mark@moe.edu.sg</a>
 </p>
-<p></p>
-<p>Ms Liu Yutian</p>
-<p><a href="mailto:liu_yutian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yutian@moe.edu.sg</a>
-</p>
-<p></p>
 </td>
 </tr>
 <tr>
