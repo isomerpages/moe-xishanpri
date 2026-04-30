@@ -53,14 +53,13 @@ third_nav_title: Staff
 <p>5 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Hong Kai</p>
-<p><a href="mailto:tan_hong_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_kai@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mdm Fadzlina Bte Malik</p>
 <p><a href="mailto:fadzlina_malik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fadzlina_malik@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Ms Shania Poh</p>
+<p><a href="mailto:shania_poh_hui_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shania_poh_hui_qing@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
