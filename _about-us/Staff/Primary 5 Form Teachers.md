@@ -100,8 +100,8 @@ third_nav_title: Staff
 <p><a href="mailto:loy_li_siah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loy_li_siah@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mr Johan Bin Jaafar</p>
-<p><a href="mailto:christopher_martin_philix@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">johan_jaafa@moe.edu.sg</a>
+<p>Ms Nur Shafiqah Bte Abdul Aziz</p>
+<p><a href="mailto:nur_shafiqah_abdul_aziz@moe.edu" rel="noopener noreferrer nofollow" target="_blank">nur_shafiqah_abdul_aziz@moe.edu.s</a>
 </p>
 <p></p>
 </td>
