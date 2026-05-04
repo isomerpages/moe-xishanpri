@@ -106,6 +106,9 @@ third_nav_title: Staff
 <p><a href="mailto:mahalakshmi_alaghimanvalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahalakshmi_alaghimanvalan@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Mr Adrian Yan</p>
+<p><a href="mailto:adrian_yan_shen_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adrian_yan_shen_min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
