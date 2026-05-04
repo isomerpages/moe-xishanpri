@@ -100,38 +100,6 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yan Peiyun Adeline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>(Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yan_peiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yan_peiyun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Hong Kai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>(Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hong_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_kai@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Soh Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,7 +113,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chan Zhaoli</p>
@@ -161,7 +129,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9</p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jolene Cheng Pei Fern</p>
