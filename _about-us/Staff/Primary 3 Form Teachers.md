@@ -28,8 +28,8 @@ third_nav_title: Staff
 <p><a href="mailto:phua_zhi_yu_joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_zhi_yu_joanna@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Isabelle Chan Poey Cassandra</p>
-<p><a href="mailto:isabelle_chan_poey_cassandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">isabelle_chan_poey_cassandra@moe.edu.sg</a>
+<p>Ms Cassandra Chan Larioza</p>
+<p><a href="mailto:cassandra_chan_larioza@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cassandra_chan_larioza@moe.edu.sg</a>
 </p>
 </td>
 </tr>
