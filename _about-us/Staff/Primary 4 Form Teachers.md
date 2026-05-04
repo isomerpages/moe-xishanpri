@@ -60,7 +60,7 @@ third_nav_title: Staff
 <p><a href="mailto:P_v_kanmani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yu_xin@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Ms Goh Sock Cheng Jeslyn</p>
+<p>Ms Goh Sock Cheng Jeslyn</p>
 <p><a href="mailto:goh_sock_cheng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_sock_cheng_a@moe.edu.sg</a>
 </p>
 <p></p>
