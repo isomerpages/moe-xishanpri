@@ -79,7 +79,9 @@ third_nav_title: Staff
 <p>Mdm Sarina Banu Noordin</p>
 <p><a href="mailto:sarina_banu_mohaideen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_banu_mohaideen@moe.edu.sg</a>
 </p>
-<p></p>
+<p>Mdm Gracia Chandra</p>
+<p><a href="mailto:gracia_chandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gracia_chandra@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
