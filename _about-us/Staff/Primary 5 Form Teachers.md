@@ -31,6 +31,11 @@ third_nav_title: Staff
 <p>Mr Christopher Martin Philix</p>
 <p><a href="mailto:christopher_martin_philix@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_martin_philix@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Ms Chu Yu Fang</p>
+<p><a href="mailto:chu_yu_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_yu_fang@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
