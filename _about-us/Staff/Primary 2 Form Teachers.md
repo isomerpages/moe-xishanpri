@@ -47,6 +47,10 @@ third_nav_title: Staff
 <p><a href="mailto:teng_sing_kwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_sing_kwan@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Ms Xie Yuan</p>
+<p><a href="mailto:xie_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xie_yuan@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -60,6 +64,10 @@ third_nav_title: Staff
 <p></p>
 <p>Ms Koh Han Yan</p>
 <p><a href="mailto:han_yan_koh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_yan_koh@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mr Sharulnizam Bin Zabor</p>
+<p><a href="mailto:sharulnizam_zabor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharulnizam_zabor@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -76,6 +84,11 @@ third_nav_title: Staff
 <p>Mr Poh Ming Shan, Mark Lester</p>
 <p><a href="mailto:poh_ming_shan_mark@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_ming_shan_mark@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Ms Liu Yutian</p>
+<p><a href="mailto:liu_yutian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yutian@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -89,6 +102,10 @@ third_nav_title: Staff
 <p></p>
 <p>Ms Diyanah Zahirah binte Amiral</p>
 <p><a href="mailto:diyanah_zahirah_amiral@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">diyanah_zahirah_amiral@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Ms Thamayanthi</p>
+<p><a href="mailto:n_thamayanthi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">n_thamayanthi@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -109,6 +126,7 @@ third_nav_title: Staff
 <p>Mr Adrian Yan</p>
 <p><a href="mailto:adrian_yan_shen_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adrian_yan_shen_min@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -116,13 +134,14 @@ third_nav_title: Staff
 <p>2 Share</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Nur Quraisyah Bte Fisall</p>
+<p><a href="mailto:nur_quraisyah_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_quraisyah_fisall@moe.edu.sg</a>
+</p>
+<p></p>
 <p>Mdm Tan Yin Peng</p>
 <p><a href="mailto:tan_yin_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yin_peng@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Nur Quraisyah Bte Fisall</p>
-<p><a href="mailto:nur_quraisyah_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_quraisyah_fisall@moe.edu.sg</a>
-</p>
 <p></p>
 </td>
 </tr>
