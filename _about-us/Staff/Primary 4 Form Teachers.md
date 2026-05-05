@@ -86,13 +86,14 @@ third_nav_title: Staff
 <p>4 Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Chan Zhaoli</p>
+<p><a href="mailto:chan_zhaoli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_zhaoli@moe.edu.sg</a>
+</p>
+<p></p>
 <p>Mdm Huang Suhui</p>
 <p><a href="mailto:huang_suhui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_suhui@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mr Chan Zhaoli</p>
-<p><a href="mailto:chan_zhaoli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_zhaoli@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 </tbody>
