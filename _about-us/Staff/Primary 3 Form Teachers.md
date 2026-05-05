@@ -42,6 +42,10 @@ third_nav_title: Staff
 <p><a href="mailto:karliana_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karliana_ahmad@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Mr Jebsen Tan</p>
+<p><a href="mailto:tan_jebsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jebsen@moe.edu.sg</a>
+</p>
+<p></p>
 <p>Ms Kokoro Choda</p>
 <p><a href="mailto:teo_teng_li_rosalind@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kokoro_choda@moe.edu.sg</a>
 </p>
