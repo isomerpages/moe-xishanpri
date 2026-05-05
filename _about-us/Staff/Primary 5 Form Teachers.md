@@ -100,6 +100,10 @@ third_nav_title: Staff
 <p><a href="mailto:loy_li_siah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loy_li_siah@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Mr Mohamad Narul Azrin Bin Abdul Aziz</p>
+<p><a href="mailto:mohamad_narul_azrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_narul_azrin@moe.edu.sg</a>
+</p>
+<p></p>
 <p>Ms Nur Shafiqah Bte Abdul Aziz</p>
 <p><a href="mailto:nur_shafiqah_abdul_aziz@moe.edu" rel="noopener noreferrer nofollow" target="_blank">nur_shafiqah_abdul_aziz@moe.edu.s</a>
 </p>
