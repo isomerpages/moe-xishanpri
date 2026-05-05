@@ -74,6 +74,11 @@ third_nav_title: Staff
 <p>Mdm Balakrishnan Vijayasaraswathi</p>
 <p><a href="mailto:balakrishnan_vijayasaraswathi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">balakrishnan_vijayasaraswathi@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Ms Lucinda Toh</p>
+<p><a href="mailto:lucinda_toh_xin_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lucinda_toh_xin_ying@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
