@@ -95,6 +95,10 @@ third_nav_title: Staff
 <p><a href="mailto:teo_chia_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chia_chuan@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Ms Priscilla Mun</p>
+<p><a href="mailto:mun_li_jun_priscilla@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mun_li_jun_priscilla@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
