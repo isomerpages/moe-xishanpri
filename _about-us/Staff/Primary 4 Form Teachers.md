@@ -51,8 +51,6 @@ third_nav_title: Staff
 <p><a href="mailto:kamalam_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamalam_govindasamy@moe.edu.sg</a>
 </p>
 <p></p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
