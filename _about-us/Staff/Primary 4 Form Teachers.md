@@ -28,12 +28,12 @@ third_nav_title: Staff
 <p><a href="mailto:teo_teng_li_rosalind@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_teng_li_rosalind@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mdm Chang Ker Xing Michelle</p>
-<p><a href="mailto:chang_ker_xing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ker_xing@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mr Samuel Loh Chee Yong</p>
 <p><a href="mailto:samuel_loh_chee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_loh_chee_yong@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mdm Chang Ker Xing Michelle</p>
+<p><a href="mailto:chang_ker_xing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ker_xing@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
