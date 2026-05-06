@@ -37,13 +37,13 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Shafiqah Bte Abdul Aziz</p>
+<p>Mr Johan Jaafar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_shafiqah_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shafiqah_abdul_aziz@moe.edu.sg</a>
+<p><a href="mailto:johan_jaafar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">johan_jaafar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -55,7 +55,7 @@ variant: tiptap
 <p>Ms Chan Lai Sim, Patricia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CAJT</p>
+<p>FAJT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_lai_sim_patricia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_lai_sim_patricia@moe.edu.sg</a>
@@ -179,6 +179,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:y_asaithamby@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">y_asaithamby@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Hong Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAJT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_hong_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_kai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
