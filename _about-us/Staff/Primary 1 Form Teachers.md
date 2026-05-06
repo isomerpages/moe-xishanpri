@@ -43,13 +43,14 @@ third_nav_title: Staff
 <p><a href="mailto:lam_lai_fong_natalie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_lai_fong_natalie@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Mdm Sarina Banu Noordin</p>
+<p><a href="mailto:sarina_banu_mohaideen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_banu_mohaideen@moe.edu.sg</a>
+</p>
+<p></p>
 <p>Mr Leslie Gwee</p>
 <p><a href="mailto:gwee_cher_siang_leslie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gwee_cher_siang_leslie@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mdm Sarina Banu Noordin</p>
-<p><a href="mailto:sarina_banu_mohaideen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_banu_mohaideen@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +58,6 @@ third_nav_title: Staff
 <p>1 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Mdm Magdalene Khoo Lyn Wen</p>
 <p><a href="mailto:magdalene_khoo_lyn_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magdalene_khoo_lyn_wen@moe.edu.sg</a>
 </p>
@@ -69,6 +69,7 @@ third_nav_title: Staff
 <p>Mr Felix Tiong</p>
 <p><a href="mailto:felix_tiong_ing_shui_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">felix_tiong_ing_shui_c@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
