@@ -57,7 +57,7 @@ third_nav_title: Staff
 <p>3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Nisha Ling</p>
+<p>Mdm Nisha Ling</p>
 <p><a href="mailto:nisha_keshyiap_ram_putre@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nisha_keshyiap_ram_putre@moe.edu.sg</a>
 </p>
 <p></p>
