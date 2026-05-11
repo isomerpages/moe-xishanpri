@@ -62,10 +62,6 @@ third_nav_title: Staff
 <p><a href="mailto:priya_gopalakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priya_gopalakrishnan@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mr Felix Tiong</p>
-<p><a href="mailto:felix_tiong_ing_shui_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">felix_tiong_ing_shui_c@moe.edu.sg</a>
-</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -80,6 +76,7 @@ third_nav_title: Staff
 <p>Mdm Sarina Banu Noordin</p>
 <p><a href="mailto:sarina_banu_mohaideen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_banu_mohaideen@moe.edu.sg</a>
 </p>
+<p></p>
 <p>Mdm Gracia Chandra</p>
 <p><a href="mailto:gracia_chandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gracia_chandra@moe.edu.sg</a>
 </p>
@@ -127,10 +124,6 @@ third_nav_title: Staff
 <p><a href="mailto:wong_wei_ting_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wei_ting_b@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Wee Sze Yi Amanda</p>
-<p><a href="mailto:amanda_wee_sze_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amanda_wee_sze_yi@moe.edu.sg</a>
-</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -141,6 +134,7 @@ third_nav_title: Staff
 <p>Ms Cheng Pei Fern Jolene</p>
 <p><a href="mailto:cheng_pei_fern_jolene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_pei_fern_jolene@moe.edu.sg</a>
 </p>
+<p></p>
 <p>Ms Lim Lay Koon</p>
 <p><a href="mailto:lim_lay_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lay_koon@moe.edu.sg</a>
 </p>
