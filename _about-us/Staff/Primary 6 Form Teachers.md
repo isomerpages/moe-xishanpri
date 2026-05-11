@@ -24,12 +24,12 @@ third_nav_title: Staff
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Shimin Ivy</p>
-<p><a href="mailto:low_shimin_ivy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_shimin_ivy@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Ms Tan Li Ting</p>
 <p><a href="mailto:tan_li_ting_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_ting_a@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Ms Low Shimin Ivy</p>
+<p><a href="mailto:low_shimin_ivy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_shimin_ivy@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -54,12 +54,12 @@ third_nav_title: Staff
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dayna Wang Xiao Dan</p>
-<p><a href="mailto:dayna_wang_xiao_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dayna_wang_xiao_dan@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mr Ahmad Farkhan Bin Mohd Nasir</p>
 <p><a href="mailto:ahmad_farkhan_mohd_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_farkhan_mohd_nasir@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Ms Dayna Wang Xiao Dan</p>
+<p><a href="mailto:dayna_wang_xiao_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dayna_wang_xiao_dan@moe.edu.sg</a>
 </p>
 <p></p>
 </td>

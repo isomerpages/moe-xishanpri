@@ -39,13 +39,14 @@ third_nav_title: Staff
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Lam Lai Fong Natalie</p>
+<p><a href="mailto:lam_lai_fong_natalie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_lai_fong_natalie@moe.edu.sg</a>
+</p>
+<p></p>
 <p>Mr Leslie Gwee</p>
 <p><a href="mailto:gwee_cher_siang_leslie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gwee_cher_siang_leslie@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mdm Lam Lai Fong Natalie</p>
-<p><a href="mailto:lam_lai_fong_natalie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_lai_fong_natalie@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -53,12 +54,12 @@ third_nav_title: Staff
 <p>1 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Priya Gopal</p>
-<p><a href="mailto:priya_gopalakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priya_gopalakrishnan@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mdm Magdalene Khoo Lyn Wen</p>
 <p><a href="mailto:magdalene_khoo_lyn_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magdalene_khoo_lyn_wen@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Ms Priya Gopal</p>
+<p><a href="mailto:priya_gopalakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priya_gopalakrishnan@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -76,6 +77,9 @@ third_nav_title: Staff
 <p><a href="mailto:sarina_banu_mohaideen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_banu_mohaideen@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Mdm Gracia Chandra</p>
+<p><a href="mailto:gracia_chandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gracia_chandra@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -98,14 +102,13 @@ third_nav_title: Staff
 <p>1 Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Aw Rui Shan Eugenia</p>
-<p><a href="mailto:aw_rui_shan_eugenia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aw_rui_shan_eugenia@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mdm Norizawaty Bte Sulaiman</p>
 <p><a href="mailto:norizawaty_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norizawaty_sulaiman@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Ms Aw Rui Shan Eugenia</p>
+<p><a href="mailto:aw_rui_shan_eugenia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aw_rui_shan_eugenia@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -113,12 +116,12 @@ third_nav_title: Staff
 <p>1 Share</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wee Sze Yi Amanda</p>
-<p><a href="mailto:amanda_wee_sze_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amanda_wee_sze_yi@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mdm Siti Zahirah Binte Hidzir</p>
 <p><a href="mailto:siti_zahirah_hidzir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zahirah_hidzir@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Ms Wong Wei Ting</p>
+<p><a href="mailto:wong_wei_ting_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wei_ting_b@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -128,11 +131,12 @@ third_nav_title: Staff
 <p>1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Lay Koon</p>
-<p><a href="mailto:lim_lay_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lay_koon@moe.edu.sg</a>
-</p>
 <p>Ms Cheng Pei Fern Jolene</p>
 <p><a href="mailto:cheng_pei_fern_jolene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_pei_fern_jolene@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Ms Lim Lay Koon</p>
+<p><a href="mailto:lim_lay_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lay_koon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
