@@ -54,9 +54,7 @@ description: ""
 <p>Primary 3 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist_2026_XPS_P3_Standard.pdf" rel="noopener nofollow" target="_blank">P3 </a>
-<a href="/files/Booklist_2026_XPS_P3_Standard_rev1.pdf" rel="noopener nofollow" target="_blank">Bo</a><a href="/files/Booklist_2026_XPS_P3_Standard.pdf" rel="noopener nofollow" target="_blank">oklist</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
