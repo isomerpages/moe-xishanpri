@@ -126,23 +126,19 @@ students, they will be confiscated and parents/guardians need to come to
 the school to collect the item(s) personally.</p>
 <p></p>
 <h3>Mobile Phones/Smart Watches Policy</h3>
-<p>All students are discouraged from bringing their mobile phones/smart watches
-to school. Should there be a need for students to bring their mobile phones/smart
-watches to school, students can go to the General Office at the beginning
-of the school term to request for a form on “Request for Permission to
-Bring Mobile Phone/Smart Watch to School” and have it completed by parents/guardians.
-School will evaluate and grant permission on a case-by-case basis. Do note
-that students can be contacted via the General Office and students can
-also use the phone in the General Office to contact parents/guardians if
-needed.</p>
-<p>Students are not to use their mobile phones/smart watches during school
+<p>All students are strongly discouraged from bringing their mobile phones/smart
+watches to school. Do note that students can be contacted via the General
+Office and students can also use the phone in the General Office to contact
+parents/guardians if needed.</p>
+<p>The use of mobile phones/smart watches^ will not be allowed during school
 hours including recess, CCA and after-school programmes (e.g. supplementary
-/ enrichment / remedial lessons). Students who have been given the approval
-to bring their mobile phones/smart watches are to switch them off and put
-them in their school bags when they reach school. Students should bear
-responsibility for keeping their mobile phones/smart watches safe. Students
-are only allowed to use their mobile phones/smart watches outside the school
-compound after school hours.</p>
+/ enrichment / remedial lessons / learning journeys). If the mobile phone
+is brought to school, the phone must be switched off and kept in the school
+bag during curriculum hours and after-school programmes. This is to minimise
+disruptions to teaching and learning. Students should bear responsibility
+for keeping their mobile phones/smart watches safe. Students are only allowed
+to use their mobile phones/smart watches outside the school compound after
+school hours.</p>
 <p>If the mobile phone/smart watch is (i) not switched off or (ii) not kept
 in bag or (iii) used within the school compound:</p>
 <ul data-tight="true" class="tight">
@@ -156,6 +152,13 @@ would need to come to the school <strong>on the same day</strong> to collect
 the mobile phone/smart watch.</p>
 </li>
 </ul>
+<p>Students are allowed to wear POSB Buddy Watches for e-payment. However,
+pairing POSB Smart Buddy Tags with devices like my First Fone is not allowed
+in schools as myFirstFone has smartwatch-like features, such as messaging
+and voice/video calls, which may cause distractions and disrupt learning.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Type of approved mobile phone" src="/images/mobile_edited.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
