@@ -156,10 +156,10 @@ the mobile phone/smart watch.</p>
 pairing POSB Smart Buddy Tags with devices like my First Fone is not allowed
 in schools as myFirstFone has smartwatch-like features, such as messaging
 and voice/video calls, which may cause distractions and disrupt learning.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Type of approved mobile phone" src="/images/mobile_edited.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Approved mobile" src="/images/mobile_edited_1.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
