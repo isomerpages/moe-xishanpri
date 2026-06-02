@@ -30,7 +30,7 @@ description: ""
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist_2026_XPS_P1_rev1.pdf" rel="noopener nofollow" target="_blank">P1 Booklist</a>
+<p><a href="/files/Booklist_2026_XPS_P1_revision_2.pdf" rel="noopener nofollow" target="_blank">P1 Booklist</a>
 </p>
 </td>
 </tr>
@@ -42,7 +42,7 @@ description: ""
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist_2026_XPS_P2_rev_1.pdf" rel="noopener nofollow" target="_blank">P2 Booklist</a>
+<p><a href="/files/Booklist_2026_XPS_P2_revision_2.pdf" rel="noopener nofollow" target="_blank">P2 Booklist</a>
 </p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ description: ""
 <p>Primary 3 Standard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist_2026_XPS_P3_Standard_rev1.pdf" rel="noopener nofollow" target="_blank">P3 Booklist</a>
+<p><a href="/files/Booklist_2026_XPS_P3_Standard_revision_2.pdf" rel="noopener nofollow" target="_blank">P3 Booklist</a>
 </p>
 </td>
 </tr>
@@ -66,7 +66,7 @@ description: ""
 <p>Primary 3 Higher Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist_2026_XPS_P3_Higher_rev1.pdf" rel="noopener nofollow" target="_blank">P3 HMT Booklist</a>
+<p><a href="/files/Booklist_2026_XPS_P3_Higher_revison_2.pdf" rel="noopener nofollow" target="_blank">P3 HMT Booklist</a>
 </p>
 </td>
 </tr>
