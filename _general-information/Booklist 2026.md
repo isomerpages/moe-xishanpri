@@ -66,8 +66,7 @@ description: ""
 <p>Primary 3 Higher Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist_2026_XPS_P3_Higher_rev1.pdf" rel="noopener nofollow" target="_blank">P3 </a>
-<a href="/files/Booklist_2026_XPS_P3_Higher_revison_2.pdf" rel="noopener nofollow" target="_blank">H</a><a href="/files/Booklist_2026_XPS_P3_Higher_rev1.pdf" rel="noopener nofollow" target="_blank">MT Booklist</a>
+<p><a href="/files/Booklist_2026_XPS_P3_Higher_revison_2.pdf" rel="noopener nofollow" target="_blank">P3 HMT Booklist</a>
 </p>
 </td>
 </tr>
