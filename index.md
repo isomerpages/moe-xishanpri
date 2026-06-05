@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner_with_OH.gif
+      background: /images/banner_with_openhouse_1.gif
       key_highlights:
         - title: Useful Links
           description: ""
