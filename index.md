@@ -12,5 +12,8 @@ sections:
         - title: Useful Links
           description: ""
           url: https://xishanpri.moe.edu.sg/quick-links/students/
+        - title: Open House 2026
+          description: Key Highlight description
+          url: https://xishanpri.moe.edu.sg/quick-links/students/
       variant: center
 ---
