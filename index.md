@@ -4,7 +4,7 @@ title: Xishan Primary School
 description: Brief site description here
 image: /images/XISHAN_LOGO___High_Res_without_bg.png
 permalink: /
-notification: ""
+notification: Join us at our open house on 10 July! Click Useful Links to register!
 sections:
   - hero:
       background: /images/banner_with_openhouse_2.gif
