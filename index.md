@@ -27,4 +27,5 @@ sections:
       button: Click to register!
       url: https://for.edu.sg/2026xpsopenhouse
       image: /images/IMG_8278.jpg
+      alt: Open House
 ---
