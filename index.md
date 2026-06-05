@@ -4,7 +4,9 @@ title: Xishan Primary School
 description: Brief site description here
 image: /images/XISHAN_LOGO___High_Res_without_bg.png
 permalink: /
-notification: Join us at our open house on 10 July! Click Useful Links to register!
+notification: Join us at Xishan Primary School’s Open House on 10 July 2026
+  (Friday), 11am - 1pm and feel the heartbeat of our school community - Love,
+  Care, Share!
 sections:
   - hero:
       background: /images/banner_with_openhouse_2.gif
@@ -13,7 +15,16 @@ sections:
           description: ""
           url: https://xishanpri.moe.edu.sg/quick-links/students/
         - title: Open House 2026
-          description: Key Highlight description
-          url: https://xishanpri.moe.edu.sg/quick-links/students/
+          description: ""
+          url: https://for.edu.sg/2026xpsopenhouse
       variant: center
+  - infopic:
+      title: Open House 2026
+      id: infopic
+      description: Join us at Xishan Primary School’s Open House on 10 July 2026
+        (Friday), 11am - 1pm and feel the heartbeat of our school community -
+        Love, Care, Share!
+      button: Click to register!
+      url: https://for.edu.sg/2026xpsopenhouse
+      image: /images/IMG_8278.jpg
 ---
