@@ -24,6 +24,6 @@ sections:
         Love, Care, Share!
       button: Click to register!
       url: https://for.edu.sg/2026xpsopenhouse
-      image: /images/IMG_8278.jpg
+      image: /images/IMG_8283.jpg
       alt: Open House
 ---
