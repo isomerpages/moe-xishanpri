@@ -4,9 +4,7 @@ title: Xishan Primary School
 description: Brief site description here
 image: /images/XISHAN_LOGO___High_Res_without_bg.png
 permalink: /
-notification: Join us at Xishan Primary School’s Open House on 10 July 2026
-  (Friday), 11am - 1pm and feel the heartbeat of our school community - Love,
-  Care, Share!
+notification: Join us for our Open House on 10 July 2026 (Friday), 11am - 1pm!
 sections:
   - hero:
       background: /images/banner_with_openhouse_2.gif
