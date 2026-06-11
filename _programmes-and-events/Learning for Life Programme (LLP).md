@@ -53,6 +53,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="llp update 1" src="/images/1_edited.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="student life slide 6" src="/images/sl2026_6.png">
 </div>
