@@ -54,7 +54,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student life slide 6" src="/images/sl2026_6.png">
+<img style="width: 100%" height="auto" width="100%" alt="LLP update 1" src="/images/1_edited.jpg">
 </div>
 </td>
 </tr>
@@ -62,7 +62,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student life slide 7" src="/images/sl2026_7.png">
+<img style="width: 100%" height="auto" width="100%" alt="LLP update 2" src="/images/2_edited.jpg">
 </div>
 </td>
 </tr>
@@ -70,7 +70,23 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student life slide 8" src="/images/sl2026_8.png">
+<img style="width: 100%" height="auto" width="100%" alt="LLP update 3" src="/images/3_edited.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LLP update 4" src="/images/4_edited.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LLP update 5" src="/images/5_edited.jpg">
 </div>
 </td>
 </tr>
