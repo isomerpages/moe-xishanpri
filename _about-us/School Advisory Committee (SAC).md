@@ -10,9 +10,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="SAC 2026" src="/images/sac2026r6.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SAC" src="/images/SAC_1.png">
-</div>
 <p></p>
 <p></p>
 <p></p>
