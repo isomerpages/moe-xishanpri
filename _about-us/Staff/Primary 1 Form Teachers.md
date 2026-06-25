@@ -72,16 +72,16 @@ third_nav_title: Staff
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chew Liang Liang</p>
-<p><a href="mailto:khoo-chew_liang_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo-chew_liang_liang@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mdm Sarina Banu Noordin</p>
 <p><a href="mailto:sarina_banu_mohaideen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarina_banu_mohaideen@moe.edu.sg</a>
 </p>
 <p></p>
 <p>Mdm Gracia Chandra</p>
 <p><a href="mailto:gracia_chandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gracia_chandra@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mdm Faith Ong</p>
+<p><a href="mailto:ong_su_san@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_su_san@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -109,8 +109,8 @@ third_nav_title: Staff
 <p><a href="mailto:norizawaty_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norizawaty_sulaiman@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Aw Rui Shan Eugenia</p>
-<p><a href="mailto:aw_rui_shan_eugenia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aw_rui_shan_eugenia@moe.edu.sg</a>
+<p>Ms Christine Ong</p>
+<p><a href="mailto:Ong_Guat_Yeng_Christine@moe.edu.sg" rel="noopener nofollow" target="_blank">Ong_Guat_Yeng_Christine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -134,12 +134,12 @@ third_nav_title: Staff
 <p>1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheng Pei Fern Jolene</p>
-<p><a href="mailto:cheng_pei_fern_jolene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_pei_fern_jolene@moe.edu.sg</a>
+<p>Mdm Lim Lay Koon</p>
+<p><a href="mailto:lim_lay_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lay_koon@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Lim Lay Koon</p>
-<p><a href="mailto:lim_lay_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lay_koon@moe.edu.sg</a>
+<p>Mr Felix Tiong</p>
+<p><a href="mailto:Felix_Tiong_Ing_Shui_C@moe.edu.sg" rel="noopener nofollow" target="_blank">Felix_Tiong_Ing_Shui_C@moe.edu.sg</a>
 </p>
 </td>
 </tr>
