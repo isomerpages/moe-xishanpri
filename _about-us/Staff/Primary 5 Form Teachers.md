@@ -28,10 +28,6 @@ third_nav_title: Staff
 <p><a href="mailto:yvette_lye_hei_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yvette_lye_hei_mun@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mr Christopher Martin Philix</p>
-<p><a href="mailto:christopher_martin_philix@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_martin_philix@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Ms Chu Yu Fang</p>
 <p><a href="mailto:chu_yu_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_yu_fang@moe.edu.sg</a>
 </p>
@@ -65,6 +61,10 @@ third_nav_title: Staff
 <p>Ms Shania Poh</p>
 <p><a href="mailto:shania_poh_hui_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shania_poh_hui_qing@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mdm Nur Sahinah Binte Mohamed Sah</p>
+<p><a href="mailto:nur_sahinah_mohamed_sah@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_sahinah_mohamed_sah@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -72,10 +72,6 @@ third_nav_title: Staff
 <p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kum Chee Fai</p>
-<p><a href="mailto:kum_chee_fai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kum_chee_fai@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mdm Balakrishnan Vijayasaraswathi</p>
 <p><a href="mailto:balakrishnan_vijayasaraswathi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">balakrishnan_vijayasaraswathi@moe.edu.sg</a>
 </p>
@@ -110,10 +106,13 @@ third_nav_title: Staff
 <p><a href="mailto:loy_li_siah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loy_li_siah@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mr Mohamad Narul Azrin Bin Abdul Aziz</p>
-<p><a href="mailto:mohamad_narul_azrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_narul_azrin@moe.edu.sg</a>
+<p>Mdm Adeline Yan</p>
+<p><a href="mailto:yan_peiyun@moe.edu.sg" rel="noopener nofollow" target="_blank">yan_peiyun@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Mr Calvin Juan</p>
+<p><a href="mailto:juan_zhen_ting_calvin@moe.edu.sg" rel="noopener nofollow" target="_blank">juan_zhen_ting_calvin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
