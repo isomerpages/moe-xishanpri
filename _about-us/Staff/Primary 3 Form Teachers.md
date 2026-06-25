@@ -65,7 +65,7 @@ third_nav_title: Staff
 <p><a href="mailto:liew_siu_chen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_siu_chen@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Miss Nurul Umairah</p>
+<p>Miss Nurul Umairah Binte Mohamed Rafid</p>
 <p><a href="mailto:nurul_umairah_mohamed_rafid@moe.edu.sg" rel="noopener nofollow" target="_blank">nurul_umairah_mohamed_rafid@moe.edu.sg</a>
 </p>
 </td>
