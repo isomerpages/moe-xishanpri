@@ -54,10 +54,9 @@ third_nav_title: Staff
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Farkhan Bin Mohd Nasir</p>
-<p><a href="mailto:ahmad_farkhan_mohd_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_farkhan_mohd_nasir@moe.edu.sg</a>
+<p>Mr Muhammad Narul Azrin</p>
+<p><a href="mailto:mohamad_narul_azrin@moe.edu.sg" rel="noopener nofollow" target="_blank">mohamad_narul_azrin@moe.edu.sg</a>
 </p>
-<p></p>
 <p>Ms Dayna Wang Xiao Dan</p>
 <p><a href="mailto:dayna_wang_xiao_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dayna_wang_xiao_dan@moe.edu.sg</a>
 </p>
