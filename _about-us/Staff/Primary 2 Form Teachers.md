@@ -28,10 +28,9 @@ third_nav_title: Staff
 <p><a href="mailto:see_kai_li_sheralin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_kai_li_sheralin_a@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mdm Peng Chia Hui</p>
-<p><a href="mailto:peng_chia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peng_chia_hui@moe.edu.sg</a>
+<p>Ms Britney Ong</p>
+<p><a href="mailto:britney_ong_qi_wen@moe.edu.sg" rel="noopener nofollow" target="_blank">britney_ong_qi_wen@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -85,10 +84,6 @@ third_nav_title: Staff
 <p><a href="mailto:poh_ming_shan_mark@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_ming_shan_mark@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Liu Yutian</p>
-<p><a href="mailto:liu_yutian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yutian@moe.edu.sg</a>
-</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -115,10 +110,6 @@ third_nav_title: Staff
 <p>2 Self-Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Lee Ying</p>
-<p><a href="mailto:teo_lee_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_lee_ying@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Ms Mahalakshmi</p>
 <p><a href="mailto:mahalakshmi_alaghimanvalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahalakshmi_alaghimanvalan@moe.edu.sg</a>
 </p>
@@ -138,9 +129,7 @@ third_nav_title: Staff
 <p><a href="mailto:nur_quraisyah_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_quraisyah_fisall@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mdm Tan Yin Peng</p>
-<p><a href="mailto:tan_yin_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yin_peng@moe.edu.sg</a>
-</p>
+<p>Mr Nigel Tan</p>
 <p></p>
 <p></p>
 </td>
