@@ -31,6 +31,10 @@ third_nav_title: Staff
 <p>Ms Cassandra Chan Larioza</p>
 <p><a href="mailto:cassandra_chan_larioza@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cassandra_chan_larioza@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mdm Katherine See</p>
+<p><a href="mailto:see_ke_tyng_katherine@moe.edu.sg" rel="noopener nofollow" target="_blank">see_ke_tyng_katherine@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -44,10 +48,6 @@ third_nav_title: Staff
 <p></p>
 <p>Mr Jebsen Tan</p>
 <p><a href="mailto:tan_jebsen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jebsen@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Ms Kokoro Choda</p>
-<p><a href="mailto:teo_teng_li_rosalind@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kokoro_choda@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -65,6 +65,9 @@ third_nav_title: Staff
 <p><a href="mailto:liew_siu_chen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_siu_chen@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Miss Nurul Umairah</p>
+<p><a href="mailto:nurul_umairah_mohamed_rafid@moe.edu.sg" rel="noopener nofollow" target="_blank">nurul_umairah_mohamed_rafid@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -80,6 +83,9 @@ third_nav_title: Staff
 <p><a href="mailto:siti_horrianie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_horrianie@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Ms Sadiqatul Mardhiyyah Binte Ahmad</p>
+<p><a href="mailto:sadiqatul_mardhiyyah_ahmad@moe.edu.sg" rel="noopener nofollow" target="_blank">sadiqatul_mardhiyyah_ahmad@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -89,10 +95,6 @@ third_nav_title: Staff
 <td rowspan="1" colspan="1">
 <p>Ms Jin Jing</p>
 <p><a href="mailto:jin_jing_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jin_jing_a@moe.edu.sg</a>
-</p>
-<p></p>
-<p>Mr Teo Chia Chuan</p>
-<p><a href="mailto:teo_chia_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chia_chuan@moe.edu.sg</a>
 </p>
 <p></p>
 <p>Ms Priscilla Mun</p>
