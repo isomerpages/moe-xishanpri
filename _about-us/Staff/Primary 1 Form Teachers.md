@@ -62,6 +62,9 @@ third_nav_title: Staff
 <p><a href="mailto:priya_gopalakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priya_gopalakrishnan@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Ms Nur Atikah</p>
+<p><a href="mailto:nur_atikah_jusri@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_atikah_jusri@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
