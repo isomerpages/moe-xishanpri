@@ -142,21 +142,6 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Suppiah Chandra Sagaran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chandra_sagaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chandra_sagaran@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Y Asaithamby</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -169,7 +154,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Hong Kai</p>
@@ -184,37 +169,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yeow Wen Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeow_wen_lin@moe.edu.sg" rel="noopener nofollow" target="_blank">yeow_wen_lin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yeow Hwee Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_hwee_leng@moe.edu.sg" rel="noopener nofollow" target="_blank">yeo_hwee_leng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Hong Kai</p>
@@ -229,7 +184,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
+<p>11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Shafiqah Bte Abdul Aziz</p>
@@ -244,7 +199,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
+<p>12</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Husnita Bte Omar</p>
