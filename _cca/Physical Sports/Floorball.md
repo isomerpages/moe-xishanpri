@@ -34,10 +34,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Farkhan</p>
+<p>Mr Chiu Xin Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ahmad_farkhan_mohd_nasir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_farkhan_mohd_nasir@moe.edu.sg</a>
+<p><a href="mailto:chiu_xin_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiu_xin_yan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -52,20 +52,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Poh Ming Shan, Mark Lester</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:poh_ming_shan_mark@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_ming_shan_mark@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Kokoro Choda</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kokoro_choda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kokoro_choda@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Su San Faith</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_su_san@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_su_san@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Nigel Tan Jun Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
