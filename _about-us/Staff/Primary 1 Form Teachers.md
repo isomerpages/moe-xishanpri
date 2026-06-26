@@ -134,6 +134,10 @@ third_nav_title: Staff
 <p>1 Gratitude</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Cheng Pei Fern</p>
+<p><a href="mailto:cheng_pei_fern_jolene@moe.edu.sg" rel="noopener nofollow" target="_blank">cheng_pei_fern_jolene@moe.edu.sg</a>
+</p>
+<p></p>
 <p>Mdm Lim Lay Koon</p>
 <p><a href="mailto:lim_lay_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lay_koon@moe.edu.sg</a>
 </p>
