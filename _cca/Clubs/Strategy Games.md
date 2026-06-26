@@ -23,16 +23,7 @@ third_nav_title: Clubs
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Hong Kai (Teacher I/C)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hong_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_kai@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Anand Kumar Manivanan</p>
+<p>Mr Anand Kumar Manivanan (Teacher I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:anand_kumar_manivanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anand_kumar_manivanan@moe.edu.sg</a>
@@ -41,10 +32,28 @@ third_nav_title: Clubs
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Gerine Sng Yi Hui</p>
+<p>Mdm Adeline Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sng_yi_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sng_yi_hui@moe.edu.sg</a>
+<p><a href="mailto:sng_yi_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yan_peiyun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Priscilla Mun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mun_li_jun_priscilla@moe.edu.sg" rel="noopener nofollow" target="_blank">mun_li_jun_priscilla@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shania Poh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shania_poh_hui_qing@moe.edu.sg" rel="noopener nofollow" target="_blank">shania_poh_hui_qing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
