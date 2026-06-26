@@ -222,6 +222,34 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Chung Wai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjunct Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teoh Bee Geok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjunct Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h1><strong>Support Staff</strong></h1>
@@ -272,7 +300,7 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Francisca Ngui Soo Sim</p>
+<p>Mdm Riley Anne Andersen</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
