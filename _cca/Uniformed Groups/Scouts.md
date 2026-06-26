@@ -25,16 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kum Chee Fai (Teacher I/C)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kum_chee_fai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kum_chee_fai@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ang Zi Jie</p>
+<p>Mr Ang Zi Jie (Teacher I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_zi_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_zi_jie@moe.edu.sg</a>
@@ -65,6 +56,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:isabelle_chan_poey_cassandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">isabelle_chan_poey_cassandra@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Insyirah Binte Mohamed Hafiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:insyirah_mohamed_hafiz@moe.edu.sg" rel="noopener nofollow" target="_blank">insyirah_mohamed_hafiz@moe.edu.sg</a>
 </p>
 </td>
 </tr>
