@@ -34,7 +34,7 @@ third_nav_title: Physical Sports
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Nasiruddin</p>
+<p>Mr Muhammad Nasiruddin (Teacher 2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhd_nasiruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhd_nasiruddin@moe.edu.sg</a>
@@ -79,24 +79,6 @@ third_nav_title: Physical Sports
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Lee Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_yee_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_yee_lin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Suppiah Chandra Sagaran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chandra_sagaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chandra_sagaran@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Magdalene Khoo Lyn Wen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,6 +92,24 @@ third_nav_title: Physical Sports
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chang_ker_xing@moe.edu.sg" rel="noopener nofollow" target="_blank">chang_ker_xing@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Wei Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_wei_ting_b@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_wei_ting_b@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Juan Zhen Ting Calvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:juan_zhen_ting_calvin@moe.edu.sg" rel="noopener nofollow" target="_blank">juan_zhen_ting_calvin@moe.edu.sg </a>
 </p>
 </td>
 </tr>
