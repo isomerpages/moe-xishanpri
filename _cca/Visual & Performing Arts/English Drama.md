@@ -25,16 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheng Pei Fern Jolene (Teacher I/C)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_pei_fern_jolene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_pei_fern_jolene@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Tai Mui Jamie</p>
+<p>Mdm Ng Tai Mui Jamie (Teacher I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_tai_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_tai_mui@moe.edu.sg</a>
@@ -56,6 +47,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mariam_natchiar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mariam_natchiar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lucinda Toh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lucinda_toh_xin_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">lucinda_toh_xin_ying@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul Umairah Binte Mohamed Rafid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurul_umairah_mohamed_rafid@moe.edu.sg" rel="noopener nofollow" target="_blank">nurul_umairah_mohamed_rafid@moe.edu.sg</a>
 </p>
 </td>
 </tr>
