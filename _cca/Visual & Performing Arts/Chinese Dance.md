@@ -32,28 +32,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Yin Peng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yin_peng@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_yin_peng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Peng Chia Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:peng_chia_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">peng_chia_hui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Natalie Teng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teng_sing_kwan@moe.edu.sg" rel="noopener nofollow" target="_blank">teng_sing_kwan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Britney Ong Qi Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:britney_ong_qi_wen@moe.edu.sg" rel="noopener nofollow" target="_blank">britney_ong_qi_wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>

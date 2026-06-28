@@ -43,10 +43,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Khoo-Chew Liang Liang</p>
+<p>Ms Chu Yu Fang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khoo-chew_liang_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo-chew_liang_liang@moe.edu.sg</a>
+<p><a href="mailto:chu_yu_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_yu_fang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -56,6 +56,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:samuel_loh_chee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_loh_chee_yong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Gracia Chandra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gracia_chandra@moe.edu.sg" rel="noopener nofollow" target="_blank">gracia_chandra@moe.edu.sg</a>
 </p>
 </td>
 </tr>
