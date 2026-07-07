@@ -9,8 +9,7 @@ variant: markdown
 
 
 
-The School’s Dental Clinic will operate at least three days every alternate week schedules.
-For appointments, please contact the clinic directly at 8764 5068.
+Please be informed that the school dental clinic will be temporarily closed until the end of September 2026 due to the school's renovation works.
 
 In the event where the school’s dental clinic is closed, students with dental concerns can reach out to the designated buddy dental clinics at:
  
