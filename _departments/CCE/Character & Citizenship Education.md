@@ -16,7 +16,7 @@ third_nav_title: CCE
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCE commitment to every Xishanite" src="/images/Main_Page_picture_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CCE commitment" src="/images/Main_Page_picture_3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
