@@ -15,7 +15,6 @@ third_nav_title: CCE
 <img style="width: 100%" height="auto" width="100%" alt="2026 CCE Team" src="/images/Main_Page_picture_2.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CCE commitment to every Xishanite" src="/images/Main_Page_picture_3.jpg">
 </div>
