@@ -19,10 +19,10 @@ third_nav_title: CCE
 <img style="width: 100%" height="auto" width="100%" alt="CCE commitment" src="/images/Main_Page_picture_3.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCE Roadmap in Xishan" src="/images/Main_Page_4.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CCE Road Map" src="/images/cce_roadmap.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Key CCE Programmes" src="/images/Main_Page_5.jpg">
 </div>
