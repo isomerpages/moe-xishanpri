@@ -41,6 +41,40 @@ beyond.</p>
 </div>
 <p><em>Baby Bear’s Chair: Students used LEGO® bricks to design and build miniature furniture while developing </em><strong><em>organisation skills</em></strong><em> by managing their materials and keeping their workspace organised.</em>
 </p>
+<h2>Games &amp; Sports</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Games &amp; Sports" src="/images/pal_picture_5_edited.png">
+</div>
+<p><em>Curly Wurly: Students participated in a modified curling game while demonstrating </em><strong><em>sportsmanship</em></strong><em>, including respect, fair play and self-control.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Communication skills" src="/images/pal_picture_6_edited.png">
+</div>
+<p>S<em>hrinking Ships: Students worked together in a cooperative game while strengthening their </em><strong><em>communication skills</em></strong><em> through active listening, expressing ideas and encouraging their teammates.</em>
+</p>
+<h2>Outdoor Education</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Collaboration" src="/images/pal_Picture7_edited.jpg">
+</div>
+<p><em>Picnic Time: Students planned and carried out a class picnic while practising </em><strong><em>collaboration</em></strong><em> by sharing ideas, making decisions together and taking responsibility for group tasks.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teamwork" src="/images/pal_picture_8_edited.jpg">
+</div>
+<p><em>Sand Play: Students worked collaboratively to build sand sculptures while developing </em><strong><em>teamwork</em></strong><em> through cooperation, problem-solving and mutual support.</em>
+</p>
+<h2>Performing Arts</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Social awareness and self-management" src="/images/pal_Picture_9_edited.jpg">
+</div>
+<p><em>Malay Culture: Students learnt to play traditional Malay instruments while developing </em><strong><em>social awareness and self-management</em></strong><em> by understanding how their behaviour and actions affect others in an ensemble.</em>
+</p>
+<h2></h2>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
