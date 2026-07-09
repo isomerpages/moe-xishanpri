@@ -53,41 +53,46 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP update 1" src="/images/1_edited.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Tier1 - Engage" src="/images/6_llp.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LLP-IPW themes" src="/images/7_llp.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Primary 5" src="/images/8_llp.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Primary 6" src="/images/9_llp.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tier 3: Empower" src="/images/10_llp.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP update 2" src="/images/2_edited.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP update 3" src="/images/3_edited.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP update 4" src="/images/4_edited.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP update 5" src="/images/5_edited.jpg">
-</div>
 </td>
 </tr>
 </tbody>

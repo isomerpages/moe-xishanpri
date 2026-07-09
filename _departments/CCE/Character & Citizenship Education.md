@@ -12,20 +12,22 @@ third_nav_title: CCE
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Building Strong Bonds" src="/images/Main_Page_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2026 CCE Team" src="/images/Main_Page_picture_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our Commitment to Every Xishanite" src="/images/Main_Page_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CCE commitment" src="/images/Main_Page_picture_3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCE Roadmap in Xishan" src="/images/Main_Page_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CCE Road Map" src="/images/cce_roadmap.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Key CCE Programmes" src="/images/Main_Page_5.jpg">
 </div>
+<p></p>
+<p></p>
 <p></p>
 <p>
 <br>

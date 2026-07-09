@@ -5,46 +5,24 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Programmes for Active Learning (PAL)</strong></h1>
-<h3>Objectives of PAL</h3>
-<ol data-tight="true" class="tight">
-<li>
-<p>A curriculum for Primary 1 &amp; 2 students focusing on fun, hands-on
-non-academic activities to develop social-emotional skills (i.e. confidence,
-teamwork, values) and holistic growth, complementing core subjects with
-experiential learning for well-rounded development.</p>
-<p></p>
-</li>
-<li>
-<p>The teaching and practicing of self-management skills (SMS) are infused
-in the lessons across the 4 PAL domains (i.e. games and sports, outdoor
-education, visual art, performing arts).</p>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Learning how to organise their play" src="/images/learning_how.png">
+<img style="width: 100%" height="auto" width="100%" alt="Program For Active Learning (PAL)" src="/images/PAL_PICTURE_1.png">
 </div>
-<p>Learning how to organise their play area while making mini furnitures
-for Goldilocks and the three bears</p>
+<p>At Xishan Primary School, the Programme for Active Learning (PAL) goes
+beyond providing meaningful and enjoyable learning experiences. It serves
+as an intentional platform for developing students' Self-Management Skills
+(SMS), equipping them with the habits and dispositions needed for learning,
+relationships and everyday life.</p>
+<p>Across every PAL domain, teachers explicitly teach and reinforce key Self-Management
+Skills by embedding them into authentic, hands-on learning experiences.
+Through purposeful guidance, collaborative activities and reflection, students
+are given opportunities to practise these skills in meaningful contexts
+and apply them beyond the classroom.</p>
+<p>By intentionally integrating Self-Management Skills into every PAL experience,
+Xishan empowers students to become self-directed learners who demonstrate
+responsibility, resilience, respect and care for others. Through these
+rich learning experiences, we nurture confident, compassionate and future-ready
+learners who are equipped to learn, contribute and thrive in school and
+beyond.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="creating magazine cover" src="/images/creating_magazine_cover_png.jpg">
-</div>
-<p>Expressing joy through art—creating a magazine cover that reflects what
-makes them feel happy and confident.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="student paint gratitude" src="/images/student_paint_gratitude.png">
-</div>
-<p>Students paint gratitude pebbles, expressing thanks through art and reflection.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Through planning and enacting" src="/images/thru_planning_.png">
-</div>
-<p>Through planning and enacting a picnic, students develop cooperation,
-communication and decision-making skills.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Discovering new instrument" src="/images/discovering_new_instrument.png">
-</div>
-<p>Discovering new instruments while expressing feelings through performance.</p>
 <p></p>
