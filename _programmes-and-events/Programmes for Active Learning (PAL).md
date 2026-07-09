@@ -4,7 +4,7 @@ permalink: /programmes-n-events/programmes-for-active-learning-pal/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Programmes for Active Learning (PAL)</strong></h1>
+<h1><strong>Learning for Life through PAL: Building Self-Management Skills</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Program For Active Learning (PAL)" src="/images/PAL_PICTURE_1.png">
 </div>
@@ -24,5 +24,24 @@ responsibility, resilience, respect and care for others. Through these
 rich learning experiences, we nurture confident, compassionate and future-ready
 learners who are equipped to learn, contribute and thrive in school and
 beyond.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our PAL Focus" src="/images/pal_picture_2.png">
+</div>
+<h2>Visual Art</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Visual Art" src="/images/pal_picture_3_edited.jpg">
+</div>
+<p><em>Gratitude Pebble: Students explored the pointillism technique to create a gratitude pebble while practising </em><strong><em>active listening</em></strong><em> by following instructions and classroom expectations.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Baby Bear's Chair" src="/images/pal_picture_4_edited.jpg">
+</div>
+<p><em>Baby Bear’s Chair: Students used LEGO® bricks to design and build miniature furniture while developing </em><strong><em>organisation skills</em></strong><em> by managing their materials and keeping their workspace organised.</em>
+</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
