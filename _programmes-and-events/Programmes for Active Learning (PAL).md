@@ -43,15 +43,8 @@ beyond.</p>
 </p>
 <h2>Games &amp; Sports</h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sportsmanship" src="/images/pal_picture_5a_edited.png">
-</div>
 <p><em>Curly Wurly: Students participated in a modified curling game while demonstrating </em><strong><em>sportsmanship</em></strong><em>, including respect, fair play and self-control.</em>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Communication skills" src="/images/pal_picture_6a_edited.png">
-</div>
 <p>S<em>hrinking Ships: Students worked together in a cooperative game while strengthening their </em><strong><em>communication skills</em></strong><em> through active listening, expressing ideas and encouraging their teammates.</em>
 </p>
 <h2>Outdoor Education</h2>
