@@ -344,7 +344,7 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lau Hwee Jen</p>
+<p>Miss Lau Hwee Jen, Avery</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lau_hwee_jen@moe.edu.sg" rel="noopener nofollow" target="_blank">lau_hwee_jen@moe.edu.sg</a>
