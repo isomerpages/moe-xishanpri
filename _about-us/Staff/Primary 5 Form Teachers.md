@@ -110,9 +110,6 @@ third_nav_title: Staff
 <p><a href="mailto:yan_peiyun@moe.edu.sg" rel="noopener nofollow" target="_blank">yan_peiyun@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Mr Calvin Juan</p>
-<p><a href="mailto:juan_zhen_ting_calvin@moe.edu.sg" rel="noopener nofollow" target="_blank">juan_zhen_ting_calvin@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 </tbody>
