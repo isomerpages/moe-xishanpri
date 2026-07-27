@@ -81,6 +81,10 @@ third_nav_title: Staff
 <p><a href="mailto:ang_zi_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_zi_jie@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Mr Calvin Juan</p>
+<p><a href="juan_zhen_ting_calvin@moe.edu.sg" rel="noopener nofollow" target="_blank">juan_zhen_ting_calvin@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>

@@ -130,7 +130,8 @@ third_nav_title: Staff
 </p>
 <p></p>
 <p>Mr Nigel Tan</p>
-<p></p>
+<p><a href="nigel_tan_jun_jie@moe.edu.sg" rel="noopener nofollow" target="_blank">nigel_tan_jun_jie@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>

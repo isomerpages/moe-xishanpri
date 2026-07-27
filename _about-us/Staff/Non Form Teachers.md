@@ -172,36 +172,6 @@ variant: tiptap
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Hong Kai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hong_kai@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_hong_kai@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Shafiqah Bte Abdul Aziz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_shafiqah_abdul_aziz@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_shafiqah_abdul_aziz@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Husnita Bte Omar</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -344,7 +314,7 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lau Hwee Jen</p>
+<p>Miss Lau Hwee Jen, Avery</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lau_hwee_jen@moe.edu.sg" rel="noopener nofollow" target="_blank">lau_hwee_jen@moe.edu.sg</a>
