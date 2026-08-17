@@ -35,30 +35,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="165" width="165" alt="iconfinder_computer_1055084.png" src="/images/iconfinder_computer_1055084.png">
-</div>
-<p>
-<br>
-<br>To start, please go to the following website: <a href="http://vle.learning.moe.edu.sg/" rel="noopener noreferrer" target="_blank"><u>http://vle.learning.moe.edu.sg</u></a>
+<p>To start, please go to the following website: <a href="http://vle.learning.moe.edu.sg/" rel="noopener noreferrer" target="_blank"><u>http://vle.learning.moe.edu.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="165" width="165" alt="iconfinder_unlocked_1054943.png" src="/images/iconfinder_unlocked_1054943.png">
-</div>
-<p>
-<br>
-<br>Please ensure your computer system meets the requirement as in the <a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html" rel="noopener noreferrer" target="_blank"><u>Login Troubleshooting link</u></a> under
+<p>Please ensure your computer system meets the requirement as in the <a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html" rel="noopener noreferrer" target="_blank"><u>Login Troubleshooting link</u></a> under
 'Browser Issues' for details.</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="165" width="165" alt="iconfinder_compose_1055085.png" src="/images/iconfinder_compose_1055085.png">
-</div>
-<p>
-<br>
-<br>To view your assigned lessons, click on "<a href="/files/Access%20Assignments.pdf" rel="noopener noreferrer" target="_blank"><u>My Assignments</u></a>".</p>
+<p>To view your assigned lessons, click on "<a href="/files/Access%20Assignments.pdf" rel="noopener noreferrer" target="_blank"><u>My Assignments</u></a>".</p>
 </td>
 </tr>
 </tbody>
